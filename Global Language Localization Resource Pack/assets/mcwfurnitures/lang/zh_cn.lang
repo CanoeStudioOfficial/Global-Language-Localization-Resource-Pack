@@ -1,16 +1,13 @@
 itemGroup.macawfurniturestab=Macaw的家具
-
 item.oak_plate.name=橡木板
 item.spruce_plate.name=云杉木板
 item.birch_plate.name=白桦木板
 item.jungle_plate.name=丛林木板
 item.acacia_plate.name=金合欢木板
 item.dark_oak_plate.name=深色橡木板
-
 item.cabinet_door.name=橱柜门
 item.drawer.name=抽屉
 item.iron_handle.name=铁把手
-
 tile.box.name=橡木厨房橱柜
 tile.box_2.name=橡木厨房橱柜
 tile.pult_1.name=橡木抽屉台桌
@@ -74,7 +71,6 @@ tile.furniture_6.name=橡木橱柜衣柜
 tile.furniture_7.name=橡木高书架
 tile.furniture_8.name=橡木展示衣柜
 tile.furniture_9.name=橡木复合衣柜 
-
 tile.spruce_box.name=云杉木厨房橱柜
 tile.spruce_box_2.name=云杉木厨房橱柜
 tile.spruce_pult_1.name=云杉木抽屉台桌
@@ -138,7 +134,6 @@ tile.spruce_furniture_6.name=云杉木橱柜衣柜
 tile.spruce_furniture_7.name=云杉木高书架
 tile.spruce_furniture_8.name=云杉木展示衣柜
 tile.spruce_furniture_9.name=云杉木复合衣柜 
-
 tile.birch_box.name=白桦木厨房橱柜
 tile.birch_box_2.name=白桦木厨房橱柜
 tile.birch_pult_1.name=白桦木抽屉台桌
@@ -202,7 +197,6 @@ tile.birch_furniture_6.name=白桦木橱柜衣柜
 tile.birch_furniture_7.name=白桦木高书架
 tile.birch_furniture_8.name=白桦木展示衣柜
 tile.birch_furniture_9.name=白桦木复合衣柜 
-
 tile.jungle_box.name=丛林木厨房橱柜
 tile.jungle_box_2.name=丛林木厨房橱柜
 tile.jungle_pult_1.name=丛林木抽屉台桌
@@ -266,7 +260,6 @@ tile.jungle_furniture_6.name=丛林木橱柜衣柜
 tile.jungle_furniture_7.name=丛林木高书架
 tile.jungle_furniture_8.name=丛林木展示衣柜
 tile.jungle_furniture_9.name=丛林木复合衣柜 
-
 tile.acacia_box.name=金合欢木厨房橱柜
 tile.acacia_box_2.name=金合欢木厨房橱柜
 tile.acacia_pult_1.name=金合欢木抽屉台桌
@@ -330,7 +323,6 @@ tile.acacia_furniture_6.name=金合欢木橱柜衣柜
 tile.acacia_furniture_7.name=金合欢木高书架
 tile.acacia_furniture_8.name=金合欢木展示衣柜
 tile.acacia_furniture_9.name=金合欢木复合衣柜 
-
 tile.dark_oak_box.name=深色橡木厨房橱柜
 tile.dark_oak_box_2.name=深色橡木厨房橱柜
 tile.dark_oak_pult_1.name=深色橡木抽屉台桌

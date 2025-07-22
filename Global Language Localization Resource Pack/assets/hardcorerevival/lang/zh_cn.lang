@@ -1,14 +1,10 @@
-
 gui.hardcorerevival.knocked_out=你重伤倒地
 gui.hardcorerevival.die=接受命运
 gui.hardcorerevival.open_death_screen=按下 %s 打开死亡画面。
 gui.hardcorerevival.rescue_time_left=还剩 %d 可被援救
 gui.hardcorerevival.rescuing=正在援救 %s
-
 death.attack.not_rescued_in_time=%1$s 未能及时得到援救
-
 gui.hardcorerevival.send_ping=发送标记
-
 config.hardcorerevival.maxDeathTicks=最大濒死时长
 config.hardcorerevival.maxDeathTicks.tooltip=玩家可以处于濒死待救状态的时长，以刻计。20 刻为一秒。
 config.hardcorerevival.teamUpIntegration=TeamUp 集成兼容

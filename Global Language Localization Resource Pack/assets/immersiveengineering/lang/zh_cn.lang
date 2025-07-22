@@ -1,4 +1,3 @@
-# BLOCKS
 tile.immersiveengineering.ore.copper.name=铜矿石
 tile.immersiveengineering.ore.aluminum.name=铝土矿石
 tile.immersiveengineering.ore.lead.name=铅矿石
@@ -164,7 +163,7 @@ tile.immersiveengineering.metal_device0.capacitor_creative.name=创造电容器
 tile.immersiveengineering.metal_device0.barrel.name=金属桶
 tile.immersiveengineering.metal_device0.fluid_pump.name=液泵
 tile.immersiveengineering.metal_device0.fluid_placer.name=液阀
-tile.immersiveengineering.metal_device1.blast_furnace_preheater.name=高炉鼓风机
+tile.immersiveengineering.metal_device1.blast_furnace_preheater.name=高炉预热器
 tile.immersiveengineering.metal_device1.furnace_heater.name=外置加热器
 tile.immersiveengineering.metal_device1.dynamo.name=动能发电机
 tile.immersiveengineering.metal_device1.thermoelectric_gen.name=热传导发电机
@@ -216,7 +215,6 @@ tile.immersiveengineering.cloth_device.stripcurtain.name=带状帘
 tile.immersiveengineering.molten_uranium.name=熔融铀
 tile.immersiveengineering.molten_constantan.name=熔融康铜
 tile.immersiveengineering.arb_solid.name=任意实体方块
-#Hydraulicraft Support
 tile.harvesterTrolley.ieCrop.name=工业大麻收割车 
 tile.immersiveengineering.fluidCreosote.name=杂酚油
 tile.immersiveengineering.fluidPlantoil.name=植物油
@@ -229,7 +227,6 @@ fluid.ethanol=乙醇
 fluid.biodiesel=生物柴油
 fluid.concrete=液态混凝土
 fluid.potion=药水
-# ITEMS
 item.immersiveengineering.metal.ingot_copper.name=铜锭
 item.immersiveengineering.metal.ingot_aluminum.name=铝锭
 item.immersiveengineering.metal.ingot_lead.name=铅锭
@@ -404,15 +401,10 @@ item.immersiveengineering.steel_armor_chest.name=钢胸甲
 item.immersiveengineering.steel_armor_legs.name=钢护腿
 item.immersiveengineering.steel_armor_feet.name=钢靴子
 item.immersiveengineering.map_orevein.name=矿脉地图
-#CREATIVE
 itemGroup.immersiveengineering=沉浸工程
-#ENTITIES
 entity.immersiveengineering.skylineHook.name=天钩
 entity.immersiveengineering.explosive.name=爆炸物
 entity.immersiveengineering.fluorescentTube.name=荧光管
-#BANNERS
-#Whoever at Mojang came up with this formatting system needs to be slapped.
-#Colours and Types seperately would make this so much nicer >=c
 item.banner.immersiveengineering_hammer.black=黑色锤子
 item.banner.immersiveengineering_hammer.red=红色锤子
 item.banner.immersiveengineering_hammer.green=绿色锤子
@@ -541,8 +533,6 @@ item.banner.immersiveengineering_wolf.lightBlue=淡蓝色狼
 item.banner.immersiveengineering_wolf.magenta=品红色狼
 item.banner.immersiveengineering_wolf.orange=橙色狼
 item.banner.immersiveengineering_wolf.white=白色狼
-#COMPAT THINGS
-#TINKERS CONSTRUCT COMPAT
 fluid.uranium=熔融铀
 fluid.constantan=熔融康铜
 material.treatedwood.name=防腐木
@@ -550,13 +540,10 @@ material.constantan.name=康铜
 material.hemp.name=大麻纤维
 modifier.thermalinversion.name=热力反转
 modifier.thermalinversion.desc=§o冰与火！§r\n在热的环境中攻击会冻伤敌人；在冷的环境中攻击会灼伤敌人。
-#BOTANIA COMPAT
 item.immersiveengineering.bullet.terrasteel.name=叶绿弹
 ie.manual.entry.bullets_terrasteel=§l叶绿弹§r使用“特种子弹”蓝图和魔力金属“泰拉钢”制作，这让它们能够自动寻找并跟踪目标。
-#BLOODMAGIC COMPAT
 item.immersiveengineering.bullet.crystalwill.name=结晶意志弹
 ie.manual.entry.bullets_crystalwill=§l结晶意志弹§r使用“特种子弹”和恶魔意志晶体制作，其中的少量恶魔意志将会迫使子弹寻找附近的目标并给予无情的打击。
-#DESCRIPTIONS
 entity.Villager.immersiveengineering.engineer=结构工程师
 entity.Villager.immersiveengineering.machinist=机械师
 entity.Villager.immersiveengineering.electrician=电工
@@ -677,7 +664,7 @@ desc.immersiveengineering.info.bullet.flareColour=信号颜色：%1$s
 desc.immersiveengineering.info.shader.applyTo=可应用于：
 desc.immersiveengineering.info.shader.immersiveengineering:revolver=左轮手枪
 desc.immersiveengineering.info.shader.immersiveengineering:chemthrower=化学喷射器
-desc.immersiveengineering.info.shader.immersiveengineering:drill=岩心钻井
+desc.immersiveengineering.info.shader.immersiveengineering:drill=采矿机械钻
 desc.immersiveengineering.info.shader.immersiveengineering:railgun=磁轨炮
 desc.immersiveengineering.info.shader.immersiveengineering:shield=重型盾牌
 desc.immersiveengineering.info.shader.immersiveengineering:minecart=矿车
@@ -800,7 +787,6 @@ gui.immersiveengineering.config.assembler.clearRecipe=清除配方
 gui.immersiveengineering.config.assembler.recursiveIngredients=循环使用材料
 gui.immersiveengineering.config.assembler.nonRecursiveIngredients=不循环使用材料
 gui.immersiveengineering.config.arcfurnace.distribute=均分输入
-#CHAT
 chat.immersiveengineering.warning.wrongCable=你无法在此处连接线缆
 chat.immersiveengineering.warning.wrongDimension=你处在一个错误的世界中
 chat.immersiveengineering.warning.sameConnection=你不能将线缆接在同一个点上
@@ -848,7 +834,6 @@ chat.immersiveengineering.command.mineral.setDepletion.sucess=矿物开采量已
 chat.immersiveengineering.command.shaders.help=§6用法：/ie shaders <clear>§r
 chat.immersiveengineering.command.shaders.clear.help=§6用法：/ie shaders clear [player]§r<br> 给指定的玩家清除皮肤，如果没有指定玩家则清除自己的。
 chat.immersiveengineering.command.shaders.clear.sucess=皮肤'%1$s'已被清除
-#SUBTITLES
 subtitle.immersiveengineering.dieselGenerator=柴油发电机正在工作
 subtitle.immersiveengineering.crusher=粉碎机粉碎矿石
 subtitle.immersiveengineering.metalPressPiston=金属冲压机活塞伸缩
@@ -865,9 +850,7 @@ subtitle.immersiveengineering.railgunFire=磁轨炮发射
 subtitle.immersiveengineering.tesla=线圈有电流流过
 subtitle.immersiveengineering.direSwitch=Direwolf20正在模仿刀闸
 subtitle.immersiveengineering.skyhook=天钩沿线缆滑行
-#RECIPES
 recipe.immersiveengineering.hammerCrushing=粉碎
-#DEATH
 death.attack.ieRevolver_casull=%1$s被%2$s射杀
 death.attack.ieRevolver_casull.item=%1$s被%2$s使用的%3$s射杀
 death.attack.ieRevolver_casull.turret=%1$s被炮塔击中
@@ -900,7 +883,6 @@ death.attack.ieTesla=%1$s被特斯拉线圈烤成了焦炭
 death.attack.ieTeslaPrimary=%1$s触碰到了特斯拉线圈的主电缆
 death.attack.ieRailgun=%1$s被%2$s的磁轨炮刺穿了
 death.attack.ieWireShock=%1$s不小心触碰到未绝缘导线
-#ACHIEVEMENTS
 advancement.immersiveengineering:root=沉浸工程
 advancement.immersiveengineering:root.desc=请阅读下面的说明书！
 advancement.immersiveengineering:openManual=去读手册
@@ -958,7 +940,7 @@ advancement.immersiveengineering:mbExcavator.desc=搭建斗轮式挖掘机多方
 advancement.immersiveengineering:mbArcFurnace=最热话题
 advancement.immersiveengineering:mbArcFurnace.desc=搭建电弧炉多方块结构
 advancement.immersiveengineering:secret_birthdayParty=Grunt生日派对
-advancement.immersiveengineering:secret_birthdayParty.desc=擦亮火柴
+advancement.immersiveengineering:secret_birthdayParty.desc=擦亮火柴⋯⋯
 advancement.immersiveengineering:secret_luckOfTheDraw=抽奖的运气
 advancement.immersiveengineering:secret_luckOfTheDraw.desc=全有即全无
 advancement.immersiveengineering:secret_drillbreak=GIGA...DRILL...BREAKER!!!
@@ -971,13 +953,8 @@ immersiveengineering.potion.sticky=粘性
 immersiveengineering.potion.stunned=眩晕
 immersiveengineering.potion.concreteFeet=凝滞
 immersiveengineering.potion.flashed=闪光
-#MANUAL
 ie.manual.currentVersion=——当前
 ie.manual.newerVersion=——最新
-#ie.manual.entry..name=
-#ie.manual.entry..subtext=
-#ie.manual.entry.=
-
 ie.manual.category.update.name=最新动态！
 ie.manual.entry.updateNews_0.name=版本0.6.0更新内容
 ie.manual.entry.updateNews_0.subtext=Old, new; borrowed and Blu
@@ -1056,7 +1033,7 @@ ie.manual.entry.concrete.name=混凝土
 ie.manual.entry.concrete.subtext=要塞建材
 ie.manual.entry.concrete0=混凝土是一种极为坚硬，防御力极强的复合型材料。它的合成十分廉价，是<link;blastfurnace;§n§o高炉§r>所产生的矿渣的一种极佳用途。
 ie.manual.entry.balloon.name=气球
-ie.manual.entry.balloon.subtext=制作99个就对了
+ie.manual.entry.balloon.subtext=⋯⋯制作99个就对了
 ie.manual.entry.balloon0=气球其实就是一个麻布袋下面加一个加热装置让它们保持悬浮。它们同样会释放光亮，但不同于火把的是，它们并没有火灾隐患。<br>气球能够像其它方块一样放置，或者，当没有目标方块时，它们会被放置在你前方的空气方块中。
 ie.manual.entry.balloon1=同<link;metalconstruction;§o§n钢§o§n质§o§n接§o§n线§o§n器§r;5>类似，你可以将麻绳或钢线连接到上面。<br>潜行右击可以设置气球的放置高度差，允许你将其放置在目标方块上方最多5格高的地方。<br>已放置的气球也可被染料染色，你可以自由指向气球的某一部分并使用染料为其分别染色。<br>使用工程师锤右击气球来调整气球的条纹，可以是横向与纵向两种。
 ie.manual.entry.crate.name=木质储物箱
@@ -1135,16 +1112,16 @@ ie.manual.entry.blastfurnaceBlock=搭建一个高炉，你需要用这27个方�
 ie.manual.entry.blastfurnace1=粗制高炉无法自动化生产。所有输入输出必须通过手动打开GUI完成。如果你想要自动化冶炼钢铁，你可能需要查看<link;improvedBlastfurnace;§o§n强§o§n化§o§n高§o§n炉§r;>的相关搭建信息。
 ie.manual.entry.improvedBlastfurnace.name=强化高炉
 ie.manual.entry.improvedBlastfurnace.subtext=工业精炼
-ie.manual.entry.improvedBlastfurnace0=强化高炉是一种更专业的<link;blastfurnace;§o§n冶§o§n炼§o§n钢§o§n铁§r;>的方法。它不仅能够自动化输入输出，它同样可以通过配备鼓风机来添加灼热空气从而加快精炼的过程。<br>这种高炉是由强化高炉砖搭建，因此建议你将第一批钢材用于升级高炉。
+ie.manual.entry.improvedBlastfurnace0=强化高炉是一种更专业的<link;blastfurnace;§o§n冶§o§n炼§o§n钢§o§n铁§r;>的方法。它不仅能够自动化输入输出，它同样可以通过配备预热器来添加灼热空气从而加快精炼的过程。<br>这种高炉是由强化高炉砖搭建，因此建议你将第一批钢材用于升级高炉。
 ie.manual.entry.improvedBlastfurnace1=<br>强化高炉的结构同它的粗制版本相似，但是砖块被替换为了强化高炉砖并且上方需要一个漏斗作为输入端。
 ie.manual.entry.improvedBlastfurnace2=钢材会从高炉前面输出，矿渣会从后面输出，并且高炉会向连接的容器或传送带自动输出产物。铁和焦煤需要从上方输入。
-ie.manual.entry.improvedBlastfurnace3=高炉鼓风机被用于加热空气并将其鼓入高炉以加快铁的精炼过程。每个高炉可以最多在两侧各加装一个鼓风机，每个鼓风机需要<config;i;preheater_consumption>Flux/t来运作。
+ie.manual.entry.improvedBlastfurnace3=高炉预热器被用于加热空气并将其鼓入高炉以加快铁的精炼过程。每个高炉可以最多在两侧各加装一个预热器，每个预热器需要<config;i;preheater_consumption>Flux/t来运作。
 ie.manual.entry.metalconstruction.name=金属结构
 ie.manual.entry.metalconstruction.subtext=铆接
 ie.manual.entry.metalconstruction0=除了防腐木，加工过的金属也可用于建筑。你可以将绝大多数金属制成块或台阶，你还可以用锤子把铁锭敲成金属板方块。
 ie.manual.entry.metalconstruction1=钢不仅是高压设备不可或缺的一部分，还是非常有用的上好建筑材料，钢质脚手架可用于快速搭建建筑结构，钢围栏能让你建立防线抵御敌人，钢结构臂是你搭建高压继电器的接点。
 ie.manual.entry.metalconstruction2=结构性接线器的作用与普通接线器类似，但它们是纯装饰性物品，不能用于传输能量。<br>它们无法与普通线缆相连接，但能够与麻线圈或钢线圈连接（见下页）。<br>你可以手持工程师锤右击来旋转它们。
-ie.manual.entry.metalconstruction3=金属梯子好吧，你可以用金属材料制成它。它们攀爬起来更酷。<br>你也可以将它们与脚手架进行嵌套从而制作安全梯。
+ie.manual.entry.metalconstruction3=金属梯子⋯⋯好吧，你可以用金属材料制成它。它们攀爬起来更酷。<br>你也可以将它们与脚手架进行嵌套从而制作安全梯。
 ie.manual.entry.lighting.name=工程照明
 ie.manual.entry.lighting.subtext=照亮荒芜之地
 ie.manual.entry.lighting0=工厂长廊的深处可能会十分昏暗。为了能够找到通往机器的路，你可能需要用一些灯来照亮这些区域。这些灯能够提供等同于荧石块的亮度。
@@ -1331,13 +1308,12 @@ ie.manual.entry.shader0=皮肤是一些你能够在世界中找到或与村民�
 ie.manual.entry.shader1=<link;shaderList;§o§n点§o§n击§o§n这§o§n里§r>查看所有可用皮肤、它们的外形、引用以及更多信息的列表
 ie.manual.entry.shader2=皮肤奖励袋内含一种随机皮肤。可以在地牢箱子中找到，或者和村民交易以及怪物掉落。开出的皮肤稀有度和袋子本身相同或者更稀有。当使用一个袋子时，你得到未拥有的皮肤的概率要比已获取的高一些。
 ie.manual.entry.shader3=皮肤奖励袋可以制作成两个较低级别的袋子。这将降低你获得更稀有的皮肤的机会，但能为你提供更多的尝试。
-
 ie.manual.entry.shaderList.name=皮肤列表
 ie.manual.entry.shaderList.noInfo=你还没有解锁该皮肤！
 ie.manual.entry.shaderList.unlock=解锁该皮肤
 ie.manual.entry.shaderList.order=获得：
 ie.manual.entry.powerpack.name=电容背包
-ie.manual.entry.powerpack.subtext=难道是雷埃贡！
+ie.manual.entry.powerpack.subtext=难道是⋯⋯雷⋯⋯埃贡！
 ie.manual.entry.powerpack0=能量储存需要空间和一些重量级的组件。因此，在每个工具中分别存储大量的能量是不切实际的。<br>电容器背包可是算是一种妥协办法，为任何电力工具提供存储的能量。
 ie.manual.entry.powerpack1=背包对任何拿在主手或副手上的工具以及你佩戴的任何护甲进行充电。<br>电容器可以像一块胸甲一样穿在你的身上，或者你可以把它附在最常用的装甲上以同时获得供电和保护的好处。
 ie.manual.entry.railgun.name=磁轨炮
@@ -1366,7 +1342,6 @@ ie.manual.entry.crusher.name=粉碎机
 ie.manual.entry.crusher.subtext=管好你的手！
 ie.manual.entry.crusher0=粉碎矿物是提高产量的有效途径，因为每个矿物都可以加工得到两份可以烧制的矿粉。这台工业级粉碎机让这个过程变得更加方便。其加工速度取决于能源供应。
 ie.manual.entry.crusher1=通过给前端的控制面板输入红石信号将暂停粉碎机的处理过程。<br>右击正前面中心方块以完成建造过程。它的前面是底部有一个轻型工程块的宽面。
-
 ie.manual.entry.lightningrod.name=避雷针
 ie.manual.entry.lightningrod.subtext=雷击！
 ie.manual.entry.lightningrod0=闪电是一种自然现象。它包含了大量的原始力量，而避雷针能够驾驭这种力量。<br>通过在多方块结构上堆叠大量钢栅栏，你增加了在雨天或雷暴天气闪电击中它的概率。
@@ -1454,7 +1429,6 @@ ie.manual.entry.computer.mixer.name=混合器 ☎
 ie.manual.entry.computer.mixer.subtext=曲奇面团的大缸！
 ie.manual.entry.computer.mixer0=§lisActive（）§r：返回搅拌机当前是否在工作。<br>§lisValidRecipe（）§r：返回输入的任意物品和液体的组合是否存在一个有效的合成配方。<br>§lgetEnergyStored（）§r ：返回存储在本机中的能量数量。<br>§lgetMaxEnergyStored（）§r：返回此机器中可以存储的最大能量数量<br>§lgetInputStack（int slot）§r：返回 指定的输入槽（1-12）。
 ie.manual.entry.computer.mixer1=§lprogress§r和§lmaxProgress§r用于存储当前进度和在指定槽位上完成的进度（两个值在tick中）。<br>§lgetTank（）§r：返回底部流体储罐。
-#SHADER INFO
 desc.immersiveengineering.info.shader.details.rosequartz=第一个皮肤的历史！<br>没有确切的参考，虽然这个名字本身是受到“Inkheart”系列小说中的一个角色的启发
 desc.immersiveengineering.info.shader.details.argo=没有确切的参考，但风格以及颜色是出自视频游戏“命运”的灵感。
 desc.immersiveengineering.info.shader.details.sunstrike=没有确切的参考，但是名字以及颜色的灵感源于于电影《Destiny》中的Sunbreaker Titans。

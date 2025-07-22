@@ -1,4 +1,3 @@
-< Item Names
 item.simplycats.certificate_adopt.name=领养证明书
 item.simplycats.certificate_release.name=放归证明书
 item.simplycats.pet_carrier.empty.name=宠物笼（空）
@@ -9,8 +8,6 @@ item.simplycats.catnip.name=猫薄荷
 item.simplycats.crop_catnip.name=猫薄荷种子
 item.simplycats.laser_pointer.name=激光笔
 item.simplycats.sterilization_potion.name=绝育药水
-
-< Item Tooltips
 tooltip.cat_book.usage=对着猫咪潜行+右击打开图鉴。
 tooltip.certificate_adopt.desc=右击未驯服的宠物来领养他们。
 tooltip.certificate_release.desc=右击你拥有的宠物来放归他们。
@@ -19,8 +16,6 @@ tooltip.pet_carrier.adopt_cat=领养猫咪！
 tooltip.pet_carrier.adopt_dog=领养狗狗！
 tooltip.pet_carrier.owner=饲主：%s
 tooltip.sterilization_potion.usage=潜行+右击将猫咪绝育，请注意，绝育是不可逆的！
-
-< Block Names
 container.cat_bowl.name=猫碗
 tile.simplycats.cat_bowl_white.name=白色猫碗
 tile.simplycats.cat_bowl_orange.name=橙色猫碗
@@ -38,7 +33,6 @@ tile.simplycats.cat_bowl_brown.name=棕色猫碗
 tile.simplycats.cat_bowl_green.name=绿色猫碗
 tile.simplycats.cat_bowl_red.name=红色猫碗
 tile.simplycats.cat_bowl_black.name=黑色猫碗
-
 tile.simplycats.litter_box_white.name=白色猫砂盆
 tile.simplycats.litter_box_orange.name=橙色猫砂盆
 tile.simplycats.litter_box_magenta.name=品红色猫砂盆
@@ -55,21 +49,18 @@ tile.simplycats.litter_box_brown.name=棕色猫砂盆
 tile.simplycats.litter_box_green.name=绿色猫砂盆
 tile.simplycats.litter_box_red.name=红色猫砂盆
 tile.simplycats.litter_box_black.name=黑色猫砂盆
-
 tile.simplycats.scratching_post_oak.name=橡木猫抓板
 tile.simplycats.scratching_post_spruce.name=云杉木猫抓板
 tile.simplycats.scratching_post_birch.name=白桦木猫抓板
 tile.simplycats.scratching_post_jungle.name=丛林木猫抓板
 tile.simplycats.scratching_post_acacia.name=金合欢木猫抓板
 tile.simplycats.scratching_post_dark_oak.name=深色橡木猫抓板
-
 tile.simplycats.window_perch_oak.name=橡木窗栖
 tile.simplycats.window_perch_spruce.name=云杉木窗栖
 tile.simplycats.window_perch_birch.name=桦木窗栖
 tile.simplycats.window_perch_jungle.name=丛林木窗栖
 tile.simplycats.window_perch_acacia.name=金合欢木窗栖
 tile.simplycats.window_perch_dark_oak.name=深色橡木窗栖
-
 tile.simplycats.cat_tree_bed_white.name=白色猫床
 tile.simplycats.cat_tree_bed_orange.name=橙色猫床
 tile.simplycats.cat_tree_bed_magenta.name=品红色猫床
@@ -86,7 +77,6 @@ tile.simplycats.cat_tree_bed_brown.name=棕色猫床
 tile.simplycats.cat_tree_bed_green.name=绿色猫床
 tile.simplycats.cat_tree_bed_red.name=红色猫床
 tile.simplycats.cat_tree_bed_black.name=黑色猫床
-
 tile.simplycats.cat_tree_box_white.name=白猫木箱
 tile.simplycats.cat_tree_box_orange.name=橙猫木箱
 tile.simplycats.cat_tree_box_magenta.name=品红色猫木箱
@@ -103,7 +93,6 @@ tile.simplycats.cat_tree_box_brown.name=棕色猫木箱
 tile.simplycats.cat_tree_box_green.name=绿色猫木箱
 tile.simplycats.cat_tree_box_red.name=红色猫木箱
 tile.simplycats.cat_tree_box_black.name=黑色猫木箱
-
 tile.simplycats.cat_tree_post_white.name=白色猫树桩
 tile.simplycats.cat_tree_post_orange.name=橙色猫树桩
 tile.simplycats.cat_tree_post_magenta.name=品红色猫树桩
@@ -120,17 +109,11 @@ tile.simplycats.cat_tree_post_brown.name=棕色猫树桩
 tile.simplycats.cat_tree_post_green.name=绿色猫树桩
 tile.simplycats.cat_tree_post_red.name=红色猫树桩
 tile.simplycats.cat_tree_post_black.name=黑色猫树桩
-
-< Creative Tab Name
 itemGroup.simplycats.tab=简单的猫
-
-< Egg and Entity Names
 entity.simplycats.Cat.name=猫
 entity.simplycats.cat.unknown_owner=未知饲主
 entity.simplycats.cat.untamed=未驯服
 entity.Villager.kennel_worker=动物保护员
-
-< Book Data
 book.index_page.info=你好! 这是 Simply Cats 猫咪图鉴的索引页，试着对猫咪潜行+右键使用吧！
 book.genetics.eye_color=虹膜颜色：%s
 book.genetics.fur_length=毛发长度：%s
@@ -145,8 +128,6 @@ book.genetics.ticked=细纹斑：%s
 book.genetics.colorpoint=重点色：%s
 book.genetics.white=显性白基因：%s
 book.genetics.bobtail=短尾：%s
-
-< Cat Phenotypes
 cat.sex.female.name=雌性
 cat.sex.male.name=雄性
 cat.intact.name=未绝育
@@ -183,13 +164,9 @@ cat.point.sepia.name=深褐色重点色
 cat.white.solid_white.name=纯白
 cat.white.mostly_white.name=白色主色
 cat.white.some_white.name=加白
-
-< Command Usage
 command.cat_count.usage=/setcatcount <player> [数量]
 command.cat_count.success=设置驯服的猫咪数量 %s 只给 %s
 command.cat_count.return_count=%s 共有 %s 只驯服的猫咪
-
-< Config
 config.simplycats.title=Simply Cats 配置
 config.simplycats.join_message=欢迎信息
 config.simplycats.join_message.tooltip=启用或禁用欢迎信息。
@@ -213,8 +190,6 @@ config.simplycats.heat_cooldown=繁殖冷却
 config.simplycats.heat_cooldown.tooltip=猫咪处于繁殖冷却期的时间，默认为16个 Minecraft 日。
 config.simplycats.male_cooldown=雄猫冷却时间
 config.simplycats.male_cooldown.tooltip=公猫在繁殖一次后，开始下一次繁殖前的冷却时间，默认为1/4个 Minecraft 日。
-
-< Chat Messages
 chat.join.cat_count=你拥有 %d 只猫咪！
 chat.pet_carrier.empty=这个宠物箱是空的！
 chat.pet_carrier.full=这个宠物箱已经有猫了！
@@ -234,6 +209,4 @@ chat.info.adopt_usage=你已经成功领养了 %s！
 chat.info.release_usage=%s 已经放归了猫咪，说再见了吗？
 chat.info.remove_home=删除 %s 家的位置
 chat.info.set_home=%s 的新家被设定为 %d，%d，%d
-
-< Subtitles
 simplycats.subtitle.shake_treats=零食袋：摇动

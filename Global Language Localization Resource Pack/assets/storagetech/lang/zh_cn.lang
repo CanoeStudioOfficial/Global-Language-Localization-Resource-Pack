@@ -1,17 +1,13 @@
 item.customdisk.name=存储磁盘
 item.fluidcustomdisk.name=流体存储磁盘
 item.memory.name=内存
-
 tile.diskworkbench.name=磁盘工作台
 tile.fluiddiskworkbench.name=流体磁盘工作台
-
 itemGroup.storagetech=存储技术
-
 storagetech.jei.category.diskiwb=磁盘工作台
 storagetech.jei.category.diskiwbm=磁盘工作台
 storagetech.jei.category.diskfwb=流体磁盘工作台
 storagetech.jei.category.diskfwbm=流体磁盘工作台
-
 storagetech.gui.create=制作
 storagetech.gui.creation=产物
 storagetech.gui.availablespace=可用空间

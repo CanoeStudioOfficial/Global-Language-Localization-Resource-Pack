@@ -297,15 +297,12 @@ text.copyToClipboard.line2=你确定允许那么做吗？
 text.copyToClipboard.success=文字复制成功。
 cmd.gbook_snapshot.guide.done=重新加载完成
 jei.gui.resonator=每 %.1f 分钟。
-
-# Network stuff from packets
 arcanearchives.network.hive.successfully_added=你成功添加了一个奥术网络。
 arcanearchives.network.hive.successfully_removed_self=你成功被移除出奥术网络。
 arcanearchives.network.hive.successfully_remove_player=玩家被移除出奥术网络。
 arcanearchives.network.hive.failed_add=无法将你添加到奥术网络。
 arcanearchives.network.hive.failed_remove_self=无法将你移除出奥术网络。
 arcanearchives.network.hive.failed_remove_player=无法将玩家移除出奥术网络。
-# Network stuff for items
 arcanearchives.network.hive.joined=成功加入 %s的奥术网络！
 arcanearchives.network.hive.left=成功从你的奥术网络中离开！
 arcanearchives.network.hive.failed=加入奥术网络失败！
@@ -326,7 +323,7 @@ arcanearchives.message.usedtorecharge=%s%s 被用于再充能 %s
 arcanearchives.message.invalid_crystal_target=这个设备只能贴附在非奥术存储设备上。
 advancement.arcanearchives.amphora.desc=制作一个辉耀之瓶，从而方便地操作储罐中的流体。
 advancement.arcanearchives.brazier=神圣的火盆
-advancement.arcanearchives.brazier.desc=用火来快速整理你的物品？！
+advancement.arcanearchives.brazier.desc=用火⋯⋯来快速整理你的物品？！
 advancement.arcanearchives.chest=彩虹般的仓库
 advancement.arcanearchives.chest.desc=使用未加工的辉耀石英把无聊乏味的普通箱子变得更大更美。
 advancement.arcanearchives.containment_field=无法容纳
@@ -371,8 +368,5 @@ advancement.arcanearchives.crafting_table=以虹彩为台
 advancement.arcanearchives.crafting_table.desc=使用未加工的石英把无聊乏味的工作台变成更持久的东西。
 advancement.arcanearchives.monitoring_crystal=老大哥
 advancement.arcanearchives.monitoring_crystal.desc=制作一个全视水晶来追踪其它容器中的物品。
-
-# Configuration
-
 arcanearchives.config.manifest=奥术清单设置
 arcanearchives.config.manifest.tooltip=与清单的界面外观和功能相关的设置，包括追踪距离。

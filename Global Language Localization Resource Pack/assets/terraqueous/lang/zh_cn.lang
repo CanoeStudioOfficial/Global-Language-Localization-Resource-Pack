@@ -43,7 +43,7 @@ info.terraqueous.drying.source.msg=如何干燥：将高草，松散的草或者
 info.terraqueous.exp.txt=经验等级
 info.terraqueous.fusion.txt=通过末影能量熔炼
 info.terraqueous.growingfruit.txt=生长中的水果
-info.terraqueous.hammer.txt=§o只是个正常锤子
+info.terraqueous.hammer.txt=§o只是个正常锤子⋯⋯
 info.terraqueous.infuse.txt=用末影能量为其充能
 info.terraqueous.kickable.txt=可以踢的云
 info.terraqueous.missingblocks.txt=你的世界中缺少了建造这个设备的方块。
@@ -363,7 +363,6 @@ info.terraqueous.waterpearl.placement.txt=可放置
 info.terraqueous.waterpearl.bucket.txt=合成
 info.terraqueous.waterpearl.tank.txt=机器/储罐
 info.terraqueous.waterpearl.breath.txt=手持或者在快捷栏中可以组织损失呼吸氧气
-#！----------------------------------------------------- ITEMS ------------------------------------------------------！
 item.terraqueous.burnium_belt.name=燃金腰带
 item.terraqueous.itemmain.painting.cloud.name=云画
 item.terraqueous.itemmain.painting.earth.name=土画

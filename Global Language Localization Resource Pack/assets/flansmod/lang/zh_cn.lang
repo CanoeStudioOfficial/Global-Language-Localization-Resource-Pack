@@ -1,14 +1,3 @@
-# Apocalypse-Content Pack-1.12.2-5.5.1
-# Flan's Mod-1.12.2-5.5.1
-# Modern Warfare-Content Pack-1.12.2-5.5.2
-# Nerf-Content Pack-1.12.2-5.5.2
-# Nerf-Content Pack-1.12.2-5.5.2
-# Simple Parts-Content Pack-1.12.2-5.5.2
-# Titan-Content Pack-1.12.2-5.5.2
-# Titan-Content Pack-1.12.2-5.5.2
-# WW2-Content Pack-1.12.2-5.5.2
-# Ye Olde-Content Pack-1.12.2-5.5.2
-# Zombie-Content Pack-1.12.2-5.5.2
 entity.Survivor.name=幸存者
 item.10DiscClip.name=Nerf旋风飞盘10碟弹匣
 item.12DartEliteClip.name=Nerf精英软弹12发弹匣
@@ -655,3 +644,7 @@ tile.teamsSpawner.1.name=玩家重生点
 tile.teamsSpawner.2.name=载具重生点
 tile.ww2Armour.name=二战护甲箱
 tile.zombieBox.name=末日生存武器箱
+item.leather_glove.name=皮革手套
+item.iron_glove.name=铁手套
+item.gold_glove.name=金手套
+item.diamond_glove.name=钻石手套

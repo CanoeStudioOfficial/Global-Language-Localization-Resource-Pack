@@ -1,10 +1,5 @@
-#=============Creative Tab Name=============
 itemGroup.emt=电力魔法工具
-
-#=============Thaumonomicon Tab Name=============
 tc.research_category.EMT=电力魔法工具
-
-#=============GUI=============
 gui.EMT.config.title=电力魔法工具选项
 gui.EMT.etherealMacerator.title=天域加工机
 gui.EMT.wandRecharge.title=工业法杖充能站
@@ -12,9 +7,6 @@ gui.EMT.inventory=物品栏
 gui.EMT.book.aspect.output.eu.title=源质输出手册
 gui.EMT.book.aspect.output.essentia.eu=源质转换 EU 效率
 gui.EMT.key.unequip=卸下盔甲
-
-#=============Tooltips=============
-#This comes after a player name. The 's is depicting ownership.
 tooltip.EMT.hammer.broken.The Hammer of Thor=雷神之锤
 tooltip.EMT.hammer.electric=Greate Player 的雷神之锤。
 tooltip.EMT.hammer.broken.thor=它曾经是属于托尔的雷神之锤。
@@ -39,13 +31,9 @@ emt.aer_generator=发电机内源质耗尽！能量产出 - 15.000 EU，使用 �
 emt.auram_generator=发电机内源质耗尽！能量产出 - 66.000 EU，使用 §dAuram 源质。
 emt.ignis_generator=发电机内源质耗尽！能量产出 - 20.000 EU，使用 §cIgnis 源质。
 emt.pot_generator=发电机内源质耗尽！能量产出 - 36.000 EU，使用 §bPotential 源质。
-
-#=============Entity Names=============
 entity.EMT.laser.name=镭射器
 entity.EMT.archer.name=雪人守卫
 entity.EMT.shield.name=护盾
-
-#=============Item Names=============
 item.materials_oreclusteruranium.name=铀原矿簇
 item.materials_crushedoreamber.name=粉碎琥珀矿石
 item.materials_purifiedoreamber.name=纯净的粉碎琥珀矿石
@@ -95,10 +83,6 @@ item.diamondomnitool.name=钻石钻锯
 item.thaumiumomnitool.name=神秘钻锯
 item.streamchainsaw.name=奔雷电锯
 item.electrichoegrowth.name=电子句芒锄
-
-
-#=============Block Names=============
-
 tile.EMT.electricCloud.name=电子云
 tile.EMT.shield.name=护盾方块
 tile.EMT.portablenode.name=便携式节点
@@ -130,12 +114,9 @@ tile.solar_airtriplecompressed.name=风注魔三重压缩太阳能板
 tile.solar_earthcompressed.name=地注魔压缩太阳能板
 tile.solar_earthdoublecompressed.name=地注魔二重压缩太阳能板
 tile.solar_earthtriplecompressed.name=地注魔三重压缩太阳能板
-
-#=============Thaumonomicon Texts=============
 research_name.emt:emt=电力魔法工具&工业魔法
 research_stage.emt:emt.1=魔法和工业？有可能吗？
-research_stage.emt:emt.2=是的，它起作用了，所以我该研究什么？
-
+research_stage.emt:emt.2=是的，它起作用了，所以⋯⋯我该研究什么？
 research_name.emt:wings_b=展开羽翼
 research_stage.emt:wings_b.1=我制造了新式羽翼。
 research_stage.emt:wings_b.2=是的，我在写配方，制造羽翼！
@@ -145,26 +126,20 @@ research_stage.emt:wings.2=我在做新型羽翼。
 research_name.emt:armor=盔甲与你！
 research_stage.emt:armor.1=新型盔甲。
 research_stage.emt:armor.2=半成品页面！
-
 research_name.emt:generator=发电机和源质
 research_stage.emt:generator.1=也许我可以制造新机器？
-research_stage.emt:generator.2=是的，已经做完了
-
-
+research_stage.emt:generator.2=是的，已经做完了⋯⋯
 research_name.emt:generator_a=发电机和风
 research_stage.emt:ga.1=我继续用源质做实验！
 research_stage.emt:ga.2=是的，已经做完了。我可以用 Aer 源质发电。
-
 research_name.emt:generator_f=发电机和火
 research_stage.emt:gf.1=我继续用源质做实验！
 research_stage.emt:gf.2=是的，已经做完了。我可以用 Ignis 源质发电。
-
 research_name.emt:generator_aur=发电机和灵气
 research_stage.emt:gaur.1=我继续用源质做实验！
 research_stage.emt:gaur.2=是的，已经做完了。我可以用 Auram 源质发电。
-
 research_name.emt:uu=UU物质结晶
-research_stage.emt:uu.1=所以如果我
+research_stage.emt:uu.1=所以如果我⋯⋯
 research_stage.emt:uu.2=哇，我找到了UU物质的新配方。
 research_name.emt:uu_m=水晶UU
 research_stage.emt:uu_m.1=O.O？

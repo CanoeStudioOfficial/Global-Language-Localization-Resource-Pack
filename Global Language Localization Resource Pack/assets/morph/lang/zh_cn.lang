@@ -63,7 +63,7 @@ morph.config.prop.customMobToKillForFlight.comment=更改讨伐凋零条件至�
 morph.config.prop.customMobToKillForFlight.name=自定义获得飞行能力的需杀生物
 morph.config.prop.customPatchLink.comment=把模组重新定向到不同的JSON补丁地点，而不是在GitHub上的默认补丁。\n如果你要使用默认的，请留空。\n这也会影响nbt_modifiers.json。\n如果您的文件的链接是"https://raw.github.com/iChun/Morph/master/src/main/resources/assets/morph/mod/ability_support.json"，请放"https://raw.github.com/iChun/Morph/master/src/main/resources/assets/morph/mod/"，不能更改连接中一部分的名字（如：ability_support.json）。
 morph.config.prop.customPatchLink.name=自定义模组能力补丁链接
-morph.config.prop.disableEarlyGameFlight.comment=禁用飞行能力直到玩家\n0=启用早期游戏飞行\n1=抵达下界\n2=讨伐凋零
+morph.config.prop.disableEarlyGameFlight.comment=禁用飞行能力直到玩家⋯⋯\n0=启用早期游戏飞行\n1=⋯⋯抵达下界\n2=⋯⋯讨伐凋零
 morph.config.prop.disableEarlyGameFlight.name=禁用早期游戏飞行
 morph.config.prop.disableEarlyGameFlightMode.comment=禁用早期飞行模式\n0=全伺服调整\n1=玩家限定调整（每个玩家必须抵达下界/讨伐凋零方可获得飞行能力）
 morph.config.prop.disableEarlyGameFlightMode.name=禁用早期游戏飞行模式

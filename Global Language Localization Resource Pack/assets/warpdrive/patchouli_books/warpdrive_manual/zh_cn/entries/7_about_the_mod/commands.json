@@ -14,7 +14,7 @@
 		},
 		{
 			"type": "text",
-			"title": "直到无限\ue908\ue909",
+			"title": "直到无限⋯⋯",
 			"text": "$(item)/space (<玩家选择器>) (<目标维度>)$() 命令能将选中玩家送去目标维度。$(br2)默认情况下（未指定目标），玩家会从行星或超空间被送到太空，或者从太空送到最近的行星。$(br2)目标维度可以是维度 id 或者关键词，比如“overworld”、“nether”、“end”、“theend”、“space”、“hyper”、“hyperspace”或者“space”。"
 		},
 		{

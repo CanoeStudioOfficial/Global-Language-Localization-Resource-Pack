@@ -1,10 +1,3 @@
-#PARSE_ESCAPES
-
-#########
-# ITEMS #
-#########
-
-# Materials
 item.erebus.materials.plate_exo.name=外骨骼板
 item.erebus.materials.jade.name=玉
 item.erebus.materials.shard_bone.name=骨头碎片
@@ -76,8 +69,6 @@ item.erebus.materials.stag_beetle_mandibles.name=鹿角甲虫上颚
 item.erebus.materials.terpsishroom.name=白蚁菇
 item.erebus.materials.bamboo_pipe_wrench.name=竹制管道扳手
 item.erebus.materials.temple_rock.name=圣殿岩
-
-# Food
 item.erebus.erebus_food.beetle_larva_raw.name=甲虫幼虫
 item.erebus.erebus_food.beetle_larva_cooked.name=烤甲虫幼虫
 item.erebus.erebus_food.grasshopper_leg_raw.name=蚂蚱腿
@@ -98,8 +89,6 @@ item.erebus.erebus_food.titan_stew_cooked.name=提坦天牛煲
 item.erebus.erebus_food.prickly_pear_raw.name=生刺梨
 item.erebus.erebus_food.prickly_pear_cooked.name=烤熟的刺梨
 item.erebus.erebus_food.dark_fruit_pie.name=深色果实派
-
-# Smoothies
 item.erebus.smoothie.green_tea_grasshopper.name=蚂蚱绿茶冰沙
 item.erebus.smoothie.money_honey.name=金蜂蜜冰沙
 item.erebus.smoothie.nothing_in_the_middle.name=隐身冰沙
@@ -110,40 +99,32 @@ item.erebus.smoothie.hot_hot_baby.name=热辣宝贝冰沙
 item.erebus.smoothie.dont_meddle_with_the_nettle.name=勿触荨麻冰沙
 item.erebus.smoothie.liquid_gold.name=液体黄金冰沙
 item.erebus.smoothie.bryufs_brew.name=布鲁夫的酿造冰沙
-
-# Armour, Weapons and Tools
 item.erebus.bamboo_helmet.name=竹头盔
 item.erebus.bamboo_chestplate.name=竹胸甲
 item.erebus.bamboo_leggings.name=竹护腿
 item.erebus.bamboo_boots.name=竹靴子
-
 item.erebus.exoskeleton_helmet.name=外骨骼头盔
 item.erebus.exoskeleton_chestplate.name=外骨骼胸甲
 item.erebus.exoskeleton_leggings.name=外骨骼护腿
 item.erebus.exoskeleton_boots.name=外骨骼靴子
-
 item.erebus.rein_exoskeleton_helmet.name=强化外骨骼头盔
 item.erebus.rein_exoskeleton_chestplate.name=强化外骨骼胸甲
 item.erebus.rein_exoskeleton_leggings.name=强化外骨骼护腿
 item.erebus.rein_exoskeleton_boots.name=强化外骨骼靴子
-
 item.erebus.rhino_exoskeleton_helmet.name=独角仙外骨骼头盔
 item.erebus.rhino_exoskeleton_chestplate.name=独角仙外骨骼胸甲
 item.erebus.rhino_exoskeleton_leggings.name=独角仙外骨骼护腿
 item.erebus.rhino_exoskeleton_boots.name=独角仙外骨骼靴子
-
 item.erebus.jade_helmet.name=玉头盔
 item.erebus.jade_chestplate.name=玉胸甲
 item.erebus.jade_leggings.name=玉护腿
 item.erebus.jade_boots.name=玉靴子
-
 item.erebus.jade_sword.name=玉剑
 item.erebus.jade_pickaxe.name=玉镐
 item.erebus.jade_axe.name=玉斧
 item.erebus.jade_shovel.name=玉锹
 item.erebus.jade_paxel.name=玉镐尖斧
 item.erebus.jade_hoe.name=玉锄
-
 item.erebus.compound_goggles.name=复眼护目镜
 item.erebus.rein_compound_goggles.name=强化复眼护目镜
 item.erebus.jump_boots.name=跳跃靴子
@@ -158,15 +139,11 @@ item.erebus.war_hammer.name=撼地重锤
 item.erebus.web_slinger.name=蛛网弹弓
 item.erebus.web_slinger_wither.name=凋零蛛网弹弓
 item.erebus.max_speed_bow.name=疾速弓
-
-# Shields
 item.erebus.bamboo_shield.name=竹盾牌
 item.erebus.exoskeleton_shield.name=外骨骼盾牌
 item.erebus.jade_shield.name=玉盾牌
 item.erebus.rein_exoskeleton_shield.name=强化外骨骼盾牌
 item.erebus.rhino_exoskeleton_shield.name=独角仙外骨骼盾牌
-
-# Misc
 item.erebus.wand_of_animation.name=活化权杖
 item.erebus.wand_of_preservation.name=封存权杖
 item.erebus.portal_activator.name=盖亚权杖
@@ -189,21 +166,16 @@ item.erebus.compost.name=堆肥
 item.erebus.planticide.name=除草剂
 item.erebus.smoothie_book.name=数控冰沙制造机 2000 型
 item.erebus.horn_of_summoning.name=蜜蜂集结号角
-
 item.erebus.idols.idol_mud.name=泥圣甲虫神像
 item.erebus.idols.idol_iron.name=铁圣甲虫神像
 item.erebus.idols.idol_gold.name=金圣甲虫神像
 item.erebus.idols.idol_jade.name=玉圣甲虫神像
-
 item.erebus.idols.idol_mud_umbergolem.name=生成 泥制棕石傀儡
 item.erebus.idols.idol_iron_umbergolem.name=生成 铁制棕石傀儡
 item.erebus.idols.idol_gold_umbergolem.name=生成 金制棕石傀儡
 item.erebus.idols.idol_jade_umbergolem.name=生成 玉制棕石傀儡
-
 item.erebus.erebus_map.name=空的纸莎草纸地图（N.Y.I）
 item.erebus.erebus_map_filled.name=纸莎草纸地图（N.Y.I）
-
-# Plants
 item.erebus.turnip.name=芜菁
 item.erebus.cabbage_seeds.name=卷心菜种子
 item.erebus.mandrake_root.name=曼德拉草根
@@ -222,17 +194,10 @@ item.erebus.flower_seed_magenta.name=品红色花种
 item.erebus.flower_seed_orange.name=橙色花种
 item.erebus.flower_seed_white.name=白色花种
 item.erebus.flower_seed_rainbow.name=彩虹花种
-
 item.erebus.life_blood.name=生命之血
 item.erebus.heart_berries.name=心莓
 item.erebus.stag_heart_raw.name=鹿角甲虫心脏
 item.erebus.stag_heart_cooked.name=烤鹿角甲虫心脏
-
-##########
-# BLOCKS #
-##########
-
-# Umberstone
 tile.erebus.umberstone.umberstone.name=棕石
 tile.erebus.umberstone.umbercobble.name=棕圆石
 tile.erebus.umberstone.umbercobble_mossy.name=棕苔石
@@ -258,8 +223,6 @@ tile.erebus.petrified_bark_red.name=石化树皮红
 tile.erebus.petrified_bark_brown.name=石化树皮棕
 tile.erebus.petrified_log_inner.name=石化心形岩
 tile.erebus.dung.name=粪便
-
-# Amber
 tile.erebus.amber.name=琥珀
 tile.erebus.amber_bricks.name=琥珀砖
 tile.erebus.amber_glass.name=琥珀玻璃
@@ -268,8 +231,6 @@ tile.erebus.preserved_block.amber_glass.name=琥珀封存方块
 tile.erebus.glowing_jar.name=荧光罐
 tile.erebus.fluid_jar.name=流体罐
 tile.erebus.door_amber.name=琥珀门
-
-# Ores
 tile.erebus.ore_iron.name=铁矿石
 tile.erebus.ore_gold.name=金矿石
 tile.erebus.ore_diamond.name=钻石矿石
@@ -289,8 +250,6 @@ tile.erebus.ore_gneiss.name=片麻岩矿石
 tile.erebus.ore_petrified_wood.name=石化木矿石
 tile.erebus.ore_temple.name=圣殿石矿石
 tile.erebus.ore_petrified_quartz.name=石化石英矿石
-
-# Logs
 tile.erebus.log_baobab.name=猴面包树原木
 tile.erebus.log_eucalyptus.name=桉树原木
 tile.erebus.log_mahogany.name=桃花心木原木
@@ -304,8 +263,6 @@ tile.erebus.log_marshwood.name=沼泽木原木
 tile.erebus.log_scorched.name=焦皮枯木
 tile.erebus.log_bamboo.name=巨型竹
 tile.erebus.hollow_log.name=空心金合欢原木
-
-# Saplings
 tile.erebus.sapling_mossbark.name=苔皮树树苗
 tile.erebus.sapling_asper.name=糙木树苗
 tile.erebus.sapling_eucalyptus.name=桉树树苗
@@ -315,8 +272,6 @@ tile.erebus.sapling_baobab.name=猴面包树树苗
 tile.erebus.sapling_marshwood.name=沼泽木树苗
 tile.erebus.sapling_cypress.name=柏树树苗
 tile.erebus.sapling_bamboo.name=巨型竹笋
-
-# Leaves
 tile.erebus.leaves_mossbark.name=苔皮树树叶
 tile.erebus.leaves_asper.name=糙木树叶
 tile.erebus.leaves_eucalyptus.name=桉树树叶
@@ -325,8 +280,6 @@ tile.erebus.leaves_balsam.name=香脂树树叶
 tile.erebus.leaves_baobab.name=猴面包树树叶
 tile.erebus.leaves_marshwood.name=沼泽木树叶
 tile.erebus.leaves_cypress.name=柏树树叶
-
-# Planks
 tile.erebus.planks_baobab.name=猴面包树木板
 tile.erebus.planks_eucalyptus.name=桉树木板
 tile.erebus.planks_mahogany.name=桃花心木木板
@@ -341,8 +294,6 @@ tile.erebus.planks_marshwood.name=沼泽木木板
 tile.erebus.planks_scorched.name=焦皮木板
 tile.erebus.planks_varnished.name=漆包木板
 tile.erebus.planks_petrified_wood.name=石化木木板
-
-# Slabs Plank 
 tile.erebus.slab_planks_baobab.name=猴面包树台阶
 tile.erebus.slab_planks_eucalyptus.name=桉树台阶
 tile.erebus.slab_planks_mahogany.name=桃花心木台阶
@@ -357,8 +308,6 @@ tile.erebus.slab_planks_marshwood.name=沼泽木台阶
 tile.erebus.slab_planks_scorched.name=焦皮木台阶
 tile.erebus.slab_planks_varnished.name=漆包木台阶
 tile.erebus.slab_planks_petrified_wood.name=石化木台阶
-
-# Slabs Stone
 tile.erebus.slab_umberstone.name=棕石台阶
 tile.erebus.slab_umbercobble.name=棕圆石台阶
 tile.erebus.slab_umbercobble_mossy.name=棕苔石台阶
@@ -373,8 +322,6 @@ tile.erebus.slab_amber.name=琥珀台阶
 tile.erebus.slab_amber_bricks.name=琥珀砖台阶
 tile.erebus.slab_mud_bricks.name=泥砖台阶
 tile.erebus.slab_mir_bricks.name=米尔砖台阶
-
-# Stairs Wood
 tile.erebus.stairs_baobab.name=猴面包树楼梯
 tile.erebus.stairs_eucalyptus.name=桉树楼梯
 tile.erebus.stairs_mahogany.name=桃花心木楼梯
@@ -389,8 +336,6 @@ tile.erebus.stairs_marshwood.name=沼泽木楼梯
 tile.erebus.stairs_scorched.name=焦皮木楼梯
 tile.erebus.stairs_varnished.name=漆包木楼梯
 tile.erebus.stairs_petrified_wood.name=石化木楼梯
-
-# Stairs Stone
 tile.erebus.stairs_umberstone.name=棕石楼梯
 tile.erebus.stairs_umbercobble.name=棕圆石楼梯
 tile.erebus.stairs_umbercobble_mossy.name=棕苔石楼梯
@@ -405,8 +350,6 @@ tile.erebus.stairs_amber.name=琥珀楼梯
 tile.erebus.stairs_amber_bricks.name=琥珀砖楼梯
 tile.erebus.stairs_mud_bricks.name=泥砖楼梯
 tile.erebus.stairs_mir_bricks.name=米尔砖楼梯
-
-# Doors
 tile.erebus.door_baobab.name=猴面包树门
 tile.erebus.door_eucalyptus.name=桉树门
 tile.erebus.door_mahogany.name=桃花心木门
@@ -417,8 +360,6 @@ tile.erebus.door_rotten.name=腐木门
 tile.erebus.door_marshwood.name=沼泽木门
 tile.erebus.door_scorched.name=焦皮木门
 tile.erebus.door_petrified_wood.name=石化木门
-
-# Fences
 tile.erebus.fence_baobab.name=猴面包树栅栏
 tile.erebus.fence_eucalyptus.name=桉树栅栏
 tile.erebus.fence_mahogany.name=桃花心木栅栏
@@ -432,8 +373,6 @@ tile.erebus.fence_rotten.name=腐木栅栏
 tile.erebus.fence_marshwood.name=沼泽木栅栏
 tile.erebus.fence_scorched.name=焦皮木栅栏
 tile.erebus.fence_varnished.name=漆包木栅栏
-
-# Fence Gates
 tile.erebus.fence_gate_baobab.name=猴面包树栅栏门
 tile.erebus.fence_gate_eucalyptus.name=桉树栅栏门
 tile.erebus.fence_gate_mahogany.name=桃花心木栅栏门
@@ -447,8 +386,6 @@ tile.erebus.fence_gate_rotten.name=腐木栅栏门
 tile.erebus.fence_gate_marshwood.name=沼泽木栅栏门
 tile.erebus.fence_gate_scorched.name=焦皮木栅栏门
 tile.erebus.fence_gate_varnished.name=漆包木栅栏门
-
-# Walls
 tile.erebus.wall_umberstone.name=棕石墙
 tile.erebus.wall_umbercobble.name=棕圆石墙
 tile.erebus.wall_umbercobble_mossy.name=棕苔石墙
@@ -461,8 +398,6 @@ tile.erebus.wall_amber_bricks.name=琥珀砖墙
 tile.erebus.wall_umberpaver.name=铺路棕石墙
 tile.erebus.wall_umberpaver_mossy.name=铺路棕苔石墙
 tile.erebus.wall_umberpaver_webbed.name=蛛网覆盖的铺路棕石墙
-
-# Plants
 tile.erebus.crop_turnip.name=芜菁
 tile.erebus.crop_cabbage.name=卷心菜
 tile.erebus.crop_mandrake.name=曼德拉草
@@ -498,8 +433,6 @@ tile.erebus.algae.name=沼泽藻
 tile.erebus.glowshroom.name=荧光菇
 tile.erebus.glowshroom_stalk_main.name=荧光菇柄
 tile.erebus.hanging_web.name=悬挂的网
-
-# Flowers
 tile.erebus.giant_flower.petal_black.name=黑色花瓣块
 tile.erebus.giant_flower.petal_red.name=红色花瓣块
 tile.erebus.giant_flower.petal_brown.name=棕色花瓣块
@@ -547,8 +480,6 @@ tile.erebus.planted_flower.flower_orange.name=橙色花
 tile.erebus.planted_flower.flower_white.name=白色花
 tile.erebus.planted_flower.flower_rainbow.name=七彩花
 tile.erebus.giant_lily_pad.name=巨型莲叶
-
-# Flowers Double height
 tile.erebus.double_plant.bullrush.name=香蒲
 tile.erebus.double_plant.weeping_bluebell.name=哭泣的蓝铃草
 tile.erebus.double_plant.sundew.name=茅膏菜
@@ -557,8 +488,6 @@ tile.erebus.double_plant.tall_bloom.name=高大花朵
 tile.erebus.double_plant.tangled_stalk_mushroom.name=缠绕茎菇
 tile.erebus.double_plant.high_capped_mushroom.name=高顶蘑菇
 tile.erebus.double_plant.tall_fern.name=高蕨
-
-# Other
 tile.erebus.portal.name=混沌之地传送门
 tile.erebus.gaean_keystone.name=盖亚楔石
 tile.erebus.jade_block.name=玉块
@@ -594,8 +523,6 @@ tile.erebus.honey_treat.name=蜂蜜大餐
 tile.erebus.wasp_nest.name=黄蜂巢穴
 tile.erebus.stairs_wasp_nest.name=黄蜂巢穴楼梯
 tile.erebus.insect_repellent.name=驱虫方块
-
-# Spawners
 tile.erebus.antlion_spawner.name=蚁狮刷怪箱
 tile.erebus.dragon_fly_spawner.name=蜻蜓刷怪箱
 tile.erebus.jumping_spider_spawner.name=跳蛛刷怪箱
@@ -608,8 +535,6 @@ tile.erebus.magma_crawler_spawner.name=岩浆爬虫刷怪箱
 tile.erebus.dung_spawner_bot_fly.name=肤蝇刷怪箱
 tile.erebus.dung_spawner_fly.name=苍蝇刷怪箱
 tile.erebus.locust_spawner.name=蝗虫刷怪箱
-
-# Utility Blocks
 tile.erebus.petrified_crafting_table.name=石化工作台
 tile.erebus.petrified_wood_chest.name=石化木箱子
 tile.erebus.bamboo_crate.name=竹条箱
@@ -645,15 +570,12 @@ tile.erebus.glow_gem_active.name=荧光宝石
 tile.erebus.glow_gem_inactive.name=荧光宝石
 tile.erebus.mucus_bomb.name=黏液炸弹
 tile.erebus.umber_golem_statue.name=棕石傀儡雕像
-
 tile.erebus.altar_base.name=祭坛基座
 tile.erebus.altar_lightning.name=雷电祭坛
 tile.erebus.altar_healing.name=治愈祭坛
 tile.erebus.altar_xp.name=经验祭坛
 tile.erebus.altar_repair.name=修复祭坛
 tile.erebus.altar_offering.name=奉献祭坛
-
-# Antlion Dungeon
 tile.erebus.capstone.capstone.name=拱顶石
 tile.erebus.capstone.capstone_mud.name=泥拱顶石
 tile.erebus.capstone.capstone_iron.name=铁拱顶石
@@ -663,20 +585,17 @@ tile.erebus.capstone.capstone_mud_active.name=激活的泥拱顶石
 tile.erebus.capstone.capstone_iron_active.name=激活的铁拱顶石
 tile.erebus.capstone.capstone_gold_active.name=激活的金拱顶石
 tile.erebus.capstone.capstone_jade_active.name=激活的玉拱顶石
-
 tile.erebus.temple_brick_unbreaking.temple_brick.name=圣殿砖
 tile.erebus.temple_brick_unbreaking.temple_brick_jade.name=孔位：玉
 tile.erebus.temple_brick_unbreaking.temple_brick_exo.name=孔位：外骨骼
 tile.erebus.temple_brick_unbreaking.temple_brick_cream.name=孔位：岩浆膏
 tile.erebus.temple_brick_unbreaking.temple_brick_eye.name=孔位：岩浆爬虫之眼
 tile.erebus.temple_brick_unbreaking.temple_brick_string.name=孔位：线
-
 tile.erebus.temple_brick_unbreaking.temple_brick_jade_active.name=激活的孔位：玉
 tile.erebus.temple_brick_unbreaking.temple_brick_exo_active.name=激活的孔位：外骨骼
 tile.erebus.temple_brick_unbreaking.temple_brick_cream_active.name=激活的孔位：岩浆膏
 tile.erebus.temple_brick_unbreaking.temple_brick_eye_active.name=激活的孔位：岩浆爬虫之眼
 tile.erebus.temple_brick_unbreaking.temple_brick_string_active.name=激活的孔位：线
-
 tile.erebus.temple_teleporter.temple_teleport_0.name=圣殿传送门
 tile.erebus.temple_teleporter.temple_teleport_1.name=圣殿传送门
 tile.erebus.temple_teleporter.temple_teleport_2.name=圣殿传送门
@@ -689,13 +608,7 @@ tile.erebus.temple_teleporter.temple_teleport_se.name=圣殿传送门
 tile.erebus.temple_teleporter.temple_teleport_sw.name=圣殿传送门
 tile.erebus.force_field.name=力场
 tile.erebus.force_lock.name=力锁（N.Y.I.）
-
 tile.erebus.ant_hill_block.name=蚁丘（N.Y.I.）
-
-##############
-# Containers #
-##############
-
 container.bambooCrate=竹条箱
 container.colossalCrate=竹条箱
 container.umberFurnace=棕石熔炉
@@ -707,11 +620,6 @@ container.composter=有机物发酵器
 container.silo=筒罐位置
 container.animatedChest=箱子精
 container.animatedBambooCrate=竹条箱精
-
-############
-# Entities #
-############
-
 entity.erebus.beetle_larva.name=甲虫幼虫
 entity.erebus.wasp.name=黄蜂
 entity.erebus.centipede.name=蜈蚣
@@ -774,33 +682,17 @@ entity.erebus.bed_bug.name=床臭虫
 entity.erebus.stag_beetle.name=鹿角甲虫
 entity.erebus.gas_vent.name=沼气火焰
 entity.erebus.umber_golem.name=棕石傀儡
-
-##########
-# Fluids #
-##########
-
 tile.erebus.formic_acid.name=蚁酸
 tile.erebus.honey.name=蜂蜜
-
 fluid.honey=蜂蜜
 fluid.beetle_juice=甲虫汁液
 fluid.anti_venom=抗毒药
 fluid.milk=牛奶
 fluid.formic_acid=蚁酸
-
-#################
-# CREATIVE TABS #
-#################
-
 itemGroup.erebus.items=混沌之地丨物品
 itemGroup.erebus.blocks=混沌之地丨方块
 itemGroup.erebus.gear=混沌之地丨装备
 itemGroup.erebus.plants=混沌之地丨植物
-
-############
-# Tooltips #
-############
-
 tooltip.erebus.dimension=维度：%s
 tooltip.erebus.targetx=目标 X：%s
 tooltip.erebus.targety=目标 Y：%s
@@ -855,11 +747,6 @@ tooltip.erebus.spraycan=在方块的顶部使用，以驱赶那些讨厌的小�
 tooltip.erebus.wandofpreservation=发射琥珀之星以捕获生物。使用精准采集可获得对应方块；直接破坏可释放对应的怪物。
 tooltip.erebus.webslinger=可以发射你背包里的蜘蛛网。
 tooltip.erebus.force_key=N.Y.I.
-
-##########
-# Others #
-##########
-
 erebus.smoothie.effect.milk=清除一切效果
 erebus.smoothie.effect.extinguish=灭火
 erebus.smoothie.effect.set_fire=引火
@@ -868,11 +755,6 @@ key.erebus.glide=滑行
 key.erebus.poweredglide=滑翔升起
 key.erebus.beetleram=甲虫撞击
 key.erebus.beetlemine=鹿角甲虫挖掘
-
-#################
-# Smoothie Book #
-#################
-
 erebus.book.smoothie.0=§0感谢您使用全新的混沌之地公司数控冰沙制造机 2000 型。\n在接下来的内容中你将会发现一些十分好吃的冰沙的配方。\n\n每个配方都需要不同的液体底料。GUI 中显示的流体条分别对应蜂蜜、甲虫汁液、抗毒药和牛奶。
 erebus.book.smoothie.1=§0手持装有液体的桶右击冰沙制造机即可将流体灌进去。\n\nGUI 最上方的四格格子是配料格，而最下面的格子则是放冰沙杯的。
 erebus.book.smoothie.2=§9蚂蚱绿茶冰沙\n\n§0蚂蚱腿 x2\n弹性纤维\n蝇翅\n\n§d甲虫汁液\n\n§4效果：\n跳跃
@@ -890,22 +772,14 @@ erebus.book.smoothie.13=§9闪光的西瓜汽水\n\n§0闪烁的西瓜\n\n§d水
 erebus.book.smoothie.14=§9竹抗毒药桶\n\n§0竹桶\n§0荨麻叶 x2\n§0毒腺 x2\n\n§d甲虫汁液\n\n§4效果：\n免疫中毒
 erebus.book.smoothie.15=§9抗毒药瓶\n\n§0玻璃瓶\n§0荨麻叶\n§0毒腺\n\n§d甲虫汁液\n\n§4效果：\n免疫中毒
 erebus.book.smoothie.16=§9抗毒药桶\n\n§0桶\n§0荨麻叶 x2\n§0毒腺 x2\n\n§d甲虫汁液\n\n§4效果：\n填满桶
-
-################
-# Advancements #
-################
-
-# Exploration
 advancement.erebus.exploration.root=混沌之地
 advancement.erebus.exploration.root.desc=去一个失落已久、被庞大的节肢动物占领的世界：混沌之地。
-
 advancement.erebus.exploration.arborist=痴迷的树木学家
 advancement.erebus.exploration.arborist.desc=采集混沌之地内所有不同的树苗。
 advancement.erebus.exploration.traveller=真正的旅行者永无终点
 advancement.erebus.exploration.traveller.desc=探索混沌之地的所有生物群系。
 advancement.erebus.exploration.quicksand=让它沉入水中
 advancement.erebus.exploration.quicksand.desc=让自己陷入流沙之中。
-
 advancement.erebus.exploration.smoothie_all=冰沙爱好者
 advancement.erebus.exploration.smoothie_all.desc=酿造所有 10 种冰沙。
 advancement.erebus.exploration.smoothiebook=菜单
@@ -914,63 +788,50 @@ advancement.erebus.exploration.smoothiemaker=为了酒鬼们
 advancement.erebus.exploration.smoothiemaker.desc=制作混沌之地公司数控冰沙制造机 2000 型，保留所有权利。
 advancement.erebus.exploration.antivenom=赶紧张嘴
 advancement.erebus.exploration.antivenom.desc=在冰沙制造机里酿造一些抗毒药。
-
 advancement.erebus.exploration.jade_ore=这是什么样的绿色？
 advancement.erebus.exploration.jade_ore.desc=获得玉。
 advancement.erebus.exploration.jade_set=极度厌倦
 advancement.erebus.exploration.jade_set.desc=获得所有四件玉盔甲套装和玉镐尖斧。
-
 advancement.erebus.exploration.petrified_chest=我喜欢大箱子
 advancement.erebus.exploration.petrified_chest.desc=制作一个石化木箱子，一个昂贵但空间更大的箱子。
 advancement.erebus.exploration.petrified_wood=非常坚硬的木头
 advancement.erebus.exploration.petrified_wood.desc=获得石化木。
-
 advancement.erebus.exploration.entomology=富于侵略性的昆虫学
 advancement.erebus.exploration.entomology.desc=杀死一个混沌之地的生物。
 advancement.erebus.exploration.kill_all=害虫防治
 advancement.erebus.exploration.kill_all.desc=杀死每一种混沌之地的生物。
-
 advancement.erebus.exploration.find_beetles=遇见甲虫！
 advancement.erebus.exploration.find_beetles.desc=与任何甲虫或其幼虫有点不友好的接触。
-
 advancement.erebus.exploration.beetlejuice=猎户座α星
 advancement.erebus.exploration.beetlejuice.desc=给甲虫挤奶以获得甲虫汁液，这与牛奶相当。
 advancement.erebus.exploration.beetledrink=倒上，喝掉
 advancement.erebus.exploration.beetledrink.desc=喝下一整竹桶的甲虫汁液。是的，你没听错。
-
 advancement.erebus.exploration.titan_beetle=提坦之战
 advancement.erebus.exploration.titan_beetle.desc=杀死提坦天牛并获得它的肉。
 advancement.erebus.exploration.titan_stew=いただきます（我要开动了）
 advancement.erebus.exploration.titan_stew.desc=给自己做些提坦天牛煲，这是你吃过的最有营养的一餐。
-
 advancement.erebus.exploration.rhino_beetle=那是偷猎
 advancement.erebus.exploration.rhino_beetle.desc=杀死独角仙，获取其外骨骼和角。
 advancement.erebus.exploration.rhino_exo_set=笨手笨脚
 advancement.erebus.exploration.rhino_exo_set.desc=制作全套独角仙外骨骼套装，包括盾牌。
-
 advancement.erebus.exploration.exo_set=感觉是无脊椎动物
 advancement.erebus.exploration.exo_set.desc=获得所有四件外骨盔甲和外骨盾。
-advancement.erebus.exploration.reinexo_set=事实是我是 Exo Man
+advancement.erebus.exploration.reinexo_set=事实是⋯⋯我是 Exo Man
 advancement.erebus.exploration.reinexo_set.desc=获得所有四件强化外骨盔甲和强化外骨盾。
-
 advancement.erebus.exploration.planticide=比除草剂更有效
 advancement.erebus.exploration.planticide.desc=混合一些除草剂来破坏一些植物。
 advancement.erebus.exploration.poison_sac=你的残忍手段
 advancement.erebus.exploration.poison_sac.desc=从居住在混沌之地的许多有毒生物中的一种的内脏中钩住一个毒囊。
-
 advancement.erebus.exploration.repellent=完全令人厌恶
 advancement.erebus.exploration.repellent.desc=获得驱虫素。
 advancement.erebus.exploration.spray_can=消失吧，节肢动物
 advancement.erebus.exploration.spray_can.desc=制作一些驱虫剂。
-
 advancement.erebus.exploration.stung=身边有刺的男孩
 advancement.erebus.exploration.stung.desc=被黄蜂或蝎子蛰到。
-
 advancement.erebus.exploration.water_repellent=为什么这么疏水，偏执狂？
 advancement.erebus.exploration.water_repellent.desc=获得一些防水剂以制作祛湿剂。
 advancement.erebus.exploration.water_striders=私人耶稣
 advancement.erebus.exploration.water_striders.desc=制作凌波微步之靴。
-
 advancement.erebus.exploration.whetstone=提高你的智力
 advancement.erebus.exploration.whetstone.desc=获得一些磨刀石粉，并应用在未附魔的磨刀石上。
 advancement.erebus.exploration.woodlouse=当然是个惊喜
@@ -979,62 +840,48 @@ advancement.erebus.exploration.woodlouse_ball=杀手球
 advancement.erebus.exploration.woodlouse_ball.desc=空手用鼠标右击一只西瓜虫。
 advancement.erebus.exploration.newspaper=世界新闻报
 advancement.erebus.exploration.newspaper.desc=用墨水和磨刀石粉增强一些纸莎草来卷成报纸，使其具有极强的拍打能力。
-
-# Agriculture
 advancement.erebus.agriculture.root=地下农业
 advancement.erebus.agriculture.root.desc=尽管这里没有阳光，但仍有许多植物和其他可生长的植物。潜入地下农业的奇妙世界！
-
 advancement.erebus.agriculture.varnished_planks=抵抗那些讨厌的幼虫
 advancement.erebus.agriculture.varnished_planks.desc=制作一些漆包木板。
 advancement.erebus.agriculture.silo=每个农场都需要一个
 advancement.erebus.agriculture.silo.desc=制作筒罐多方块结构的三个部分。
 advancement.erebus.agriculture.ant_amulet=坐立不安
 advancement.erebus.agriculture.ant_amulet.desc=制作蚂蚁驯化坠饰并驯服一只蚂蚁。
-
 advancement.erebus.agriculture.nectar=甜蜜的胜利
 advancement.erebus.agriculture.nectar.desc=用你的刀刃向蜜蜂获得花蜜。
-
 advancement.erebus.agriculture.honey=我爱你，亲爱的
 advancement.erebus.agriculture.honey.desc=使用你获得的花蜜制作蜂蜜。
 advancement.erebus.agriculture.honeyfoods=晚饭吃什么，亲爱的？
 advancement.erebus.agriculture.honeyfoods.desc=制作所有与蜂蜜有关的食物，为自己准备一顿美味的饭菜。
-
-advancement.erebus.agriculture.honeycomb=美是
+advancement.erebus.agriculture.honeycomb=美是⋯⋯
 advancement.erebus.agriculture.honeycomb.desc=建造一个蜂巢。
-advancement.erebus.agriculture.bee_amulet=在养蜂人的眼中
+advancement.erebus.agriculture.bee_amulet=⋯⋯在养蜂人的眼中
 advancement.erebus.agriculture.bee_amulet.desc=用玉和花蜜制作一个蜜蜂驯化坠饰。
 advancement.erebus.agriculture.spoon=大勺子
 advancement.erebus.agriculture.spoon.desc=制作一个花蜜收集器，这是一个简单但巧妙的工具，可以很容易地从蜜蜂那里收集花蜜。
-
 advancement.erebus.agriculture.beecon=我所属的地方
 advancement.erebus.agriculture.beecon.desc=用你获得的花蜜制作一个制导蜜蜂信标，这是一个让你总能找到归路的装置。
-
 advancement.erebus.agriculture.turnip=SuperRutabaga
-#This advancement is named after the person who designed the Erebus Turnips. I'd truly appreciate it if whomever localises this leaves this advancement name unchanged. Thank you in advance!
 advancement.erebus.agriculture.turnip.desc=找个地方获得一些芜菁。
 advancement.erebus.agriculture.beetle_breed=芜菁让它们出现
 advancement.erebus.agriculture.beetle_breed.desc=给两只甲虫喂上最具情欲的蔬菜，让它们兴致勃勃——至少对它们来说，我们不能判断。
-
 advancement.erebus.agriculture.bamboo=巨大的欺骗
 advancement.erebus.agriculture.bamboo.desc=获得一些巨型竹和巨型竹笋。
-
 advancement.erebus.agriculture.bamboo_extender=充分伸展 UwU
 advancement.erebus.agriculture.bamboo_extender.desc=制作竹桥延筑机。
 advancement.erebus.agriculture.bamboo_bridge=七桥路
 advancement.erebus.agriculture.bamboo_bridge.desc=制作竹桥。
 advancement.erebus.agriculture.nerd_pole=穿透天空
 advancement.erebus.agriculture.nerd_pole.desc=制作竹攀爬杆。
-
 advancement.erebus.agriculture.bamboo_crate=重新制作混沌之地板条箱
 advancement.erebus.agriculture.bamboo_crate.desc=给自己做一个竹条箱。
-advancement.erebus.agriculture.bamboo_soup=吃竹笋的时候
+advancement.erebus.agriculture.bamboo_soup=吃竹笋的时候⋯⋯
 advancement.erebus.agriculture.bamboo_soup.desc=给自己做些竹汤。
-advancement.erebus.agriculture.bamboo_plant=记住是谁种的。
+advancement.erebus.agriculture.bamboo_plant=⋯⋯记住是谁种的。
 advancement.erebus.agriculture.bamboo_plant.desc=种一个巨型竹笋。
-
-# Portal Guide
 advancement.erebus.portal.root=传送门
-advancement.erebus.portal.root.desc=一个在我们自己的世界下面，随时可以进入的世界
+advancement.erebus.portal.root.desc=一个在我们自己的世界下面，随时可以进入的世界⋯⋯
 advancement.erebus.portal.altar=联系众神
 advancement.erebus.portal.altar.desc=创造一个奉献祭坛。
 advancement.erebus.portal.gaean_gem=我们母亲送的礼物

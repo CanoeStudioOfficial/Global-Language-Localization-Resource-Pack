@@ -217,8 +217,5 @@ tile.furenikusroads.line_yellow_side_double.0.name=直线双线
 tile.furenikusroads.line_yellow_straight_thick.2.name=粗直线（连接）
 tile.furenikusroads.line_yellow_straight_thick.0.name=粗直线
 tile.furenikusroads.line_yellow_straight_full.2.name=直线（连接）
-
-
-
 tile.furenikusroads.line_yellow_straight_full.0.name=直线
 tile.furenikusroads.white_junction_side_line_connection.4.name=细型过滤车道->粗的返回L型

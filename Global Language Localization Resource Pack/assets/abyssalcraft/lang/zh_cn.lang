@@ -1,6 +1,3 @@
-#本地化文件起点
-
-#进度
 advancements.abyssalcraft.necro.title=深渊国度
 advancements.abyssalcraft.necro.description=合成一本死灵之书，然后呢？
 advancements.abyssalcraft.mineaby.title=比钻石好！
@@ -17,13 +14,13 @@ advancements.abyssalcraft.minedread.title=恐惧之地的矿产
 advancements.abyssalcraft.minedread.description=挖掘一些恐惧之地的矿石
 advancements.abyssalcraft.dreadium.title=不含瘟疫的锭
 advancements.abyssalcraft.dreadium.description=嬗变一些惧质锭
-advancements.abyssalcraft.ethaxium.title=构成灵魂之物
+advancements.abyssalcraft.ethaxium.title=构成灵魂之物⋯⋯
 advancements.abyssalcraft.ethaxium.description=合成一个伊塞斯锭
 advancements.abyssalcraft.killghoul=杀死一个深渊食尸鬼
-advancements.abyssalcraft.killghoul.description=耶可是为什么这也是个成就呢？
+advancements.abyssalcraft.killghoul.description=耶⋯⋯可是为什么这也是个成就呢？
 advancements.abyssalcraft.ghoulhead=狩猎开始
-advancements.abyssalcraft.ghoulhead.description=那里有一个大脑袋
-advancements.abyssalcraft.petehead=头颅
+advancements.abyssalcraft.ghoulhead.description=那里有一个大脑袋⋯⋯
+advancements.abyssalcraft.petehead=头颅⋯⋯
 advancements.abyssalcraft.petehead.description=哇，我们可以成为永远的朋友了 :D
 advancements.abyssalcraft.wilsonhead=暴戾头颅
 advancements.abyssalcraft.wilsonhead.description=我的身体去哪了？
@@ -58,15 +55,15 @@ advancements.abyssalcraft.killdragon.description=你杀死一个幽灵龙。
 advancements.abyssalcraft.summonasorah=堕落者归来了！
 advancements.abyssalcraft.summonasorah.description=你召唤了阿索拉，快跑！！
 advancements.abyssalcraft.killasorah=一个倒了，还有第二个
-advancements.abyssalcraft.killasorah.description=你杀死了阿索拉遗忘者现在十分厌恨你。
-advancements.abyssalcraft.enterdreadlands=欢迎来到地狱额，恐惧之地
+advancements.abyssalcraft.killasorah.description=你杀死了阿索拉⋯⋯遗忘者现在十分厌恨你。
+advancements.abyssalcraft.enterdreadlands=欢迎来到地狱⋯⋯额，恐惧之地
 advancements.abyssalcraft.enterdreadlands.description=进入第二个维度。
 advancements.abyssalcraft.killdreadguard=重击瘟疫
 advancements.abyssalcraft.killdreadguard.description=你杀死了一个恐惧守卫。
 advancements.abyssalcraft.summonchagaroth=恐惧野兽的巢穴
 advancements.abyssalcraft.summonchagaroth.description=进入查伽洛斯的巢穴。
 advancements.abyssalcraft.killchagaroth=恐惧野兽的陨落
-advancements.abyssalcraft.killchagaroth.description=你杀死了查伽洛斯干得漂亮。
+advancements.abyssalcraft.killchagaroth.description=你杀死了查伽洛斯⋯⋯干得漂亮。
 advancements.abyssalcraft.enteromothol=欢迎来到你的末日，我是认真的。
 advancements.abyssalcraft.enteromothol.description=你已经抵达奥穆索，扎哈尔的王国。
 advancements.abyssalcraft.darkrealm=深坑之底。
@@ -75,7 +72,7 @@ advancements.abyssalcraft.killomotholelite=那东西极其强大
 advancements.abyssalcraft.killomotholelite.description=你杀死了一个来自奥穆索的强大生物。
 advancements.abyssalcraft.locatejzahar=一只野生的扎哈尔出现了
 advancements.abyssalcraft.locatejzahar.description=我希望你带了药水，或者别的什么。
-advancements.abyssalcraft.killjzahar=去弑神如果神只是傀儡
+advancements.abyssalcraft.killjzahar=去弑神⋯⋯如果神只是傀儡⋯⋯
 advancements.abyssalcraft.killjzahar.description=你真的认为你能杀死旧日支配者？
 advancements.abyssalcraft.gk1=不朽钥匙
 advancements.abyssalcraft.gk1.description=合成一把传送门钥匙。
@@ -95,20 +92,14 @@ advancements.abyssalcraft.makecrystalbag=将你所有的晶体存储在这！
 advancements.abyssalcraft.makecrystalbag.desc=合成一个晶体袋。它们能够进行升级。
 advancements.abyssalcraft.makeengraver=无限地伪造钱币！
 advancements.abyssalcraft.makeengraver.description=合成一个铸币器。
-
-#文本
 ac.text.none=无
 ac.text.amplifier=放大器
 ac.text.deity=神祗
-
-#放大器类型
 ac.amplifier.range=范围
 ac.amplifier.duration=连续
 ac.amplifier.power=能量
-
-#消息
 message.asorah.spawn=哈哈，愚蠢的人类，我解放了！
-message.asorah.death.1=阿索拉？阿索拉？！
+message.asorah.death.1=阿索拉？⋯⋯阿索拉？！
 message.asorah.death.2=你，你这个凡人将为此付出代价！
 message.asorah.death.3=而且，你将永远无法通过恐惧之地。尽情地自掘坟墓吧。
 message.dreadaltar.error.1=只能在恐惧之地起作用
@@ -125,23 +116,23 @@ message.jzahar.death.2=你杀的只是一个幻影（无尽黑暗的实体化身
 message.jzahar.death.3=当人们陷入疯狂的时候，现实的概念就离开了他们的身体。
 message.jzahar.death.4=比如说，你以为你杀了旧日支配者。
 message.jzahar.death.5=正常人都会发现追求如此强大的身体，追求到的只是死亡。
-message.jzahar.death.6=但你你得到的知识越多，你的思维便会更加扭曲。
+message.jzahar.death.6=但你⋯⋯你得到的知识越多，你的思维便会更加扭曲。
 message.jzahar.death.7=你在一念之间觉得你杀了我的这一事实，说明你已经变得相当疯狂。
 message.jzahar.death.8=我的书籍已经引领你到了这里，所以你不会再渴望更多知识了。也许死亡才是你最渴望的。
 message.jzahar.death.9=让我释放这空心傀儡中蕴含的最后的力量吧。它将给我答案。
 message.jzahar.death.10=如果你活过了这次爆炸，把我化身的那小块碎片拿走，它会给你通往深渊之书的途径。
 message.jzahar.banish.vanilla=我从未想过和你待在同一个维度里。滚开，恶心的怪物！
-message.jzahar.banish.ac=呃哼我想起我在亿万年前曾给过你一个任务，你可曾想过那个任务是永久的？
+message.jzahar.banish.ac=呃哼⋯⋯我想起我在亿万年前曾给过你一个任务，你可曾想过那个任务是永久的？
 message.jzahar.banish.jzh=只能有一个！*凭空创造出剑来*
 message.jzahar.banish.other=我不相信我们相互熟识，我会将你逐出这个维度。
 message.jzahar.creative.1=%s，你可否意识到现在我就可以轻松地切换你的游戏模式并杀死你？我就是那样的实体。
-message.jzahar.creative.2=但是没错严格上来说那是作弊，所以我还是会坚守“规则”，不做任何事情。
+message.jzahar.creative.2=但是没错⋯⋯严格上来说那是作弊，所以我还是会坚守“规则”，不做任何事情。
 message.sacthoth.spawn.1=我解放了！凡人，感受黑暗领域的愤怒吧。
 message.sacthoth.spawn.2=但首先，观看这爆炸吧。
 message.sacthoth.damage.explosion=我并未说你§o不能§r用爆炸攻击我，这只是没有用。
 message.sacthoth.damage.projectile=哈，你的弹射物伤不了我。
 message.portalplacer.error.1=你感受到自己被拒绝了，扎哈尔并没有批准。
-message.portalplacer.error.2=无事发生
+message.portalplacer.error.2=无事发生⋯⋯
 message.necronomicon.nope=似乎你并非这本书的主人。你可曾想过不去尝试读它？
 message.remnant.busy=对不起，我正在招待一个客人，等会回来。
 message.remnant.insult.0=%s，你说Aklo就像Mod制作者说1.8一样。
@@ -157,8 +148,6 @@ message.configurator.error.1=你不能在没有路径的情况下创建配置！
 message.configurator.error.2=目标方块没有物品栏！
 message.configurator.error.3=该方块不支持配置！
 message.configurator.error.4=你不能和这个方块互动！
-
-#容器物品栏
 container.abyssalcraft.crate=板条箱
 container.abyssalcraft.crystallizer=结晶器
 container.abyssalcraft.transmutator=嬗变器
@@ -169,12 +158,8 @@ container.abyssalcraft.tieredenergycontainer=层叠能量容器
 container.abyssalcraft.rendingpedestal=撕裂基座
 container.abyssalcraft.statetransformer=物态转换器
 container.abyssalcraft.energydepositioner=能量沉积器
-
-#Gui按钮
 gui.abyssalcraft.statetransformer.insert=输入
 gui.abyssalcraft.statetransformer.extract=输出
-
-#NEI整合
 container.abyssalcraft.crystallizer.nei=结晶化
 container.abyssalcraft.transmutator.nei=嬗变化
 container.abyssalcraft.engraver.nei=铸币雕版
@@ -182,12 +167,8 @@ container.abyssalcraft.materializer.nei=物质化
 container.abyssalcraft.rituals.nei=死灵之书仪式
 container.abyssalcraft.rending.nei=撕裂法杖
 container.abyssalcraft.upgrade.nei=升级套件
-
-#JEI整合
 gui.acjei.category.fuel.transmutator=嬗变器燃料
 gui.acjei.category.fuel.crystallizer=结晶器燃料
-
-#死灵之书标签
 necronomicon.index=索引
 necronomicon.information=禁忌知识
 necronomicon.spells=咒语书
@@ -237,12 +218,6 @@ necronomicon.information.pantheon=万神殿
 necronomicon.information.casting=施咒
 necronomicon.builtwith=建造：
 necronomicon.information.itemtransportsystem=物品输运
-
-#死灵之书文字
-#注意：每个字符串的最大字数为368个（184汉字）。
-#下列示例文字刚好达到字数极限:
-#Lorem ipsum dolor sit amet, nam an mutat eripuit temporibus. Eu eius luptatum similique eam. Erat euismod bonorum cu vis, malis salutatus neglegentur mea no. His et abhorreant conclusionemque, has prima movet dignissim an, vitae deleniti theophrastus ad mea. Est no offendit incorrupte, ferri illum labores qui ut. Sanctus adipisci eum ex, cu falli virtute dissentias.
-#任何超过这个长度的内容，都会在你试图阅读它的时候触发崩溃。
 necronomicon.text.necronomicon.1=这是死灵之书，一本由阿卜杜•阿尔哈兹莱德所写的书，作者也即广为人知的“疯狂的阿拉伯人”。这本书囊括了关于旧日支配者的知识，祂们的名字和怎么去召唤祂们。里面同样有关于这本书所能执行的咒语和仪式的信息。
 necronomicon.text.necronomicon.2=死灵之书是深渊之书中的一章，由被称为扎哈尔的魔神口授给阿尔哈兹莱德，这位魔神根据来自旧日支配者的无穷的知识创作了深渊之书。
 necronomicon.text.necronomicon.3=深渊之书内共有4种死灵之书：死灵之书，深渊荒原死灵之书，恐惧之地死灵之书和奥穆索死灵之书，每一本都与一个维度有关。
@@ -495,7 +470,7 @@ necronomicon.text.pe.8=需要注意的是你亲自去收集PE并不合适。这�
 necronomicon.text.pe.9=雕像对周围的收集者转移PE的范围有限制。收集者需要被放置在两个黄色框架中（它与雕像中间有两个方块的间隔）。
 necronomicon.text.pe.10=当它放置在巨石柱上时，效果范围可以增加到两个方块。柱子上的雕像可以将能量传递给收集者。
 necronomicon.text.pe.11=能量沉积器是另一个PE操纵器。它像个发电机，不过其“燃料”是充有PE的石板。
-necronomicon.text.pe.12=一个加速雕像（其它PE操纵器也是）效率的方式是使用仪式符咒。能带来各种加速效果（可查看提示文本）。
+necronomicon.text.pe.12=一个加速雕像（其它PE操纵器也是）效率的方式是使用仪式符咒。能带来各种加速效果（可查看提示框）。
 necronomicon.text.pe.13=你也可以制作一个能量基座，它可以从雕像（和其他PE操纵器）收集PE。可储存PE的物品可以放在底座上进行充能。
 necronomicon.text.pe.14=除了能量基座，还有一个祭坛，它可以将死亡生物的生命转化为PE（目标生物发光）。
 necronomicon.text.pe.15=另一种从操纵器收集PE的方法是使用能量收集器。它与能量基座工作方式类似（除了不能在上面放置物品）。
@@ -532,8 +507,6 @@ necronomicon.text.itemtransportsystem.6=当你正在使用“应用配置”模�
 necronomicon.text.itemtransportsystem.7=当你正在使用“清除配置”模式时，你可以通过潜行并右击方块来移除其上的配置。破坏或放置方块能达到相同效果，但这一操作相比之下能为你节省时间。
 necronomicon.text.itemtransportsystem.8=有两个实用咒语（名为“魂径现形”和“鸣钟”），可以帮助你追踪已确定的路线，以及启动或停止它们。“魂径现形”会显示你附近活动中的路线，“鸣钟”会启动或停止你正在注视的方块所连接的路线（或者若没有对准单个方块，会直接对附近的所有路线起作用）。
 necronomicon.text.wip=这一章节还未完成。
-
-#Rituals
 ac.ritual.oblivionCatalyst=湮灭媒介
 ac.ritual.oblivionCatalyst.desc=湮灭媒介可通过将湮灭碎片和红石粉注入一个末影之眼制成。
 ac.ritual.transmutationGem=嬗变宝石
@@ -734,8 +707,6 @@ ac.ritual.curing=治愈仪式
 ac.ritual.curing.desc=通过放置4瓶恐惧瘟疫解药，你治愈了一片区域的恐惧瘟疫和恐惧之地，恢复了它们原来的面貌。地形最接近的非恐惧之地生物群系将会取代恐惧之地的位置。
 ac.ritual.spiritTablet=灵魂石板
 ac.ritual.spiritTablet.desc=一块灵魂石板可通过将4个灵魂石板碎片注入生命结晶来制作。它是一种工具，允许你使物品自主移动，以在方块间转移物品。阅读死灵之书奥穆索章节的相关内容以获取更多信息。
-
-#Spells
 ac.spell.lifedrain=生命吸取
 ac.spell.lifedrain.desc=吸取敌人的生命力以治愈你的伤口。
 ac.spell.entropy=熵
@@ -765,23 +736,16 @@ ac.spell.toggleState.desc=启动/停止玩家16格半径内所有方块的物品
 ac.spell.floating=浮空
 ac.spell.floating.desc=只要持续施咒，你就会像羽毛一般轻盈，这使得你可以在空中行走。总之，谁会需要重力的束缚？
 ac.spell.teleportHome=归家
-ac.spell.teleportHome=施咒后将你传送至你的重生点，无论你在什么地方（包括其他维度）。
-
-#Places of Power
 ac.structure.basic.description=一个小而简单的神龛，为受影响的雕像提供范围加成。
 ac.structure.basic.blocks=15个巨石块；4个巨石柱；4个雕像（任意）
 ac.structure.totempole.description=现在你只需要一堆篝火，一些乐器和一件叮当作响的衣服！
 ac.structure.totempole.blocks=3个雕像（任意）；1个巨石块
 ac.structure.archway.description=一种可用于装饰的小型构造。任何楼梯、台阶和方块都可以用来建造它。
 ac.structure.archway.blocks=6个墙方块（任意）；4个楼梯方块（任意）；6个台阶方块（任意）；1个雕像（任意）；1个巨石块
-
-#撕裂
 ac.rending.shadowgem=阴影宝石可以通过从阴影生物收获阴影能量获得。
 ac.rending.essence_aw=深渊荒原精华可以通过从深渊珊瑚实体收获深渊荒原能量获得。
 ac.rending.essence_dl=恐惧之地精华可以通过从恐惧实体收获恐惧能量获得。
 ac.rending.essence_omt=奥穆索精华可以通过从奥穆索实体收获奥穆索能量获得。
-
-#配置
 ac_dimensions=维度
 ac_dimensions.tooltip=维度ID设置
 ac_biomes=生物群系
@@ -812,16 +776,12 @@ ac_modules=模块
 ac_modules.tooltip=模块配置
 ac_spells=咒语
 ac_spells.tooltip=咒语配置
-
-#键位
 key.abyssalcraft.category=深渊国度
 key.staff_mode.desc=改变守门者之杖的模式
 key.use_cage.desc=用跨维度笼捕捉生物
 key.configurator_mode.desc=改变灵魂石板的模式
 key.configurator_filter.desc=打开灵魂石板的过滤面板
 key.configurator_path.desc=清除灵魂石板记录的路径
-
-#伤害来源
 death.attack.coralium=%1$s死于珊瑚瘟疫
 death.attack.coralium.player=%1$s在试图逃离%2$s时屈服于珊瑚瘟疫之下
 death.attack.dread=%1$s死于恐惧瘟疫
@@ -832,8 +792,6 @@ death.attack.shadow=%1$s被黑暗吞噬
 death.attack.shadow.player=%1$s在试图逃离%2$s时被黑暗吞噬
 death.attack.shoggoth_acid=%1$s溶解于修格斯的酸液之中
 death.attack.shoggoth_acid.player=%1$s在试图逃离%2$s时溶解于修格斯的酸液之中
-
-#提示文本
 tooltip.portalplacer.1=右击地面来
 tooltip.portalplacer.2=创建一个传送门。可无限使用。
 tooltip.portalplacer.3=按住Shift右击地面以创建返回传送门。
@@ -872,8 +830,6 @@ tooltip.configurator.mode.1=应用配置
 tooltip.configurator.mode.2=清除配置
 tooltip.configurator.filter.0=根据子类型过滤
 tooltip.configurator.filter.1=根据NBT过滤
-
-#创造模式物品栏
 itemGroup.acblocks=深渊国度丨方块
 itemGroup.acitems=深渊国度丨物品
 itemGroup.actools=深渊国度丨工具
@@ -883,12 +839,8 @@ itemGroup.acdblocks=深渊国度丨装饰方块
 itemGroup.accrystals=深渊国度丨结晶器晶体
 itemGroup.accoins=深渊国度丨铸币
 itemGroup.acspells=深渊国度丨咒语
-
-#流体
 fluid.liquidcoralium=液态珊瑚
 fluid.liquidantimatter=液态反物质
-
-#Blocks
 tile.stone.0.name=黑暗石
 tile.stone.1.name=深渊石
 tile.stone.2.name=恐惧石
@@ -1096,14 +1048,10 @@ tile.calcifiedstone.name=钙化石
 tile.door_dlt.name=黑暗之地橡木门
 tile.door_drt.name=恐惧之地木门
 tile.multi_block.name=多方块
-
-#Pre/Postfixes
 decorativestatue.prefix=装饰用%s
 crystalcluster.postfix=%s簇
 crystalshard.postfix=%s碎片
 crystalfragment.postfix=%s断片
-
-#物品
 item.devsword.name=创渊者之刃
 item.oc.name=湮灭媒介
 item.gatekeeperstaff.name=守门者之杖
@@ -1338,8 +1286,6 @@ item.configurator_shard.0.name=灵魂石板碎片 #1
 item.configurator_shard.1.name=灵魂石板碎片 #2
 item.configurator_shard.2.name=灵魂石板碎片 #3
 item.configurator_shard.3.name=灵魂石板碎片 #4
-
-#实体
 entity.abyssalcraft.depthsghoul.name=深渊食尸鬼
 entity.abyssalcraft.evilpig.name=猪
 entity.abyssalcraft.abyssalzombie.name=深渊僵尸
@@ -1389,8 +1335,6 @@ entity.abyssalcraft.evilsheep.name=羊
 entity.abyssalcraft.demonsheep.name=恶魔羊
 entity.abyssalcraft.coraliumsquid.name=被珊瑚侵染的鱿鱼
 entity.abyssalcraft.shuboffspring.name=黑暗幼崽
-
-#药水
 potion.Cplague=珊瑚瘟疫
 potion.effect.Cplague=珊瑚瘟疫药水
 splash_potion.effect.Cplague=喷溅型珊瑚瘟疫药水
@@ -1406,8 +1350,6 @@ potion.effect.Antimatter=湮灭药水
 splash_potion.effect.Antimatter=喷溅型湮灭药水
 lingering_potion.effect.Antimatter=滞留型湮灭药水
 tipped_arrow.effect.Antimatter=湮灭之箭
-
-#附魔
 enchantment.abyssalcraft.coralium=珊瑚
 enchantment.abyssalcraft.coralium.desc=击中时传播珊瑚瘟疫
 enchantment.abyssalcraft.dread=恐惧
@@ -1420,8 +1362,6 @@ enchantment.abyssalcraft.sapping=削弱
 enchantment.abyssalcraft.sapping.desc=增加撕裂法杖吸取的能量
 enchantment.abyssalcraft.multi_rend=多重撕裂
 enchantment.abyssalcraft.multi_rend.desc=从目标周围的怪物身上吸取能量
-
-#字幕
 subtitle.abyssalcraft.dreadguard.death=恐惧守卫：死亡
 subtitle.abyssalcraft.dreadguard.idle=恐惧守卫：不祥地嘀咕着
 subtitle.abyssalcraft.dreadguard.hit=恐惧守卫：受伤
@@ -1463,14 +1403,8 @@ subtitle.abyssalcraft.jzahar.shouts=扎哈尔：试图 Fus Ro Dah
 subtitle.abyssalcraft.jzahar.earthquake=扎哈尔：试图重排板块
 subtitle.abyssalcraft.jzahar.implosion=扎哈尔：试图用自己的意志替代重力
 subtitle.abyssalcraft.jzahar.black_hole=扎哈尔：试图掩盖声音花园的歌声
-
-#本地化完成
-
-
 message.jzahar.corrupting=看吧，当黑暗吞噬主世界时！这世界将会一点一点地崩溃。
 message.jzahar.cleansing=抹去我对你§o心爱§r世界的恶意？真是太可惜了。
-
-#Gui Labels
 gui.abyssalcraft.facebook.name=名称
 container.abyssalcraft.sequential_brewing=递次酿造台
 message.jzahar.fourthwall=哎呀，我滑倒了！

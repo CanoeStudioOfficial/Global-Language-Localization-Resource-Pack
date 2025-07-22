@@ -1,8 +1,3 @@
-#PARSE_ESCAPES
-
-# OVERRIDES
-
-# advancement
 advancement.ancientspellcraft\:ancient_book.desc=在抄写台中合成一本远古巫术书
 advancement.ancientspellcraft\:ancient_book=久已遗忘之秘术
 advancement.ancientspellcraft\:crystal_shards.desc=挖掘一个元素水晶碎片
@@ -23,8 +18,6 @@ advancement.ancientspellcraft\:battlemage_camp=谁在这扎营？
 advancement.ancientspellcraft\:battlemage_camp.desc=在野外发现一片战斗法师营地
 advancement.ancientspellcraft\:novice_spellblade=看准锋芒，一刺夺命
 advancement.ancientspellcraft\:novice_spellblade.desc=打造你的第一把施法锋刃
-
-# block
 block.ancientspellcraft\:ancientdimension_boundary=古代维度边界
 block.ancientspellcraft\:crystal_shard_earth.name=苍翠水晶矿石
 block.ancientspellcraft\:crystal_shard_fire.name=赤焰水晶矿石
@@ -33,7 +26,7 @@ block.ancientspellcraft\:crystal_shard_ice.name=寒霜水晶矿石
 block.ancientspellcraft\:crystal_shard_lightning.name=风暴水晶矿石
 block.ancientspellcraft\:crystal_shard_necromancy.name=邃暗水晶矿石
 block.ancientspellcraft\:crystal_shard_sorcery.name=秘源水晶矿石
-block.ancientspellcraft\:devoritium_bars.name=噬法护栏
+block.ancientspellcraft\:devoritium_bars.name=噬法栏杆
 block.ancientspellcraft\:devoritium_block.name=噬法块
 block.ancientspellcraft\:devoritium_door.name=噬法门
 block.ancientspellcraft\:devoritium_ore.name=噬法矿石
@@ -42,23 +35,13 @@ block.ancientspellcraft\:dimension_focus=维度聚焦
 block.ancientspellcraft\:imbuement_altar_ruined=损坏的注魔祭坛
 block.ancientspellcraft\:conjured_snow=幻雪
 tile.ancientspellcraft\:arcane_anvil.name=奥术砧
-
-#command
 commands.ancientspellcraft\:listbiomes.usage=/%1$s
-
-#config
 config.ancientspellcraft.loot_injection_locations.tooltip=古代咒法的战利品应该注入的战利品表列表 （譬如 loot_tables/chests/dungeon_additions.json）
 config.ancientspellcraft.loot_injection_locations=战利品注入
-
-#element
 element.ancient=远古
-
-#enchantment
 enchantment.ancientspellcraft\:static_charge=静电充能
 enchantment.ancientspellcraft\:degrade_sword=削弱
 enchantment.ancientspellcraft\:degrade_bow=削弱
-
-#classes
 class_element.magic.wizard=巫师
 class_element.fire.wizard=火术
 class_element.ice.wizard=冰霜
@@ -79,9 +62,7 @@ item.ancientspellcraft\:crystal_silver_nugget.name=晶银粒
 item.ancientspellcraft\:enchanted_filament.name=附魔细丝
 wizard_armour_class.sage=贤者
 wizard_armour_class.battlemage=战斗法师
-wizard_armour_class.warlock=狂术士
-
-#entity
+wizard_armour_class.warlock=巫术士
 entity.ancientspellcraft\:devoritium_bomb.name=噬法炸弹
 entity.ancientspellcraft\:wizardmerchant.name=巫师
 entity.ancientspellcraft\:entity_volcano.name=火蚁丘
@@ -108,8 +89,6 @@ entity.ancientspellcraft\:animated_weapon.name=武器
 entity.ancientspellcraft\:animated_armour.name=盔甲
 entity.ancientspellcraft\:silencing_sigil.name=魔法
 entity.ancientspellcraft\:healing_sigil.name=魔法
-
-# gui
 gui.ancientspellcraft:empty_slot=空槽位
 gui.ancientspellcraft\:ancient_knowledge_increased=你所掌握的远古魔法知识增加了%s
 gui.ancientspellcraft\:element.magic=远古
@@ -147,13 +126,13 @@ gui.ancientspellcraft\:sphere_cognizance.hint.construct.1=生物是真正的力�
 gui.ancientspellcraft\:sphere_cognizance.hint.construct.2=使用这本法术书打破质量守恒定律，创造出新的物质
 gui.ancientspellcraft\:sphere_cognizance.hint.construct.3=T这本法术书能够使你无中生有
 gui.ancientspellcraft\:sphere_cognizance.hint.construct.4=在你的面前摆着一本召唤法典！
-gui.ancientspellcraft\:sphere_cognizance.hint.defense.1=让这个魔法成为你的护盾
+gui.ancientspellcraft\:sphere_cognizance.hint.defense.1=让这个魔法成为你的护盾⋯⋯
 gui.ancientspellcraft\:sphere_cognizance.hint.defense.2=这个法术设计的初衷就是为了防止伤害
 gui.ancientspellcraft\:sphere_cognizance.hint.defense.3=研读这本法术书将在危情之下为你提供保护
 gui.ancientspellcraft\:sphere_cognizance.hint.defense.4=这本书描述了在你的对手面前保护自己的方法
-gui.ancientspellcraft\:sphere_cognizance.hint.discovered.10=奥术密文的加密相当彻底，但是你在书中发现了曾被草草记下的解密咒语%s
-gui.ancientspellcraft\:sphere_cognizance.hint.discovered.1=随着你最后一次调整水晶阵列，鉴咒魔球成功地鉴定了法术%s
-gui.ancientspellcraft\:sphere_cognizance.hint.discovered.2=鉴咒魔球嗡嗡地响了一阵，然后安静了下来。它成功地破译了法术%s
+gui.ancientspellcraft\:sphere_cognizance.hint.discovered.10=奥术密文的加密相当彻底，但是你在书中发现了曾被草草记下的解密咒语⋯⋯%s
+gui.ancientspellcraft\:sphere_cognizance.hint.discovered.1=随着你最后一次调整水晶阵列，鉴咒魔球成功地鉴定了法术⋯⋯%s
+gui.ancientspellcraft\:sphere_cognizance.hint.discovered.2=鉴咒魔球嗡嗡地响了一阵，然后安静了下来。它成功地破译了法术⋯⋯%s
 gui.ancientspellcraft\:sphere_cognizance.hint.discovered.3=通过鉴咒魔球中对多次实验的存档，你最后得以解读书中的密文，并理解了其中的要义 - %s
 gui.ancientspellcraft\:sphere_cognizance.hint.discovered.4=伟大的奥术抄写学家成功解读出了密文 - %s！
 gui.ancientspellcraft\:sphere_cognizance.hint.discovered.5=把那些你尚未解读出的密文统统忽略之后，你得以根据图片中的蛛丝马迹进行实验并领会了法术 - %s
@@ -174,7 +153,7 @@ gui.ancientspellcraft\:sphere_cognizance.hint.failed.5=由于写得太糟糕了�
 gui.ancientspellcraft\:sphere_cognizance.hint.failed.6=这些文字似乎是由一种未知的奥术密文写就的，解读这些文字很困难。
 gui.ancientspellcraft\:sphere_cognizance.hint.failed.7=阅读这些文字的时候你甚至感觉自己成为了失语症患者。
 gui.ancientspellcraft\:sphere_cognizance.hint.failed.8=你的翻译工作似乎有点成效了。
-gui.ancientspellcraft\:sphere_cognizance.hint.failed.9=你试遍了各种方法，不过仍然无法破解石板上精妙的奥术密文但是，你发现了一些微不足道的征兆，这成为你继续研究的动力。
+gui.ancientspellcraft\:sphere_cognizance.hint.failed.9=你试遍了各种方法，不过仍然无法破解石板上精妙的奥术密文⋯⋯但是，你发现了一些微不足道的征兆，这成为你继续研究的动力。
 gui.ancientspellcraft\:sphere_cognizance.hint.fire.1=小火苗，随风舞，灼焦土，灭顽敌
 gui.ancientspellcraft\:sphere_cognizance.hint.fire.2=这些咒文允许你召唤火焰。
 gui.ancientspellcraft\:sphere_cognizance.hint.fire.3=这些咒文的作者是一位伟大的舞焰师
@@ -184,7 +163,7 @@ gui.ancientspellcraft\:sphere_cognizance.hint.fire.6=这本法术书的封面上
 gui.ancientspellcraft\:sphere_cognizance.hint.heal_ally.1=这个法术基于治疗法术，然而它似乎并不能治疗施法者
 gui.ancientspellcraft\:sphere_cognizance.hint.heal_ally.2=召唤一束具有再生效果的光束
 gui.ancientspellcraft\:sphere_cognizance.hint.heal_ally.3=守护队友的人自己也会更加安全
-gui.ancientspellcraft\:sphere_cognizance.hint.heal_ally.4=需要治疗的人并不一定总是你
+gui.ancientspellcraft\:sphere_cognizance.hint.heal_ally.4=需要治疗的人并不一定总是你⋯⋯
 gui.ancientspellcraft\:sphere_cognizance.hint.healing.1=绝无不治之伤，绝无不修之损
 gui.ancientspellcraft\:sphere_cognizance.hint.healing.2=在这本书中记载着各式各样的净化法术
 gui.ancientspellcraft\:sphere_cognizance.hint.healing.3=一位圣殿骑士撰写了这些文字
@@ -221,17 +200,17 @@ gui.ancientspellcraft\:sphere_cognizance.hint.remove_curse.1=一位伟大的治�
 gui.ancientspellcraft\:sphere_cognizance.hint.remove_curse.2=也许腐化只能通过光明来驱除
 gui.ancientspellcraft\:sphere_cognizance.hint.remove_curse.3=这个法术似乎能够驱散永恒的诅咒
 gui.ancientspellcraft\:sphere_cognizance.hint.remove_curse.4=诅咒永远存在，直到使用了这个法术
-gui.ancientspellcraft\:sphere_cognizance.hint.resurrection.1=这种扭转死亡的伟大法术迄今为止只有一个人修习成功
-gui.ancientspellcraft\:sphere_cognizance.hint.resurrection.2=传说中有一位极其强大的治疗师他甚至能将他人拯救于死神之手
+gui.ancientspellcraft\:sphere_cognizance.hint.resurrection.1=这种扭转死亡的伟大法术迄今为止只有一个人修习成功⋯⋯
+gui.ancientspellcraft\:sphere_cognizance.hint.resurrection.2=传说中有一位极其强大的治疗师⋯⋯他甚至能将他人拯救于死神之手
 gui.ancientspellcraft\:sphere_cognizance.hint.resurrection.3=这本法术书表明死亡并不是永恒的，至少在理论上是如此
-gui.ancientspellcraft\:sphere_cognizance.hint.resurrection.4=这个法术似乎能够扭转死亡，但不是你的死亡
+gui.ancientspellcraft\:sphere_cognizance.hint.resurrection.4=这个法术似乎能够扭转死亡，但不是你的死亡⋯⋯
 gui.ancientspellcraft\:sphere_cognizance.hint.resurrection.5=这本大部书中充满了密密麻麻的复杂魔法符号，似乎全都是经验之谈
 gui.ancientspellcraft\:sphere_cognizance.hint.sorcery.1=这本书大概记载着幻术魔法
 gui.ancientspellcraft\:sphere_cognizance.hint.sorcery.2=这本典籍中描述了幻化、欺诈和智取的方法
 gui.ancientspellcraft\:sphere_cognizance.hint.sorcery.3=这是一本关于纯粹的魔法艺术的手册
 gui.ancientspellcraft\:sphere_cognizance.hint.sorcery.4=成为诡秘者的方法就摆在你的面前
 gui.ancientspellcraft\:sphere_cognizance.hint.sorcery.5=这本书包含了赛斯去世之后使用秘法的方法。
-gui.ancientspellcraft\:sphere_cognizance.hint.test=你试遍了各种方法，不过仍然无法破解石板上精妙的奥术密文但是，你发现了一些微不足道的征兆，这成为你继续研究的动力。
+gui.ancientspellcraft\:sphere_cognizance.hint.test=你试遍了各种方法，不过仍然无法破解石板上精妙的奥术密文⋯⋯但是，你发现了一些微不足道的征兆，这成为你继续研究的动力。
 gui.ancientspellcraft\:sphere_cognizance.hint.utility.1=这本法术书将会是你的得力助手
 gui.ancientspellcraft\:sphere_cognizance.hint.utility.2=这本法术书将使你的工作不再冗长乏味
 gui.ancientspellcraft\:sphere_cognizance.hint.utility.3=使用正确的工具，一切都会变得简单
@@ -242,13 +221,11 @@ gui.ancientspellcraft\:sphere_cognizance.no_book=研究需要法术书。
 gui.ancientspellcraft\:sphere_cognizance.no_crystal=需要魔力水晶。
 gui.ancientspellcraft\:sphere_cognizance.research=研究
 gui.ancientspellcraft\:sphere_cognizance.too_few_crystals=需要%s个魔力水晶。
-
-# item
 item.ancientspellcraft\:advanced_stone_fist.name=石拳
 item.ancientspellcraft\:amulet_arcane_catalyst.desc=转化出的法术会与被转化法术的元素相同。
 item.ancientspellcraft\:amulet_arcane_catalyst.name=奥术触媒护符
 item.ancientspellcraft\:amulet_curse_ward.desc=免疫一切诅咒类法术。
-item.ancientspellcraft\:amulet_curse_ward.name=袪咒护符
+item.ancientspellcraft\:amulet_curse_ward.name=祛咒护符
 item.ancientspellcraft\:amulet_healing_mushroom.desc=当你受伤时，你周围有一定几率生长出一些治愈蘑菇。
 item.ancientspellcraft\:amulet_healing_mushroom.name=琥珀蘑菇护符
 item.ancientspellcraft\:amulet_mana.desc=减少 10%% 的魔力消耗。
@@ -272,7 +249,7 @@ item.ancientspellcraft\:amulet_time_knot.desc=如果你在时光扭结没有结�
 item.ancientspellcraft\:amulet_time_knot.name=前瞻之眼
 item.ancientspellcraft\:ancient_bound_stone.name=远古绑定石
 item.ancientspellcraft\:ancient_mana_flask.desc=似乎刻着古老的文字
-item.ancientspellcraft\:ancient_mana_flask.name=远古魔法面具
+item.ancientspellcraft\:ancient_mana_flask.name=远古魔法瓶
 item.ancientspellcraft\:ancient_spell_book.name=远古法术书
 item.ancientspellcraft\:ancient_spellcraft_spell_book.name=法术书
 item.ancientspellcraft\:arcane_compound.name=奥术混合物
@@ -297,7 +274,7 @@ item.ancientspellcraft\:belt_vortex.desc=降低魔力漩涡的伤害，极大增
 item.ancientspellcraft\:belt_vortex.name=湮灭腰带
 item.ancientspellcraft\:blank_rune.name=空白符文
 item.ancientspellcraft\:charm_bucket_coal.desc=这一附加了魔法的桶每天都会自动地装满煤。
-item.ancientspellcraft\:charm_bucket_coal.empty=你扫了眼桶内，但是它是空的
+item.ancientspellcraft\:charm_bucket_coal.empty=你扫了眼桶内，但是它是空的⋯⋯
 item.ancientspellcraft\:charm_bucket_coal.name=无底煤桶
 item.ancientspellcraft\:charm_burrow.desc=使掘地法术可以掘穿石头
 item.ancientspellcraft\:charm_burrow.name=盖亚之心
@@ -313,7 +290,7 @@ item.ancientspellcraft\:charm_elemental_grimoire.name=元素魔典
 item.ancientspellcraft\:charm_enchanted_needle.desc=缓慢地自动修复、充能你的甲胄更替法术所创造的魔法空间中的魔杖和法袍
 item.ancientspellcraft\:charm_enchanted_needle.name=附魔针
 item.ancientspellcraft\:charm_evergrowing_crystal.desc=这些魔法水晶正在通过吸取外界的魔法不断生长。
-item.ancientspellcraft\:charm_evergrowing_crystal.empty=你想掰一小块水晶下来，可惜目前水晶太小了
+item.ancientspellcraft\:charm_evergrowing_crystal.empty=你想掰一小块水晶下来，可惜目前水晶太小了⋯⋯
 item.ancientspellcraft\:charm_evergrowing_crystal.name=恒生水晶
 item.ancientspellcraft\:charm_fabrikator_toolkit.desc=这个工具包曾经属于一位强大的工匠，佩戴时会使转化卷轴转化出的饰品恒定为头饰或是坠饰，升级圣物将固定转化为魔辉丝线
 item.ancientspellcraft\:charm_fabrikator_toolkit.name=匠者工具箱
@@ -321,7 +298,7 @@ item.ancientspellcraft\:charm_fire_orb.desc2=激活能力：召唤一场强力�
 item.ancientspellcraft\:charm_fire_orb.desc=增加火焰属性 30%% 的法术强度，减少 50%% 其他法术强度
 item.ancientspellcraft\:charm_fire_orb.name=怒火宝珠
 item.ancientspellcraft\:charm_gold_bag.desc=这个拥有魔力的钱包每天会自动地生成3-8个金粒。
-item.ancientspellcraft\:charm_gold_bag.empty=你搜遍了整个袋子但是它是空的
+item.ancientspellcraft\:charm_gold_bag.empty=你搜遍了整个袋子但是它是空的⋯⋯
 item.ancientspellcraft\:charm_gold_bag.name=无底金袋
 item.ancientspellcraft\:charm_healing_orb.desc2=激活能力：举起这个魔球，它将召唤护盾保护持有者，并使周围的所有敌人失明
 item.ancientspellcraft\:charm_healing_orb.desc=增加治愈属性 30%% 的法术强度，减少 50%% 其他法术强度
@@ -340,7 +317,7 @@ item.ancientspellcraft\:charm_magic_light.desc=存储着永燃之焰的火花，
 item.ancientspellcraft\:charm_magic_light.name=永恒之焰
 item.ancientspellcraft\:charm_mana_flask.desc=这个充满魔力的面罩总是能自动地充满魔力。
 item.ancientspellcraft\:charm_mana_flask.invalid_use=必须在副手使用，同时主手持有一个可吸收魔力的物品。
-item.ancientspellcraft\:charm_mana_flask.name=无底魔法面具
+item.ancientspellcraft\:charm_mana_flask.name=无底魔法瓶
 item.ancientspellcraft\:charm_mana_orb.desc=减少 15%% 魔力消耗
 item.ancientspellcraft\:charm_mana_orb.name=宁静水晶宝珠
 item.ancientspellcraft\:charm_necromancy_orb.desc2=激活能力：举起这个魔球将会释放出一场致命的瘟疫。
@@ -349,8 +326,8 @@ item.ancientspellcraft\:charm_necromancy_orb.name=无边黑暗宝珠
 item.ancientspellcraft\:charm_omnicron.desc=据说这个来源不明的立方体中存储着关于迄今为止所有法术的知识。
 item.ancientspellcraft\:charm_omnicron.discover=你轻敲揭示立方，其中蕴含的无尽知识让你领悟了法术 - %1$s！
 item.ancientspellcraft\:charm_omnicron.name=揭示立方
-item.ancientspellcraft\:charm_omnicron.no_mana=揭示立方没有足够的魔力了（需要%1$s）
-item.ancientspellcraft\:charm_omnicron.wrong_hand=我需要在主手持有揭示立方
+item.ancientspellcraft\:charm_omnicron.no_mana=揭示立方没有足够的魔力了⋯⋯（需要%1$s）
+item.ancientspellcraft\:charm_omnicron.wrong_hand=我需要在主手持有揭示立方⋯⋯
 item.ancientspellcraft\:charm_omnicron.wrong_item=需要副手持有一个未鉴定的法术
 item.ancientspellcraft\:charm_power_orb.desc=赋予全部法术 +20%% 强度，但是魔力消耗 +20%%
 item.ancientspellcraft\:charm_power_orb.name=力量宝珠
@@ -544,7 +521,6 @@ item.ancientspellcraft\:wizard_hat_ancient.name=远古巫师帽
 item.ancientspellcraft\:wizard_hat_ancient=远古巫师帽
 item.ancientspellcraft\:scepter_mind_control.name=帝王权杖
 item.ancientspellcraft\:scepter_mind_control.desc=被权杖攻击到的生物，会被施加永久的精神控制效果。\n此物品最多只能控制一只生物。
-
 item.ancientspellcraft\:sage_tome_novice_fire.name=新手贤者宝典
 item.ancientspellcraft\:sage_tome_novice_ice.name=新手贤者宝典
 item.ancientspellcraft\:sage_tome_novice_lightning.name=新手贤者宝典
@@ -552,7 +528,6 @@ item.ancientspellcraft\:sage_tome_novice_necromancy.name=新手贤者宝典
 item.ancientspellcraft\:sage_tome_novice_earth.name=新手贤者宝典
 item.ancientspellcraft\:sage_tome_novice_sorcery.name=新手贤者宝典
 item.ancientspellcraft\:sage_tome_novice_healing.name=新手贤者宝典
-
 item.ancientspellcraft\:sage_tome_apprentice_fire.name=学徒贤者宝典
 item.ancientspellcraft\:sage_tome_apprentice_ice.name=学徒贤者宝典
 item.ancientspellcraft\:sage_tome_apprentice_lightning.name=学徒贤者宝典
@@ -560,7 +535,6 @@ item.ancientspellcraft\:sage_tome_apprentice_necromancy.name=学徒贤者宝典
 item.ancientspellcraft\:sage_tome_apprentice_earth.name=学徒贤者宝典
 item.ancientspellcraft\:sage_tome_apprentice_sorcery.name=学徒贤者宝典
 item.ancientspellcraft\:sage_tome_apprentice_healing.name=学徒贤者宝典
-
 item.ancientspellcraft\:sage_tome_advanced_fire.name=进阶贤者宝典
 item.ancientspellcraft\:sage_tome_advanced_ice.name=进阶贤者宝典
 item.ancientspellcraft\:sage_tome_advanced_lightning.name=进阶贤者宝典
@@ -568,7 +542,6 @@ item.ancientspellcraft\:sage_tome_advanced_necromancy.name=进阶贤者宝典
 item.ancientspellcraft\:sage_tome_advanced_earth.name=进阶贤者宝典
 item.ancientspellcraft\:sage_tome_advanced_sorcery.name=进阶贤者宝典
 item.ancientspellcraft\:sage_tome_advanced_healing.name=进阶贤者宝典
-
 item.ancientspellcraft\:sage_tome_master_fire.name=大师贤者宝典
 item.ancientspellcraft\:sage_tome_master_ice.name=大师贤者宝典
 item.ancientspellcraft\:sage_tome_master_lightning.name= 大师贤者宝典
@@ -576,29 +549,20 @@ item.ancientspellcraft\:sage_tome_master_necromancy.name=大师贤者宝典
 item.ancientspellcraft\:sage_tome_master_earth.name= 大师贤者宝典
 item.ancientspellcraft\:sage_tome_master_sorcery.name=大师贤者宝典
 item.ancientspellcraft\:sage_tome_master_healing.name=大师贤者宝典
-
 item.ebwizardry\:identification_scroll.desc=鉴定一个未知的法术书、卷轴或仪式书
-
-# creative tab
 itemGroup.ancientspellcraft.tabAncientSpellcraft=古代咒法
 itemGroup.ancientspellcraft=古代咒法
 itemGroup.ancientspellcraftgear=古代咒法｜装备
 itemGroup.ancientspellcraftrituals=古代咒法｜仪式
-
-# keyboard buttons
 key.ancientspellcraft.category=古代咒法
 key.ancientspellcraft.charm_bauble_activate=激活护身符饰品
 key.ancientspellcraft.charm_ring_1_activate=激活 1 号指环饰品
 key.ancientspellcraft.charm_ring_2_activate=激活 2 号指环饰品
 key.ancientspellcraft.open_radial_spell_menu=打开法术轮盘菜单
-
-# misc
 misc.ancientspellcraft\:overworld=主世界
 misc.ancientspellcraft\:potency=法术强度
 misc.ancientspellcraft\:the_end=末地
 misc.ancientspellcraft\:the_nether=下界
-
-# potion
 potion.ancientspellcraft\:aquatic_agility=水生敏捷
 potion.ancientspellcraft\:arcane_aegis=奥术庇护
 potion.ancientspellcraft\:arcane_augmentation=增强
@@ -638,9 +602,6 @@ potion.ancientspellcraft\:unlimited_power=无穷之力
 potion.ancientspellcraft\:water_walking=水上行走
 potion.ancientspellcraft\:dimensional_anchor=维度锚
 potion.ancientspellcraft\:wizard_shield=巫师之盾
-
-
-# relic
 relic_type.enchantment.instruction=主手持握石板，副手持握需附魔的物品，按住右键 6 秒以附魔
 relic_type.enchantment=附魔
 relic_type.incantation.instruction=持握石板，按住右键 6 秒，粉碎石板并释放其中蕴含的咒术
@@ -650,9 +611,6 @@ relic_type.power=力量
 relic_type.spell.instruction=可使用法术抄写台制造法术
 relic_type.spell.required_components=需求组分：
 relic_type.spell=法术
-
-
-# ritual
 ritual.ancientspellcraft\:arcane_barrier.desc=幻化出一道无法穿透的魔力屏障，阻隔盟友之外的任何生物。该仪式需要一个 5x5 大小的平台来开展。\n平台的构筑材质将决定屏障的尺寸。\n青金石块：半径 10 格\n魔力水晶块：半径 20 格\n绿宝石块：半径 25 格\n金块：半径 30 格\n钻石块：半径 35 格。\n将一块大型魔力水晶掷向中心位置的符文来开展仪式。
 ritual.ancientspellcraft\:arcane_barrier=奥术屏障仪式
 ritual.ancientspellcraft\:bonfire.desc=这种仪式会将施法者的灵魂绑定在仪式开展的位置，将其重生点定位在此处。
@@ -664,18 +622,12 @@ ritual.ancientspellcraft\:forest.desc=这一仪式能够在瞬间于施放处长
 ritual.ancientspellcraft\:forest=森林仪式
 ritual.ancientspellcraft\:rejuvenation.desc=复苏仪式是一种强大的恢复法术，只要受伤的生物身处作用范围内，再深的伤疤都能在数秒之内得以愈合。仪式的再生能力能够在顷刻间克制凋零、中毒与反胃效果。
 ritual.ancientspellcraft\:rejuvenation=复苏仪式
-
-# artefact set
 set.ancientspellcraft\:elemental_orbs=元素宝珠
 set.ancientspellcraft\:jewels_of_power.bonus=+%s%% 法术强度
 set.ancientspellcraft\:jewels_of_power=力量饰品
 set.ancientspellcraft\:set_bonus=饰品套装增益：%s
 set.ancientspellcraft\:set_name_with_count=%1$s（%3$s 中有 %2$s）
-
-# setting
 settings.ancientspellcraft:\general_settings=通用设置
-
-# spell
 spell.ancientspellcraft\:animate_item=物品活化
 spell.ancientspellcraft\:animate_item.desc=将生命活力赋予一件物品，使其与你并肩战斗，持续时间为 30 秒，活化物品被击杀也会终止活化。
 spell.ancientspellcraft\:animate_item.devoritium_item=你无法活化噬法物品
@@ -699,7 +651,7 @@ spell.ancientspellcraft\:arcane_beam.desc=发射一道瞬时的强烈魔法光�
 spell.ancientspellcraft\:arcane_beam=奥术光束
 spell.ancientspellcraft\:arcane_magnetism.desc=将施法者周围的所有物体拉向施法者。
 spell.ancientspellcraft\:arcane_magnetism=奥术磁场
-spell.ancientspellcraft\:armageddon.desc=释放烈焰的力量来摧毁你的敌人，以及你身旁的一切
+spell.ancientspellcraft\:armageddon.desc=释放烈焰的力量来摧毁你的敌人，以及你身旁的一切⋯⋯
 spell.ancientspellcraft\:armageddon=末日降临
 spell.ancientspellcraft\:aspect_hunter.desc=向施法者的箭矢中灌输魔力，使其具有更远的射程，并且造成更多伤害。
 spell.ancientspellcraft\:aspect_hunter=奥术猎手
@@ -737,7 +689,7 @@ spell.ancientspellcraft\:channel_power=力量引导
 spell.ancientspellcraft\:conduit.desc=能让你在魔杖间互通魔力。需要双手都持有魔杖。
 spell.ancientspellcraft\:conduit.no_wand=需要双手都持有魔杖。
 spell.ancientspellcraft\:conduit=魔力流转
-spell.ancientspellcraft\:conflagration.desc=把它们烧光！
+spell.ancientspellcraft\:conflagration.desc=把它们⋯⋯烧⋯⋯光！
 spell.ancientspellcraft\:conflagration=焚尽术
 spell.ancientspellcraft\:conjure_fishing_rod.desc=召唤一个幽冥钓鱼竿。法术增强效果将会增强鱼竿拥有的附魔数量和等级。
 spell.ancientspellcraft\:conjure_fishing_rod=幽冥鱼竿
@@ -798,7 +750,7 @@ spell.ancientspellcraft\:dimensional_anchor=维度锚
 spell.ancientspellcraft\:dispel_greater_magic.desc=解除最高进阶等级的魔法构造物和魔法攻击，消灭所有召唤物，还能驱除敌人的全部增益效果。
 spell.ancientspellcraft\:dispel_greater_magic=解除高等法术
 spell.ancientspellcraft\:dispel_item_curse.desc=移除附于施法者副手的一件物品或者穿戴的一件盔甲上的诅咒。
-spell.ancientspellcraft\:dispel_item_curse=袪咒
+spell.ancientspellcraft\:dispel_item_curse=祛咒
 spell.ancientspellcraft\:dispel_lesser_magic.desc=解除最高学徒等级的魔法构造物和魔法攻击，如果命中敌人，还能够驱除目标的一项增益效果。
 spell.ancientspellcraft\:dispel_lesser_magic=解除低等法术
 spell.ancientspellcraft\:drought.desc=枯萎皱缩，\n凋谢靡弱，\n生命垂朽，\n草木零落。
@@ -833,7 +785,7 @@ spell.ancientspellcraft\:forcefend.desc=将迫近的弹射物反射给敌人。
 spell.ancientspellcraft\:forcefend=反制
 spell.ancientspellcraft\:frost_nova.desc=充能 2 秒之后，射出由锋利的碎冰构成的冰环。
 spell.ancientspellcraft\:frost_nova=冰霜新星
-spell.ancientspellcraft\:grow_self.desc=能让施法者在短时间内成为一个巨人。巨化会带来多种效果，比如增加跳跃高度，攻击速度，增加生命值和伤害
+spell.ancientspellcraft\:grow_self.desc=能让施法者在短时间内成为一个巨人。巨化会带来多种效果，比如增加跳跃高度，攻击速度，增加生命值和伤害⋯⋯
 spell.ancientspellcraft\:grow_self=自我巨化
 spell.ancientspellcraft\:hand_of_gaia=盖亚之手
 spell.ancientspellcraft\:harvest.desc=收获施法者周围的作物。如果施法者持有种子，还会重新种植它们。
@@ -842,7 +794,7 @@ spell.ancientspellcraft\:healing_heart.desc=射出治愈之心，令命中的生
 spell.ancientspellcraft\:healing_heart=治愈之心
 spell.ancientspellcraft\:heat_furnace.desc=未完成
 spell.ancientspellcraft\:heat_furnace=热力熔炉
-spell.ancientspellcraft\:hellgate.desc=掌控火的秘密，开启一扇扇机遇之门
+spell.ancientspellcraft\:hellgate.desc=掌控火的秘密，开启一扇扇机遇之门⋯⋯
 spell.ancientspellcraft\:hellgate=地狱之门
 spell.ancientspellcraft\:horse_whistle.desc=用魔力加持的口哨声让你的坐骑来到你身边，即使它在很远的地方也同样适用
 spell.ancientspellcraft\:horse_whistle=马哨
@@ -913,7 +865,7 @@ spell.ancientspellcraft\:regrowth.desc=为施法者或目标（潜行选定）�
 spell.ancientspellcraft\:regrowth=再生
 spell.ancientspellcraft\:sacred_mace.desc=使施法者召唤出传奇的神圣页锤
 spell.ancientspellcraft\:sacred_mace=神圣页锤
-spell.ancientspellcraft\:shrink_self.desc=能让你在短时间内缩小。缩小会带来一系列效果，比如免疫摔落伤害，增加移动速度，减少攻击伤害
+spell.ancientspellcraft\:shrink_self.desc=能让你在短时间内缩小。缩小会带来一系列效果，比如免疫摔落伤害，增加移动速度，减少攻击伤害⋯⋯
 spell.ancientspellcraft\:shrink_self=自我缩小
 spell.ancientspellcraft\:silencing_sigil.desc=放置一个奥术印记，利用魔力消除 5 格半径内所有声音。
 spell.ancientspellcraft\:silencing_sigil=沉默魔符
@@ -987,7 +939,7 @@ spell.ancientspellcraft\:words_of_unbinding=解绑言术
 spell.ancientspellcraft\:words_of_unbinding.no_wand=你必须用魔杖来施放这个法术。
 spell.ancientspellcraft\:words_of_unbinding.disenchanting_no_item=你应该在你的副手拿上一件附魔物品来祛除它的附魔。
 spell.ancientspellcraft\:words_of_unbinding.no_upgrade_to_remove=你必须手持一根至少拥有一个可移除升级的法杖。
-spell.ancientspellcraft\:zombification.desc=将选定的村民变为僵尸村民。\n\n死亡，仅仅是开始”
+spell.ancientspellcraft\:zombification.desc=将选定的村民变为僵尸村民。\n\n死亡，仅仅是开始⋯⋯”
 spell.ancientspellcraft\:zombification=尸变
 spell.ancientspellcraft\:swamp.desc=暂时将你周边的区域转化为沼泽地形
 spell.ancientspellcraft\:swamp=沼泽
@@ -1005,13 +957,8 @@ spell.ancientspellcraft\:cauterize.desc=使施法者着火，其间可能会造�
 spell.ancientspellcraft\:cauterize=烧灼疗法
 spell.ancientspellcraft\:metabolism_overdrive.desc=折损饥饿值并奇迹般地恢复生命值。
 spell.ancientspellcraft\:metabolism_overdrive=超速代谢
-
-# spell type
 spelltype.contingency=触发法术
 spelltype.metamagic=超魔
-
-
-# tileentity
 tile.ancientspel-lcraft\:crystal_ore_healing.name=光辉水晶矿石
 tile.ancientspellcraft\:artefact_pensive.name=沉思盂
 tile.ancientspellcraft\:crystal_ore_earth.name=苍翠水晶矿石
@@ -1021,7 +968,7 @@ tile.ancientspellcraft\:crystal_ore_lightning.name=风暴水晶矿石
 tile.ancientspellcraft\:crystal_ore_necromancy.name=邃暗水晶矿石
 tile.ancientspellcraft\:crystal_ore_sorcery.name=秘源水晶矿石
 tile.ancientspellcraft\:crystal_ore_healing.name=光辉水晶矿石
-tile.ancientspellcraft\:devoritium_bars.name=噬法护栏
+tile.ancientspellcraft\:devoritium_bars.name=噬法栏杆
 tile.ancientspellcraft\:devoritium_block.desc_extended=这一颜色暗沉的方块似乎可以抑制任何形态的魔法
 tile.ancientspellcraft\:devoritium_block.name=噬法块
 tile.ancientspellcraft\:devoritium_ore.name=噬法矿石
@@ -1045,8 +992,6 @@ tile.ancientspellcraft\:sphere_cognizance.desc=描述
 tile.ancientspellcraft\:sphere_cognizance.name=鉴咒魔球
 tile.ancientspellcraft\:sphere_cognizance.tooltip=研究石板与法术书
 tile.ancientspellcraft\:sphere_cognizance.known_book=你已知悉这一物品
-
-# tooltip
 tooltip.ancientspellcraft\:artefact_use.usage=右击使用
 tooltip.ancientspellcraft\:missing_artemislib.disabled_item=未安装 ArtemisLib，该物品已禁用！
 tooltip.ancientspellcraft\:missing_artemislib.disabled_spell=未安装 ArtemisLib，该法术已禁用！
@@ -1054,7 +999,6 @@ tooltip.ancientspellcraft\:ancient_relic_tooltip=远古遗物
 tooltip.ancientspellcraft\:ancient_relic_research=使用鉴咒魔球来研究该物品
 tooltip.ancientspellcraft\:mana_with_eternal_source_name=魔力：%1$s/%2$s（%3$s）
 tooltip.ancientspellcraft\:no_mana_source=缺少魔力源
-
 integration.antiqueatlas.marker.ancientspellcraft.battlemage_camp=战斗法师营地
 integration.antiqueatlas.marker.ancientspellcraft.battlemage_keep=战斗法师贮存处
 integration.jei.category.ancientspellcraft\:arcane_anvil=奥术砧

@@ -37,7 +37,6 @@ upgrade.computercraft:advanced_modem.adjective=末影
 upgrade.computercraft:speaker.adjective=喧闹
 chat.computercraft.wired_modem.peripheral_connected=外围设备 "%s" 连接到网络
 chat.computercraft.wired_modem.peripheral_disconnected=外围设备 "%s" 与网络断开连接
-# Command descriptions, usage and any additional messages.
 commands.computercraft.synopsis=用于控制计算机的各种命令。
 commands.computercraft.desc=命令 "/computercraft" 提供了用于控制计算机、与其交互的各种调试工具和管理员工具。
 commands.computercraft.help.synopsis=为特定命令提供帮助
@@ -86,7 +85,6 @@ commands.computercraft.reload.synopsis=重新加载ComputerCraft配置文件
 commands.computercraft.reload.desc=重新加载ComputerCraft配置文件
 commands.computercraft.reload.done=重新加载配置
 gui.computercraft.tooltip.computer_id=(计算机ID:%s)
-# Misc tooltips
 gui.computercraft.tooltip.copy=复制到剪贴板
 tracking_field.computercraft.coroutines_dead.name=协同程序处理
 tracking_field.computercraft.coroutines_created.name=协同程序创建
@@ -148,14 +146,12 @@ gui.computercraft:config.default_computer_settings=默认计算机设置
 gui.computercraft:config.disable_lua51_features=禁用Lua 5.1功能
 gui.computercraft:config.maximum_open_files=每台计算机打开的最大文件数
 gui.computercraft:config.floppy_space_limit=软盘空间限制（字节）
-# Config options
 gui.computercraft:config.computer_space_limit=计算机空间限制（字节）
 gui.computercraft.tooltip.disk_id=(磁盘ID: %s)
 tracking_field.computercraft.total.name=总时间
-# Names for the various tracking fields.
 tracking_field.computercraft.tasks.name=任务
 commands.computercraft.argument.not_number=“%s”不是一个数字
 commands.computercraft.argument.many_matching=多台计算机匹配“%s”（例子%s）
 commands.computercraft.argument.no_matching=没有与“%s”匹配的计算机
-commands.computercraft.generic.additional_rows=%d 其他行
+commands.computercraft.generic.additional_rows=%d 其他行⋯⋯
 commands.computercraft.queue.desc=将 computer_command 事件发送到命令计算机，传递其他参数。这主要是为地图制作者设计的，作为一个更适合计算机的 "/trigger" 版本。任何玩家都可以运行该命令，那些希望完成文本组件人可以通过单击来运行。

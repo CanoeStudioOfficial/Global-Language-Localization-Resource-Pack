@@ -1,4 +1,3 @@
-#Tabs ==================================================
 itemGroup.jurassicraft.items=侏罗纪世界丨物品
 itemGroup.jurassicraft.blocks=侏罗纪世界丨方块
 itemGroup.jurassicraft.dna=侏罗纪世界丨DNA
@@ -8,8 +7,6 @@ itemGroup.jurassicraft.fossils=侏罗纪世界丨化石
 itemGroup.jurassicraft.decorations=侏罗纪世界丨公园装饰
 itemGroup.jurassicraft.vehicles=侏罗纪世界丨载具
 itemGroup.jurassicraft.eggs=侏罗纪公园丨刷怪蛋
-
-#Entities ==================================================
 entity.jurassicraft.velociraptor.name=伶盗龙
 entity.jurassicraft.tyrannosaurus.name=暴龙
 entity.jurassicraft.dilophosaurus.name=双脊龙
@@ -20,8 +17,6 @@ entity.jurassicraft.brachiosaurus.name=腕龙
 entity.jurassicraft.coelacanth.name=腔棘鱼
 entity.jurassicraft.microraptor.name=小盗龙
 entity.jurassicraft.mussaurus.name=鼠龙
-
-
 entity.jurassicraft.goat.name=山羊
 entity.jurassicraft.jeep_wrangler.name=吉普牧马人
 entity.jurassicraft.ford_explorer.name=福特探险者
@@ -29,14 +24,10 @@ entity.jurassicraft.helicopter_base.name=直升机
 entity.jurassicraft.mural.name=壁画
 entity.jurassicraft.attraction_sign.name=景点标志
 entity.jurassicraft.paddock_sign.name=围场标帜
-
 entity.Villager.jurassicraft:geneticist=遗传学家
 entity.Villager.jurassicraft:paleontologist=古生物学家
-
-#Items ==================================================
 item.plaster_and_bandage.name=石膏和绷带
 item.growth_serum.denied=此功能已被服务端禁用
-
 item.attraction_sign.name={type}景点标志
 attraction_sign.aquarium.name=水族馆
 attraction_sign.aquarium_coral.name=珊瑚水族馆
@@ -56,10 +47,8 @@ attraction_sign.triceratops_territorium.name=三角龙领地
 attraction_sign.triceratops_territorium_plants.name=长有植物的三角龙领地
 attraction_sign.tyrannosaurus_kingdom.name=暴龙王国
 attraction_sign.tyrannosaurus_kingdom_plants.name=长有植物的暴龙王国
-
 item.goat_raw.name=生山羊肉
 item.goat_cooked.name=烤山羊肉
-
 item.skull_fresh.name=新鲜的{dino}头骨
 item.tooth_fresh.name=新鲜的{dino}牙齿
 item.anal_fin_fresh.name=新鲜的{dino}臀鳍
@@ -100,9 +89,7 @@ item.wing_bones_fresh.name=新鲜的{dino}翼骨
 item.arm_bones_fresh.name=新鲜的{dino}手臂骨
 item.first_dorsal_fin_fresh.name=新鲜的{dino}第一背鳍
 item.pelvic_fin_bones_fresh.name=新鲜的{dino}腹鳍骨
-
 item.fossilized_egg.name=蛋化石
-
 item.lunch_box.name=塑料午餐盒
 item.stamp_set.name=集邮册
 item.fun_fries.name=炸薯条
@@ -147,7 +134,6 @@ item.caudal_fin.name={dino}尾鳍
 item.wing_bones.name={dino}翼骨
 item.arm_bones.name={dino}手臂骨
 item.first_dorsal_fin.name={dino}第一背鳍
-
 item.dino_egg.name={dino}蛋
 item.hatched_egg.name=孵化完成的{dino}蛋
 item.gestated.name=培育完成的{dino}
@@ -229,10 +215,7 @@ item.dart_poison_cycasin.name=剧毒镖
 item.dart_poison_executioner_concoction.name=凋零镖
 item.dart_tipped_potion.name=药水镖
 item.west_indian_lilac_berries.name=西印度丁香果
-
 filled_map.jurassicraft.visitorcenter=游客中心地图
-
-# Crops ========================================
 item.ajuginucula_smithii_seeds.name=渐新世小坚果种子
 item.ajuginucula_smithii_leaves.name=渐新世小坚果叶子
 item.ajuginucula_smithii_oil.name=渐新世小坚果油
@@ -245,8 +228,6 @@ item.liquid_agar.name=液态琼脂
 item.wild_potato_seeds.name=野马铃薯种子
 item.wild_potato.name=野马铃薯
 item.wild_potato_cooked.name=烤野马铃薯
-
-#Blocks ==================================================
 tile.ancient_item_holding_block.name=Ancient Item Holding Block
 tile.fossil_block.name={dinosaur}化石
 tile.encased_fossil.name=包裹着的{dinosaur}化石
@@ -260,7 +241,6 @@ tile.moss.name=苔藓
 tile.peat.name=泥炭
 tile.peat_moss.name=苔藓泥炭
 tile.moss_on_peat.name=泥炭上的苔藓
-
 tile.cleaning_station.name=清洗站
 tile.fossil_grinder.name=化石磨床
 tile.dna_sequencer.name=DNA 测序器
@@ -271,16 +251,13 @@ tile.incubator.name=恒温箱
 tile.dna_extractor.name=DNA 提取器
 tile.dna_combinator_hybridizer.name=DNA 混合提升器
 tile.skeleton_assembly.name=骨架组装台
-
 tile.tour_rail.name=旅游车轨道
 tile.tour_rail_slow.name=缓速旅游车轨道
 tile.tour_rail_medium.name=中速旅游车轨道
 tile.tour_rail_fast.name=快速旅游车轨道
-
 tile.gypsum_stone.name=石膏石
 tile.gypsum_cobblestone.name=石膏圆石
 tile.gypsum_bricks.name=石膏砖
-
 tile.ginkgo_sapling.name=银杏树苗
 tile.ginkgo_planks.name=银杏木板
 tile.ginkgo_log.name=银杏原木
@@ -292,7 +269,6 @@ tile.ginkgo_fence.name=银杏木栅栏
 tile.ginkgo_fence_gate.name=银杏木栅栏门
 tile.ginkgo_door.name=银杏木门
 item.ginkgo_door_item.name=银杏木门
-
 tile.araucaria_sapling.name=南洋杉树苗
 tile.araucaria_planks.name=南洋杉木板
 tile.araucaria_log.name=南洋杉原木
@@ -304,7 +280,6 @@ tile.araucaria_fence.name=南洋杉木栅栏
 tile.araucaria_fence_gate.name=南洋杉木栅栏门
 tile.araucaria_door.name=南洋杉木门
 item.araucaria_door_item.name=南洋杉木门
-
 tile.calamites_sapling.name=芦木树苗
 tile.calamites_leaves.name=芦木树叶
 tile.calamites_log.name=芦木原木
@@ -316,7 +291,6 @@ tile.calamites_fence.name=芦木栅栏
 tile.calamites_fence_gate.name=芦木栅栏门
 tile.calamites_door.name=芦木门
 item.calamites_door_item.name=芦木门
-
 tile.psaronius_sapling.name=辉木树苗
 tile.psaronius_planks.name=辉木木板
 tile.psaronius_log.name=辉木原木
@@ -328,7 +302,6 @@ tile.psaronius_fence.name=辉木栅栏
 tile.psaronius_fence_gate.name=辉木栅栏门
 tile.psaronius_door.name=辉木门
 item.psaronius_door_item.name=辉木门
-
 tile.phoenix_sapling.name=海枣树苗
 tile.phoenix_planks.name=海枣木板
 tile.phoenix_log.name=海枣原木
@@ -340,7 +313,6 @@ tile.phoenix_fence.name=海枣木栅栏
 tile.phoenix_fence_gate.name=海枣木栅栏门
 tile.phoenix_door.name=海枣木门
 item.phoenix_door_item.name=海枣木门
-
 tile.small_royal_fern.name=西洋薇
 tile.small_chain_fern.name=狗脊蕨
 tile.small_cycad.name=小型苏铁
@@ -377,49 +349,37 @@ item.stylophyllopsis_coral.name=三叠纪珊瑚
 item.hippurites_radiosus_coral.name=马尾蛤
 tile.heliconia.name=蝎尾蕉
 tile.rhamnus_salicifolius.name=柳叶鼠李
-
 tile.reinforced_stone.name=防爆石
 tile.reinforced_bricks.name=钢筋砖
-
 tile.cultivate.name={color}培养仓
 tile.cultivator.name=培养仓
-
 tile.clear_glass.name=通透玻璃
 tile.clear_glass_pane.name=通透玻璃板
 tile.reinforced_glass.name=强化玻璃
 tile.reinforced_glass_pane.name=强化玻璃板
-
 tile.feeder.name=喂食器
 tile.bug_crate.name=昆虫养殖箱
-
 tile.paleo_bale_cycadeoidea.name=史前拟苏铁植物块
 tile.paleo_bale_cycad.name=史前小型苏铁植物块
 tile.paleo_bale_fern.name=史前蕨类植物块
 tile.paleo_bale_leaves.name=史前植物叶块
 tile.paleo_bale_other.name=史前植物块
-
 tile.low_security_fence_pole.name=低安全性栅栏杆
 tile.low_security_fence_base.name=低安全性栅栏基座
 tile.low_security_fence_wire.name=低安全性栅栏网
-
 tile.med_security_fence_pole.name=中安全性栅栏杆
 tile.med_security_fence_base.name=中安全性栅栏基座
 tile.med_security_fence_wire.name=中安全性栅栏网
-
 tile.high_security_fence_pole.name=高安全性栅栏杆
 tile.high_security_fence_base.name=高安全性栅栏基座
 tile.high_security_fence_wire.name=高安全性栅栏网
-
 trackway.biped_medium.name=两足动物
 trackway.biped_small.name=小型两足动物
 trackway.raptor.name=盗龙
-
 tile.ajuginucula_smithii.name=渐新世小坚果
 tile.wild_onion_plant.name=野洋葱植株
 tile.gracilaria_seaweed.name=江蓠植株
 tile.wild_potato_plant.name=野马铃薯植株
-
-#Plants =========================================
 plants.small_royal_fern.name=西洋薇
 plants.calamites.name=芦木
 plants.small_chain_fern.name=狗脊蕨
@@ -461,8 +421,6 @@ plants.stylophyllopsis.name=三叠纪珊瑚
 plants.hippurites_radiosus.name=马尾蛤
 plants.heliconia.name=蝎尾蕉
 plants.rhamnus_salifocifus.name=柳叶鼠李
-
-#Containers ==================================================
 container.cleaning_station=清洗站
 container.cleaning_station.cleanFossilButton=干净的化石
 container.fossil_grinder=化石磨床
@@ -486,9 +444,6 @@ cultivator.proximates.name=临近的
 cultivator.minerals.name=矿物质
 cultivator.vitamins.name=维生素
 cultivator.lipids.name=油脂
-
-
-#Others ==================================================
 blue_print.blank.name=空白
 lore.dna_quality.name=DNA 质量：{quality}%%
 lore.baby_dino.name=Shift 右击生成幼年恐龙
@@ -501,7 +456,6 @@ lore.change_gender2.name=Shift 右击空气转换性别
 item.record.jurassicraft_theme.desc=PigeonAce - JurassiCraft Theme
 item.record.troodons_and_raptors.desc=PigeonAce - Troodons And Raptors
 item.record.dont_move_a_muscle.desc=PigeonAce - Don't Move A Muscle
-
 cage.empty.name=空白
 gender.male.name=雄性
 gender.female.name=雌性
@@ -516,7 +470,6 @@ variant.skeletonchange.name=此骨架现在将处于{mode}姿势。
 type.standchange.name=这个头颅现在会生成一个{mode}方块。
 amber.mosquito.name=蚊子
 amber.aphid.name=蚜虫
-
 color.red.name=红色
 color.orange.name=橙色
 color.yellow.name=黄色
@@ -533,7 +486,6 @@ color.brown.name=棕色
 color.gray.name=灰色
 color.silver.name=淡灰色
 color.cyan.name=青色
-
 period.quaternary.name=第四纪
 period.neogene.name=第三纪
 period.paleogene.name=早第三纪
@@ -546,30 +498,20 @@ period.devonian.name=泥盆纪
 period.silurian.name=志留纪
 period.ordovician.name=奥陶纪
 period.cambrian.name=寒武纪
-
-#Achievements ==============================================
 achievement.jurassicraft.mod=侏罗纪世界！
 achievement.jurassicraft.mod.desc=一起玩侏罗纪世界吧！
-
 achievement.jurassicraft.paleontology=古生物学
 achievement.jurassicraft.paleontology.desc=使用纸、石膏粉和羊毛来制作石膏绷带
-
 achievement.jurassicraft.amber=古老的昆虫
 achievement.jurassicraft.amber.desc=挖掘一些琥珀并收集它们
-
 achievement.jurassicraft.fossils=包裹
 achievement.jurassicraft.fossils.desc=使用石膏绷带来包囊化石
-
 achievement.jurassicraft.cleaningStation=保持卫生！
 achievement.jurassicraft.cleaningStation.desc=制造出一台清洗站！
-
 achievement.jurassicraft.fossilGrinder=研磨，捣碎！
 achievement.jurassicraft.fossilGrinder.desc=制造出一台化石磨床！
-
 achievement.jurassicraft.reinforcedStone=安全第一！
 achievement.jurassicraft.reinforcedStone.desc=制造出一些防爆石！
-
-#Keybinds ==============================================
 key.microraptor_dismount=离开小盗龙
 key.vehicle_0.switch=尝试移动到座位 1
 key.vehicle_1.switch=尝试移动到座位 2
@@ -588,19 +530,15 @@ key.vehicle_helicopter.autopilot=自动驾驶 开/关
 key.vehicle_helicopter.lock=旋转锁 开/关
 key.vehicle_helicopter.rotate_left=左转
 key.vehicle_helicopter.rotate_right=右转
-
-#Other =============
 message.tame.name=你驯服了一只{dinosaur}
 message.not_owned.name=你没有拥有这只恐龙！
 message.not_imprinted.name=未标记
 message.too_young.name=这只恐龙还太小！
 message.set_order.name=你命令你的恐龙{order}。
-
 growth_stage.infant.name=幼年
 growth_stage.juvenile.name=少年
 growth_stage.adolescent.name=青少年
 growth_stage.adult.name=成年
-
 order.wander.name=散步
 order.sit.name=坐着
 order.follow.name=跟随
@@ -608,14 +546,12 @@ status.owner.name=Owner
 order.name=Order
 slot.name=Slot
 gui.select_order.name=选择顺序
-
 gui.dinosaur_statistics.name=恐龙相关数据：
 gui.health.name=生命值：
 gui.hunger.name=饥饿度：
 gui.thirst.name=口渴值：
 gui.age.name=年龄：
 gui.days_old.name={value}日龄
-
 status.drowning.name=溺水
 status.hungry.name=饥饿
 status.low_health.name=低生命值
@@ -632,7 +568,6 @@ status.nocturnal.name=夜行性
 status.crepuscular.name=晨昏性
 status.piscivorous.name=食鱼性
 status.insectivorous.name=食虫性
-
 info.jurassicraft.triceratops.name=三角龙生活在白垩纪 晚期的北美地区，它 们是草食性的恐龙， 主要以棕榈树、苏铁 以及蕨类植物为食。 当它们完全成年的时 候，三角龙可以达到 8-9 米长，重 6-12 吨。它 们的头饰用来展示， 而角则被用来进行攻 击或者防御的工具。 三角龙一般生活在由  5-15 只组成 的群居家庭中，在这 个家庭中通常雌性占 首要领导地位。
 info.jurassicraft.dilophosaurus.name=双脊龙，是来自侏罗 纪早期的亚利桑那州 地区的兽脚亚目恐龙 ，是最早的大型掠食 性恐龙之一，身长 6-7 米。它的头 上长着一对独特的双 冠，但这对冠实际上 是有毒的，它们会向 猎物喷射毒液，如果 毒液击中眼睛，则会 导致失明和极度的痛 苦，并最终导致其瘫 痪。双脊龙生活在小 而无组织的族群中（ 通常由 3-10 只的雄性和雌性组成）
 info.jurassicraft.brachiosaurus.name=腕龙是一种生活在侏 罗纪晚期的北美洲地 区的巨型蜥脚类恐龙 ，它可以长到 25-26 米长，身高 在 9 米以上，重 量可达 40 吨。 它被认为能从树顶直 接进行觅食，食物多 为银杏叶、针叶树、 树蕨、大型苏铁等。 腕龙生活在由 2-15 只组成的族群 中，通常都由一只雄 性或雌性碗龙领导。 它们可以通过发出一 种特殊的声音来进行 群体间的交流。
@@ -643,7 +578,6 @@ info.jurassicraft.gallimimus.name=似鸡龙是一种生活在 白垩纪晚期的
 info.jurassicraft.microraptor.name=小盗龙是一种生活在 中国东北地区的早白 垩纪时期（1.25-1.22 亿年前） 的恐龙，它是至今 为止发现的最著名的 带羽毛的恐龙之一。 其的毛色已知为黑色 但带有虹彩。专家推 测，它们有可能借助 这些羽毛进行滑翔。 小盗龙是一种聪明的 、群居捕食者，它们 一般以昆虫和其他小 动物为食。
 info.jurassicraft.coelacanth.name=腔棘鱼是最后一种现 代腔棘鱼，它的历史 甚至能追溯到泥盆纪 时期。‘腔棘’的意 思为‘中空的脊椎’ 。它能使用身上的 8 个不同的鳍，很轻松 的把自己旋转到不同 的角度与方向。腔棘 鱼是一种仅在印度洋 深处发现的夜行性肉 食性捕食者。和现代 不同，史前的腔棘鱼 是非常多样化的。
 info.jurassicraft.mussaurus.name=鼠龙是一种生活在三 叠纪晚期的阿根廷地 区的的小型原蜥脚类 恐龙。它的名字意思 是‘老鼠恐龙’，因 为在很长一段时间内 ，人们研究的都只是 这些恐龙的幼体骨骼 。这说明这些幼体恐 龙是需要成年恐龙照 顾的。在原蜥脚类恐 龙中，鼠龙也是非常 小的。它只需要茂盛 的植被、一些树木和 水就可以生存。
-
 journal.chef_alejandro.name=亚历杭德罗厨师
 journal.dennis_nedry.name=丹尼斯·纳立德
 journal.dr_gerry_harding.name=格里·哈丁博士
@@ -653,22 +587,17 @@ journal.ed_regis.name=埃德·瑞吉斯
 journal.john_hammond.name=约翰·哈蒙德
 journal.ray_arnold.name=雷·阿诺德
 journal.robert_muldoon.name=罗伯特·马尔登
-
 death.attack.shock.1=%s 现在意外的酥脆！
 death.attack.shock.2=%s 触电而亡！
-
 death.attack.jurassic.car0=%s 被车撞了！
 death.attack.jurassic.car1=%s 过马路没看路！
 death.attack.jurassic.car2=%s 过马路没左右看！
-
 crafting.skeleton.needed=需要{bonename}
 crafting.skeleton.toomany=需要{bonename}
 crafting.skeleton.mismatched=不匹配的骨头
-
 dinosaur.pregnancytest.male=雄性恐龙可不能怀孕:/
 dinosaur.pregnancytest.not_pregnant=恐龙未怀孕
 dinosaur.pregnancytest.pregnant=恐龙怀孕了，恭喜你！\o/
-
 info.jei.serum=使任何恐龙立即成长到成熟。
 info.jei.extractor=DNA 可以从某些物质（肉或琥珀）中提取
 info.jei.cultivator=使史前胚胎培育到完成状态
@@ -679,8 +608,6 @@ info.jei.krill_plankton=鱼类生物的食物来源（放置在水源方块上�
 info.jei.peat_block.name=泥炭
 info.jei.placables=可放置在固体表面 - 景点标志需要一大片空地
 info.jei.combinator_hybridizer=合并相同类型的 DNA 存储磁盘至 100% 基因质量
-
-#Commands
 commands.spawnjc.usuage=/spawnjc <结构名称> [旋转数值] [镜像数值] [种子]
 commands.spawnjc.notfound=结构 %s 未找到
 commands.spawnjc.notrot=旋转角度 %s 未找到

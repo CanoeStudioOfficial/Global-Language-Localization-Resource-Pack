@@ -1,4 +1,3 @@
-# BLOCKS
 tile.cyberware.surgery.name=机械手术核心
 item.cyberware.surgery_chamber.name=手术仓
 tile.cyberware.surgery_chamber.name=手术仓
@@ -12,9 +11,6 @@ item.cyberware.component_box.name=元件收纳盒
 tile.cyberware.beacon.name=无线电装置
 tile.cyberware.beacon_large.name=无线电信号塔
 tile.cyberware.radio_post.name=无线电信号塔元件
-
-
-# ITEMS
 item.cyberware.body_part.brain.name=人类大脑
 item.cyberware.body_part.eyes.name=人类眼睛
 item.cyberware.body_part.heart.name=人类心脏
@@ -35,7 +31,6 @@ item.cyberware.cyberlimbs.cyberleg_left.name=机械左腿
 item.cyberware.cyberlimbs.cyberleg_right.name=机械右腿
 item.cyberware.cyberlimbs.cyberarm_left.name=机械左臂
 item.cyberware.cyberlimbs.cyberarm_right.name=机械右臂
-
 item.cyberware.manaseer_lens.lens.name=魔力先知晶状体
 item.cyberware.manaseer_lens.link.name=魔力链接
 item.cyberware.cybereyes.name=数控眼睛
@@ -84,14 +79,11 @@ item.cyberware.foot_upgrades.wheels.name=部署型转轮
 item.cyberware.arm_upgrades.bow.name=快挂飞轮
 item.cyberware.leg_upgrades.jump_boost.name=线性致动器
 item.cyberware.leg_upgrades.fall_damage.name=防摔落护腿
-
 item.cyberware.tough_as_nails_upgrades.sweat.name=极低温汗腺
 item.cyberware.tough_as_nails_upgrades.blubber.name=人造脂肪层
-
 item.cyberware.neuropozyne.name=排斥反应抑制剂
 item.cyberware.blueprint.name=空白蓝图
 item.cyberware.blueprint.not_blank.name=%1$s蓝图
-
 item.cyberware.component.actuator.name=致动器
 item.cyberware.component.reactor.name=生物反应器
 item.cyberware.component.titanium.name=钛金属网
@@ -102,18 +94,13 @@ item.cyberware.component.fullerene.name=富勒烯微结构
 item.cyberware.component.synthnerves.name=合成神经
 item.cyberware.component.storage.name=存储单元
 item.cyberware.component.microelectric.name=微电子单元
-
 item.cyberware.shades.name=墨镜
 item.cyberware.shades2.name=圆墨镜
 item.cyberware.katana.name=太刀
 item.cyberware.jacket.name=机车手夹克
 item.cyberware.trenchcoat.name=战壕大衣
-
-# TOOLTIPS
 itemGroup.cyberware=机械改造
-
 cyberware.gui.fine_manipulators=精细机械手合成栏
-
 cyberware.slot.eyes=眼部槽位
 cyberware.gui.missing_essential.eyes=缺少眼睛，将导致失明
 cyberware.slot.cranium=脑部槽位
@@ -142,7 +129,6 @@ cyberware.gui.missing_essential.leg.right=缺少右腿，将导致无法行走
 cyberware.slot.foot=脚部槽位
 cyberware.gui.missing_essential.foot.left=缺少左脚，将导致部位失灵
 cyberware.gui.missing_essential.foot.right=缺少右脚，将导致部位失灵
-
 cyberware.gui.no_essence=将遭受足以致死的严重排斥反应
 cyberware.gui.critical_essence=轻微排斥反应
 cyberware.gui.back=返回（或鼠标右击）
@@ -154,22 +140,18 @@ cyberware.gui.click=点击查看详情
 cyberware.gui.installed=操作核心手术索引
 cyberware.gui.added=（将被植入）
 cyberware.gui.removed=（将被移除）
-
 cyberware.gui.destroy=拆解
 cyberware.gui.destroy_chance=有%1$s概率获得蓝图
 cyberware.gui.to_destroy=放入要拆解的数码控件
 cyberware.gui.paper=需要放入纸
 cyberware.gui.blueprint=需要放入数码控件蓝图
-
 cyberware.gui.keybind.0=启动菜单帮助：
 cyberware.gui.keybind.1=将鼠标悬浮在对应版块上，释放菜单键以激活
 cyberware.gui.keybind.2=左击绑定快捷键
 cyberware.gui.keybind.3=右击移除快捷键
 cyberware.gui.keybind.4=按 Esc 取消快捷键
-
 cyberware.gui.open_hud_config=点击以更改 HUD 配置
 cyberware.gui.open_color_change=点击以更改 HUD 颜色
-
 cyberware.gui.stick_left=左对齐
 cyberware.gui.stick_right=右对齐
 cyberware.gui.stick_up=上对齐
@@ -177,26 +159,19 @@ cyberware.gui.stick_down=下对齐
 cyberware.gui.show=显示元素
 cyberware.gui.hide=隐藏元素
 cyberware.gui.reset_hud=重置位置
-
 cyberware.gui.open_menu=按住 %s 以打开 Cyberware 菜单
-
-
 cyberware.gui.to_scan=放入机械设备以扫描
 cyberware.gui.percent=概率：%1$s
 cyberware.gui.time_left=剩余时间：%1$d 分钟 %2$d 秒
-
 cyberware.tooltip.shift_prompt=按住潜行键以查看详细信息
 cyberware.tooltip.requires=需要
 cyberware.tooltip.joiner=，
 cyberware.tooltip.joiner_or=或
-
 cyberware.tooltip.neuropozyne=排斥抑制（20:00）
 cyberware.potion.neuropozyne=排斥抑制
 cyberware.potion.rejection=机械排斥
-
 cyberware.tooltip.component_box=Shift 左击以放置或拾取
 cyberware.tooltip.component_box2=若附近有机械工程桌，可通过工程桌进行访问
-
 cyberware.tooltip.blueprint_archive=若附近有机械工程桌，可通过工程桌进行访问
 cyberware.tooltip.beacon=小幅提升附近半机械僵尸的生成概率
 cyberware.tooltip.beacon_large=提升附近半机械僵尸的生成概率
@@ -213,33 +188,23 @@ cyberware.tooltip.charger.0=给自身能量储存单元充能
 cyberware.tooltip.charger.1=接收 ForgeEnergy，RedstoneFlux 和 Tesla 能量
 cyberware.tooltip.engineering_table=通过拆解物品获取材料，小概率获得蓝图
 cyberware.tooltip.scanner=通过扫描物品创建蓝图
-
-
 cyberware.tooltip.blueprint=可制造：%1$s
 cyberware.tooltip.craft_blueprint=用机械部件合成
-
 cyberware.tooltip.power_consumption=每秒消耗 %1$s 点能量
 cyberware.tooltip.power_production=每秒生产 %1$s 点能量
 cyberware.tooltip.capacity=能储存 %1$d 点能量
 cyberware.tooltip.max_install=可同时安装 %1$d 个
 cyberware.tooltip.essence=排斥值增加：%1$s
 cyberware.tooltip.essence_add=排斥值上限增加：%1$s
-
 cyberware.quality.scavenged=废旧品
 cyberware.quality.scavenged.name_modifier=废旧%1$s
 cyberware.quality.manufactured=制造品
-
 cyberware.tooltip.can_deconstruct=可直接拆解或进行扫描
-
 cyberware.gui.active.enable=启用
 cyberware.gui.active.disable=禁用
 cyberware.gui.active.zoom=缩放
-
-# KEYBINDS
 cyberware.keybinds.category=机械改造
 cyberware.keybinds.menu=机械改造菜单
-
-# ITEM TOOLTIPS
 cyberware.tooltip.spider_eye=提供蜘蛛视力\n夜视能力
 cyberware.tooltip.body_part.0=
 cyberware.tooltip.body_part.1=
@@ -312,8 +277,6 @@ cyberware.tooltip.leg_upgrades.0=增加跳跃高度\n按住潜行键+跳跃键�
 cyberware.tooltip.leg_upgrades.1=吸收摔落伤害\n装备两条机械腿效果最佳
 cyberware.tooltip.tough_as_nails_upgrades.0=在炎热环境中\n消耗水分以降低体温
 cyberware.tooltip.tough_as_nails_upgrades.1=保持温暖
-
-# DAMAGE TYPE
 death.attack.cyberware.brainless=%1$s 遗失了他的脑子
 death.attack.cyberware.heartless=%1$s 丢掉了他的心脏
 death.attack.cyberware.surgery=%1$s 到了最后也没能走出手术台
@@ -321,22 +284,10 @@ death.attack.cyberware.spineless=%1$s 无法支撑起自己
 death.attack.cyberware.nomuscles=%1$s 无法控制自己
 death.attack.cyberware.noessence=%1$s 死于严重机械排斥
 death.attack.cyberware.lowessence=%1$s 死于严重机械排斥
-
-# COMMAND
 cyberware.commands.clear_cyberware.usage=使用方法：/clearcyberware [玩家]
 cyberware.commands.clear_cyberware.success=已清除%1$s的身体机械
-
-# ENTITIES
 entity.cyberzombie.name=半机械僵尸
-
-# SCANNER SAYINGS
-# FOR TRANSLATORS - YOU CAN HAVE AS MANY OR FEW OF THESE AS YOU WANT, BUT YOU NEED AT LEAST ONE
-# DON'T BOTHER TRANSLATING THESE PHRASES, INCLUDE SOMETHING THAT'D BE MILDLY HUMOROUS IN
-# THE LANGUAGE YOU'RE TRANSLATING TO
-
-# THIS MUST BE THE NUMBER OF THE LAST KEY + 1 TO INCLUDE THE 0 SAYING
 cyberware.gui.scanner_saying.count=69
-
 cyberware.gui.scanner_saying.0=正在网格化样条
 cyberware.gui.scanner_saying.1=正在解析 GUID 冲突
 cyberware.gui.scanner_saying.2=正在扰动矩阵
@@ -406,9 +357,6 @@ cyberware.gui.scanner_saying.65=正在开始空间模拟
 cyberware.gui.scanner_saying.66=正在实例化子元素
 cyberware.gui.scanner_saying.67=正在抹除 System32
 cyberware.gui.scanner_saying.68=正在记忆 Lycaon
-
-
-# MISC
 cyberware.container.engineering=数码控件工程桌
 cyberware.container.scanner=扫描仪
 cyberware.container.blueprint_archive=蓝图档案柜

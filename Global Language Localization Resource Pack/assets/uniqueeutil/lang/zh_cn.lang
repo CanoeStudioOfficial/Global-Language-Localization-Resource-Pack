@@ -2,7 +2,6 @@ enchantment.uniqueeutil.adept=得水添翼
 enchantment.uniqueeutil.adept.desc=减少在水下或半空中的采掘速度减益
 enchantment.uniqueeutil.thick_pick=尖硬开凿
 enchantment.uniqueeutil.thick_pick.desc=手持工具并潜行右击铁砧会将物品栏中所有的宝石存入其中，可用以提升对高硬度方块的采掘速度
-
 enchantment.uniqueeutil.alchemists_blessing=炼金祈佑
 enchantment.uniqueeutil.alchemists_blessing.desc=手持工具并潜行右击铁砧会将物品栏中所有的红石存入其中。消耗红石来转化光束中的物品
 enchantment.uniqueeutil.climber=攀爬专家
@@ -13,7 +12,6 @@ enchantment.uniqueeutil.demeters_blessing=地母祈佑
 enchantment.uniqueeutil.demeters_blessing.desc=右击已成熟的作物可消耗耐久度并对其进行收割与补种。耕耘则可恢复耐久度
 enchantment.uniqueeutil.sleipnirs_grace=神驹恩惠
 enchantment.uniqueeutil.sleipnirs_grace.desc=坐骑的移动速度将随时间稳步提升（在草径上提升速度更快），直至脱离为止
-
 enchantment.uniqueeutil.ambrosia=仙馔密酒
 enchantment.uniqueeutil.ambrosia.desc=摄入拥有该附魔的食物及药水将获得一段时间的饱和效果
 enchantment.uniqueeutil.anemoi_fragment=风神残片
@@ -32,14 +30,12 @@ enchantment.uniqueeutil.resonance=共振
 enchantment.uniqueeutil.resonance.desc=手持工具并潜行右击将使其与周围的矿石产生共振，使你能够察觉矿石的位置，但共振后需要一定的时间来稳定。在尚未稳定时进行共振会使自身受到伤害。
 enchantment.uniqueeutil.sages_soul=贤者之魂
 enchantment.uniqueeutil.sages_soul.desc=利用智慧来加强你的工具。手持工具并潜行右击铁砧会将经验存入其中
-
 enchantment.uniqueeutil.phanes_regret=始神悔意
 enchantment.uniqueeutil.phanes_regret.desc=每次生命值变化（受到治愈或常规伤害）均会消耗经验值，若已无经验值可消耗，你所受到的下一次攻击将被增强
 enchantment.uniqueeutil.rocketman=火箭狂人
 enchantment.uniqueeutil.rocketman.desc=使烟花火箭能够立即使自身进入鞘翅滑翔状态并延长其飞行速度提升的持续时间
 enchantment.uniqueeutil.famines_odium=饥荒憎恶
 enchantment.uniqueeutil.famines_odium.desc=无规律地消耗物品栏中的食物，无视饥饿值与饱和度，且无法补满饥饿值。若物品栏中不存在食物，玩家将受到伤害。
-
 tooltip.uniqueeutil.stored.repair.name=宝石存储数量：%s
 tooltip.uniqueeutil.climb.start.name=开始攀爬
 tooltip.uniqueeutil.climb.restart.name=重新开始攀爬

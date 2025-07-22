@@ -1,28 +1,17 @@
-# IU Ver.2.3.1
-# lang Ver.1.3 β
-# 阳光化合物
 iu.itemsunnarium.sunnarium2=阳光化合物
 iu.itemsunnarium.sunnarium_plate=阳光化合板
 iu.itemsunnarium.sunnarium_enriched=富集阳光化合物
 iu.itemsunnarium.sunnarium_enriched_plate=富集阳光化合板
 iu.itemsunnarium.sunnariumpart=小块阳光化合物
-
-# 铀
 iu.itemiucrafring.itemuraningot=铀锭
 iu.itemiucrafring.itemirradianturanium=光辉铀锭
 iu.itemiucrafring.itemirradiantglasspane=光辉玻璃板
-
-# 混沌护甲
 item.ssp:ChaosHelm.name=§7混沌头盔
 item.ssp:ChaosChest.name=§7混沌胸甲
 item.ssp:ChaosLeggs.name=§7混沌护腿
 item.ssp:ChaosBoots.name=§7混沌靴子
-
-# 混沌能源存储
 iu.ChaosEnergyCore.name=§7混沌能量核心
 item.supersolarpanel:ChaosFluxCapacitor0.name=§7混沌通量容器
-
-# 混沌工具&武器
 item.supersolarpanel:ChaosDistructionStaff.name=§7混沌之力权杖
 item.supersolarpanel:ChaosBow.name=§7混沌弓
 item.supersolarpanel:ChaosHoe.name=§7混沌锄
@@ -30,21 +19,15 @@ item.supersolarpanel:ChaosAxe.name=§7混沌斧
 item.supersolarpanel:ChaosPickaxe.name=§7混沌镐
 item.supersolarpanel:ChaosShovel.name=§7混沌锹
 item.supersolarpanel:ChaosSword.name=§7混沌剑
-
-# 炼油厂
 industrialupgrade.refiner.refiner=炼油厂
 iu.refiner_item.refiner_item=炼油厂
 industrialupgrade.adv_refiner.adv_refiner=高级炼油厂
 iu.adv_refiner_item.adv_refiner_item=高级炼油厂
-
-# 分子重组仪
 iu.itemiucrafring.itemmtcore=分子重组核心
 industrialupgrade.molecular.molecular=分子重组仪
 iu.molecular_item.molecular_item=分子重组仪
 industrialupgrade.double_transformer.double_transformer=高级分子重组仪
 iu.double_molecular.double_molecular=高级分子重组仪
-
-# 分子重组仪GUI
 gui.MolecularTransformer.input=输入
 gui.MolecularTransformer.output=输出
 gui.MolecularTransformer.energyPerOperation=能耗
@@ -58,8 +41,6 @@ button.rg=⇄
 button.changemode=更改
 inforamtionmolecular=更改 GUI 颜色
 inforamtionmolecular1=更改变压器工作模式
-
-# 标准太阳能板
 industrialupgrade.machines.advanced_solar_paneliu=§8高级太阳能板
 industrialupgrade.machines.advanced_solar_panel=§8高级太阳能板
 industrialupgrade.machines.hybrid_solar_paneliu=§3混合太阳能板
@@ -81,67 +62,42 @@ industrialupgrade.machines.quark_solar_panel=§d夸克太阳能板
 blockAdministatorSolarPanel.name=§8创造太阳能板
 industrialupgrade.admpanel.admpanel=§8创造太阳能板
 iu.adminpanel_item.adminpanel_item=§8创造太阳能板
-
-# 龙之进化太阳能板
 industrialupgrade.draconicpanel.draconium_solar_panel=§d飞龙太阳能板
 industrialupgrade.draconicpanel.awakened_solar_panel=§6神龙太阳能板
 industrialupgrade.draconicpanel.chaotic_solar_panel=§7混沌太阳能板
-
-# 植物魔法太阳能板
 industrialupgrade.botaniapanel.manasteel_solar_panel=§b魔钢太阳能板
 industrialupgrade.botaniapanel.terrasteel_solar_panel=§a泰拉钢太阳能板
 industrialupgrade.botaniapanel.elementum_solar_panel=§d源质钢太阳能板
-
-# 无尽贪婪太阳能板
 industrialupgrade.avaritiapanel.neutron_solar_panel_av=§9中子素太阳能板
 industrialupgrade.avaritiapanel.infinity_solar_panel=无尽太阳能板
-
-# 神秘时代太阳能板
 industrialupgrade.thaumcraftpanel.thaum_solar_panel=神秘太阳能板
 industrialupgrade.thaumcraftpanel.void_solar_panel=虚空太阳能板
-
-# 神秘工匠太阳能发电机
 industrialupgrade.tinkererpanel.ichor_solar_panel=灵宝太阳能板
-
-# 太阳能头盔
 item.advanced_solar_helmet.name=§8高级太阳能头盔
 item.hybrid_solar_helmet.name=§3混合太阳能头盔
 item.ultimate_solar_helmet.name=§9终极混合太阳能头盔
 item.spectral_solar_helmet.name=§e光谱太阳能头盔
 item.singular_solar_helmet.name=§8奇异太阳能头盔
-
-# 剑
 iu.itemNanoSaber1=量子剑
 iu.itemNanoSaber=光谱剑
-
-# 光谱量子护甲
 supersolarpanels.itemArmorQuantumHelmet=§d光谱量子头盔
 supersolarpanels.itemArmorQuantumChestplate=§d光谱量子胸甲
 supersolarpanels.itemArmorQuantumLegs=§d光谱量子护腿
 supersolarpanels.itemArmorQuantumBoots=§d光谱量子靴子
-
-# 强化纳米护甲
 supersolarpanels.itemArmorNanoHelmet=强化纳米头盔
 supersolarpanels.itemArmorNanoChestplate=强化纳米胸甲
 supersolarpanels.itemArmorNanoLegs=强化纳米护腿
 supersolarpanels.itemArmorNanoBoots=强化纳米靴子
-
-# 核聚变辐射防护服
 item.hazmathelmet.name=核聚变辐射防护头盔
 item.hazmatchest.name=核聚变辐射防护外套
 item.hazmatleggins.name=核聚变辐射防护护腿
 item.hazmatboosts.name=核聚变辐射防护靴子
-
 item.itembatlamacrystal.name=改良能量水晶
 iu.quantumitems4.name=§7改良致密铱板
 iu.quantumitems2.name=§7致密铱板
-
 iu.helium.name=氦
-
 iu.photoniy.name=§3光合物质
 iu.photoniy_ingot.name=§3光合锭
-
-# 核心
 iu.itemcore.advcore=§8高级核心
 iu.itemcore.hybcore=§3混合核心
 iu.itemcore.ultcore=§9终极混合核心
@@ -156,27 +112,19 @@ iu.itemcore.barcore=重子核心
 iu.itemcore.adrcore=强子核心
 iu.itemcore.gracore=重力核心
 iu.itemcore.kvrcore=夸克核心
-
-# 植物魔法核心
 iu.manasteel_core.name=§b魔钢核心
 iu.terrasteel_core.name=§a泰拉钢核心
 iu.elementium_core.name=§d源质钢核心
-
-# 无尽贪婪核心
 iu.neutroncore.name=§9中子素核心
 iu.infinitycore.name=§9无尽核心
-
 iu.neutronium.name=§9中子碎片
 iu.neutroniumingot.name=§9中子锭
-
 industrialupgrade.basemachine.neutron_generator=§9中子粒子发生器
 iu.Matter.gui.name=§b中子粒子发生器
-
 iu.nanobox.name=§8纳米工具箱
 iu.quantumitems7.name=§e高级纳米工具箱
 iu.quantumitems6.name=§b量子工具箱
 iu.quantumitems3.name=改良量子工具箱
-
 iu.itemcable=§a光谱导线
 iu.itemcableo=§9质子导线
 iu.itemgoldсable=§e奇异导线
@@ -188,17 +136,14 @@ iu.itemironcableii=§b完美导线
 iu.itemironcableiiii=§6寰宇导线
 iu.itemglasscable=§c衍射导线
 iu.itemglasscablei=§7无尽导线
-
 iu.circuit.nanocircuit=纳米电路板
 iu.circuit.quantumcircuit=量子电路板
 iu.circuit.spectralcircuit=§d光谱电路板
-
 iu.blockCable=导线
 iu.chaosingot.name=§7混沌锭
 iu.coal_chunk.name=煤块
 iu.compresscarbon.name=致密碳板
 iu.compresscarbonultra.name=致密高级合金板
-
 iu.photoniumglass.photoniyglass1=§8高级玻璃板
 iu.photoniumglass.photoniyglass2=§3混合玻璃板
 iu.photoniumglass.photoniyglass3=§9终极混合玻璃板
@@ -213,30 +158,23 @@ iu.photoniumglass.photoniyglass11=重子玻璃板
 iu.photoniumglass.photoniyglass12=强子玻璃板
 iu.photoniumglass.photoniyglass13=重力玻璃板
 iu.photoniumglass.photoniyglass14=夸克玻璃板
-
 iu.proton=§5质子
 iu.protonshard=§5质子碎片
 iu.reactorcoolantmax=240k冷却单元
 iu.reactorcoolanttwelve=120k冷却单元
-
 iu.rune_energy.name=能量符文
 iu.rune_night.name=月光符文
 iu.rune_sun.name=日光符文
-
 item.teraDDrill.name=泰拉钢钻头
 item.ultDDrill.name=完美钻头
 item.spectraldrill.name=光谱钻头
 item.nanodrill.name=纳米钻头
 item.quantumdrill.name=量子钻头
-
 item.GraviTool=重力多功能工具
 item.purifier.name=净化器
-
 iu.upgrades.overclockerupgrade1=改良超频升级
 iu.upgrades.overclockerupgrade2=高级超频升级
-
 iu.module_schedule.name=空白模块
-
 iu.modultype.module51=模块：空气板
 iu.modultype.module52=模块：主世界板
 iu.modultype.module53=模块：地狱板
@@ -244,7 +182,6 @@ iu.modultype.module54=模块：末地板
 iu.modultype.module55=模块：月光板
 iu.modultype.module56=模块：日光板
 iu.modultype.module57=模块：雨能板
-
 iu.modulestype.module61=模块：高级太阳能板
 iu.modulestype.module62=模块：§3混合太阳能板
 iu.modulestype.module63=模块：§9终极混合太阳能板
@@ -259,7 +196,6 @@ iu.modulestype.module91=模块：重子太阳能板
 iu.modulestype.module92=模块：强子太阳能板
 iu.modulestype.module93=模块：重力太阳能板
 iu.modulestype.module94=模块：夸克太阳能板
-
 iu.additionmodule.personality=模块：私有
 iu.additionmodule.tier_in=模块：太阳能板能量等级提升
 iu.additionmodule.tier_de=模块：太阳能板能量等级降低
@@ -271,7 +207,6 @@ iu.additionmodule.mov_charge_rf=模块：即时无线护甲充电（RF）
 iu.additionmodule.mov_charge_rf_item=模块：即时无线工具充电（RF）
 iu.additionmodule.purifier=模块：净化器
 iu.additionmodule.wireless=无线模块
-
 iu.quarrymodules.per=模块：矿石冶炼
 iu.quarrymodules.ef=模块：效率 I
 iu.quarrymodules.ef1=模块：效率 II
@@ -286,7 +221,6 @@ iu.quarrymodules.kar2=模块：范围 5х5
 iu.quarrymodules.kar3=模块：范围 7х7
 iu.quarrymodules.blackmodule=模块：黑名单
 iu.quarrymodules.whitemodule=模块：白名单
-
 iu.expmodule.name=模块：经验储存
 iu.module_stack.name=模块：堆叠
 iu.module_quickly.name=模块：瞬间伤害
@@ -311,9 +245,7 @@ iu.modules.moonlinse2=模块：第二个白天 III
 iu.analyzermodule.name=模块：分析仪
 iu.quarrymodule.name=模块：采石场
 iu.module_storage.name=模块：分类
-
 iu.moduletype=模块类型：普通
-
 iu.upgrademodules.upgrademodule=修改模块：日光产能
 iu.upgrademodules.upgrademodule1=修改模块：月光产能
 iu.upgrademodules.upgrademodule2=修改模块：保护
@@ -342,7 +274,6 @@ iu.upgrademodules.upgrademodule24=修改模块：点火
 iu.upgrademodules.upgrademodule25=修改模块：积蓄充能
 iu.upgrademodules.upgrademodule26=修改模块：幸运
 iu.upgrademodules.upgrademodule27=修改模块：效率
-
 iu.entitymodules.module_player=猎杀模块：玩家
 iu.entitymodules.module_mob=猎杀模块：生物
 iu.spawnermodules.spawner_module=猎杀模块：抢夺 I
@@ -353,7 +284,6 @@ iu.spawnermodules.spawner_module4=猎杀模块：经验 +25%
 iu.spawnermodules.spawner_module5=猎杀模块：经验 +50%
 iu.spawnermodules.spawner_module6=猎杀模块：2 生物
 iu.spawnermodules.spawner_module7=猎杀模块：3 生物
-
 ic2.item.tooltip.Output=输出：
 ic2.item.tooltip.Capacity=储存：
 iu.module1=§e提高太阳能板在白天的产能通过以下方式§2
@@ -364,7 +294,6 @@ iu.module=来自基础数据
 iu.modules=§c每个插槽只能升级一次
 iu.modules1=§c只能放置同等或更低层的模块
 iu.modules12=§c嵌入最后一个插槽
-
 netherpanel=允许太阳能板在地狱工作/改变地狱的 GUI
 aerpanel=产能 150%
 aerpanel1=如果太阳能板的高度高于 130 个方块/改变 GUI
@@ -375,7 +304,6 @@ nightpanel=只在晚上工作，产能 150%
 sunpanel=只在白天工作，产能 150%
 rainpanel=150% 雨中产能
 rainpanel1=在雨中改变 GUI
-
 ic2.item.tooltip.Store=存储：
 wirelles=§e允许你无线传输电力
 transformator=提升太阳能板等级
@@ -403,7 +331,6 @@ iu.storage=§9存储容量增加
 iu.output=§6最大输出增加
 iu.tier1=§a等级提升
 iu.tier2=§c等级降低
-
 message.text.mode=工具模式
 message.ultDDrill.mode.normal=普通
 message.ultDDrill.mode.lowPower=灯光
@@ -419,11 +346,9 @@ message.description.bigHoles2=范围挖掘 7x7
 message.description.lowPower=允许你消耗更少电力去破坏方块
 message.description.treemode=砍伐整个树木
 message.description.pickaxe=允许你一次挖掘一个矿脉
-
 iu.toriy=钍
 iu.radiationresources.rad_toriy=光辉钍
 iu.thorium_ore.name=钍矿石
-
 iu.compressiridium=§7转子（压缩铱）
 iu.iridium=§f转子（铱）
 iu.spectral=§e转子（光谱）
@@ -433,7 +358,6 @@ iu.myphical=§d转子（神话）
 iu.ultramarinerotor=§b转子（青蓝）
 iu.barionrotor=§5转子（重子）
 iu.adronrotor=§3转子（强子）
-
 ic3uumatter=中子
 death.attack.current=你死于触电
 iu.Name=名称
@@ -442,7 +366,6 @@ iu.Xcoord=X
 iu.Ycoord=Y
 iu.Zcoord=Z
 inforamtionelectricstorage=点击更改能量转换方式
-
 iu.solidmatter.matter=固态物质
 iu.solidmatter.sun_matter=日光固态物质
 iu.solidmatter.aqua_matter=水固态物质
@@ -459,7 +382,6 @@ nether_matter.name=地狱固态物质
 earth_matter.name=主世界固态物质
 end_matter.name=末地固态物质
 aer_matter.name=空气固态物质
-
 personality=§c防止其他玩家打开太阳能板界面。
 personality1=§c未拥有太阳能板的玩家无法拆除太阳能板。
 iu.error=§c错误！模块提醒：已触发隐私安全。你不是太阳能板的所有者！
@@ -468,16 +390,13 @@ iu.maxy=最大高度：
 iu.storage.helmet=太阳能板能量容量：
 successfully.charged=充电成功
 iu.sendenergy=耗尽：
-
 itemGroup.IUTab=工业升级丨方块
 itemGroup.ModuleTab=工业升级丨模块
 itemGroup.EnergyTab=工业升级丨工具/护甲
 itemGroup.ItemTab=工业升级丨物品
 itemGroup.OreTab=工业升级丨矿石
-
 itemCellEmpty.name=高级单元
 itemCellUuMatter.name=液态中子
-
 iu.moduletype1=太阳能板类型：§6空气
 iu.moduletype2=太阳能板类型：§2主世界
 iu.moduletype3=太阳能板类型：§c地狱
@@ -485,13 +404,11 @@ iu.moduletype4=太阳能板类型：§3末地
 iu.moduletype5=太阳能板类型：§8夜晚
 iu.moduletype6=太阳能板类型：§e白天
 iu.moduletype7=太阳能板类型：§9雨天
-
 iu.rfmodule=§c产生 RF 能量
 iu.rfstorage=RF：
 iu.modulewirelles=§b无线：§2运作中
 iu.modulewirelles1=坐标：
 iu.modulewirelles2=§b无线：§c未运作
-
 iu.fly=§3飞行激活：
 iu.fly1=按下<Mode Switch Key + Boost Key>开启飞行
 iu.vertical=按下<Mode Switch Key + Side Key>启用垂直模式
@@ -504,7 +421,6 @@ iu.changemode=按下<Mode Switch Key + 右击>切换模式
 iu.changemodebattery=右击切换模式
 iu.purifiermode=按下<SHIFT + 右击>太阳能板以清除太阳能板
 iu.saberon=右击激活剑
-
 industrialupgrade.tank_iu.tank_iu=液体储罐
 iu.fluid_tank_item.fluid_tank_normal=液体储罐
 industrialupgrade.tank_iu.adv_tank=改良液体储罐
@@ -513,13 +429,11 @@ industrialupgrade.tank_iu.imp_tank=高级液体储罐
 iu.fluid_tank_item.fluid_tank_normal_imp=高级液体储罐
 industrialupgrade.tank_iu.per_tank=完美液体储罐
 iu.fluid_tank_item.fluid_tank_normal_per=完美液体储罐
-
 iu.itempipes=热管
 iu.itempipes1=改良热管
 iu.itempipes2=高级热管
 iu.itempipes3=完美热管
 iu.itempipes4=量子热管
-
 iu.blockBatBox.name=储电箱
 iu.blockCESU.name=CESU储电箱
 iu.blockMFE1.name=MFE储电箱
@@ -542,11 +456,9 @@ industrialupgrade.wiring_storage.bar_mfsu=重子MFSU储电箱
 industrialupgrade.wiring_storage.had_mfsu=强子MFSU储电箱
 industrialupgrade.wiring_storage.gra_mfsu=重力MFSU储电箱
 industrialupgrade.wiring_storage.qua_mfsu=夸克MFSU储电箱
-
 iu.quarry=嵌入量子采石场
 iu.quarry1=冶炼矿石
 iu.quarry2=降低能源成本
-
 iu.blockChargepadBatBox.name=充电座（储电盒）
 iu.blockChargepadCESU.name=充电座（CESU）
 iu.blockChargepadMFE1.name=充电座（MFE）
@@ -569,7 +481,6 @@ industrialupgrade.wiring_chargepad.bar_mfsu_chargepad=充电座（重子MFSU)
 industrialupgrade.wiring_chargepad.had_mfsu_chargepad=充电座（强子MFSU)
 industrialupgrade.wiring_chargepad.gra_mfsu_chargepad=充电座（重力MFSU)
 industrialupgrade.wiring_chargepad.qua_mfsu_chargepad=充电座（夸克MFSU)
-
 item.nanopickaxe.name=§7纳米镐
 item.nanoaxe.name=§7纳米斧
 item.nanoshovel.name=§7纳米锹
@@ -579,15 +490,12 @@ item.quantumshovel.name=§f量子锹
 item.spectralpickaxe.name=§e光谱镐
 item.spectralaxe.name=§e光谱斧
 item.spectralshovel.name=§e光谱锹
-
 supsolpans.iu.GenerationDay.tooltip=白天产能：
 supsolpans.iu.GenerationNight.tooltip=夜晚产能：
-
 button.rf=改变模式
 iu.rfmodule1=§9产生 EU 能量
 gui.SuperSolarPanel.energyPerTick1=RF/t
 iu.maxStoragestored=最大电量：
-#最大电量下面的一样是引用BUG，无法修复，已反馈给作者
 iu.yes=是
 iu.no=否
 ic2.uumatter=UU物质
@@ -596,17 +504,12 @@ gui.movementchargeitem=即时物品充电（EU）
 gui.movementchargerf=即时盔甲充电（RF）
 gui.movementchargeitemrf=即时物品充电（RF）
 gui.movement=按住<SHIFT>并右击方块
-
 modulechange=允许太阳能板为物品充电
 modulerfinfo=允许产生 RF 能量
 modulerfinfo1=嵌入太阳能板或存储装置
-
 reactor.info=在反应堆中产生：
 reactor.info1=当加热（99%）产生：
-
 iu.oil.name=石油脉
-
-# 流体和气体
 iu.fluidNeutron=§9中子
 iu.fluidHelium=氦
 iu.fluidbenz=汽油
@@ -625,19 +528,6 @@ fluid.luidpolyprop=聚丙烯
 fluid.luidhyd=氢
 fluid.luidoxy=氧
 fluid.luidpolyeth=聚乙烯
-
-#Bucket. The following lines are aligned with other localizations.
-#item.forge.bucketFilled.iufluidneutron
-#item.forge.bucketFilled.iufluidhelium
-#item.forge.bucketFilled.iufluidbenz
-#item.forge.bucketFilled.iufluiddizel
-#item.forge.bucketFilled.iufluidneft
-#item.forge.bucketFilled.iufluidpolyprop
-#item.forge.bucketFilled.iufluidhyd
-#item.forge.bucketFilled.iufluidoxy
-#item.forge.bucketFilled.iufluidpolyeth
-
-# 单元
 iu.itemcell.empty=空单元
 iu.itemcell.neutron=中子单元
 iu.itemcell.helium=氦单元
@@ -648,19 +538,15 @@ iu.itemcell.polyeth=聚乙烯单元
 iu.itemcell.polyprop=聚丙烯单元
 iu.itemcell.oxy=氧单元
 iu.itemcell.hyd=氢单元
-
 iu.ruby_block.name=红宝石块
 iu.sapphire_block.name=蓝宝石块
 iu.topaz_block.name=黄玉块
-
 iu.preciousgem.ruby_gem=红宝石
 iu.preciousgem.sapphire_gem=蓝宝石
 iu.preciousgem.topaz_gem=黄玉
-
 iu.ruby_ore.name=红宝石矿石
 iu.sapphire_ore.name=蓝宝石矿石
 iu.topaz_ore.name=黄玉矿石
-
 item.ruby_helmet.name=红宝石头盔
 item.ruby_chestplate.name=红宝石胸甲
 item.ruby_leggings.name=红宝石护腿
@@ -673,7 +559,6 @@ item.topaz_helmet.name=黄玉头盔
 item.topaz_chestplate.name=黄玉胸甲
 item.topaz_leggings.name=黄玉护腿
 item.topaz_boots.name=黄玉靴子
-
 iu.magnetite.name=磁铁矿石
 iu.calaverite.name=碲金矿石
 iu.galena.name=方铅矿石
@@ -690,11 +575,9 @@ iu.ilmenite.name=钛铁矿石
 iu.todorokite.name=钡镁锰矿石
 iu.ferroaugite.name=铁辉石矿石
 iu.sheelite.name=白钨矿石
-
 iu.americium_ore.name=镅矿石
 iu.neptunium_ore.name=镎矿石
 iu.curium_ore.name=锔矿石
-
 iu.radiationresources.americium_gem=镅宝石
 iu.radiationresources.neptunium_gem=镎宝石
 iu.radiationresources.curium_gem=锔宝石
@@ -703,7 +586,6 @@ iu.radiationresources.mendelevium_gem=钔宝石
 iu.radiationresources.berkelium_gem=锫宝石
 iu.radiationresources.einsteinium_gem=锿宝石
 iu.radiationresources.uran233_gem=铀-233
-
 iu.reactordepletedprotondual=双联燃料棒（枯竭质子）
 iu.reactordepletedprotonquad=四联燃料棒（枯竭质子）
 iu.reactordepletedprotonsimple=燃料棒（枯竭质子）
@@ -712,78 +594,66 @@ iu.actorprotondual=双联燃料棒（质子）
 iu.actorprotonquad=四联燃料棒（质子）
 iu.actorprotonsimple=燃料棒（质子）
 iu.actorprotoneit=八联燃料棒（质子）
-
 iu.reactorDepletedterastrellDual=双联燃料棒（枯竭泰拉钢）
 iu.reactorDepletedterastrellQuad=四联燃料棒（枯竭泰拉钢）
 iu.reactorDepletedterastrellSimple=燃料棒（枯竭泰拉钢）
 iu.actorterastrellDual=双联燃料棒（泰拉钢）
 iu.actorterastrellQuad=四联燃料棒（泰拉钢）
 iu.actorterastrellSimple=燃料棒（泰拉钢）
-
 iu.reactordepletedtoriydual=双联燃料棒（枯竭钍）
 iu.reactordepletedtoriyquad=四联燃料棒（枯竭钍）
 iu.reactordepletedtoriysimple=燃料棒（枯竭钍）
 iu.actortoriydual=双联燃料棒（钍）
 iu.actortoriyquad=四联燃料棒（钍）
 iu.actortoriysimple=燃料棒（钍）
-
 iu.reactordepletedamericiumdual=双联燃料棒（枯竭镅）
 iu.reactordepletedamericiumquad=四联燃料棒（枯竭镅）
 iu.reactordepletedamericiumsimple=燃料棒（枯竭镅）
 iu.actoramericiumdual=双联燃料棒（镅）
 iu.actoramericiumquad=四联燃料棒（镅）
 iu.actoramericiumsimple=燃料棒（镅）
-
 iu.reactordepletedneptuniumdual=双联燃料棒（枯竭镎）
 iu.reactordepletedneptuniumquad=四联燃料棒（枯竭镎）
 iu.reactordepletedneptuniumsimple=燃料棒（枯竭镎）
 iu.actorneptuniumdual=双联燃料棒（镎）
 iu.actorneptuniumquad=四联燃料棒（镎）
 iu.actorneptuniumsimple=燃料棒（镎）
-
 iu.reactordepletedcuriumdual=双联燃料棒（枯竭锔）
 iu.reactordepletedcuriumquad=四联燃料棒（枯竭锔）
 iu.reactordepletedcuriumsimple=燃料棒（枯竭锔）
 iu.actorcuriumdual=双联燃料棒（锔）
 iu.actorcuriumquad=四联燃料棒（锔）
 iu.actorcuriumsimple=燃料棒（锔）
-
 iu.reactordepletedcaliforniadual=双联燃料棒（枯竭锎）
 iu.reactordepletedcaliforniaquad=四联燃料棒（枯竭锎）
 iu.reactordepletedcaliforniasimple=燃料棒（枯竭锎）
 iu.actorcaliforniadual=双联燃料棒（锎）
 iu.actorcaliforniaquad=四联燃料棒（锎）
 iu.actorcaliforniasimple=燃料棒（锎）
-
 iu.reactordepletedeinsteiniumdual=双联燃料棒（枯竭锕）
 iu.reactordepletedeinsteiniumquad=四联燃料棒（枯竭锕）
 iu.reactordepletedeinsteiniumsimple=燃料棒（枯竭锕）
 iu.actoreinsteiniumdual=双联燃料棒（锕）
 iu.actoreinsteiniumquad=四联燃料棒（锕）
 iu.actoreinsteiniumsimple=燃料棒（锕）
-
 iu.reactordepletedmendeleviumdual=双联燃料棒（枯竭钔）
 iu.reactordepletedmendeleviumquad=四联燃料棒（枯竭钔）
 iu.reactordepletedmendeleviumsimple=燃料棒（枯竭钔）
 iu.actormendeleviumdual=双联燃料棒（钔）
 iu.actormendeleviumquad=四联燃料棒（钔）
 iu.actormendeleviumsimple=燃料棒（钔）
-
 iu.reactordepleteduran233dual=双联燃料棒（枯竭铀-233）
 iu.reactordepleteduran233quad=四联燃料棒（枯竭铀-233）
 iu.reactordepleteduran233simple=燃料棒（枯竭铀-233）
 iu.actoruran233dual=双联燃料棒（铀-233）
 iu.actoruran233quad=四联燃料棒（铀-233）
 iu.actoruran233simple=燃料棒（铀-233）
-
 iu.reactordepletedberkeliumdual=双联燃料棒（枯竭锫）
 iu.reactordepletedberkeliumquad=四联燃料棒（枯竭锫）
 iu.reactordepletedberkeliumsimple=燃料棒（枯竭锫）
 iu.actorberkeliumdual=双联燃料棒（锫）
 iu.actorberkeliumquad=四联燃料棒（锫）
 iu.actorberkeliumsimple=燃料棒（锫）
-
-# 合金块
 iu.aluminum_bronze_block.name=铝青铜块
 iu.alumel_block.name=镍铝金块
 iu.red_brass_block.name=红铜块
@@ -794,8 +664,6 @@ iu.vanadoalumite_block.name=钒铝块
 iu.vitalium_block.name=活合金块
 iu.duralumin_block.name=硬铝块
 iu.ferromanganese_block.name=锰铁块
-
-# 金属块
 iu.mikhail_block.name=米哈洛夫块
 iu.aluminium_block.name=铝块
 iu.vanady_block.name=钒块
@@ -815,8 +683,6 @@ iu.zinc_block.name=锌块
 iu.manganese_block.name=锰块
 iu.iridium_block.name=铱块
 iu.germanium_block.name=锗块
-
-# 合金锭
 iu.alloysingot.aluminum_bronze=铝青铜锭
 iu.alloysingot.alumel=镍铝金锭
 iu.alloysingot.red_brass=红铜锭
@@ -827,8 +693,6 @@ iu.alloysingot.vanadoalumite=钒铝锭
 iu.alloysingot.vitalium=活合金锭
 iu.alloysingot.duralumin=硬铝锭
 iu.alloysingot.ferromanganese=锰铁锭
-
-# 金属锭
 iu.ingot.mikhail_ingot=米哈洛夫锭
 iu.ingot.aluminium_ingot=铝锭
 iu.ingot.vanady_ingot=钒锭
@@ -848,8 +712,6 @@ iu.ingot.zinc_ingot=锌锭
 iu.ingot.manganese_ingot=锰锭
 iu.ingot.iridium_ingot=铱锭
 iu.ingot.germanium_ingot=锗锭
-
-# 合金板
 iu.alloysplate.aluminum_bronze=铝青铜板
 iu.alloysplate.alumel=镍铝金板
 iu.alloysplate.red_brass=红铜板
@@ -860,13 +722,9 @@ iu.alloysplate.vanadoalumite=钒铝板
 iu.alloysplate.vitalium=活合金板
 iu.alloysplate.duralumin=硬铝板
 iu.alloysplate.ferromanganese=锰铁板
-
-# 植物魔法板
 iu.manasteel_plate.name=§b魔钢板
 iu.terrasteel_plate.name=泰拉钢板
 iu.elementium_plate.name=§d源质钢板
-
-# 金属板
 iu.plate.mikhail_plate=米哈洛夫板
 iu.plate.aluminium_plate=铝锭板
 iu.plate.vanady_plate=钒板
@@ -886,8 +744,6 @@ iu.plate.zinc_plate=锌板
 iu.plate.manganese_plate=锰板
 iu.plate.iridium_plate=铱板
 iu.plate.germanium_plate=锗板
-
-# 致密合金板
 iu.alloysdoubleplate.aluminum_bronze=致密铝青铜板
 iu.alloysdoubleplate.alumel=致密镍铝金板
 iu.alloysdoubleplate.red_brass=致密红铜板
@@ -898,8 +754,6 @@ iu.alloysdoubleplate.vanadoalumite=致密钒铝板
 iu.alloysdoubleplate.vitalium=致密活合金板
 iu.alloysdoubleplate.duralumin=致密硬铝板
 iu.alloysdoubleplate.ferromanganese=致密锰铁板
-
-# 致密金属板
 iu.doubleplate.mikhail_doubleplate=致密米哈洛夫板
 iu.doubleplate.aluminium_doubleplate=致密铝锭板
 iu.doubleplate.vanady_doubleplate=致密钒板
@@ -919,8 +773,6 @@ iu.doubleplate.zinc_doubleplate=致密锌板
 iu.doubleplate.manganese_doubleplate=致密锰板
 iu.doubleplate.iridium_doubleplate=致密铱板
 iu.doubleplate.germanium_doubleplate=致密锗板
-
-# 合金外壳
 iu.alloyscasing.aluminum_bronze=铝青铜外壳
 iu.alloyscasing.alumel=镍铝金外壳
 iu.alloyscasing.red_brass=红铜外壳
@@ -931,8 +783,6 @@ iu.alloyscasing.vanadoalumite=钒铝外壳
 iu.alloyscasing.vitalium=活合金外壳
 iu.alloyscasing.duralumin=硬铝外壳
 iu.alloyscasing.ferromanganese=锰铁外壳
-
-# 金属外壳
 iu.casing.mikhail=米哈洛夫外壳
 iu.casing.aluminium=铝外壳
 iu.casing.vanady=钒外壳
@@ -952,8 +802,6 @@ iu.casing.zinc=锌外壳
 iu.casing.manganese=锰外壳
 iu.casing.iridium=铱外壳
 iu.casing.germanium=锗外壳
-
-# 合金棍
 iu.alloysstik.aluminum_bronze=铝青铜棍
 iu.alloysstik.alumel=镍铝金棍
 iu.alloysstik.red_brass=红铜棍
@@ -964,8 +812,6 @@ iu.alloysstik.vanadoalumite=钒铝棍
 iu.alloysstik.vitalium=活合金棍
 iu.alloysstik.duralumin=硬铝棍
 iu.alloysstik.ferromanganese=锰铁棍
-
-# 金属棍
 iu.stik.mikhail=米哈洛夫棍
 iu.stik.aluminium=铝棍
 iu.stik.vanady=钒棍
@@ -985,8 +831,6 @@ iu.stik.zinc=锌棍
 iu.stik.manganese=锰棍
 iu.stik.iridium=铱棍
 iu.stik.germanium=锗棍
-
-# 合金粒
 iu.alloysnugget.aluminum_bronze=铝青铜粒
 iu.alloysnugget.alumel=镍铝金粒
 iu.alloysnugget.red_brass=红铜粒
@@ -997,8 +841,6 @@ iu.alloysnugget.vanadoalumite=钒铝粒
 iu.alloysnugget.vitalium=活合金粒
 iu.alloysnugget.duralumin=硬铝粒
 iu.alloysnugget.ferromanganese=锰铁粒
-
-# 金属粒
 iu.nugget.mikhail=米哈洛夫粒
 iu.nugget.aluminium=铝粒
 iu.nugget.vanady=钒粒
@@ -1018,8 +860,6 @@ iu.nugget.zinc=锌粒
 iu.nugget.manganese=锰粒
 iu.nugget.iridium=铱粒
 iu.nugget.germanium=锗粒
-
-# 合金粉
 iu.alloysdust.aluminum_bronze=铝青铜粉
 iu.alloysdust.alumel=镍铝金粉
 iu.alloysdust.red_brass=红铜粉
@@ -1030,8 +870,6 @@ iu.alloysdust.vanadoalumite=钒铝粉
 iu.alloysdust.vitalium=活合金粉
 iu.alloysdust.duralumin=硬铝粉
 iu.alloysdust.ferromanganese=锰铁粉
-
-# 金属粉
 iu.dust.mikhail=米哈洛夫粉
 iu.dust.aluminium=铝粉
 iu.dust.vanady=钒粉
@@ -1051,8 +889,6 @@ iu.dust.zinc=锌粉
 iu.dust.manganese=锰粉
 iu.dust.iridium=铱粉
 iu.dust.germanium=锗粉
-
-# 小堆金属粉
 iu.smalldust.mikhail=小堆米哈洛夫粉
 iu.smalldust.aluminium=小堆铝粉
 iu.smalldust.vanady=小堆钒粉
@@ -1072,8 +908,6 @@ iu.smalldust.zinc=小堆锌粉
 iu.smalldust.manganese=小堆锰粉
 iu.smalldust.iridium=小堆铱粉
 iu.smalldust.germanium=小堆锗粉
-
-# 小撮金属粉
 iu.verysmalldust.mikhail=小撮米哈洛夫粉
 iu.verysmalldust.aluminium=小撮铝粉
 iu.verysmalldust.vanady=小撮钒粉
@@ -1093,8 +927,6 @@ iu.verysmalldust.zinc=小撮锌粉
 iu.verysmalldust.manganese=小撮锰粉
 iu.verysmalldust.iridium=小撮铱粉
 iu.verysmalldust.germanium=小撮锗粉
-
-# 金属矿石
 iu.mikhail.name=米哈洛夫矿石
 iu.aluminium.name=铝矿石
 iu.vanady.name=钒矿石
@@ -1114,8 +946,6 @@ iu.zinc.name=锌矿石
 iu.manganese.name=锰矿石
 iu.iridium.name=铱矿石
 iu.germanium.name=锗矿石
-
-# 粉碎金属矿石
 iu.crushed.mikhail=粉碎米哈洛夫矿石
 iu.crushed.aluminium=粉碎铝矿石
 iu.crushed.vanady=粉碎钒矿石
@@ -1135,8 +965,6 @@ iu.crushed.zinc=粉碎锌矿石
 iu.crushed.manganese=粉碎锰矿石
 iu.crushed.iridium=粉碎铱矿石
 iu.crushed.germanium=粉碎锗矿石
-
-# 纯净的粉碎金属矿石
 iu.purifiedcrushed.mikhail=纯净的粉碎米哈洛夫矿石
 iu.purifiedcrushed.aluminium=纯净的粉碎铝矿石
 iu.purifiedcrushed.vanady=纯净的粉碎钒矿石
@@ -1156,9 +984,6 @@ iu.purifiedcrushed.zinc=纯净的粉碎锌矿石
 iu.purifiedcrushed.manganese=纯净的粉碎锰矿石
 iu.purifiedcrushed.iridium=纯净的粉碎铱矿石
 iu.purifiedcrushed.germanium=纯净的粉碎锗矿石
-
-##无中生有集成
-# 金属 矿石碎块
 mikhail_gravelcrushed.name=米哈洛夫 矿石碎块
 aluminium_gravelcrushed.name=铝 矿石碎块
 vanady_gravelcrushed.name=钒 矿石碎块
@@ -1173,8 +998,6 @@ spinel_gravelcrushed.name=尖晶石 矿石碎块
 silver_gravelcrushed.name=银 矿石碎块
 zinc_gravelcrushed.name=锌 矿石碎块
 manganese_gravelcrushed.name=锰 矿石碎块
-
-# 金属矿石沙砾
 mikhail_gravelore.name=米哈洛夫矿石沙砾
 aluminium_gravelore.name=铝矿石沙砾
 vanady_gravelore.name=钒矿石沙砾
@@ -1189,8 +1012,6 @@ spinel_gravelore.name=尖晶石矿石沙砾
 silver_gravelore.name=银矿石沙砾
 zinc_gravelore.name=锌矿石沙砾
 manganese_gravelore.name=锰矿石沙砾
-
-# 粉碎金属矿石
 mikhail_sandcrushed.name=粉碎米哈洛夫矿石
 aluminium_sandcrushed.name=粉碎铝矿石
 vanady_sandcrushed.name=粉碎钒矿石
@@ -1205,8 +1026,6 @@ spinel_sandcrushed.name=粉碎尖晶石矿石
 silver_sandcrushed.name=粉碎银矿石
 zinc_sandcrushed.name=粉碎锌矿石
 manganese_sandcrushed.name=粉碎锰矿石
-
-# 金属矿石沙子
 mikhail_sandore.name=米哈洛夫矿石沙子
 aluminium_sandore.name=铝矿石沙子
 vanady_sandore.name=钒矿石沙子
@@ -1221,8 +1040,6 @@ spinel_sandore.name=尖晶石矿石沙子
 silver_sandore.name=银矿石沙子
 zinc_sandore.name=锌矿石沙子
 manganese_sandore.name=锰矿石沙子
-
-# 金属矿石粉末
 mikhail_dustcrushed.name=米哈洛夫矿石粉末
 aluminium_dustcrushed.name=铝矿石粉末
 vanady_dustcrushed.name=钒矿石粉末
@@ -1237,8 +1054,6 @@ spinel_dustcrushed.name=尖晶石矿石粉末
 silver_dustcrushed.name=银矿石粉末
 zinc_dustcrushed.name=锌矿石粉末
 manganese_dustcrushed.name=锰矿石粉末
-
-# 金属矿石粉尘
 mikhail_dustore.name=米哈洛夫矿石粉尘
 aluminium_dustore.name=铝矿石粉尘
 vanady_dustore.name=钒矿石粉尘
@@ -1253,8 +1068,6 @@ spinel_dustore.name=尖晶石矿石粉尘
 silver_dustore.name=银矿石粉尘
 zinc_dustore.name=锌矿石粉尘
 manganese_dustore.name=锰矿石粉尘
-
-# 末地矿石
 endmikhail_stone.name=末地米哈洛夫矿石
 endalum_stone.name=末地铝矿石
 endvanady_stone.name=末地钒矿石
@@ -1284,8 +1097,6 @@ endlead_stone.name=末地铅矿石
 endredstone_stone.name=末地红石矿石
 endtin_stone.name=末地锡矿石
 enduran_stone.name=末地铀矿石
-
-# 地狱矿石
 nethermikhailrack.name=地狱米哈洛夫矿石
 netheralumrack.name=地狱铝矿石
 nethervanadyrack.name=地狱钒矿石
@@ -1315,7 +1126,6 @@ netherleadrack.name=地狱铅矿石
 netherredstonerack.name=地狱红石矿石
 nethertinrack.name=地狱锡矿石
 netheruranrack.name=地狱铀矿石
-
 industrialupgrade.transformer_iu.umv=特高压变压器
 industrialupgrade.transformer_iu.uhv=极高压变压器
 industrialupgrade.transformer_iu.uev=强导压变压器
@@ -1323,7 +1133,6 @@ industrialupgrade.transformer_iu.umhv=剧差压变压器
 industrialupgrade.transformer_iu.umev=零点压变压器
 industrialupgrade.transformer_iu.uhev=极限压变压器
 industrialupgrade.transformer_iu.heev=究极压变压器
-
 iu.lens.aerlinse=空气透镜
 iu.lens.earthlinse=主世界透镜
 iu.lens.endlinse=末地透镜
@@ -1331,36 +1140,27 @@ iu.lens.netherlinse=地狱透镜
 iu.lens.nightlinse=月光透镜
 iu.lens.sunlinse=日光透镜
 iu.lens.rainlinse=雨能透镜
-
 item.magnet.name=磁铁
 item.impmagnet.name=改良磁铁
 message.magnet.mode.1=物品栏模式激活
 message.magnet.mode.2=吸力模式激活
 message.magnet.mode.0=§c失效
-
 item.nano_bow.name=纳米弓
 item.quantum_bow.name=量子弓
 item.spectral_bow.name=光谱弓
-
-# 弓模式
 info.nanobow.normal=普通模式
 info.nanobow.rapidfire=速射模式
 info.nanobow.spread=散射模式
 info.nanobow.sniper=狙击模式
 info.nanobow.flame=火焰模式
-
 item.adv_lappack.name=改良储电背包
 item.imp_lappack.name=高级储电背包
 item.per_lappack.name=完美储电背包
-
 advjetpack.name=改良喷气背包
 impjetpack.name=高级喷气背包
 perjetpack.name=完美喷气背包
-
 item.itemadvbatchargecrystal.name=高级能量水晶充电电池
 item.itembatchargecrystal.name=完美能量水晶充电电池
-
-# 储电箱升级组件
 iu.upgradekitstorage.upgradekit=MFE升级组件
 iu.upgradekitstorage.upgradekit1=MFSU升级组件
 iu.upgradekitstorage.upgradekit2=改良MFSU升级组件
@@ -1370,8 +1170,6 @@ iu.upgradekitstorage.upgradekit5=重子MFSU升级组件
 iu.upgradekitstorage.upgradekit6=强子MFSU升级组件
 iu.upgradekitstorage.upgradekit7=重力MFSU升级组件
 iu.upgradekitstorage.upgradekit8=夸克MFSU升级组件
-
-# 太阳能升级组件
 iu.upgradekitpanel.upgradepanelkit=高级太阳能板升级组件
 iu.upgradekitpanel.upgradepanelkit1=混合太阳能板升级组件
 iu.upgradekitpanel.upgradepanelkit2=终极混合太阳能板升级组件
@@ -1386,69 +1184,51 @@ iu.upgradekitpanel.upgradepanelkit10=重子太阳能板升级组件
 iu.upgradekitpanel.upgradepanelkit11=强子太阳能板升级组件
 iu.upgradekitpanel.upgradepanelkit12=重力太阳能板升级组件
 iu.upgradekitpanel.upgradepanelkit13=夸克太阳能板升级组件
-
-##龙之进化
 iu.upgradekitpanel.upgradepanelkit14=飞龙太阳能板升级组件
 iu.upgradekitpanel.upgradepanelkit15=神龙太阳能板升级组件
 iu.upgradekitpanel.upgradepanelkit16=混沌太阳能板升级组件
-
-##植物魔法
 iu.upgradekitpanel.upgradepanelkit17=魔钢太阳能板升级组件
 iu.upgradekitpanel.upgradepanelkit18=源质钢太阳能板升级组件
 iu.upgradekitpanel.upgradepanelkit19=泰拉钢太阳能板升级组件
-
-##无尽贪婪
 iu.upgradekitpanel.upgradepanelkit20=中子素太阳能板升级组件
 iu.upgradekitpanel.upgradepanelkit21=无尽太阳能板升级组件
-
-##神秘时代
 iu.upgradekitpanel.upgradepanelkit22=神秘太阳能板升级组件
 iu.upgradekitpanel.upgradepanelkit23=虚空太阳能板升级组件
-
-##神秘工匠
 iu.upgradekitpanel.upgradepanelkit24=灵宝太阳能板升级组件
-
-# 机器升级组件
 iu.upgradekitmachine.upgradepanelkitmachine=改良机器升级组件
 iu.upgradekitmachine.upgradepanelkitmachine1=高级机器升级组件
 iu.upgradekitmachine.upgradepanelkitmachine2=完美机器升级组件
 iu.upgradekitmachine.upgradepanelkitmachine3=极限机器升级组件
-
 iu.blockRecycler.name=改良回收机
 iu.blockRecycler1.name=高级回收机
 iu.blockRecycler2.name=完美回收机
 industrialupgrade.moremachine1.double_recycler=改良回收机
 industrialupgrade.moremachine1.triple_recycler=高级回收机
 industrialupgrade.moremachine1.quad_recycler=完美回收机
-
 iu.blockCompressor.name=改良压缩机
 iu.blockCompressor2.name=高级压缩机
 iu.blockCompressor3.name=完美压缩机
 industrialupgrade.moremachine.double_commpressor=改良压缩机
 industrialupgrade.moremachine.triple_commpressor=高级压缩机
 industrialupgrade.moremachine.quad_commpressor=完美压缩机
-
 iu.blockElecFurnace.name=改良电炉
 iu.blockElecFurnace2.name=高级电炉
 iu.blockElecFurnace3.name=完美电炉
 industrialupgrade.moremachine.double_furnace=改良电炉
 industrialupgrade.moremachine.triple_furnace=高级电炉
 industrialupgrade.moremachine.quad_furnace=完美电炉
-
 iu.blockExtractor.name=改良提取机
 iu.blockExtractor2.name=高级提取机
 iu.blockExtractor3.name=完美提取机
 industrialupgrade.moremachine.double_extractor=改良提取机
 industrialupgrade.moremachine.triple_extractor=高级提取机
 industrialupgrade.moremachine.quad_extractor=完美提取机
-
 iu.blockMacerator.name=改良打粉机
 iu.blockMacerator2.name=高级打粉机
 iu.blockMacerator3.name=完美打粉机
 industrialupgrade.moremachine.double_macerator=改良打粉机
 industrialupgrade.moremachine.triple_macerator=高级打粉机
 industrialupgrade.moremachine.quad_macerator=完美打粉机
-
 iu.blockMatter1.name=改良物质生成机
 iu.blockMatter2.name=高级物质生成机
 iu.blockMatter3.name=完美物质生成机
@@ -1456,19 +1236,16 @@ industrialupgrade.basemachine.adv_matter=改良物质生成机
 industrialupgrade.basemachine.imp_matter=高级物质生成机
 industrialupgrade.basemachine.per_matter=完美物质生成机
 industrialupgrade.basemachine2.combiner_matter=§9组合物质生成器
-
 iu.MetalFormer.name=改良金属成型机
 iu.MetalFormer2.name=高级金属成型机
 iu.MetalFormer3.name=完美金属成型机
 industrialupgrade.moremachine.double_metalformer=改良金属成型机
 industrialupgrade.moremachine.triple_metalformer=高级金属成型机
 industrialupgrade.moremachine.quad_metalformer=完美金属成型机
-
 industrialupgrade.basemachine.quantum_quarry=量子采石场
 industrialupgrade.basemachine.adv_quantum_quarry=改良量子采石场
 industrialupgrade.basemachine.imp_quantum_quarry=高级量子采石场
 industrialupgrade.basemachine.per_quantum_quarry=完美量子采石场
-
 iu.blockExtruding.name=金属挤压机
 iu.blockExtruding1.name=改良金属挤压机
 iu.blockExtruding2.name=高级金属挤压机
@@ -1477,7 +1254,6 @@ industrialupgrade.moremachine2.extruder=金属挤压机
 industrialupgrade.moremachine2.double_extruder=改良金属挤压机
 industrialupgrade.moremachine2.triple_extruder=高级金属挤压机
 industrialupgrade.moremachine2.quad_extruder=完美金属挤压机
-
 iu.blockRolling.name=金属辊压机
 iu.blockRolling1.name=改良金属辊压机
 iu.blockRolling2.name=高级金属辊压机
@@ -1486,7 +1262,6 @@ industrialupgrade.moremachine2.rolling=金属辊压机
 industrialupgrade.moremachine2.double_rolling=改良金属辊压机
 industrialupgrade.moremachine2.triple_rolling=高级金属辊压机
 industrialupgrade.moremachine2.quad_rolling=完美金属辊压机
-
 iu.blockCutting.name=金属剪切机
 iu.blockCutting1.name=改良金属剪切机
 iu.blockCutting2.name=高级金属剪切机
@@ -1495,14 +1270,12 @@ industrialupgrade.moremachine2.cutting=金属剪切机
 industrialupgrade.moremachine2.double_cutting=改良金属剪切机
 industrialupgrade.moremachine2.triple_cutting=高级金属剪切机
 industrialupgrade.moremachine2.quad_cutting=完美金属剪切机
-
 iu.blockCombRecycler.name=改良组合回收机
 iu.blockCombRecycler1.name=高级组合回收机
 iu.blockCombRecycler2.name=完美组合回收机
 industrialupgrade.moremachine1.double_comb_recycler=改良组合回收机
 industrialupgrade.moremachine1.triple_comb_recycler=高级组合回收机
 industrialupgrade.moremachine1.quad_comb_recycler=完美组合回收机
-
 iu.blockCombMacerator.name=组合打粉机
 iu.blockCombMacerator1.name=改良组合打粉机
 iu.blockCombMacerator2.name=高级组合打粉机
@@ -1511,7 +1284,6 @@ industrialupgrade.moremachine1.comb_macerator=组合打粉机
 industrialupgrade.moremachine1.double_comb_macerator=改良组合打粉机
 industrialupgrade.moremachine1.triple_comb_macerator=高级组合打粉机
 industrialupgrade.moremachine1.quad_comb_macerator=完美组合打粉机
-
 iu.blockAssamplerScrap.name=废料装配台
 iu.blockAssamplerScrap1.name=改良废料装配台
 iu.blockAssamplerScrap2.name=高级废料装配台
@@ -1520,7 +1292,6 @@ industrialupgrade.moremachine3.assamplerscrap=废料装配台
 industrialupgrade.moremachine3.double_assamplerscrap=改良废料装配台
 industrialupgrade.moremachine3.triple_assamplerscrap=高级废料装配台
 industrialupgrade.moremachine3.quad_assamplerscrap=完美废料装配台
-
 iu.blockFermer.name=自动农场机
 iu.blockFermer1.name=改良自动农场机
 iu.blockFermer2.name=高级自动农场机
@@ -1529,51 +1300,40 @@ industrialupgrade.moremachine3.farmer=自动农场机
 industrialupgrade.moremachine3.double_farmer=改良自动农场机
 industrialupgrade.moremachine3.triple_farmer=高级自动农场机
 industrialupgrade.moremachine3.quad_farmer=完美自动农场机
-
 iu.blockAdvgenerator.name=改良发电机
 iu.blockImpgenerator.name=高级发电机
 iu.blockPergenerator.name=完美发电机
 industrialupgrade.basemachine.adv_gen=改良发电机
 industrialupgrade.basemachine.imp_gen=高级发电机
 industrialupgrade.basemachine.per_gen=完美发电机
-
 industrialupgrade.basemachine1.adv_reactor=改良核反应堆
 industrialupgrade.adv_chamber.adv_chamber=改良核反应仓
 industrialupgrade.basemachine1.imp_reactor=高级核反应堆
 industrialupgrade.imp_chamber.imp_chamber=高级核反应仓
 industrialupgrade.basemachine1.per_reactor=完美核反应堆
 industrialupgrade.per_chamber.per_chamber=完美核反应仓
-
 iu.blockAdvKG.name=改良动能发电机
 iu.blockImpKG.name=高级动能发电机
 iu.blockPerKG.name=完美动能发电机
-
 industrialupgrade.basemachine.alloy_smelter=合金炉
 industrialupgrade.basemachine1.adv_alloy_smelter=改良合金炉
 iu.AdvAlloymachine.name=改良合金炉
-
 industrialupgrade.basemachine1.adv_geo=改良地热发电机
 industrialupgrade.basemachine1.imp_geo=高级地热发电机
 industrialupgrade.basemachine1.per_geo=完美地热发电机
 iu.blockAdvGeo.name=改良地热发电机
 iu.blockImpGeo.name=高级地热发电机
 iu.blockPerGeo.name=完美地热发电机
-
 industrialupgrade.basemachine2.adv_pump=改良泵
 industrialupgrade.basemachine2.imp_pump=高级泵
-
-# 内燃机发电机
 industrialupgrade.basemachine2.gen_disel=柴油发电机
 industrialupgrade.basemachine2.gen_pet=汽油发电机
 industrialupgrade.basemachine2.gen_hyd=氢气发电机
-
-# 物质和更多生成机
 industrialupgrade.basemachine.gen_stone=造石机
 industrialupgrade.basemachine2.gen_obsidian=黑曜石生成机
 industrialupgrade.basemachine2.lava_gen=熔岩生成机
 industrialupgrade.basemachine2.helium_generator=氦气生成机
 iu.AspGen.name=要素生成机
-
 industrialupgrade.basemachine.generator_microchip=电路板制造厂
 blockConverterSolidMatter.name=固体物质重组仪
 industrialupgrade.converter_matter.converter_matter=固体物质重组仪
@@ -1606,18 +1366,14 @@ industrialupgrade.basemachine3.tuner=无线调节器
 industrialupgrade.basemachine3.spawner=自动猎人
 industrialupgrade.basemachine3.elec_heat=电热器
 industrialupgrade.basemachine3.fluid_heat=液体加热器
-
-# 固态物质生成器
 industrialupgrade.solid.aer_solidmatter=空气固态物质生成器
 industrialupgrade.solid.aqua_solidmatter=水固态物质生成器
 industrialupgrade.solid.earth_solidmatter=主世界固态物质生成器
 industrialupgrade.solid.end_solidmatter=末地固态物质生成器
 industrialupgrade.solid.solidmatter=固态物质生成器
-industrialupgrade.solid.solidmatter=固态物质生成器
 industrialupgrade.solid.nether_solidmatter=下界固态物质生成器
 industrialupgrade.solid.night_solidmatter=月光固态物质生成器
 industrialupgrade.solid.sun_solidmatter=日光固态物质生成器
-
 iu.solar_energy.solar_energy=阳光化合物生成机
 industrialupgrade.se_gen.se_gen=阳光化合物生成机
 blockSolarGeneratorEnergy.name=阳光化合物生成机
@@ -1631,9 +1387,7 @@ industrialupgrade.gen_sunnarium.gen_sunnarium=阳光化合物制造厂
 iu.sunnarium_maker_item.sunnarium_maker_item=阳光化合物制造厂
 industrialupgrade.gen_sunnarium_plate.gen_sunnarium_plate=阳光化合物板制造厂
 iu.sunnarium_maker_plate_item.sunnarium_maker_plate_item=阳光化合物板制造厂
-
 iu.doublescrapbox.name=双废料盒
-
 iu.itemsunnariumpanel.hsp=混合阳光化合板
 iu.itemsunnariumpanel.usp=终极混合阳光化合板
 iu.itemsunnariumpanel.qsp=量子阳光化合板
@@ -1647,13 +1401,10 @@ iu.itemsunnariumpanel.bsp=重子阳光化合板
 iu.itemsunnariumpanel.adspp=强子阳光化合板
 iu.itemsunnariumpanel.gsp=重力阳光化合板
 iu.itemsunnariumpanel.ksp=夸克阳光化合板
-
 iu.upgrades.transformerupgrade1=变压器升级 x2
 iu.upgrades.transformerupgrade2=变压器升级 x4
-
 iu.blacklist=黑名单
 iu.whitelist=白名单
-
 iu.circuit.advanced_part1=高级电容器
 iu.circuit.advanced_part2=高级小型集成电路
 iu.circuit.advanced_part3=高级方型扁平式芯片
@@ -1666,10 +1417,8 @@ iu.circuit.quantumcircuit_part3=量子方型扁平式芯片
 iu.circuit.spectralcircuit_part1=光谱电容器
 iu.circuit.spectralcircuit_part2=光谱小型集成电路
 iu.circuit.spectralcircuit_part3=光谱方型扁平式芯片
-
 iu.anode=正极
 iu.cathode=负极
-
 iu.paints.emptybox=空油漆罐
 iu.paints.bluepaint=淡蓝色油漆罐
 iu.paints.yellowpaint=黄色油漆罐
@@ -1678,7 +1427,6 @@ iu.paints.redpaint=红色油漆罐
 iu.paints.orangepaint=橙色油漆罐
 iu.paints.darkbluepaint=蓝色油漆罐
 iu.paints.purplepaint=紫色油漆罐
-
 iu.time=剩余时间：
 iu.hour=小时
 iu.minutes=分
@@ -1698,15 +1446,12 @@ iu.panelinformation6=太阳能板现在需要用扳手拆卸。
 iu.panelinformation7=模式切换按钮只对RF模块起作用。
 iu.panelinformation8=要使用太阳能板给物品充电，你需要“物品充电”模块。
 iu.panelinformation9=使用“净化器”模块，便可解放双手。
-
 updatemod4=[IU]
 updatemod=新版本可用：
 updatemod3=无法通过验证
 updatemod2=你可以下载这个链接：
 updatemod1=工业升级
 updatemod5=有关更新的详细信息，请点击链接：
-
-# 分析
 startchunk=开始：
 endchunk=结束：
 name.ore=矿石名称：
@@ -1724,7 +1469,6 @@ button.quarry=开采
 iu.blockAnalyzer.name=分析仪
 industrialupgrade.basemachine2.analyzer=分析仪
 information=每次分析仪运行时重新加载区块。
-
 iu.graviTool.snap.hoe=锄
 iu.graviTool.snap.treetap=木龙头
 iu.graviTool.snap.wrench=扳手
@@ -1736,18 +1480,14 @@ iu.message.text.enabled=开启
 iu.message.text.on=开
 iu.message.text.off=关
 iu.message.text.disabled=关闭
-
 defaultskin=皮肤：普通
 camouflageskin=皮肤：§2迷彩伪装
 demonskin=皮肤：§4恶魔
 Darkskin=皮肤：§8暗黑
 Coldskin=皮肤：§b寒霜
 Enderskin=皮肤：§5末影
-
 iu.plast.name=塑料
 iu.plastic_plate.name=塑料板
-
-# 反应堆部件
 iu.reactorcondensatordiamond=钻石冷凝模块
 iu.impventspread=混合散热片
 iu.advventspread=完美散热片
@@ -1755,7 +1495,6 @@ iu.impheatswitch=混合
 iu.advheatswitch=完美热交换器
 iu.reactorimpvent=混合散热片
 iu.reactoradvvent=完美散热片
-
 iu.electricstorageinformation=存储信息
 iu.electricstorageinformation1=可以存储RF能量。
 iu.electricstorageinformation2=如果安装了RF模块，就可以在EU和RF之间进行转换。
@@ -1764,10 +1503,8 @@ iu.electricstorageinformation4=你可以使用左侧槽位的模块。
 iu.electricstorageinformation5=若要将存储与无线模块关联，请将其嵌入模块槽中
 iu.electricstorageinformation6=如果通信正常，请将模块嵌入太阳能板。
 iu.electricstorageinformation7=即时无线充电只适用于右击存储。
-
 button.deny=关
 button.allow=开
-
 iu.quarryinformation=采石场信息
 iu.quarryinformation1=使用模块提升你的采石场。
 iu.quarryinformation2=“效率”模块每升级一级，成本就降低5%。
@@ -1778,7 +1515,6 @@ iu.quarryinformation6=其余模块嵌入中间槽位。
 iu.quarryinformation7=若要将存储与无线模块关联，请将其嵌入模块槽中。
 iu.quarryinformation8=如果通信正常，请将模块嵌入太阳能板。
 iu.quarryinformation9=“范围”模块能让你挖掘更多方块（3x3, 5x5），但成本增加。
-
 iu.analyzerinformation=分析仪信息
 iu.analyzerinformation1=要扫描区块，请单击“分析”按钮。
 iu.analyzerinformation2=要挖掘方块，首先将其放置在靠近采石场的地方。
@@ -1787,42 +1523,35 @@ iu.analyzerinformation4=如果满足上述条件，请单击“开采”按钮�
 iu.analyzerinformation5=在分析仪中也可以使用相同的模块。
 iu.analyzerinformation6=使用无线模块，你可以将采石场连接到分析仪。
 iu.analyzerinformation7=为此，首先在矿井内嵌入无线模块，然后是分析仪。
-
 iu.fisherinformation=自动钓鱼机信息
 iu.fisherinformation1=机器下面需要3x3x3的水。
 iu.fisherinformation2=需要能量，钓鱼时也需要鱼竿。
 iu.fisherinformation3=鱼竿附魔影响捕捞。
-
 iu.combMatterinformation=组合物质生成器
 iu.combMatterinformation1=为运行，你需要把物质发生器嵌入槽中。
 iu.combMatterinformation2=每个槽最多产生物质的数量：4
-
 iu.paintinginformation=印染机信息
 iu.paintinginformation1=修改盔甲或物品的材质。
 iu.paintinginformation2=把你想染的东西放在左边的槽里。
 iu.paintinginformation3=将4个油漆罐放入正确的槽中。
 iu.paintinginformation4=皮肤会自动改变。
 iu.paintinginformation5=用常用的染料去除皮肤
-
 message.battery.mode.0=常见的（不会工作）
 message.battery.mode.1=为主槽位充电
 message.battery.mode.2=物品充电
 message.battery.mode.3=盔甲充电
 message.battery.mode.4=为所有槽位充电
-
 button.write=编写
 iu.moduleinformation=模块处理机信息
 iu.moduleinformation1=将模块嵌入中央插槽：“白”或“黑”名单。
 iu.moduleinformation2=把矿石、水晶、锭放到其他槽里
 iu.moduleinformation3=点击“编写”按钮。
-
 iu.message.text.powerSupply=外接电源
 chance=核聚变概率：
 clonning=你需要通过转换来创造：
 matternumber=单位
 mattercloning=转换
 mattererror=错误
-
 free_slot=修改插槽可用：
 free_slot1=
 not_free_slot=你没有空槽位来升级物品
@@ -1843,7 +1572,6 @@ bowenergy=能源消耗降低
 bowdamage=箭伤害增加
 saberenergy=能源消耗降低
 saberdamage=伤害增加
-
 scanning=扫描百分比
 button.xpremove=给予经验
 button.xpadd=放置经验
@@ -1855,8 +1583,6 @@ iu.red=红色：
 iu.blue=蓝色：
 iu.green=绿色：
 iu.rgb=渐变色
-
-# 奇点（无尽贪婪集成）
 item.singularity_mikhail.name=奇点-米哈洛夫
 item.singularity_aluminium.name=奇点-铝
 item.singularity_vanady.name=奇点-钒
@@ -1874,24 +1600,16 @@ item.singularity_caravky.name=奇点-查瓦卡
 item.singularity_electrium.name=奇点-银金
 item.singularity_iridium.name=奇点-铱
 item.singularity_germanium.name=奇点-锗
-
-#储存袋
 item.iu_bags.name=电力储存袋
 item.imp_iu_bags.name=改良电力储存袋
 item.adv_iu_bags.name=高级电力储存袋
-
-iu.vertical=激活垂直模式，请按
-iu.streak=修改玩家后面的线的颜色，请按
 iu.magnet_mode=激活磁铁，请按
 iu.notfindoil=未发现石油，使用探芯钻机来分析区块
 iu.create_sunnarium=在阳光化合物产生机中制作
 iu.create_plastic=在化工厂创建
 iu.create_plastic_plate=在塑料制板机中制作
-
-# 进度
 achievement.start=工业升级
 achievement.start.desc=一切的开始
-
 achievement.mikhailore=米哈洛夫先生
 achievement.mikhailore.desc=获得米哈洛夫矿石
 achievement.aluminiumore=铝
@@ -1939,10 +1657,8 @@ achievement.neptuniumore.desc=获得镎矿石
 achievement.curiumore=锔
 achievement.curiumore.desc=获得锔矿石
 achievement.toriyore=金属中的雷神
-achievement.toriyore=获得钍矿石
 achievement.thoriumore=金属中的雷神
 achievement.thoriumore.desc=获得钍矿石
-
 achievement.SE_generator=手中之日
 achievement.SE_generator.desc=建造一个阳光化合物生成机
 achievement.sunnarium_part=太阳粒子
@@ -1957,9 +1673,9 @@ achievement.imp_SE_generator=太阳能成瘾
 achievement.imp_SE_generator.desc=进一步升级你的阳光化合物生成机
 achievement.sunnarium_maker=把碎片收集起来
 achievement.sunnarium_maker.desc=建造一个阳光化合物制造厂
-achievement.sunnarium=太阳掌握在你自己的手中
+achievement.sunnarium=太阳掌握在你自己的手中⋯⋯
 achievement.sunnarium.desc=获得阳光化合物
-achievement.sunnarium_plate=现在压缩它！
+achievement.sunnarium_plate=现在⋯⋯压缩它！
 achievement.sunnarium_plate.desc=获得阳光化合物板
 achievement.enrichment=富集化它！
 achievement.enrichment.desc=建造一个富集发生器
@@ -1973,7 +1689,6 @@ achievement.toriy_enrich=放射性钍
 achievement.toriy_enrich.desc=获得光辉钍
 achievement.thorium_enrich=放射性钍
 achievement.thorium_enrich.desc=获得光辉钍
-
 achievement.sunnarium_makerpanel=不寻常的压缩太阳
 achievement.sunnarium_makerpanel.desc=制造阳光化合物板制造厂
 achievement.molecular_transfromer=改变一切
@@ -1984,7 +1699,6 @@ achievement.double_molecular_transfromer=复仇般的转变
 achievement.double_molecular_transfromer.desc=制造高级分子重组仪
 achievement.double_molecular_transformer=复仇般的转变
 achievement.double_molecular_transformer.desc=制造高级分子重组仪
-
 achievement.adv_core=科技进步
 achievement.adv_core.desc=获得高级核心
 achievement.hyb_core=混合
@@ -2017,7 +1731,6 @@ achievement.kvr_core=比强子更基本
 achievement.kvr_core.desc=获得夸克核心
 achievement.quar_core=比强子更基本
 achievement.quar_core.desc=获得夸克核心
-
 achievement.adv_panel=科学在行动
 achievement.adv_panel.desc=制作一个高级太阳能板
 achievement.hyb_panel=太阳能混合
@@ -2050,7 +1763,6 @@ achievement.kvr_panel=元素能量
 achievement.kvr_panel.desc=制作一个夸克太阳能板
 achievement.quar_panel=元素能量
 achievement.quar_panel.desc=制作一个夸克太阳能板
-
 achievement.oil_bucket=舀起石油
 achievement.oil_bucket.desc=把石油倒进桶里
 achievement.oil_cell=舀起石油
@@ -2097,7 +1809,6 @@ achievement.plastic_plater=塑料板
 achievement.plastic_plater.desc=获得一块塑料板
 achievement.plastic_plate=塑料板
 achievement.plastic_plate.desc=获得一块塑料板
-
 description_armor=盔甲改进：
 description_item=物品改进：
 iu.temperature=机器温度：
@@ -2133,9 +1844,7 @@ iu.blacklist_key=要切换至黑名单，请按
 message.blacklist=黑名单列表：
 iu.needheaters=在机器附近放置加热器
 waring_kit=升级前，请确保已从机器/储电箱/太阳能板中移除所有物品
-
 item.book_iu.name=§o工业升级：完整版（未完成）
-
 iu.quarryveininformation=区块信息：
 iu.gettingvein=获取油脉的概率：
 iu.gettingvein1=获取矿脉的机会：

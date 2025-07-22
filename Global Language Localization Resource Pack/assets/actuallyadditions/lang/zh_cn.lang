@@ -472,7 +472,7 @@ info.actuallyadditions.booklet.edition=第
 info.actuallyadditions.booklet.hudDisplay.noInfo=没有可用的信息！抱歉 :(
 info.actuallyadditions.booklet.hudDisplay.noInfo.desc.1=按下Shift键时看着实用拓展
 info.actuallyadditions.booklet.hudDisplay.noInfo.desc.2=的方块能够查看更多信息！
-info.actuallyadditions.booklet.hudDisplay.open=右击打开
+info.actuallyadditions.booklet.hudDisplay.open=右击打开⋯⋯
 info.actuallyadditions.booklet.hudDisplay.page=页数
 info.actuallyadditions.booklet.manualName.1.1=实用拓展
 info.actuallyadditions.booklet.manualName.1.2=Actual Additions
@@ -482,7 +482,7 @@ info.actuallyadditions.booklet.manualName.1.5=Actual Addition
 info.actuallyadditions.booklet.manualName.1.6=Actually Addons
 info.actuallyadditions.booklet.manualName.1.7=Additional Addons
 info.actuallyadditions.booklet.manualName.2=手册
-info.actuallyadditions.booklet.searchField=点击搜索
+info.actuallyadditions.booklet.searchField=点击搜索⋯⋯
 info.actuallyadditions.deathRecorded=你的死亡信息已被记录，请使用DeathTracker来获取死亡位置！
 info.actuallyadditions.gui.all=所有
 info.actuallyadditions.gui.animals=动物
@@ -1083,9 +1083,7 @@ tooltip.actuallyadditions.unlocName.desc=元数据的未本地化名
 actuallyadditions.cft=CF/t
 actuallyadditions.cf=CF
 actuallyadditions.cflong=水晶通量
-#Fluids
 fluid.actuallyadditions.oil=原油
-#Blocks
 tile.actuallyadditions.blockCompost.name=堆肥机
 tile.actuallyadditions.blockMiscOreBlackQuartz.name=焦黑石英矿
 tile.actuallyadditions.blockMiscBlackQuartz.name=焦黑石英块
@@ -1188,10 +1186,8 @@ tile.actuallyadditions.blockChiseledQuartzSlab.name=錾制焦黑石英台阶
 tile.actuallyadditions.blockPillarQuartzWall.name=焦黑石英柱围墙
 tile.actuallyadditions.blockPillarQuartzStair.name=焦黑石英柱楼梯
 tile.actuallyadditions.blockPillarQuartzSlab.name=焦黑石英柱台阶
-#ESD
 tile.actuallyadditions.blockInputter.name=ESD
 tile.actuallyadditions.blockInputterAdvanced.name=高级ESD
-#Reconstructor
 tile.actuallyadditions.blockAtomicReconstructor.name=原子再构机
 tile.actuallyadditions.blockAtomicReconstructor.info.1.1=分子
 tile.actuallyadditions.blockAtomicReconstructor.info.1.2=材料

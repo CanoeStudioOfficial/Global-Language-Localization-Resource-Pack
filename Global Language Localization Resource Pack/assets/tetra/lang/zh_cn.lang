@@ -1153,9 +1153,6 @@ basic_handle/wrap_vine.description=轻微增加攻击和攻速，减少手柄负
 wrap_handle_schema.name=裹柄
 wrap_handle_schema.slot1=材料
 wrap_handle_schema.description=使用材料裹柄。轻微增加攻击和攻速，并减少手柄可能导致的负面效果。
-###############################
-# CLAW HEAD
-###############################
 claw_schema.name=羊角头
 claw_schema.description=使用材料制作一个羊角头。羊角头可以被用于撬开物品和快速破坏木质方块。
 claw_schema.slot1=羊角头材料
@@ -1240,9 +1237,6 @@ item.quick_latch.description=在物品栏中显示相关的升级。
 item.vent_plate.name=排气板
 item.vent_plate.description=把这个连接到机器上能稍微提高它的效率。
 toolbelt.effect.tooltip.storage.cellSocket=组件可以从这个位置中的电池中获取电
-###############################
-# CAPABILITIES
-###############################
 capability.hammer=锤
 capability.hammer.requirement=此操作需要%d级的锤
 capability.axe=斧
@@ -1256,9 +1250,6 @@ capability.cut.requirement=此操作需要%d级的切割工具
 capability.pry=撬
 capability.pry.requirement=此操作需要%d级的撬具
 capability.available=你有一个%d级的
-###############################
-# STATS
-###############################
 stats.durability=耐久
 stats.durability.tooltip=这个物品有§e%s§r点耐久
 stats.speed=速度
@@ -1313,9 +1304,6 @@ stats.cut.tooltip=这个物品可被用于切割、合成或破坏蜘蛛网与�
 stats.pry.tooltip=这个物品可被用于撬开东西，可被用于回收\n\n§7撬棍等级：§e%s\n§7撬棍效率：§e%s
 stats.integrity_usage=完整度使用：%s/%s
 stats.integrity_usage.tooltip=完整度由一些组件提供（通常在一些特定的位置），其它组件和大多数的改进需要完整度。
-###############################
-# MODULE PROGRESSION
-###############################
 settled.name=固定
 settled.description=为了增加用处，这个组件被固定了。这能提供额外的完整度
 settled.toast=一个组件被固定了！
@@ -1323,9 +1311,6 @@ arrested.name=无法固定
 arrested.description=这个组件被用无法被固定的材料制成
 hone.progress=打磨进度：%s%%
 hone.available=可以打磨
-###############################
-# BLADE HONING SHARED
-###############################
 blade_hone_damage_1_schema.name=打磨：伤害 I
 blade_hone_damage_1_schema.description=打磨组件，使造成的伤害增加 0.5。
 blade_hone_damage_2_schema.name=打磨：伤害 II
@@ -1350,9 +1335,6 @@ blade_hone_speed_5_schema.name=打磨：速度 V
 blade_hone_speed_5_schema.description=进一步打磨组件的使用速度增益，使速度增益从 30%% 增加到 40%%。
 blade_hone/speed.name=打磨：速度
 blade_hone/speed.description=增加使用速度
-###############################
-# HILT HONING SHARED
-###############################
 hilt_hone_damage_1_schema.name=打磨：伤害 I
 hilt_hone_damage_1_schema.description=打磨组件，使造成的伤害增加 5%%。
 hilt_hone_damage_2_schema.name=打磨：伤害 II
@@ -1395,18 +1377,12 @@ wrap_hilt_hone_1_schema.description=改良裹柄，进一步增加伤害和使�
 wrap_hilt_hone_2_schema.name=打磨：裹柄 III
 wrap_hilt_hone_2_schema.slot1=材料
 wrap_hilt_hone_2_schema.description=进一步改良裹柄，增加伤害和使用速度，并且减少负面效果。
-###############################
-# SWORD SOCKET
-###############################
 sword_socket_schema.name=镶嵌
 sword_socket_schema.description=在剑中镶嵌一枚宝石，根据宝石提供不同的效果。
 sword_socket_schema.slot1=宝石
 sword_socket/diamond=镶嵌 [§b钻石§r]
 sword_socket/emerald=镶嵌 [§a绿宝石§r]
 sword_socket/lapis=镶嵌 [§9青金石§r]
-###############################
-# DUPLEX HEAD HONING SHARED
-###############################
 duplex_head_hone_durability_1_schema.name=打磨：耐久 I
 duplex_head_hone_durability_1_schema.description=打磨组件，增加提供的耐久 4%%。
 duplex_head_hone_durability_2_schema.name=打磨：耐久 II
@@ -1507,9 +1483,6 @@ handle_hone_speed_4_schema.name=打磨：速度 IV
 handle_hone_speed_4_schema.description=进一步打磨组件的使用速度增益，使速度增益从 13%% 增加到 18%%。
 handle_hone_speed_5_schema.name=打磨：速度 V
 handle_hone_speed_5_schema.description=进一步打磨组件的使用速度增益，使速度增益从 18%% 增加到 22%%。
-###############################
-# DUPLEX SOCKET
-###############################
 duplex_socket_schema.name=镶嵌
 duplex_socket_schema.description=在工具中镶嵌一枚宝石，根据宝石提供不同的效果。
 duplex_socket_schema.slot1=宝石
@@ -1517,9 +1490,6 @@ duplex_socket/diamond=镶嵌 [§b钻石§r]
 duplex_socket/emerald=镶嵌 [§a绿宝石§r]
 duplex_socket/lapis=镶嵌 [§9青金石§r]
 stats.softStrike=轻击
-###############################
-# JOURNAL
-###############################
 item.journal.name=全息投影
 journal.craft.breadcrumb.root=物品
 journal.craft.sword=剑刃
@@ -1537,9 +1507,6 @@ stats.armor.tooltip=持有时提供§e%s§r点护甲值
 stats.integrity=完整度
 stats.integrity.tooltip_positive=这个组件提供 §e%s§r 的完整度
 stats.integrity.tooltip_negative=这个组件需要 §e%s§r 的完整度
-###############################
-# CONFIG TOOLTIPS
-###############################
 tetra.general.geodegenerate=生成晶洞玉石
 tetra.general.geodegenerate.tooltip=切换关闭以禁用生成晶洞玉石。已经生成的区块可能仍包含晶洞玉石§o需要重启。§r
 tetra.general.generatefeatures=生成结构
@@ -1562,9 +1529,6 @@ tetra.general.honeswordbase=打磨极限基数 - 剑
 tetra.general.honeswordbase.tooltip=可以磨剑之前所需使用次数的基本值。
 item.journal.tooltip1=轻触一下，球体便将图和文字投射到空中
 item.journal.tooltip2=[右键使用]
-###############################
-# WORKBENCH
-###############################
 workbench.slot_detail.details_tab=详情
 workbench.slot_detail.craft_tab=合成
 workbench.slot_detail.tweak_tab=调整
@@ -1572,9 +1536,6 @@ workbench.slot_detail.tweak_apply=应用
 workbench.module_detail.empty=空槽
 workbench.module_detail.not_tweakable=调整不可用
 workbench.schema_detail.experience=此操作需要%d经验等级
-###############################
-# STATS
-###############################
 stats.efficiency_suffix=效率
 stats.strength_suffix=力量
 stats.tier_suffix=层数
@@ -1617,9 +1578,6 @@ destabilized/knockback.name=§5不稳定：击退
 destabilized/knockback.description=降低击退的效果
 destabilized/mending.name=§5不稳定：经验修补
 destabilized/mending.description=降低经验修补的效果
-###############################
-# SYNERGY
-###############################
 item.modular.synergy_indicator.empty=该组件没有潜在的协同增益
 cleanse_schema.name=净化
 cleanse_schema.description=净化不稳定所带来的负面影响。\n\n经验成本会因魔力容量和不稳定效果的增加而增加。
@@ -1627,14 +1585,8 @@ sword/basic_blade.item_name=剑
 sword/basic_blade.description=具有平均伤害、攻击速度和完整性使用的简易剑刃。
 sword/basic_hilt.name=简易剑柄
 sword/basic_hilt.description=一个简易剑柄。剑柄是剑完整度的主要来源。
-###############################
-# DECORATIVE POMMEL
-###############################
 sword/decorative_pommel.name=装饰性剑柄圆头
 sword/decorative_pommel.description=一种装饰性剑柄圆头，它提供了部分耐久度，但是没有功能性。
-###############################
-# MAKESHIFT GUARD
-###############################
 sword/makeshift_guard.name=简易护手
 sword/makeshift_guard.description=剑护手，其构造为挥舞的手提供了少许保护。
 sword/wide_guard.name=宽护手
@@ -1648,9 +1600,6 @@ sword/counterweight.name=平衡锤
 sword/counterweight.description=附在尾部的配重。如果配重消耗的完整性与所有其他组件的总和相同，那么攻击速度将大大提高。如果完整性使用不同，增益将减少，越大的差异会减少更多增益，甚至可能降低攻击速度。
 sword/reinforced_fuller.name=强化附层
 sword/reinforced_fuller.description=附加强化附层可以提供额外的完整度并能够降低物品损坏的几率，但是剑会更重，攻击速度更慢。
-###############################
-# SWORD BINDING
-###############################
 sword_binding_schema.name=绑定
 sword_binding_schema.description=用绳子或皮带将剑柄和剑刃结合紧密，或使用完全不同的材料和方法。
 sword_binding_schema.slot1=材料
@@ -1686,9 +1635,6 @@ duplex_socket/amber=镶嵌[§6琥珀§r]
 duplex_socket/pristine_diamond=镶嵌[§b钻石+§r]
 duplex_socket/pristine_emerald=镶嵌[§a绿宝石+§r]
 duplex_socket/pristine_lapis=镶嵌[§9青金石+§r]
-###############################
-# DUPLEX BINDING
-###############################
 duplex_binding_schema.name=绑定
 duplex_binding_schema.description=用绳子或皮带将工具头绑到手柄上，或使用完全不同的材料和方法。
 duplex_binding_schema.slot1=材料
@@ -1771,9 +1717,6 @@ duplex/hoe.name=锄头
 duplex/hoe.description=一个基础的锄头，可以被用来锄地。
 duplex/sickle.name=镰刀
 duplex/sickle.description=一个轻微弯曲的镰刀，可以被用来切割范围内的方块。\n\n和其它的工具不同，它可以瞬间破坏方块，但只能在没有挥动冷却时如此。
-###############################
-# TOOLBELT
-###############################
 toolbelt.effect.tooltip.quick.quickAccess=合适的工具能从这一格被快速取出
 belt/rope.item_name=绳子
 belt/rope.description=一个用绳子做成的非常简易的腰带。可以承受非常有限的附件数量。

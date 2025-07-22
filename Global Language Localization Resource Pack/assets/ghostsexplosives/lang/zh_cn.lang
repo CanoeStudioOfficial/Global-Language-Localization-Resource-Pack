@@ -1,8 +1,6 @@
-#CREATIVE TABS
 itemGroup.ghostsExplosivesItems=Ghost 的爆炸物丨物品
 itemGroup.ghostsExplosivesTnt=Ghost 的爆炸物丨TNT
 itemGroup.ghostsExplosivesBlocks=Ghost 的爆炸物丨方块
-#BLOCKS
 tile.tnt_x1_2.name=半倍 TNT
 tile.tnt_x10.name=十倍 TNT
 tile.tnt_x100.name=百倍 TNT
@@ -64,7 +62,6 @@ tile.ore_potassium.name=钾矿石
 tile.ore_uranium.name=铀矿石
 tile.block_uranium.name=铀块
 tile.block_nuclear_waste.name=核废料
-#ITEMS
 item.dust_charcoal.name=木炭粉
 item.sulfur.name=硫磺
 item.dust_sulfur.name=硫粉
@@ -76,11 +73,8 @@ item.instant_flint_and_steel.name=即时生效打火石
 item.defuser.name=拆 TNT 器
 item.bazooka.name=TNT 巴祖卡
 item.c4_detonator.name=C4 引爆器
-#EFFECTS
 effect.radiationPoisoning=辐射
-#DEATHS
 death.attack.ghostsexplosives.radiationPoisoning=%1$s 因辐射中毒而亡
-#CONFIG
 ghostsexplosives.config.title=Ghost 的爆炸物 - 配置选项
 ghostsexplosives.config.tnt.explosionStrength=爆炸强度
 ghostsexplosives.config.tnt.fuse=保险丝长度

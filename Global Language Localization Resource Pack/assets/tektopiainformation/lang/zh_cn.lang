@@ -1,41 +1,3 @@
-#en_US
-#This is the Main language configuration file
-#
-#If you want to color code the text then I recommend you visit http://www.minecraftwiki.net/wiki/Formatting_codes#Color_codes
-#To create the § symbol which is used for assigning a color to the following text press Alt + 21 on Windows. For other OSes, view the above link.
-#This file needs to be UTF-8 encoded to work with MC 1.7+
-
-# Formatting codes
-# Code	Name
-# §0	black
-# §1	dark_blue
-# §2	dark_green
-# §3	dark_aqua
-# §4	dark_red
-# §5	dark_purple	
-# §6	gold
-# §7	gray
-# §8	dark_gray
-# §9	blue
-# §a	green
-# §b	aqua
-# §c	red
-# §d	light_purple
-# §e	yellow
-# §f	white
-
-# §k	Obfuscated
-# §l	Bold
-# §m	Strikethrough
-# §n	Underline
-# §o	Italic
-# §r	Reset
-
-#=======
-#= GUI =
-#=======
-
-#== Tooltips ==
 gui.help=§8帮助：
 gui.info=§8更多信息：
 gui.showcontrolhelp=§8帮助：（按住 §fCtrl）
@@ -43,7 +5,6 @@ gui.showcontrolinfo=§8更多信息：（按住 §fCtrl）
 gui.showshifthelp=§8帮助：（按住 §fShift）
 gui.showshiftinfo=§8更多信息：（按住 §fShift）
 gui.translationkey=§d翻译字段：§f
-#== Villager ==
 gui.villager.daysalive=生活时间：
 gui.villager.profession=职业：
 gui.villager.health=生命值：
@@ -53,17 +14,12 @@ gui.villager.intelligence=智力：
 gui.villager.blessedlevels=忠诚度：
 gui.villager.villagename=所在村庄：
 gui.villager.hasbed=是否有床：
-#==========
-#= Config =
-#==========
-
-#== Debug ==
 config.debug=调试器
 config.debug.tooltip=调试设置
 config.debug.enableDebug=开启调试模式
 config.debug.enableDebug.tooltip=如果开启，调试信息会在对话栏输出。
-config.debug.showTooltipTranslationKey=显示物品翻译字段 - 提示文本
-config.debug.showTooltipTranslationKey.tooltip=如果打开，物品翻译字段就会在提示中显示。
+config.debug.showTooltipTranslationKey=显示物品翻译字段 - 提示框
+config.debug.showTooltipTranslationKey.tooltip=如果打开，物品翻译字段就会在提示框中显示。
 config.debug.showJeiBlocksMissingInformation=显示方块缺少的信息 - JEI
 config.debug.showJeiBlocksMissingInformation.tooltip=如果打开，任何方块缺少信息就会被显示在对话栏中。
 config.debug.showJeiBlocksRegisteredInformation=显示方块注册信息 - JEI
@@ -78,25 +34,22 @@ config.debug.showWailaBlockTranslationKey=显示物品翻译字段 - Waila
 config.debug.showWailaBlockTranslationKey.tooltip=如果打开，物品翻译字段就会在Waila中显示
 config.debug.showWailaEntitiesRegistered=显示实体注册信息 - Waila
 config.debug.showWailaEntitiesRegistered.tooltip=如果开启，所有注册了的实体会输出到对话框.
-#== Tooltips ==
-config.tooltips=提示文本
-config.tooltips.tooltip=提示文本设置
+config.tooltips=提示框
+config.tooltips.tooltip=提示框设置
 config.tooltips.enableTooltipIntegration=启用信息集成
-config.tooltips.enableTooltipIntegration.tooltip=如果开启，将会集成提示文本。
+config.tooltips.enableTooltipIntegration.tooltip=如果开启，将会集成提示框。
 config.tooltips.useShiftKey=使用Shift
-config.tooltips.useShiftKey.tooltip=如果开启，只会在按下Shift的时候显示提示文本。
-config.tooltips.restrictToAdvancedTooltips=强制显示高级提示文本
-config.tooltips.restrictToAdvancedTooltips.tooltip=如果开启，在开启高级提示栏（F3+H）下只会显示提示文本。
+config.tooltips.useShiftKey.tooltip=如果开启，只会在按下Shift的时候显示提示框。
+config.tooltips.restrictToAdvancedTooltips=强制显示高级提示框
+config.tooltips.restrictToAdvancedTooltips.tooltip=如果开启，在开启高级提示栏（F3+H）下只会显示提示框。
 config.tooltips.showShiftKeyInfo=使用Shift获取更多信息
 config.tooltips.showShiftKeyInfo.tooltip=如果开启，将在按下Shift的时候显示更多信息。
-#== JEI ==
 config.jei=JEI
 config.jei.tooltip=JEI 设置
 config.jei.enableJeiIntegration=开启JEI拓展
 config.jei.enableJeiIntegration.tooltip=如果开启，会联动JEI。
 config.jei.showJeiInformationTab=显示信息栏
 config.jei.showJeiInformationTab.tooltip=如果开启，会在JEI中显示信息栏。
-#== Waila ==
 config.waila=Waila
 config.waila.tooltip=Waila 设置
 config.waila.enableWailaIntegration=启用Waila拓展
@@ -113,7 +66,6 @@ config.waila.entities=实体
 config.waila.entities.tooltip=实体设置
 config.waila.entities.showEntityInformation=显示信息
 config.waila.entities.showEntityInformation.tooltip=如果开启，实体信息会在Waila显示。
-#== The One Probe ==
 config.top=The One Probe
 config.top.tooltip=The One Probe 设置
 config.top.enableTopIntegration=开启 The One Probe 拓展
@@ -130,7 +82,6 @@ config.top.entities=实体
 config.top.entities.tooltip=实体设置
 config.top.entities.showEntityInformation=显示信息
 config.top.entities.showEntityInformation.tooltip=如果开启，实体信息会在 The One Probe 显示。
-#== GUI ==
 config.gui=GUI
 config.gui.tooltip=GUI 设置
 config.gui.enableGuiIntegration=开启 GUI 拓展
@@ -139,9 +90,6 @@ config.gui.tektopiaInformationBook=TekTopia 手册
 config.gui.tektopiaInformationBook.tooltip=TekTopia 手册设置
 config.gui.tektopiaInformationBook.enableTektopiaInformationBook=开启 TekTopia 手册
 config.gui.tektopiaInformationBook.enableTektopiaInformationBook.tooltip=如果开启，在空手右键村民时会显示显示TekTopia手册。在服务器时，要服务器和客户端同时开启这个选项才能有效。
-#=================
-#= Tektopia Book =
-#=================
 tektopiaBook.name=TekTopia 手册
 tektopiaBook.information=这本书包含村庄的信息和他们的领地信息。
 button.previouspage.name=上一页
@@ -159,10 +107,7 @@ bookmark.economy.information=反映村庄经济的信息。
 bookmark.homes.information=村庄中所有房屋和军营的信息。
 bookmark.professions.information=村庄中职业的信息。
 bookmark.residents.information=村庄中所有居民的信息。
-#bookmark.statistics.information=
 bookmark.structures.information=村庄中所有建筑的信息。
-#bookmark.village.information=
-
 tektopiaBook.continued=（继续。）
 tektopiaBook.empty=<空>
 tektopiaBook.missing=<缺失>
@@ -240,34 +185,10 @@ tektopiaBook.statistics.total=总居民数：
 tektopiaBook.economy.merchantsales=商人总销售量：
 tektopiaBook.economy.salesHistory=出售记录
 tektopiaBook.summary.header=总览
-#============
-#= Tooltips =
-#============
-
-#=======
-#= JEI =
-#=======
-
-#=========
-#= Waila =
-#=========
-
-#=================
-#= The One Probe =
-#=================
-
-#================
-#= Items/Blocks =
-#================
-
 item.beer.tooltip=§e一个村民在旅社可以享受到的冷饮。
 item.heart.tooltip=§e如果高幸福指数的村民睡觉了，他们会产出一个爱心给玩家。
-#item.rancher_hat.tooltip=§e-=Patreon Exclusive=-\nAn astonishingly fashionable hat made from straw and awesome.\nEveryone envies you.
-
 item.beer.information=一个村民在旅社可以享受到的冷饮。
 item.heart.information=如果高幸福指数的村民睡觉了，他们会产出一个爱心给玩家。
-#item.rancher_hat.information=§e-=Patreon Exclusive=-\nAn astonishingly fashionable hat made from straw and awesome.\nEveryone envies you.
-
 item.prof_bard.tooltip=§e职业代币 - 吟游诗人
 item.prof_blacksmith.tooltip=§e职业代币 - 铁匠
 item.prof_butcher.tooltip=§e职业代币 - 屠夫
@@ -342,10 +263,6 @@ item.structure_tavern.information=建筑师出售建筑制作许可以换取绿�
 item.structure_townhall.information=建筑师出售建筑制作许可以换取绿宝石。你可以把这一些建筑制作许可放在建筑的门上面的物品展示框内注册村庄建筑。
 tile.chair.tooltip=§e一个可以坐的舒适的椅子.
 tile.chair.information=一个村民可以坐的舒适的椅子.
-#============
-#= Entities =
-#============
-
 entity.architect.name=建筑师
 entity.bard.name=吟游诗人
 entity.blacksmith.name=铁匠
@@ -382,7 +299,6 @@ entity.guard.information=无论守卫在哪里，守卫都能感觉到村庄中�
 entity.lumberjack.information=伐木工人砍伐树木以满足您所有的木材需求。 他们可以砍掉橡木，白桦树，丛林木和云杉。
 entity.merchant.information=商人每天都会访问您的村庄，为您的商品提供绿宝石贸易。 他将根据您村庄的生产能力提供交易。 生产能力和结构每天都在变化，因此，一个多元化的村庄对于最大化您的绿宝石商店至关重要。
 entity.miner.information=矿工深入地下的指定矿井，以开采其他村民使用的资源。
-#entity.necromancer.information=
 entity.nitwit.information=失业者是仍在找工作的村民。 他们在您的村庄没有任何日常活动，不吃食物也不生产任何东西。
 entity.nomad.information=流浪汉是您村庄的游客。 他们来看看您取得的进展，您可以确定他们是否成为居民。
 entity.rancher.information=牧场工人将野外的动物抓住，放在动物围栏中。 到达那里后，牧场主将为他们喂食从储藏室中存储的农作物和种子。

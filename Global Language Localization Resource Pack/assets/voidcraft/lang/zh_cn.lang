@@ -1,49 +1,3 @@
-# -- Battle
-# -- Docs
-# -- End
-# -- Foci
-# -- Items
-# -- Progression
-# -- Recipes
-# -- Research
-# -- Spectre
-# -- Void
-# -- Void
-# -- Xia
-# Achievements
-# Armor
-# Blocks
-# Creative Tabs
-# Death
-# Entity
-# Fluid
-# GUI
-# Items
-# Misc
-# Potion
-# Projectiles
-# Records
-# Swords
-# Thaumcraft
-# Tools
-# Twins Speech
-# Vade Mecum
-## -- 1
-## -- 1
-## -- 2
-## -- 2
-## -- 3
-## -- 4
-## -- 5
-## -- Descriptions
-## -- Descriptions
-## -- Riddle
-## -- Rituals
-## -- Titles
-## -- Titles
-## -- Voice
-#一个奇怪的BUG，第12行，也就是会显示在第三块牌子第四行的文字不会被加载，所以这里留空。
-#缺失词条
 achievement.Ascension.desc=打败夏
 achievement.Ascension=上升
 achievement.Legendary.desc=结合灵魂，链条和火焰的力量，制作一把传奇剑！
@@ -95,7 +49,7 @@ achievement.tolerance=虚空忍耐
 achievement.tooFar.desc=进入未知传送门
 achievement.tooFar=我们走得非常远了！
 achievement.totalcontrol.desc=在虚空维度到达尽可能高的地方
-achievement.totalcontrol=去往虚空？
+achievement.totalcontrol=去往⋯⋯虚空？
 achievement.vadeMecum.desc=丢一本书到虚空之火中来获得虚空手册
 achievement.vadeMecum=虚空手册
 achievement.voidCrystal.desc=探索位于末地里的未知水晶
@@ -308,7 +262,7 @@ entity.voidcraft.LordOfBlades.name=刀锋之王
 splash_potion.effect.voidimmunity=喷溅型充实药水
 tipped_arrow.effect.voidimmunity=充实之箭
 lingering_potion.effect.voidimmunity=小型喷溅充实药水
-voidcraft.VadeMecum.docs.desc.ChainedSkull=奇怪的是，在烧焦的骨头上覆盖一个凋零的头骨，然后是炽热的锁链，似乎出现了什么改变。你不知道究竟是不是你的错觉，或者这个头骨还活着呼吸对你说话。它希望你放下它。它告诉你，你可以用它来毁灭这个世界。放下头骨将发生爆炸和Boss战斗，做好战斗准备吧。
+voidcraft.VadeMecum.docs.desc.ChainedSkull=奇怪的是，在烧焦的骨头上覆盖一个凋零的头骨，然后是炽热的锁链，似乎出现了什么改变。你不知道究竟是不是你的错觉，或者这个头骨还活着⋯⋯呼吸⋯⋯对你说话。它希望你放下它。它告诉你，你可以用它来毁灭这个世界。放下头骨将发生爆炸和Boss战斗，做好战斗准备吧。
 voidcraft.VadeMecum.docs.desc.Heimdall.pg1=信标看上去产生了拥有奇特效果的强大光线。但是如此强大的力量不可能只靠它自己产生出来。更合理的解释是它开启了通往虚空的裂隙来获得能量。信标通过虚空灌注祭坛的改造后能够调整这个门来从虚空中收集能量。和信标不同的是，它能够高效率地工作而不需要露天环境，
 voidcraft.VadeMecum.docs.desc.Heimdall.pg2=但是海姆达尔需要燃料来维持这个门的开启。由于它可能是由连通下界的裂缝调整成连通虚空的裂缝，所以它需要来自两个维度的能量才能正常运作。虚空石英粉就是最佳的燃料。海姆达尔会收集虚空液体并将液体到输出到它下面的机器里。
 voidcraft.VadeMecum.docs.desc.MoltenvoidChain=无论你想要用来做什么，虚空锁链都太柔软了。这就是完全成型的炽热虚空锁链发挥作用的地方。将这些熔融的虚空锁链与烧焦骨头相结合，您就可以获得坚固的可锻造链条，可以根据需要永久地改变形状，而不会发生变形。
@@ -483,7 +437,7 @@ voidcraft.VadeMecum.progression.desc.tome.pg2=准备好使用魔法后，潜行�
 voidcraft.VadeMecum.progression.desc.totalcontrol.pg1=又是一个新的任务，这个任务对你来说会有很大帮助。完成它你的爆炸几率将再次降低25%，这意味着你施法将不再失败，同时你将获得一种新的能力，虚空飞行。这种能力可让你以25%的虚空侵蚀程度的时候而不是75%的程度获得飞行。
 voidcraft.VadeMecum.progression.desc.totalcontrol.pg2=这次任务可能会更具挑战性，你必须达到虚空城市的顶部，高达飞艇停靠的地方。找到并持有星光精华。 一定要携带一个充实药剂来幸存危险的顶层。
 voidcraft.VadeMecum.progression.desc.voice.pg1=我相信你每次尝试施放咒语时都会注意到你几乎全部失败并产生爆炸。现在你可能想知道这个文本的来源甚至是什么，我只是让你知道我，虚空手册，我不是一本普通的书，但让我们继续讨论主题。
-voidcraft.VadeMecum.progression.desc.voice.pg2=在爆炸的基础上，我有想要给你一个任务，如果你完成这个任务将减少25%的爆炸几率，顺带一提目前你的失败几率是75%。我敢肯定你的应该可以做一下简单的数学计算，对吗？任务很简单，我希望你进入虚空并被虚空侵蚀。不需要太多，当你的任务完成时我会告诉你。【左下角会出现提示】
+voidcraft.VadeMecum.progression.desc.voice.pg2=在爆炸的基础上，我有想要给你一个任务，如果你完成这个任务将减少25%的爆炸几率，顺带一提目前你的失败几率是75%。我敢肯定你的⋯⋯应该⋯⋯可以做一下简单的数学计算，对吗？任务很简单，我希望你进入虚空并被虚空侵蚀。不需要太多，当你的任务完成时我会告诉你。【左下角会出现提示】
 voidcraft.VadeMecum.progression.desc.voidicControl.pg1=你可能知道虚空侵蚀会对您造成一些相当令人讨厌的影响，但你也知道其中一些影响可能是有益的。这里有一些方法可以控制你的被侵蚀后的效果，让它带来好的而不是坏的影响。
 voidcraft.VadeMecum.progression.desc.voidicControl.pg2=进入虚空并允许自己被虚空完全侵蚀，我会将你的躯体固定以防止你死亡，这足以让你获得新的力量。【站虚空里等就是了】
 voidcraft.VadeMecum.progression.title.dreams=梦想？
@@ -555,8 +509,8 @@ voidcraft.misc.item.voidcraft.teleporter.save=设置连接：{ x：%s，y：%s�
 voidcraft.misc.pawn.desc=§4警告：即将爆炸！！！
 voidcraft.misc.pawn.summon=§8[§k夏§r§8]：前进吧，我的棋子。
 voidcraft.misc.te.alch.set=§8Owner Set：%s
-voidcraft.misc.xia.death=§8[夏]：非常好穿上我的盔甲，你将获得飞行的能力。飞过洞穴，在虚空中与我战斗
-voidcraft.misc.xia.escape=§8[夏]：你难度在躲避我的愤怒吗
+voidcraft.misc.xia.death=§8[夏]：非常好⋯⋯穿上我的盔甲，你将获得飞行的能力。飞过洞穴，在虚空中与我战斗⋯⋯
+voidcraft.misc.xia.escape=§8[夏]：你难度在躲避我的愤怒吗⋯⋯
 voidcraft.ritual.AcidSheathe=§2Word：遮罩：强酸
 voidcraft.ritual.AcidSpray=§2Word：酸性喷雾
 voidcraft.ritual.AcidTrap=§2Word：强酸陷阱
@@ -642,7 +596,7 @@ voidcraft.twins.speech.end.1.6=§2我们也许是宇宙。是你认为所有不�
 voidcraft.twins.speech.end.1.7=§3我们善良而有爱心，但多尔不是很谦虚。
 voidcraft.twins.speech.end.1.8=§2要不是我，你会使用这条命运线上你能用到的每一个机会，佐尔。
 voidcraft.twins.speech.end.1.9=§3也许你是对的，但让我们回到主题。
-voidcraft.twins.speech.end.2.10=§2虽然，说实话你和我们一样的古老。
+voidcraft.twins.speech.end.2.10=§2⋯⋯虽然，说实话⋯⋯你和我们一样的古老。
 voidcraft.twins.speech.end.2.11=§3唯一不同的是，我们从未发生过改变。
 voidcraft.twins.speech.end.2.12=§3我们从虚无中但是到这个没有规律的世界
 voidcraft.twins.speech.end.2.13=§2因此，通过我们的存在，我们制订了规则
@@ -682,7 +636,7 @@ voidcraft.twins.speech.end.2.43=§2我们为你提供了时间和空间来让你
 voidcraft.twins.speech.end.2.44=§2但是问题依然存在，如果你什么都可以完成的话，你会做些什么呢？
 voidcraft.twins.speech.end.2.45=§2只有你能回答这个问题。
 voidcraft.twins.speech.end.2.46=§2但即使你有计划，你也必须离开这个地方并采取行动。
-voidcraft.twins.speech.end.2.47=§2这里没有什么可以留给你的，所以去吧
+voidcraft.twins.speech.end.2.47=§2这里没有什么可以留给你的，所以去吧⋯⋯
 voidcraft.twins.speech.end.2.48=§2走出去实现你的梦想。
 voidcraft.twins.speech.end.2.4=§3你是否在为你的努力寻求回报？
 voidcraft.twins.speech.end.2.5=§2又或者你只是单纯的回来看看我们。
@@ -703,8 +657,8 @@ voidcraft.twins.speech.riddle.1.1=§3%s§3 正在接近
 voidcraft.twins.speech.riddle.1.2=§2我知道
 voidcraft.twins.speech.riddle.1.3=§3这难道不是很奇怪吗？它们改变了宇宙的规则而使这里存在
 voidcraft.twins.speech.riddle.1.4=§2是的，虽然很多人像 %s§2 那样可以做到这一点，但是很少有人这样做，
-voidcraft.twins.speech.riddle.1.5=§3我并没有责怪它们，有关我们的信息非常少然而。
-voidcraft.twins.speech.riddle.1.6=§2没错，但是请思考一下我们可以在这个梦中发挥巨大的作用。%s§2 将与我们相遇
+voidcraft.twins.speech.riddle.1.5=§3我并没有责怪它们，有关我们的信息非常少⋯⋯然而。
+voidcraft.twins.speech.riddle.1.6=§2没错，但是请思考一下⋯⋯我们可以在这个梦中发挥巨大的作用。%s§2 将与我们相遇
 voidcraft.twins.speech.riddle.1.7=§3Will %s§3 可以明白我们究竟是什么吗？
 voidcraft.twins.speech.riddle.1.8=§2我并不这样认为。我们也许是所有人类中最神秘的.也许这个强大的存在可以理解我们的一些想法，但是它不可能完全的理解我们
 voidcraft.twins.speech.riddle.1.9=§3那么让我们采取它熟悉的方式
@@ -713,7 +667,7 @@ voidcraft.twins.speech.riddle.2.2=§2[Dol]：是的。
 voidcraft.twins.speech.riddle.2.3=§3[Zol]：我们为你准备了一些特别的，%s§3。
 voidcraft.twins.speech.riddle.3.1=§2[Dol]：%s§2 太聪明了，佐尔。
 voidcraft.twins.speech.riddle.3.2=§3[Zol]：我们还有些事情没有做完
-voidcraft.twins.speech.riddle.4.1=§3[Zol]：
+voidcraft.twins.speech.riddle.4.1=§3[Zol]：⋯⋯
 voidcraft.twins.speech.riddle.4.2=§2[Dol]：那这一个问题怎么样？
 voidcraft.twins.speech.riddle.5.1=§2[Dol]：这个玩家的梦想是什么？
 voidcraft.twins.speech.riddle.5.2=§3[Zol]：这名玩家梦想着阳光和树木。火和水它梦见它创造了什么。它梦见它被摧毁了。它梦见猎杀，又被猎杀。它梦想着它的避难所。

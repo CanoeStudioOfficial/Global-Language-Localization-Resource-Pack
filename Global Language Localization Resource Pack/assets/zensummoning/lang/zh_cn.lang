@@ -11,5 +11,3 @@ jei.zensummoning.catalyst.lore=待所有祭品都在祭坛上后按住Shift并�
 jei.zensummoning.recipe.altar.isCatalystConsumed=消耗物品：%1$s
 jei.zensummoning.recipe.altar.weight=概率：%f
 jei.zensummoning.recipe.altar.entity=%1$dx%2$s
-itemGroup.zensummoning=Zen 召唤祭坛
-# numbered parameters here for example, #xname, 1xOcelo

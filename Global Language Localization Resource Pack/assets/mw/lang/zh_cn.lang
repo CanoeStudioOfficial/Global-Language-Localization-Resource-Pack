@@ -378,7 +378,7 @@ gui.firearmMode.burst=单扣连发
 gui.inventoryFull=背包已满
 gui.currentZoom=缩放：%s%%
 gui.grenadeExplodes=将在 %s 秒内爆炸
-gui.coolingDown=冷却中
+gui.coolingDown=冷却中⋯⋯
 tile.mw:tinore.name=锡矿石
 tile.mw_GraphiteOre.name=石墨矿石
 tile.mw_LeadOre.name=铅矿石
@@ -399,8 +399,6 @@ item.mw_LeadIngot.name=铅锭
 item.mw_GunmetalIngot.name=炮铜锭
 item.mw_CopperIngot.name=铜锭
 item.mw_GunmetalComposite.name=炮铜合金粗胚
-
-
 tile.mw_weapons_case.name=武器箱
 tile.mw_weapons_case_small.name=小型武器箱
 tile.mw_russian_weapons_case.name=俄系武器箱
@@ -490,9 +488,6 @@ tile.mw_FloodLight.name=泛光灯
 tile.mw_Radio_rotated.name=电台（旋转）
 tile.mw_Radio.name=电台
 tile.mw_camera_rotated.name=旋转的摄像头
-
-
-
 item.mw_viper_sf_desert.name=Viper SF战术背心 | 荒漠涂装
 item.t60_boots.name=T-60动力胸甲
 item.t60_chest.name=T-60动力头盔 
@@ -651,8 +646,6 @@ item.mw_Bullet20x82mm.name=20x82mm 子弹
 item.mw_Bullet357.name=.357 子弹
 item.mw_Bullet44.name=.44 Magnum 子弹
 item.mw_Bullet500.name=.500 Magnum 子弹
-
-
 item.mw_Bullet765x21.name=7.65x21mm 子弹
 item.mw_ScorpionMag.name=9x19mm 30发弹匣 | “蝎”式 EVO3 A1用
 item.mw_InterventionMag.name=.408 7发弹匣 | M200 “干预”用

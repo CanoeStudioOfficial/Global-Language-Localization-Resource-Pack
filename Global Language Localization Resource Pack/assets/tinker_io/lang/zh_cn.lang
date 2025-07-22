@@ -1,4 +1,3 @@
-#Config
 fluid.pure_metal=纯金属
 item.CD_Lonesome_Avenue.desc=Lonesome Avenue (YouTube音乐库)
 item.CD_Lonesome_Avenue.name=音乐唱片
@@ -35,7 +34,7 @@ tio.toolTips.StirlingEngine.energyStored=储存的能量
 tio.toolTips.StirlingEngine.generatePerTick=每 tick 产能
 tio.toolTips.StirlingEngine.liquidAmount=燃料数量
 tio.toolTips.StirlingEngine.liquidTemp=燃料温度
-tio.toolTips.UpgBase=仅用于合成材料
+tio.toolTips.UpgBase=仅用于合成材料⋯⋯
 tio.toolTips.UpgSpeed=用于：燃料输入机
 tio.toolTips.basinUPG.usage1=切换至铸造盆模式
 tio.toolTips.basinUPG=用于：智能输出端

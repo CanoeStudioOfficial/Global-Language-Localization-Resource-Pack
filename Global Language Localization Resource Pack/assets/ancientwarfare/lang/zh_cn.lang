@@ -1,6 +1,3 @@
-#Ancient Warfare language file
-
-#config stuff
 awconfig.mod_name=古代战争
 awconfig.config_name=客户端选项
 awconfig.core_keybinds=核心快捷键
@@ -9,15 +6,12 @@ awconfig.automation_config=自动化模块配置
 awconfig.automation_config.tooltip=自动化模块的客户端选项
 awconfig.npc_config=NPC 模块配置
 awconfig.npc_config.tooltip=NPC 模块的客户端选项
-
-#items
 itemGroup.tabs.awcore=古代战争核心
 itemGroup.tabs.structures=古代战争结构
 itemGroup.tabs.editor=古代战争模型编辑器
 itemGroup.tabs.automation=古代战争自动化
 itemGroup.tabs.npc=古代战争 NPC 
 itemGroup.tabs.vehicles=古代战争载具
-#core
 item.manual.name=论统治细则
 item.manual.tooltip=古代战争手册
 item.research_book.name=研究手册
@@ -38,7 +32,6 @@ item.backpack.2.name=中型背包
 item.backpack.3.name=大型背包
 item.steel_ingot.name=钢锭
 item.info_tool.name=信息工具
-#component (shared)
 item.component.0.name=木齿轮组
 item.component.1.name=铁齿轮组
 item.component.2.name=钢齿轮组
@@ -49,9 +42,7 @@ item.component.6.name=木扭转轴
 item.component.7.name=铁扭转轴
 item.component.8.name=钢扭转轴
 item.food_bundle.name=食物包
-#modeler
 item.editor_opener.name=模型编辑器
-#structure
 item.structure_scanner.name=结构扫描仪
 item.structure_builder.name=结构生成器
 item.spawner_placer.name=刷怪箱配置工具
@@ -61,7 +52,6 @@ item.block_info_clicker.name=方块信息工具
 item.town_builder.name=即时城镇建筑工具
 item.structure_builder_world_gen.name=世界生成结构生成工具
 item.loot_chest_placer.name=战利品箱放置工具
-#automation
 item.worksite_upgrade.0.name=中级范围升级
 item.worksite_upgrade.1.name=高级范围升级
 item.worksite_upgrade.2.name=中级采石场升级
@@ -73,7 +63,6 @@ item.worksite_upgrade.7.name=中级工具品质升级
 item.worksite_upgrade.8.name=高级工具品质升级
 item.worksite_upgrade.9.name=基础区块加载器升级
 item.worksite_upgrade.10.name=采石场区块加载器升级
-#npc
 item.work_order.name=工作指令
 item.upkeep_order.name=补给指令
 item.combat_order.name=作战指令
@@ -155,14 +144,8 @@ item.coin.silver.name=银鹿币
 item.coin.copper.name=铜鸮币
 item.coin.ancient.name=古币
 item.coin.ancient.tooltip=%1$s"米诺西亚之物，如今只有其硬币遗存——世间荣光就这般终归尘土。"
-
-#vehicle
-
-#blocks
-#core
 tile.engineering_station.0.name=工程站
 tile.research_station.0.name=研究站
-#automation
 tile.auto_crafting.name=自动合成站
 tile.auto_crafting.0.name=自动合成站
 tile.quarry.name=采石场
@@ -203,7 +186,6 @@ tile.chunk_loader_simple.name=低级区块加载器
 tile.chunk_loader_deluxe.name=高级区块加载器
 tile.windmill_generator.0.name=风车发动机
 tile.windmill_blade.name=风车叶片
-#structure
 tile.advanced_spawner.name=高级刷怪箱
 tile.drafting_station.name=制图站
 tile.structure_builder_ticked.name=生存结构创造器
@@ -312,8 +294,6 @@ tile.gravestone.5.name=砂岩墓碑
 tile.gravestone.6.name=符石
 tile.gravestone.7.name=符石
 tile.gravestone.8.name=符石
-
-#colors
 black=黑色
 red=红色
 green=绿色
@@ -330,8 +310,6 @@ lightBlue=淡蓝色
 magenta=品红色
 orange=橙色
 white=白色
-
-#npc
 tile.town_hall.name=市政厅
 tile.recruiting_station.name=征兵站
 tile.headquarters.name=指挥部
@@ -339,9 +317,6 @@ tile.teleport_hub.name=传送中心
 tile.teleport_hub.tooltip.1=专为管理员或地图制作者设
 tile.teleport_hub.tooltip.2=计的传送锚。能够在玩家总
 tile.teleport_hub.tooltip.3=部和此处之间进行传送。
-#vehicle
-
-#guistrings
 guistrings.bounds_on=边界开启
 guistrings.bounds_off=边界关闭
 guistrings.volume=音量
@@ -576,8 +551,6 @@ guistrings.loot_placer.message=信息
 guistrings.stake.show_entity=显示实体
 guistrings.stake.entity_on_fire=燃烧实体
 guistrings.stake.burns=燃烧
-
-#automation
 guistrings.automation.ignore_damage=忽略耐久值
 guistrings.automation.ignore_nbt=忽略 NBT
 guistrings.automation.item=物品
@@ -623,8 +596,6 @@ guistrings.automation.height=高度
 guistrings.automation.torque.values=存储 | 输入 | 输出 | 丢失 ：：%s | %s | %s | %s
 guistrings.inventory.front=资源
 guistrings.inventory.bottom=特殊资源
-
-#npc localization
 guistrings.npc.remove_upkeep_point=移除
 guistrings.npc.side_change=面
 guistrings.npc.upkeep_time=补给时间
@@ -702,8 +673,6 @@ guistrings.npc.shield=仅增加 NPC 韧性
 guistrings.structure.loot_placer.copy=从战利品容器复制设定
 guistrings.structure.loot_placer.paste=粘贴设定到战利品容器
 guistrings.structure.coins=货币
-
-#routing order route-types
 route.fill.upto=填充至
 route.fill.upto.tooltip=尝试将目标存储空间中此物品填充至此数目。如已达到要求，信使不会储存更多物品
 route.take.upto=拿取至
@@ -728,15 +697,11 @@ route.fill.minimum=最少填充
 route.fill.minimum.tooltip=尝试填充到最小数值，和“填充至”相同，会填充至指定数值，不过需要信使拥有指定数量物品
 route.take.minimum=最少拿取
 route.take.minimum.tooltip=尝试填充到最小数值，和“拿取至”相同，会填充至指定数值，不过需要存储空间拥有指定数量物品
-
-#Equality Sign Names
 equality.equal==
 equality.greaterthan=>
 equality.lessthan=<
 equality.greaterthanorequalto=≥
 equality.lessthanorequalto=≤
-
-#research guis/items/misc
 guistrings.research.current_goal=当前目标
 guistrings.research.queued_research=研究队列
 guistrings.research.learnable_research=可研究
@@ -766,8 +731,6 @@ guistrings.research.right_click_to_view=使用物品以查看
 guistrings.research.research_mode=研究/视图
 guistrings.research.researched_items=研究项目
 guistrings.research.research_needed=研究需求
-
-#npc
 entity.ancientwarfarenpc.aw_npc_bard.name=吟游诗人
 entity.ancientwarfarenpc.aw_npc_combat.name=战士
 entity.ancientwarfarenpc.aw_npc_courier.name=信使
@@ -1423,8 +1386,6 @@ entity.ancientwarfarenpc.faction.soldier.elite.name=帮派·精英士兵
 entity.ancientwarfarenpc.faction.soldier.name=帮派·士兵
 entity.ancientwarfarenpc.faction.spellcaster.name=帮派·施法者
 entity.ancientwarfarenpc.faction.trader.name=帮派·商人
-
-#commands
 command.aw.structure.usage=/awstructure save [模板名] 或 /awstructure delete <模板名> [true以移除文件] 或 /awstructure build <模板名> <x> <y> <z> [north | east | south | west] 或 /awstructure reload 或 /awstructure name 或 /awstructure scannersReexport [true以重载主要设置]
 command.aw.structure.not_found=模板无法定位：%s
 command.aw.structure.file_not_found=文件无法定位：%s
@@ -1450,10 +1411,7 @@ command.aw.teams.team_does_not_exist=队伍%s不存在
 command.aw.teams.standings=排行：
 command.aw.teams.member_of=属于：
 command.aw.teams.team_name=队伍：%s
-
 command.aw.utils.usage=/awutils exportentities [fileName - 默认是"entitylist.csv"] 或 /awutils exportbiomes [fileName - 默认是"biomelist.csv"] 或 /awutils exportblocks [fileName - 默认是"blocklist.csv"] 或 /awutils exportloottables [fileName - 默认是"loottablelist.csv"] 或 /awutils reloadmanual
-
-#research
 research.invention=发明
 research.agriculture=农艺
 research.leadership=领导力
@@ -1485,8 +1443,6 @@ research.naval_warfare=海战
 research.advanced_siege_warfare=高阶攻城战
 research.ballistics=弹道学
 research.rocketry=火箭技术
-
-#structure validation translation stuff
 structure.validation.structureAuthor=Author
 structure.validation.survival=生存
 structure.validation.minGenDepth=最小生成深度
@@ -1514,8 +1470,6 @@ structure.validation.blockList=方块列表
 structure.validation.dimensionList=维度列表
 structure.validation.blockSwap=动态方块重新分配
 structure.validation.preventNaturalHostileSpawns=防止敌对生物自然生成
-
-#gate names
 item.gateBasicWood.name=木门（向上开启）
 item.gateBasicIron.name=铁门（向上开启）
 item.gateDoubleIron.name=铁门（双开）
@@ -1524,8 +1478,6 @@ item.gateSingleIron.name=铁门（侧开）
 item.gateSingleWood.name=木门（侧开）
 item.gateDrawbridge.name=吊桥（旋转打开）
 entity.aw_gate.name=Gate
-
-#ftbu_interop_notifications
 ftbu_aw2.notification.townhall_lost=失去市政厅
 ftbu_aw2.notification.chunk_position=区域：%s x %s
 ftbu_aw2.notification.chunk_name_and_position=%s（%s x %s）
@@ -1553,18 +1505,14 @@ ftbu_aw2.notification.townhall_newhq.tooltip.1=如果是主世界，这将充当
 ftbu_aw2.notification.townhall_newhq.tooltip.2=重生点（如果没有床可用），
 ftbu_aw2.notification.townhall_newhq.tooltip.3=同时也是传送事件的目的地。
 ftbu_aw2.notification.townhall_hqmissing=没有找到总部！
-ftbu_aw2.notification.townhall_hqmissing.msg=查看提示文本以获得详细信息
+ftbu_aw2.notification.townhall_hqmissing.msg=查看提示框以获得详细信息⋯⋯
 ftbu_aw2.notification.townhall_hqmissing.tooltip.1=你可能想要建立一个总部并保
 ftbu_aw2.notification.townhall_hqmissing.tooltip.2=护你的领土，只需要（重新）
 ftbu_aw2.notification.townhall_hqmissing.tooltip.3=放置一个市政厅就可设置总部。
-
-#jei
 jei.recipe.research_recipe=研究合成
 jei.recipe.shapeless_research_recipe=无序研究合成
 jei.tooltip.error.recipe.transfer.no.research_book=槽位中没有研究手册
 jei.tooltip.error.recipe.transfer.missing.research=缺少必需的研究
-
-#vehicle spawner items
 item.vehicleSpawner.0.name=固定投石机
 item.vehicleSpawner.1.name=转动投石机
 item.vehicleSpawner.2.name=固定投石车
@@ -1590,8 +1538,6 @@ item.vehicleSpawner.21.name=轰炸机
 item.vehicleSpawner.22.name=武装直升机
 item.vehicleSpawner.23.name=直升机
 item.vehicleSpawner.24.name=潜艇
-
-# vehicle ammo
 item.ammo_stone_shot_10.name=10 kg 石炮弹
 item.ammo_stone_shot_15.name=15 kg 石炮弹
 item.ammo_stone_shot_30.name=30 kg 石炮弹
@@ -1747,8 +1693,6 @@ item.ammo_ball_shot.tooltip=用于集簇弹药
 item.ammo_iron_ball_shot.tooltip=用于集簇弹药
 death.attack.AWMissile=%1$s被攻城器械击毙了
 death.attack.AWMissile.player=%1$s被%2$s用攻城器械击毙了
-
-# tooltips used for vehicle items
 item.vehicleSpawner.tooltip.torsion=弹射武器
 item.vehicleSpawner.tooltip.gunpowder=火药武器
 item.vehicleSpawner.tooltip.weight=配重武器
@@ -1766,8 +1710,6 @@ item.vehicleSpawner.tooltip.noweapon=没有武器
 item.vehicleSpawner.tooltip.boat=特殊：船
 item.vehicle_component.tooltip=载具构件
 item.ammo_material.tooltip=载具弹药材质
-
-# components
 item.flame_charge.name=装填火药
 item.explosive_charge.name=装填炸药
 item.rocket_charge.name=装填火箭
@@ -1790,8 +1732,6 @@ item.fine_iron.name=精炼铁板
 item.tempered_iron.name=百锻铁板
 item.minor_alloy.name=次级合金板
 item.major_alloy.name=高级合金板
-
-# vehicle upgrades
 item.vehicle_upgrade_tooltip=Vehicle Upgrade
 item.vehicle_upgrade_speed.name=铁轴承
 item.vehicle_upgrade_speed.tooltip=最大速度 + 0.25 m/s
@@ -1807,27 +1747,19 @@ item.vehicle_upgrade_pitch_up.name=转角楔板：+3'
 item.vehicle_upgrade_pitch_up.tooltip=瞄准距 +3'
 item.vehicle_upgrade_pitch_down.name=转角楔板：-3'
 item.vehicle_upgrade_pitch_down.tooltip=瞄准距 -3'
-
-# vehicle armor items
 item.armor_iron.name=铁护甲
 item.armor_iron.tooltip=减少大部分伤害 7%
 item.armor_stone.name=石护甲
 item.armor_stone.tooltip=减少火焰伤害 7%
 item.armor_obsidian.name=黑曜石护甲
 item.armor_obsidian.tooltip=减少爆炸伤害 7%
-
-#core input keybinds
 keybind.category.awCore=古代战争
 keybind.awCore.alt.item.use.1=物品功能 1
 keybind.awCore.alt.item.use.2=物品功能 2
 keybind.awCore.alt.item.use.3=物品功能 3
 keybind.awCore.alt.item.use.4=物品功能 4
 keybind.awCore.alt.item.use.5=物品功能 5
-
-#automation input keybinds
 keybind.awAutomation.toggle_workbounds_render=切换工作区域渲染
-
-# vehicle input keybinds
 keybind.category.awVehicles=古代战争丨载具
 keybind.vehicle.forward=正向/加速
 keybind.vehicle.reverse=反向/减速
@@ -1842,19 +1774,15 @@ keybind.vehicle.turret.left=左转向
 keybind.vehicle.turret.right=右转向
 keybind.vehicle.mouse.aim=启用/禁用鼠标瞄准
 keybind.vehicle.ammo.select=打开弹药选择界面
-
 gui.ancientwarfarevehicles.ammo.no_ammo=载具尚未装填子弹
 gui.ancientwarfarenpc.no_chest_access=这个箱子属于 %s，无法被你打开
 gui.ancientwarfarenpc.no_chest_access_flag_not_claimed=在占领%s的旗帜前无法打开此物品容器
-
 gui.ancientwarfarestructure.structure_hostile_alive=不能占领有敌对生物的建筑：%s
 gui.ancientwarfarestructure.structure_spawner_present=不能占领有刷怪箱的建筑：%s
 gui.ancientwarfarestructure.structure_conquered=你已占领%s
-
 gui.ancientwarfarenpc.skin_info.default=默认皮肤
 gui.ancientwarfarenpc.skin_info.player=玩家：%s
 gui.ancientwarfarenpc.skin_info.npc_type_random=随机
-
 gui.ancientwarfarenpc.skin_selection.default=默认
 gui.ancientwarfarenpc.skin_selection.player=玩家
 gui.ancientwarfarenpc.skin_selection.npc_type=NPC 类型

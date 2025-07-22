@@ -94,7 +94,7 @@ item.bountifulbaubles.ringOverclocking.tooltip.0=§9免疫缓慢并 +7% 移动�
 item.bountifulbaubles.ringOverclocking.tooltip.1=§a每个人都知道蓝色 LED 可使您的电脑更快地运行。
 item.bountifulbaubles.trinketShulkerHeart.name=潜影贝之心
 item.bountifulbaubles.trinketShulkerHeart.tooltip.0=§9免疫飘浮效果
-item.bountifulbaubles.trinketShulkerHeart.tooltip.1=§a摸着黏糊糊的
+item.bountifulbaubles.trinketShulkerHeart.tooltip.1=§a摸着黏糊糊的⋯⋯
 item.bountifulbaubles.ringFreeAction.name=自由行动戒指
 item.bountifulbaubles.ringFreeAction.tooltip.0=§9免疫缓慢和飘浮效果，还能自由穿梭蜘蛛网
 item.bountifulbaubles.enderDragonScale.name=末影龙鳞
@@ -125,8 +125,6 @@ item.bountifulbaubles.magicMirror.tooltip.1=§a它可能会扭曲空间，但不
 item.bountifulbaubles.magicMirror.wrongdim=您感觉自己离家太远了，无法返回。
 item.bountifulbaubles.potionRecall.name=回忆药水
 item.bountifulbaubles.potionRecall.tooltip.0=§9将您传送到出生点。
-# not much point having this tooltip when there's no zing sound
-#item.bountifulbaubles.potionRecall.tooltip.1=§aAaaaaaand ZING!
 item.bountifulbaubles.wormholeMirror.name=虫洞镜
 item.bountifulbaubles.wormholeMirror.tooltip.0=§9右击以传送到出生点。
 item.bountifulbaubles.wormholeMirror.tooltip.1=§9潜行右击以传送另一个玩家。

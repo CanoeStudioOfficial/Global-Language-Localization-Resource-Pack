@@ -1,7 +1,6 @@
 itemGroup.forgottenItems=被遗忘的物品
 container.rune_reader=符文阅读器
 container.advanced_rune_reader=高级符文阅读器
-
 item.explosion_pickaxe.name=爆破镐
 item.crafting_rune.name=合成符文
 item.gamble_pickaxe.name=赌博镐
@@ -28,6 +27,5 @@ item.bound_axe.name=绑定斧
 item.bound_shovel.name=绑定锹
 item.barkified_axe.name=树皮斧
 item.lifebelt.name=救生圈
-
 tile.rune_reader.name=符文阅读器
 tile.advanced_rune_reader.name=高级符文阅读器

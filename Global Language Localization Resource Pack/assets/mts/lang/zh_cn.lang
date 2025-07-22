@@ -195,7 +195,7 @@ interact.jumpercable.linkdropped=两个引擎移动得太远了。连接终止�
 interact.jumpercable.powerequal=两个引擎现在电量相同。连接终止。
 interact.jumpercable.alreadylinked=这个引擎已经连接上了另一个引擎，无法再被连接。
 interact.jumpercable.toofar=两个引擎距离太远了。它们的距离不能超过16格。
-interact.jumpercable.samevehicle=两个引擎在同一个载具上。这不会正常运行
+interact.jumpercable.samevehicle=两个引擎在同一个载具上。这不会正常运行⋯⋯
 input.aircraft.brake_analog=制动
 input.car.brake_analog=制动
 gui.vehicle_bench.mixed=混合
@@ -221,9 +221,6 @@ item.jumpercable.name=跨接电缆
 key.categories.mts=我的世界运输模拟
 manual.1.title=简介
 death.attack.jet_exhaust.null.null=%1$s 被喷气引擎的尾气烧焦了
-
-
-
 death.attack.jet_exhaust.null.player=%1$s 在和 %2$s 搏斗时被喷气引擎烧焦了
 death.attack.jet_exhaust.player.null=%1$s 被 %2$s 的喷气引擎烧焦了
 death.attack.jet_exhaust.player.player=%1$s 在和 %3$s 搏斗时被 %2$s 的喷气引擎烧焦了

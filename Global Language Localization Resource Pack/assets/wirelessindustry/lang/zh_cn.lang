@@ -1,4 +1,3 @@
-#=================GUI=================
 item.vajra.energy=能量
 message.text.vajra.energyLevel=能量
 tile.charger.energy=能量存储：
@@ -87,8 +86,6 @@ gui.WChP.private=私人模式
 gui.WChP.owner=所有者
 access.charger.not.allowed=你不是这台机器的所有者，拒绝访问
 info.WChP.only.owner.change=只有所有者能设置这台机器
-
-#=================机器=================
 tile.wirelessSpectralpanel.name=无线光谱太阳能
 tile.wirelessSingularpanel.name=无线奇异太阳能
 tile.wirelessAbsorbtionpanel.name=无限管理员太阳能
@@ -133,13 +130,9 @@ tile.expGen.name=经验生产机
 wirelesstools.xpgen.xpgenerator=经验生产机
 wirelesstools.othertes.remote_item_collector=真空物品收集器
 wirelesstools.othertes.wireless_charger_player=无线充能器
-
-#=================装备=================
 item.wirelessvajra.name=幸运金刚杵
 item.WirelessModule.name=无线模块
 item.goldenWrench.name=金扳手
 ic2.null.wirelessmodule=无线模块
 ic2.null.goldenwrench=金扳手
-
-#=================流体=================
 wirelesstools.xpliquid=液态经验

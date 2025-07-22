@@ -1,14 +1,6 @@
-#### GENERAL ####
 itemGroup.rockhoundingChemistry=地质探秘丨化学
-
-#### MOBS ####
-#entities
 entity.toxic_slime.name=剧毒史莱姆
-#mob items
 item.rockhounding_chemistry:mob_items.toxic_slimeball.name=剧毒粘液球
-
-#### CHEMISTRY ####
-#ores
 tile.rockhounding_chemistry:uninspected_mineral.name=未知矿物
 tile.rockhounding_chemistry:mineral_ores.antimonate.name=锑酸盐尾矿
 tile.rockhounding_chemistry:mineral_ores.arsenate.name=砷酸盐尾矿
@@ -23,7 +15,6 @@ tile.rockhounding_chemistry:mineral_ores.silicate.name=硅酸盐尾矿
 tile.rockhounding_chemistry:mineral_ores.sulfate.name=硫酸盐尾矿
 tile.rockhounding_chemistry:mineral_ores.sulfide.name=硫化物尾矿
 tile.rockhounding_chemistry:mineral_ores.vanadate.name=钒酸盐尾矿
-#mineral shards
 item.rockhounding_chemistry:antimonate_shards.bahianite.name=羟铝锑矿碎片
 item.rockhounding_chemistry:antimonate_shards.partzite.name=水锑铜矿碎片
 item.rockhounding_chemistry:antimonate_shards.tripuhyite.name=锑铁矿碎片
@@ -176,7 +167,6 @@ item.rockhounding_chemistry:vanadate_shards.lasalite.name=拉萨尔钒矿碎片
 item.rockhounding_chemistry:vanadate_shards.vanoxite.name=复钒矿碎片
 item.rockhounding_chemistry:vanadate_shards.dugganite.name=砷碲锌铅石碎片
 item.rockhounding_chemistry:vanadate_shards.alvanite.name=水钒铝石碎片
-#chemical dusts
 item.rockhounding_chemistry:chemical_dusts.cerium.name=铈粉
 item.rockhounding_chemistry:chemical_dusts.dysprosium.name=镝粉
 item.rockhounding_chemistry:chemical_dusts.erbium.name=铒粉
@@ -233,9 +223,6 @@ item.rockhounding_chemistry:chemical_dusts.zirconium.name=锆粉
 item.rockhounding_chemistry:chemical_dusts.molybdenum.name=钼粉
 item.rockhounding_chemistry:chemical_dusts.tellurium.name=碲粉
 item.rockhounding_chemistry:chemical_dusts.antimony.name=锑粉
-
-#### MACHINES ####
-#blocks
 tile.rockhounding_chemistry:misc_blocks_a.scaffold.name=机械框架
 tile.rockhounding_chemistry:misc_blocks_a.presser.name=压榨机
 tile.rockhounding_chemistry:misc_blocks_a.raw_salt.name=原盐块
@@ -260,7 +247,6 @@ tile.rockhounding_chemistry:didymium_glass.bricks.name=钕镨玻璃（砖块）
 tile.rockhounding_chemistry:waterlock.dry.name=干水封
 tile.rockhounding_chemistry:waterlock.wet.name=湿水封
 tile.rockhounding_chemistry:toxic_cloud.name=毒雾
-#machines
 tile.rockhounding_chemistry:pipeline_duct.name=液体管道
 tile.rockhounding_chemistry:pipeline_pump.name=液体管道泵
 tile.rockhounding_chemistry:pipeline_valve.name=液体管道阀门
@@ -365,7 +351,6 @@ tile.rockhounding_chemistry:machines_f.shredder_transmission.name=摇床分选�
 tile.rockhounding_chemistry:machines_f.shredder_base.name=摇床分选器
 tile.rockhounding_chemistry:machines_f.shredder_table.name=摇床
 tile.rockhounding_chemistry:machines_f.planning_table.name=规划桌
-#containers
 container.pipeline_valve=液体管道阀门
 container.mineral_sizer_cabinet=矿物筛选器
 container.mineral_sizer_tank=矿物筛选器
@@ -432,7 +417,6 @@ container.mineral_sizer_controller=矿物筛选器
 container.shredder_controller=摇床分选器
 container.powder_mixer_controller=粉末混合器
 container.planning_table=规划桌
-#jei
 jei.rockhounding_chemistry.mineral_sizer.name=矿物筛选器
 jei.rockhounding_chemistry.slurry_pond.name=淤浆池
 jei.rockhounding_chemistry.lab_oven.name=实验室反应器
@@ -466,16 +450,12 @@ jei.rockhounding_chemistry.bed_reactor.name=固定床反应器
 jei.rockhounding_chemistry.orbiter.name=经验吸收器
 jei.rockhounding_chemistry.shaking_table.name=摇床分选器
 jei.rockhounding_chemistry.powder_mixer.name=粉末混合器
-#consumables
 item.rockhounding_chemistry:crushing_gear.name=粉碎齿轮
 item.rockhounding_chemistry:slurry_agitator.name=搅拌器
 item.rockhounding_chemistry:test_tube.name=试管
 item.rockhounding_chemistry:graduated_cylinder.name=量筒
 item.rockhounding_chemistry:ingot_pattern.name=模具（锭）
 item.rockhounding_chemistry:block_pattern.name=模具（块）
-
-#### ITEMS ####
-#pattern
 item.rockhounding_chemistry:pattern_items.generic.name=空置模式
 item.rockhounding_chemistry:pattern_items.coil.name=线圈模式
 item.rockhounding_chemistry:pattern_items.rod.name=杆模式
@@ -487,14 +467,12 @@ item.rockhounding_chemistry:pattern_items.ingot.name=锭模式
 item.rockhounding_chemistry:pattern_items.gauze.name=网模式
 item.rockhounding_chemistry:pattern_items.coin.name=硬币模式
 item.rockhounding_chemistry:pattern_items.plate.name=板模式
-#tools
 item.rockhounding_chemistry:tile_nullifier.name=机械拆卸器
 item.rockhounding_chemistry:silicone_cartridge.name=硅胶筒
 item.rockhounding_chemistry:sodium_polyacrylate.name=聚丙烯酸钠
 item.rockhounding_chemistry:sampling_ampoule.name=取样安瓿
 item.rockhounding_chemistry:heat_inductor.name=感应加热升级
 item.rockhounding_chemistry:gas_turbine.name=燃气轮机升级
-#utils
 item.rockhounding_chemistry:misc_items.server_file.name=服务器文件
 item.rockhounding_chemistry:misc_items.base_chip.name=基础逻辑芯片
 item.rockhounding_chemistry:misc_items.iron_rod.name=铁杆
@@ -533,9 +511,6 @@ item.rockhounding_chemistry:misc_items.stellite_foil.name=钨铬钴合金箔
 item.rockhounding_chemistry:misc_items.refractory_casing.name=耐火升级
 item.rockhounding_chemistry:misc_items.flyash_ball.name=粉煤灰球
 item.rockhounding_chemistry:misc_items.flyash_brick.name=粉煤灰砖
-
-#### MATERIALS ####
-#alloys
 tile.rockhounding_chemistry:alloy_blocks_tech.cube.name=铍青铜合金块
 tile.rockhounding_chemistry:alloy_bricks_tech.cube.name=铍青铜合金砖
 item.rockhounding_chemistry:alloy_items_tech.cube_dust.name=铍青铜合金粉
@@ -616,7 +591,6 @@ tile.rockhounding_chemistry:alloy_bricks_tech.tantaloy.name=钽合金砖
 item.rockhounding_chemistry:alloy_items_tech.tantaloy_dust.name=钽合金粉
 item.rockhounding_chemistry:alloy_items_tech.tantaloy_ingot.name=钽合金锭
 item.rockhounding_chemistry:alloy_items_tech.tantaloy_nugget.name=钽合金粒
-
 tile.rockhounding_chemistry:alloy_blocks_tech_b.nial.name=镍铝合金块
 tile.rockhounding_chemistry:alloy_bricks_tech_b.nial.name=镍铝合金砖
 item.rockhounding_chemistry:alloy_items_tech_b.nial_dust.name=镍铝合金粉
@@ -632,7 +606,6 @@ tile.rockhounding_chemistry:alloy_bricks_tech_b.zircaloy.name=锆合金砖
 item.rockhounding_chemistry:alloy_items_tech_b.zircaloy_dust.name=锆合金粉
 item.rockhounding_chemistry:alloy_items_tech_b.zircaloy_ingot.name=锆合金锭
 item.rockhounding_chemistry:alloy_items_tech_b.zircaloy_nugget.name=锆合金粒
-
 tile.rockhounding_chemistry:alloy_blocks_deco.mischmetal.name=稀土合金块
 tile.rockhounding_chemistry:alloy_bricks_deco.mischmetal.name=稀土合金砖
 item.rockhounding_chemistry:alloy_items_deco.mischmetal_dust.name=稀土合金粉
@@ -693,7 +666,6 @@ tile.rockhounding_chemistry:alloy_bricks_deco.cosm.name=钐钴合金砖
 item.rockhounding_chemistry:alloy_items_deco.cosm_dust.name=钐钴合金粉
 item.rockhounding_chemistry:alloy_items_deco.cosm_ingot.name=钐钴合金锭
 item.rockhounding_chemistry:alloy_items_deco.cosm_nugget.name=钐钴合金粒
-
 tile.rockhounding_chemistry:alloy_blocks_gems.nd_yag.name=掺钕钇铝石榴石块
 tile.rockhounding_chemistry:alloy_bricks_gems.nd_yag.name=掺钕钇铝石榴石砖
 item.rockhounding_chemistry:alloy_items_gems.nd_yag_dust.name=掺钕钇铝石榴石粉
@@ -709,7 +681,6 @@ tile.rockhounding_chemistry:alloy_bricks_gems.yb_yag.name=掺镱钇铝石榴石�
 item.rockhounding_chemistry:alloy_items_gems.yb_yag_dust.name=掺镱钇铝石榴石粉
 item.rockhounding_chemistry:alloy_items_gems.yb_yag_gem.name=掺镱钇铝石榴石宝石
 item.rockhounding_chemistry:alloy_items_gems.yb_yag_nugget.name=掺镱钇铝石榴石粒
-#parts
 item.rockhounding_chemistry:alloy_parts.vanadium_coin.name=钒硬币
 item.rockhounding_chemistry:alloy_parts.vanadium_gear.name=钒齿轮
 item.rockhounding_chemistry:alloy_parts.vanadium_plate.name=钒板
@@ -803,7 +774,6 @@ item.rockhounding_chemistry:alloy_parts.inconel_plate.name=镍铬铁合金板
 item.rockhounding_chemistry:alloy_parts.zircaloy_coin.name=锆合金硬币
 item.rockhounding_chemistry:alloy_parts.zircaloy_gear.name=锆合金齿轮
 item.rockhounding_chemistry:alloy_parts.zircaloy_plate.name=锆合金板
-#materials
 item.rockhounding_chemistry:metal_items.vanadium_ingot.name=钒锭
 item.rockhounding_chemistry:metal_items.zirconium_ingot.name=锆锭
 item.rockhounding_chemistry:metal_items.osmium_ingot.name=锇锭
@@ -818,7 +788,6 @@ item.rockhounding_chemistry:metal_items.cobalt_ingot.name=钴锭
 item.rockhounding_chemistry:metal_items.copper_ingot.name=铜锭
 item.rockhounding_chemistry:metal_items.molybdenum_ingot.name=钼锭
 item.rockhounding_chemistry:metal_items.nickel_ingot.name=镍锭
-#upgrades
 item.rockhounding_chemistry:speed_items.base.name=成分概要
 item.rockhounding_chemistry:speed_items.iron.name=低碳铁速度升级（一级）
 item.rockhounding_chemistry:speed_items.cube.name=铍青铜速度升级（二级）
@@ -833,12 +802,10 @@ item.rockhounding_chemistry:filter_items.two.name=粗网沥滤升级（二级）
 item.rockhounding_chemistry:filter_items.three.name=细网沥滤升级（三级）
 item.rockhounding_chemistry:filter_items.four.name=细密沥滤升级（四级）
 item.rockhounding_chemistry:filter_items.five.name=精密沥滤升级（五级）
-#probes
 item.rockhounding_chemistry:probe_items.iron.name=铁探针
 item.rockhounding_chemistry:probe_items.copper.name=铜探针
 item.rockhounding_chemistry:probe_items.nib.name=钕磁铁探针
 item.rockhounding_chemistry:probe_items.cosm.name=钐钴合金探针
-#catalysts
 item.rockhounding_chemistry:fe_catalyst.name=铁催化网
 item.rockhounding_chemistry:va_catalyst.name=钒催化网
 item.rockhounding_chemistry:gr_catalyst.name=石墨催化网
@@ -853,7 +820,6 @@ item.rockhounding_chemistry:au_catalyst.name=金催化网
 item.rockhounding_chemistry:mo_catalyst.name=钼催化网
 item.rockhounding_chemistry:ni_catalyst.name=镍催化网
 item.rockhounding_chemistry:in_catalyst.name=镍铬铁合金催化网
-#chemicals
 item.rockhounding_chemistry:chemical_items.cracked_coal.name=粉碎煤
 item.rockhounding_chemistry:chemical_items.flyash_compound.name=粉煤灰化合物
 item.rockhounding_chemistry:chemical_items.sulfur_compound.name=含硫化合物
@@ -880,9 +846,6 @@ item.rockhounding_chemistry:chemical_items.carbon_compound.name=含碳化合物
 item.rockhounding_chemistry:chemical_items.lead_compound.name=含铅化合物
 item.rockhounding_chemistry:chemical_items.quartz_compound.name=石英化合物
 item.rockhounding_chemistry:chemical_items.didymium_compound.name=镨钕化合物
-
-#### FLUID ####
-#fluid blocks
 tile.rockhounding_chemistry:fluid.sulfuric_acid.name=硫酸
 tile.rockhounding_chemistry:fluid.sodium_hydroxide.name=氢氧化钠溶液
 tile.rockhounding_chemistry:fluid.hydrochloric_acid.name=盐酸
@@ -912,7 +875,6 @@ tile.rockhounding_chemistry:fluid.toxic_sludge.name=有毒污泥
 tile.rockhounding_chemistry:fluid.organic_slurry.name=有机浆料
 tile.rockhounding_chemistry:fluid.coal_tar.name=煤焦油
 tile.rockhounding_chemistry:fluid.xpjuice.name=液态经验
-#fluids
 fluid.sulfuric_acid=硫酸
 fluid.sodium_hydroxide=氢氧化钠溶液
 fluid.hydrochloric_acid=盐酸
@@ -941,9 +903,6 @@ fluid.toxic_sludge=有毒污泥
 fluid.organic_slurry=有机浆料
 fluid.coal_tar=煤焦油
 fluid.xpjuice=液态经验
-
-#### MOLTEN ####
-#molten blocks
 tile.rockhounding_chemistry:fluid.molten_vanadium.name=熔融钒
 tile.rockhounding_chemistry:fluid.molten_titanium.name=熔融钛
 tile.rockhounding_chemistry:fluid.molten_cube.name=熔融铍青铜合金
@@ -963,7 +922,6 @@ tile.rockhounding_chemistry:fluid.molten_pewter.name=熔融白镴
 tile.rockhounding_chemistry:fluid.molten_nial.name=熔融镍铝合金
 tile.rockhounding_chemistry:fluid.molten_inconel.name=熔融铬镍铁合金
 tile.rockhounding_chemistry:fluid.molten_zircaloy.name=熔融锆合金
-#molten
 fluid.molten_vanadium=熔融钒
 fluid.molten_titanium=熔融钛
 fluid.molten_cube=熔融铍青铜合金
@@ -983,13 +941,9 @@ fluid.molten_pewter=熔融白镴
 fluid.molten_nial=熔融镍铝合金
 fluid.molten_inconel=熔融铬镍铁合金
 fluid.molten_zircaloy=熔融锆合金
-
-#### GAS ####
-#gas blocks
 tile.rockhounding_chemistry:fluid.compressed_air.name=压缩空气
 tile.rockhounding_chemistry:fluid.refined_air.name=清洁空气
 tile.rockhounding_chemistry:fluid.cooled_air.name=冷却空气
-tile.rockhounding_chemistry:fluid.raw_syngas.name=生合成气
 tile.rockhounding_chemistry:fluid.syngas.name=合成气
 tile.rockhounding_chemistry:fluid.nitrogen.name=氮
 tile.rockhounding_chemistry:fluid.argon.name=氩
@@ -1006,7 +960,6 @@ tile.rockhounding_chemistry:fluid.raw_flue_gas.name=原烟道气
 tile.rockhounding_chemistry:fluid.flue_gas.name=烟道气
 tile.rockhounding_chemistry:fluid.propylene.name=丙烯
 tile.rockhounding_chemistry:fluid.thin_air.name=稀薄空气（过滤占位用）
-#gases
 fluid.compressed_air=压缩空气
 fluid.refined_air=清洁空气
 fluid.cooled_air=冷却空气
@@ -1027,16 +980,12 @@ fluid.raw_flue_gas=原烟道气
 fluid.flue_gas=烟道气
 fluid.propylene=丙烯
 fluid.thin_air=稀薄空气
-
-#### TEXT ####
 death.attack.acid="%1$s 被酸溶解了"
 death.attack.acid.item="%1$s 被酸溶解了"
 death.attack.chemicals="%1$s 的化学实验出错了"
 death.attack.chemicals.item="%1$s 的化学实验出错了"
 death.attack.spill="%1$s 试图清理自己制造的一坨烂摊子"
 death.attack.spill.item="%1$s 试图清理自己制造的一坨烂摊子"
-
-#### LABELS ####
 label.rockhounding_chemistry:descr.activation=启动
 label.rockhounding_chemistry:descr.void=清空储罐
 label.rockhounding_chemistry:descr.speed=速度升级

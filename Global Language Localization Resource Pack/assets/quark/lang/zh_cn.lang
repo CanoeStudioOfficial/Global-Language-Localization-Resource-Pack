@@ -1,4 +1,3 @@
-# MISC
 quarkmisc.chestButton.restock=从容器合并
 quarkmisc.chestButton.deposit=存储到容器
 quarkmisc.chestButton.smart_deposit=合并到容器
@@ -21,7 +20,6 @@ quarkmisc.personNapping=%s 正在打盹。
 quarkmisc.personNotNapping=%s 停止打盹。
 quarkmisc.nightHasPassed=夜晚过去了。
 quarkmisc.dayHasPassed=白天过去了。
-# The %s is very important!
 quarkmisc.sleepingListHeader=正在睡觉的玩家：%s
 quarkmisc.nappingListHeader=正在打盹的玩家：%s
 quarkmisc.buried_chest_map=藏宝地图
@@ -46,7 +44,6 @@ quarkmisc.pendingEnchants=存在待定魔咒
 quarkmisc.item_out_of_stock=缺货，稍后再来查看
 quarkmisc.out_of_stock=%s 缺货，稍后再来
 quarkmisc.me_or_my_son=不要再跟我和我儿子说话了。
-
 quarkmisc.you_came_to_the_wrong_neighborhood.0=六个字的单词只会让我感到孤独
 quarkmisc.you_came_to_the_wrong_neighborhood.1=这是复杂的，我埋头写模组
 quarkmisc.you_came_to_the_wrong_neighborhood.2=我一直修修补补，维持着它
@@ -64,8 +61,6 @@ quarkmisc.you_came_to_the_wrong_neighborhood.13=那不是我的名字
 quarkmisc.you_came_to_the_wrong_neighborhood.14=那不是我的名字
 quarkmisc.you_came_to_the_wrong_neighborhood.15=那不是我的名字
 quarkmisc.you_came_to_the_wrong_neighborhood.16=那不是我的名字
-
-# SUBTITLES
 quark.subtitles.soulpowder_scream=灵魂：逃逸
 quark.subtitles.pipe_shoot=管道：输出
 quark.subtitles.pipe_pickup=管道：输入
@@ -93,13 +88,9 @@ quark.subtitles.frog_jump=青蛙：跳跃
 quark.subtitles.horse_whistle=高音的尖叫
 quark.subtitles.do_it=激励
 quark.subtitles.michael_here=Michael 在这
-
-# COMMANDS
 commands.quarkconfig.usage=/quark-config <类别> <键> <值> [玩家] [保存？]
 commands.quarkconfig.invalid_property=属性 %s.%s 不存在
 commands.quarkconfig.invalid_category=类别 %s 不存在
-
-# CONFIG STRINGS
 quark.config.title=夸克配置
 quark.config.import=导入配置
 quark.config.configure=配置夸克
@@ -142,8 +133,6 @@ quark.config.module.tweaks=微调
 quark.config.module.vanity=随意之作
 quark.config.module.world=世界
 quark.config.module.oddities=奇思妙想
-
-# BLOCK NAMES
 tile.quark:hardened_clay_tiles.name=陶瓦砖瓦
 tile.quark:hardened_clay_tiles_slab.name=陶瓦砖瓦台阶
 tile.quark:hardened_clay_tiles_stairs.name=陶瓦砖瓦楼梯
@@ -288,7 +277,6 @@ tile.quark:birch_trapdoor.name=白桦木活板门
 tile.quark:jungle_trapdoor.name=丛林木活板门
 tile.quark:acacia_trapdoor.name=金合欢木活板门
 tile.quark:dark_oak_trapdoor.name=深色橡木活板门
-# tile.oak_trapdoor.name=橡木活板门
 tile.quark:end_bricks_wall.name=末地石砖墙
 tile.quark:purpur_block_wall.name=紫珀墙
 tile.quark:stone_wall.name=石墙
@@ -371,13 +359,11 @@ tile.quark:midori_pillar.name=竖纹绿块
 tile.quark:midori_block_slab.name=绿台阶
 tile.quark:midori_block_stairs.name=绿楼梯
 tile.quark:midori_block_wall.name=绿墙
-# tile.oak_chest.name=橡木箱子
 tile.quark:custom_chest_spruce.name=云杉木箱子
 tile.quark:custom_chest_birch.name=白桦木箱子
 tile.quark:custom_chest_jungle.name=丛林木箱子
 tile.quark:custom_chest_acacia.name=金合欢木箱子
 tile.quark:custom_chest_dark_oak.name=深色橡木箱子
-# tile.oak_chest_trap.name=橡木陷阱箱
 tile.quark:custom_chest_spruce_trap.name=云杉木陷阱箱
 tile.quark:custom_chest_birch_trap.name=白桦木陷阱箱
 tile.quark:custom_chest_jungle_trap.name=丛林木陷阱箱
@@ -395,7 +381,6 @@ tile.quark:acacia_leaf_carpet.name=金合欢树叶地毯
 tile.quark:dark_oak_leaf_carpet.name=深色橡树树叶地毯
 tile.quark:swamp_leaf_carpet.name=沼泽橡树树叶地毯
 tile.quark:sakura_leaf_carpet.name=樱花树叶地毯
-# tile.oak_bookshelf.name=橡木书架
 tile.quark:bookshelf_spruce.name=云杉木书架
 tile.quark:bookshelf_birch.name=白桦木书架
 tile.quark:bookshelf_jungle.name=丛林木书架
@@ -613,13 +598,11 @@ tile.quark:birch_pressure_plate.name=白桦木压力板
 tile.quark:jungle_pressure_plate.name=丛林木压力板
 tile.quark:acacia_pressure_plate.name=金合欢木压力板
 tile.quark:dark_oak_pressure_plate.name=深色橡木压力板
-# tile.oak_pressure_plate.name=橡木压力板
 tile.quark:spruce_button.name=云杉木按钮
 tile.quark:birch_button.name=白桦木按钮
 tile.quark:jungle_button.name=丛林木按钮
 tile.quark:acacia_button.name=金合欢木按钮
 tile.quark:dark_oak_button.name=深色橡木按钮
-# tile.oak_button.name=橡木按钮
 tile.quark:iron_button.name=铁按钮
 tile.quark:gold_button.name=金按钮
 tile.quark:sugar_block.name=糖块
@@ -677,14 +660,11 @@ tile.quark:sakura_sapling.name=樱花树苗
 tile.quark:rope.name=绳卷
 tile.quark:blaze_rod.name=烈焰棒（方块）
 tile.quark:grate.name=铁丝网
-# tile.green_slime_block.name=绿色粘液块
 tile.quark:slime_red.name=红色粘液块
 tile.quark:slime_blue.name=蓝色粘液块
 tile.quark:slime_cyan.name=青色粘液块
 tile.quark:slime_magenta.name=品红色粘液块
 tile.quark:slime_yellow.name=黄色粘液块
-
-# ITEM NAMES
 item.quark:glass_shard.name=玻璃碎片
 item.quark:glass_shard_black.name=黑色玻璃碎片
 item.quark:glass_shard_blue.name=蓝色玻璃碎片
@@ -743,7 +723,6 @@ item.quark:colored_item_frame_white.name=白色物品展示框
 item.quark:colored_item_frame_yellow.name=黄色物品展示框
 item.quark:pirate_hat.name=海盗帽
 item.quark:soul_bead.name=游魂珠
-# item.red_bed.name=红色床
 item.quark:colored_bed_item_black.name=黑色床
 item.quark:colored_bed_item_blue.name=蓝色床
 item.quark:colored_bed_item_brown.name=棕色床
@@ -793,8 +772,6 @@ item.quark:crab_leg.name=螃蟹腿
 item.quark:cooked_crab_leg.name=熟螃蟹腿
 item.quark:crab_shell.name=螃蟹壳碎片
 item.quark:chain.name=铁锁链
-
-# ENTITY NAMES
 entity.quark:colored_item_frame.name=染色物品展示框
 entity.quark:glass_item_frame.name=玻璃物品展示框
 entity.quark:flat_item_frame.name=扁平物品展示框
@@ -810,15 +787,12 @@ entity.quark:frog.name=青蛙
 entity.quark:pickarang.name=皮卡镖
 entity.quark:foxhound.name=猎狐犬
 entity.quark:crab.name=螃蟹
-
-# POTION NAMES
 quark.potion.curse.name=诅咒
 quark.potion.danger_sight.name=危险感知
 quark.potion.blue.name=蓝莓
 quark.potion.white.name=白化
 quark.potion.black.name=黑化
 quark.potion.resilience.name=稳定
-
 potion.effect.haste=急迫药水
 splash_potion.effect.haste=喷溅型急迫药水
 lingering_potion.effect.haste=滞留型急迫药水
@@ -839,8 +813,6 @@ potion.effect.resilience=稳定药水
 splash_potion.effect.resilience=喷溅型稳定药水
 lingering_potion.effect.resilience=滞留型稳定药水
 tipped_arrow.effect.resilience=稳定之箭
-
-# KEYBINDS
 quark.gui.keygroupMisc=夸克丨杂项
 quark.gui.keygroupInv=夸克丨物品栏
 quark.gui.keygroupEmote=夸克丨动作表情
@@ -854,8 +826,6 @@ quark.keybind.chestDropoff=存储到容器
 quark.keybind.chestMerge=合并到容器
 quark.keybind.chestRestock=从容器合并
 quark.keybind.chestExtract=从容器提取
-
-# GUI STUFF
 quark.gui.emotes=动作表情
 quark.gui.favorited=收藏
 quark.emote.wave=招手
@@ -876,7 +846,6 @@ quark.emote.dance=跳舞
 quark.emote.zombie=僵尸
 quark.emote.exorcist=驱魔人
 quark.emote.jet=喷射
-
 quark.dyedElytra=%s
 quark.dye.white=白色
 quark.dye.orange=橙色
@@ -896,7 +865,6 @@ quark.dye.red=红色
 quark.dye.black=黑色
 generator.quark_realistic=真实地貌
 generator.quark_realistic.info=[夸克] 由 /u/Soniop 制作的真实世界类型
-
 quark.biomeMap.ice_flats=冰原寻路地图
 quark.biomeMap.extreme_hills=峭壁寻路地图
 quark.biomeMap.roofed_forest=黑森林寻路地图
@@ -909,8 +877,6 @@ quark.biomeMap.jungle=丛林寻路地图
 quark.biomeMap.mesa=平顶山寻路地图
 quark.biomeMap.mushroom_island=蘑菇岛寻路地图
 quark.biomeMap.mutated_ice_flats=冰刺之地寻路地图
-
-# BANNER NAMES
 item.banner.quark_dragon.black=黑色龙盾徽
 item.banner.quark_dragon.red=红色龙盾徽
 item.banner.quark_dragon.green=绿色龙盾徽
@@ -927,7 +893,6 @@ item.banner.quark_dragon.lightBlue=淡蓝色龙盾徽
 item.banner.quark_dragon.magenta=品红色龙盾徽
 item.banner.quark_dragon.orange=橙色龙盾徽
 item.banner.quark_dragon.white=白色龙盾徽
-
 item.banner.quark_eye.black=黑色眼盾徽
 item.banner.quark_eye.red=红色眼盾徽
 item.banner.quark_eye.green=绿色眼盾徽
@@ -944,7 +909,6 @@ item.banner.quark_eye.lightBlue=淡蓝色眼盾徽
 item.banner.quark_eye.magenta=品红色眼盾徽
 item.banner.quark_eye.orange=橙色眼盾徽
 item.banner.quark_eye.white=白色眼盾徽
-
 item.banner.quark_sword.black=黑色剑盾徽
 item.banner.quark_sword.red=红色剑盾徽
 item.banner.quark_sword.green=绿色剑盾徽
@@ -961,7 +925,6 @@ item.banner.quark_sword.lightBlue=淡蓝色剑盾徽
 item.banner.quark_sword.magenta=品红色剑盾徽
 item.banner.quark_sword.orange=橙色剑盾徽
 item.banner.quark_sword.white=白色剑盾徽
-
 item.banner.quark_shield.black=黑色盾牌盾徽
 item.banner.quark_shield.red=红色盾牌盾徽
 item.banner.quark_shield.green=绿色盾牌盾徽
@@ -978,7 +941,6 @@ item.banner.quark_shield.lightBlue=淡蓝色盾牌盾徽
 item.banner.quark_shield.magenta=品红色盾牌盾徽
 item.banner.quark_shield.orange=橙色盾牌盾徽
 item.banner.quark_shield.white=白色盾牌盾徽
-
 item.banner.quark_tiny_potato.black=黑色小土豆盾徽
 item.banner.quark_tiny_potato.red=红色小土豆盾徽
 item.banner.quark_tiny_potato.green=绿色小土豆盾徽
@@ -995,4 +957,3 @@ item.banner.quark_tiny_potato.lightBlue=淡蓝色小土豆盾徽
 item.banner.quark_tiny_potato.magenta=品红色小土豆盾徽
 item.banner.quark_tiny_potato.orange=橙色小土豆盾徽
 item.banner.quark_tiny_potato.white=白色小土豆盾徽
-

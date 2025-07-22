@@ -1,6 +1,6 @@
 schematica.command.download.downloadFail=下载失败
 schematica.command.download.downloadSucceeded=成功下载 %s
-schematica.command.download.started=开始下载 %s
+schematica.command.download.started=开始下载 %s⋯⋯
 schematica.command.download.usage=/schematicaDownload <名称>
 schematica.command.list.download=下载
 schematica.command.list.header=--- Schematics 列表 第 %d 页，共 %d 页 ---

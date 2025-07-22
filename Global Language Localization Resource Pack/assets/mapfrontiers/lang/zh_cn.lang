@@ -1,6 +1,3 @@
-#PARSE_ESCAPES
-
-# Book
 mapfrontiers.index=%1$s索引
 mapfrontiers.index_number=%2$s索引 %1$d
 mapfrontiers.index_unnamed_1=%1$s未命名
@@ -37,8 +34,6 @@ mapfrontiers.previous_vertex=上一边界点
 mapfrontiers.next_vertex=下一边界点
 mapfrontiers.vertical_chunk=垂直区块： %1$d
 mapfrontiers.vertical_chunk_surface=垂直区块：地表
-
-# Settings
 mapfrontiers.credits=制作人员
 mapfrontiers.general=通用设置
 mapfrontiers.groups=权限组设置
@@ -66,25 +61,19 @@ mapfrontiers.new_user_shared_error_self=无法列入本人
 mapfrontiers.new_user_shared_error_owner=无法列入所有者
 mapfrontiers.new_user_shared_error_user_repeated=用户已列入
 mapfrontiers.new_user_shared_error_user_not_found=用户离线
-mapfrontiers.pending=%1$s待定
+mapfrontiers.pending=%1$s待定⋯⋯
 mapfrontiers.edit_group_name=编辑组名
 mapfrontiers.group_ops_desc=在多人游戏中，该权限组代表拥有管理员权限的玩家；\n在单人游戏中则代表玩家本人。
 mapfrontiers.group_owners_desc=该权限组代表疆界所有者。\n仅删除与更新疆界的权限可进行配置。
 mapfrontiers.group_everyone_desc=该权限组代表所有玩家，无一例外。
 mapfrontiers.unnamed=%1$s未命名
-
-# Chat
 mapfrontiers.chat.frontier_deleted=%2$s%3$s%1$s 删除了疆界 %4$d
 mapfrontiers.chat.frontier_deleted_unknown=某位用户删除了疆界 %1$d
 mapfrontiers.chat.frontier_updated=%2$s%3$s%1$s 更新了疆界 %4$d
 mapfrontiers.chat.frontier_updated_unknown=某位用户更新了疆界 %1$d
 mapfrontiers.chat.frontier_created=%2$s%3$s%1$s 新建了疆界
 mapfrontiers.chat.frontier_created_unknown=某位用户新建了疆界
-
-# Item
 item.mapfrontiers.frontier_book.name=疆界图册
 item.mapfrontiers.personal_frontier_book.name=私人疆界图册
-
-# Key
 mapfrontiers.key.category=MapFrontiers
 mapfrontiers.key.open_settings=打开设置

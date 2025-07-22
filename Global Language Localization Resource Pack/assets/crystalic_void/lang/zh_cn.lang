@@ -19,7 +19,6 @@ item.emerald_pickaxe.name=绿宝石镐
 item.emerald_axe.name=绿宝石斧
 item.emerald_shovel.name=绿宝石锹
 item.emerald_hoe.name=绿宝石锄
-
 item.crystallium_helmet.name=晶素头盔
 item.crystallium_chestplate.name=晶素胸甲
 item.crystallium_leggings.name=晶素护腿
@@ -32,6 +31,5 @@ item.emerald_helmet.name=绿宝石头盔
 item.emerald_chestplate.name=绿宝石胸甲
 item.emerald_leggings.name=绿宝石护腿
 item.emerald_boots.name=绿宝石靴子
-
 tile.crystallium_ore.name=晶素矿石
 tile.hellfire_ore.name=狱火矿石

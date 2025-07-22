@@ -1,4 +1,3 @@
-
 itemGroup.SSPSourceTab=超级太阳能
 item.crafting.name=合成
 super_solar_panels.item_ult_drill.mode=模式：
@@ -18,8 +17,6 @@ super_solar_panels.gui.generating=产生：
 gui.text.maxStorage=能量存储
 gui.text.output=输出 EU/t
 gui.text.currentStorage=现在
-
-
 super_solar_panels.machines.molecular_transformer=分子重组仪
 super_solar_panels.machines.quantum_generator=量子发电机
 super_solar_panels.machines.advanced_solar_panel=高级太阳能板
@@ -83,8 +80,6 @@ super_solar_panels.machines.ultimatemfsu=终极MFSU储电箱
 super_solar_panels.machines.quantummfsu=量子MFSU储电箱
 super_solar_panels.machines.iridiumgenerator=铱生产机
 super_solar_panels.machines.nutronfabricator=中子流体生产机
-
-
 super_solar_panels.crafting.mt_core=分子重组核心
 super_solar_panels.crafting.advanced_core=高级核心
 super_solar_panels.crafting.hybrid_core=混合核心
@@ -138,8 +133,6 @@ super_solar_panels.crafting.greencomponent=绿色光谱组件
 super_solar_panels.crafting.redcomponent=红色光谱组件
 super_solar_panels.crafting.enderquantumcomponent=终极量子组件
 super_solar_panels.spectral_battery=光谱能量水晶
-
-
 super_solar_panels.solar_helmets.advanced=高级太阳能头盔
 super_solar_panels.solar_helmets.hybrid=混合太阳能头盔
 super_solar_panels.solar_helmets.ultimate=终极混合太阳能头盔
@@ -153,16 +146,11 @@ super_solar_panels.graviBoosts=强化量子靴子
 super_solar_panels.quantumsaber=量子剑
 super_solar_panels.spectralsaber=光谱剑
 super_solar_panels.item_ult_drill=完美电钻
-super_solar_panels.spectral_battery=光谱能量水晶
-
-
 tile.null.name=流体中子
 fluid.neutron=流体中子
 fluid.Protonium=流体质子
 fluid.iridium=熔融铱
 fluid.Platium=熔融铂
-
-
 super_solar_panels.twelve_heat_storage=120k冷却单元
 super_solar_panels.max_heat_storage=240k冷却单元
 super_solar_panels.proton_fuel_rod=燃料棒（质子）
@@ -179,23 +167,17 @@ super_solar_panels.crafting.depleted_eit_proton_fuel_rod=八连燃料棒（枯�
 super_solar_panels.crafting.depleted_toriy_fuel_rod=燃料棒（枯竭钍）
 super_solar_panels.crafting.depleted_dual_toriy_fuel_rod=双联燃料棒（枯竭钍）
 super_solar_panels.crafting.depleted_quad_toriy_fuel_rod=四联燃料棒（枯竭钍）
-
-
 super_solar_panels.rotor_carbon1=铱转子
 super_solar_panels.rotor_carbon2=高级铱转子
 super_solar_panels.rotor_carbon3=光谱转子
 super_solar_panels.rotor_carbon4=神话转子
 super_solar_panels.rotor_carbon6=光子转子
 super_solar_panels.rotor_carbon5=中子转子
-
-
 tile.toriyore.name=钍矿石
 tile.iridium_ore.name=铱矿石
 tile.platium_ore.name=铂矿石
 tile.iridium_block.name=铱块
 tile.platium_block.name=铂块
-
-
 super_solar_panels.module1=太阳能升级：日光产能
 super_solar_panels.module2=太阳能升级：月光产能
 super_solar_panels.module3=太阳能升级：存储

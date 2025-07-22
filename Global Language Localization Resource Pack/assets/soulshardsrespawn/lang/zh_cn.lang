@@ -1,4 +1,4 @@
-chat.soulshardsrespawn.absorb_disabled=&c这个灵魂碎片似乎拒绝捕获灵魂
+chat.soulshardsrespawn.absorb_disabled=&c这个灵魂碎片似乎拒绝捕获灵魂⋯⋯
 chat.soulshardsrespawn.command_killed=&2%d个实体已击杀
 chat.soulshardsrespawn.command_not_found=&c找不到任何生成的实体
 enchantment.soul_stealer=窃魂
@@ -20,11 +20,9 @@ tile.soulshardsrespawn.soul_cage.name=灵魂笼
 tooltip.soulshardsrespawn.bound=绑定于：%s
 tooltip.soulshardsrespawn.kills=击杀数：%d
 tooltip.soulshardsrespawn.tier=等级：%d
-# Creative Tab
 itemGroup.soulshardsrespawn=重生灵魂碎片
 tooltip.soulshardsrespawn.owner=所有者：%s
 tooltip.soulshardsrespawn.cage_born=笼子出生
-# Commands
 commands.soulshardsrespawn.usage=/soulshards [setEnt|setKills|setOwner|killall]
 commands.soulshardsrespawn.set_ent.usage=/soulshards setEnt <entityId>
 commands.soulshardsrespawn.set_ent.success=将保留碎片的绑定实体设置为 %s。

@@ -1,5 +1,3 @@
-# Ore blocks
-# native_ardite
 tile.tfc.ore.native_ardite.granite.name=花岗岩原生阿迪特
 tile.tfc.ore.native_ardite.diorite.name=闪长岩原生阿迪特
 tile.tfc.ore.native_ardite.gabbro.name=辉长岩原生阿迪特
@@ -21,7 +19,6 @@ tile.tfc.ore.native_ardite.phyllite.name=千枚岩原生阿迪特
 tile.tfc.ore.native_ardite.schist.name=片岩原生阿迪特
 tile.tfc.ore.native_ardite.gneiss.name=片麻岩原生阿迪特
 tile.tfc.ore.native_ardite.marble.name=大理岩原生阿迪特
-# rutile
 tile.tfc.ore.rutile.granite.name=花岗岩金红石
 tile.tfc.ore.rutile.diorite.name=闪长岩金红石
 tile.tfc.ore.rutile.gabbro.name=辉长岩金红石
@@ -43,7 +40,6 @@ tile.tfc.ore.rutile.phyllite.name=千枚岩金红石
 tile.tfc.ore.rutile.schist.name=片岩金红石
 tile.tfc.ore.rutile.gneiss.name=片麻岩金红石
 tile.tfc.ore.rutile.marble.name=大理岩金红石
-# native_osmium
 tile.tfc.ore.native_osmium.granite.name=花岗岩原生锇
 tile.tfc.ore.native_osmium.diorite.name=闪长岩原生锇
 tile.tfc.ore.native_osmium.gabbro.name=辉长岩原生锇
@@ -65,7 +61,6 @@ tile.tfc.ore.native_osmium.phyllite.name=千枚岩原生锇
 tile.tfc.ore.native_osmium.schist.name=片岩原生锇
 tile.tfc.ore.native_osmium.gneiss.name=片麻岩原生锇
 tile.tfc.ore.native_osmium.marble.name=大理岩原生锇
-# bauxite
 tile.tfc.ore.bauxite.granite.name=花岗岩铝土矿
 tile.tfc.ore.bauxite.diorite.name=闪长岩铝土矿
 tile.tfc.ore.bauxite.gabbro.name=辉长岩铝土矿
@@ -87,7 +82,6 @@ tile.tfc.ore.bauxite.phyllite.name=千枚岩铝土矿
 tile.tfc.ore.bauxite.schist.name=片岩铝土矿
 tile.tfc.ore.bauxite.gneiss.name=片麻岩铝土矿
 tile.tfc.ore.bauxite.marble.name=大理岩铝土矿
-# wolframite
 tile.tfc.ore.wolframite.granite.name=花岗岩黑钨矿
 tile.tfc.ore.wolframite.diorite.name=闪长岩黑钨矿
 tile.tfc.ore.wolframite.gabbro.name=辉长岩黑钨矿
@@ -109,7 +103,6 @@ tile.tfc.ore.wolframite.phyllite.name=千枚岩黑钨矿
 tile.tfc.ore.wolframite.schist.name=片岩黑钨矿
 tile.tfc.ore.wolframite.gneiss.name=片麻岩黑钨矿
 tile.tfc.ore.wolframite.marble.name=大理岩黑钨矿
-# cobaltite
 tile.tfc.ore.cobaltite.granite.name=花岗岩辉钴矿
 tile.tfc.ore.cobaltite.diorite.name=闪长岩辉钴矿
 tile.tfc.ore.cobaltite.gabbro.name=辉长岩辉钴矿
@@ -131,7 +124,6 @@ tile.tfc.ore.cobaltite.phyllite.name=千枚岩辉钴矿
 tile.tfc.ore.cobaltite.schist.name=片岩辉钴矿
 tile.tfc.ore.cobaltite.gneiss.name=片麻岩辉钴矿
 tile.tfc.ore.cobaltite.marble.name=大理岩辉钴矿
-# thorianite
 tile.tfc.ore.thorianite.granite.name=花岗岩方钍石
 tile.tfc.ore.thorianite.diorite.name=闪长岩方钍石
 tile.tfc.ore.thorianite.gabbro.name=辉长岩方钍石
@@ -153,7 +145,6 @@ tile.tfc.ore.thorianite.phyllite.name=千枚岩方钍石
 tile.tfc.ore.thorianite.schist.name=片岩方钍石
 tile.tfc.ore.thorianite.gneiss.name=片麻岩方钍石
 tile.tfc.ore.thorianite.marble.name=大理岩方钍石
-# chromite
 tile.tfc.ore.chromite.granite.name=花岗岩铬铁矿
 tile.tfc.ore.chromite.diorite.name=闪长岩铬铁矿
 tile.tfc.ore.chromite.gabbro.name=辉长岩铬铁矿
@@ -175,7 +166,6 @@ tile.tfc.ore.chromite.phyllite.name=千枚岩铬铁矿
 tile.tfc.ore.chromite.schist.name=片岩铬铁矿
 tile.tfc.ore.chromite.gneiss.name=片麻岩铬铁矿
 tile.tfc.ore.chromite.marble.name=大理岩铬铁矿
-# pyrolusite
 tile.tfc.ore.pyrolusite.granite.name=花岗岩软锰矿
 tile.tfc.ore.pyrolusite.diorite.name=闪长岩软锰矿
 tile.tfc.ore.pyrolusite.gabbro.name=辉长岩软锰矿
@@ -197,7 +187,6 @@ tile.tfc.ore.pyrolusite.phyllite.name=千枚岩软锰矿
 tile.tfc.ore.pyrolusite.schist.name=片岩软锰矿
 tile.tfc.ore.pyrolusite.gneiss.name=片麻岩软锰矿
 tile.tfc.ore.pyrolusite.marble.name=大理岩软锰矿
-# magnesite
 tile.tfc.ore.magnesite.granite.name=花岗岩菱镁矿
 tile.tfc.ore.magnesite.diorite.name=闪长岩菱镁矿
 tile.tfc.ore.magnesite.gabbro.name=辉长岩菱镁矿
@@ -219,7 +208,6 @@ tile.tfc.ore.magnesite.phyllite.name=千枚岩菱镁矿
 tile.tfc.ore.magnesite.schist.name=片岩菱镁矿
 tile.tfc.ore.magnesite.gneiss.name=片麻岩菱镁矿
 tile.tfc.ore.magnesite.marble.name=大理岩菱镁矿
-# stibnite
 tile.tfc.ore.stibnite.granite.name=花岗岩辉锑矿
 tile.tfc.ore.stibnite.diorite.name=闪长岩辉锑矿
 tile.tfc.ore.stibnite.gabbro.name=辉长岩辉锑矿
@@ -241,7 +229,6 @@ tile.tfc.ore.stibnite.phyllite.name=千枚岩辉锑矿
 tile.tfc.ore.stibnite.schist.name=片岩辉锑矿
 tile.tfc.ore.stibnite.gneiss.name=片麻岩辉锑矿
 tile.tfc.ore.stibnite.marble.name=大理岩辉锑矿
-# spodumene
 tile.tfc.ore.spodumene.granite.name=花岗岩锂辉石
 tile.tfc.ore.spodumene.diorite.name=闪长岩锂辉石
 tile.tfc.ore.spodumene.gabbro.name=辉长岩锂辉石
@@ -263,7 +250,6 @@ tile.tfc.ore.spodumene.phyllite.name=千枚岩锂辉石
 tile.tfc.ore.spodumene.schist.name=片岩锂辉石
 tile.tfc.ore.spodumene.gneiss.name=片麻岩锂辉石
 tile.tfc.ore.spodumene.marble.name=大理岩锂辉石
-# beryl
 tile.tfc.ore.beryl.granite.name=花岗岩绿柱石
 tile.tfc.ore.beryl.diorite.name=闪长岩绿柱石
 tile.tfc.ore.beryl.gabbro.name=辉长岩绿柱石
@@ -285,7 +271,6 @@ tile.tfc.ore.beryl.phyllite.name=千枚岩绿柱石
 tile.tfc.ore.beryl.schist.name=片岩绿柱石
 tile.tfc.ore.beryl.gneiss.name=片麻岩绿柱石
 tile.tfc.ore.beryl.marble.name=大理岩绿柱石
-# zircon
 tile.tfc.ore.zircon.granite.name=花岗岩锆石
 tile.tfc.ore.zircon.diorite.name=闪长岩锆石
 tile.tfc.ore.zircon.gabbro.name=辉长岩锆石
@@ -307,7 +292,6 @@ tile.tfc.ore.zircon.phyllite.name=千枚岩锆石
 tile.tfc.ore.zircon.schist.name=片岩锆石
 tile.tfc.ore.zircon.gneiss.name=片麻岩锆石
 tile.tfc.ore.zircon.marble.name=大理岩锆石
-# villiaumite
 tile.tfc.ore.villiaumite.granite.name=花岗岩氟盐
 tile.tfc.ore.villiaumite.diorite.name=闪长岩氟盐
 tile.tfc.ore.villiaumite.gabbro.name=辉长岩氟盐
@@ -329,7 +313,6 @@ tile.tfc.ore.villiaumite.phyllite.name=千枚岩氟盐
 tile.tfc.ore.villiaumite.schist.name=片岩氟盐
 tile.tfc.ore.villiaumite.gneiss.name=片麻岩氟盐
 tile.tfc.ore.villiaumite.marble.name=大理岩氟盐
-# rhodochrosite
 tile.tfc.ore.rhodochrosite.granite.name=花岗岩菱锰矿
 tile.tfc.ore.rhodochrosite.diorite.name=闪长岩菱锰矿
 tile.tfc.ore.rhodochrosite.gabbro.name=辉长岩菱锰矿
@@ -351,7 +334,6 @@ tile.tfc.ore.rhodochrosite.phyllite.name=千枚岩菱锰矿
 tile.tfc.ore.rhodochrosite.schist.name=片岩菱锰矿
 tile.tfc.ore.rhodochrosite.gneiss.name=片麻岩菱锰矿
 tile.tfc.ore.rhodochrosite.marble.name=大理岩菱锰矿
-# fluorite
 tile.tfc.ore.fluorite.granite.name=花岗岩氟石
 tile.tfc.ore.fluorite.diorite.name=闪长岩氟石
 tile.tfc.ore.fluorite.gabbro.name=辉长岩氟石
@@ -373,7 +355,6 @@ tile.tfc.ore.fluorite.phyllite.name=千枚岩氟石
 tile.tfc.ore.fluorite.schist.name=片岩氟石
 tile.tfc.ore.fluorite.gneiss.name=片麻岩氟石
 tile.tfc.ore.fluorite.marble.name=大理岩氟石
-# carobbiite
 tile.tfc.ore.carobbiite.granite.name=花岗岩方氟钾石
 tile.tfc.ore.carobbiite.diorite.name=闪长岩方氟钾石
 tile.tfc.ore.carobbiite.gabbro.name=辉长岩方氟钾石
@@ -395,7 +376,6 @@ tile.tfc.ore.carobbiite.phyllite.name=千枚岩方氟钾石
 tile.tfc.ore.carobbiite.schist.name=片岩方氟钾石
 tile.tfc.ore.carobbiite.gneiss.name=片麻岩方氟钾石
 tile.tfc.ore.carobbiite.marble.name=大理岩方氟钾石
-# arsenic
 tile.tfc.ore.arsenic.granite.name=花岗岩砷矿
 tile.tfc.ore.arsenic.diorite.name=闪长岩砷矿
 tile.tfc.ore.arsenic.gabbro.name=辉长岩砷矿
@@ -417,8 +397,6 @@ tile.tfc.ore.arsenic.phyllite.name=千枚岩砷矿
 tile.tfc.ore.arsenic.schist.name=片岩砷矿
 tile.tfc.ore.arsenic.gneiss.name=片麻岩砷矿
 tile.tfc.ore.arsenic.marble.name=大理岩砷矿
-
-# Ore items
 item.tfc.ore.native_ardite.name=原生阿迪特
 item.tfc.ore.native_ardite.poor.name=贫瘠原生阿迪特
 item.tfc.ore.native_ardite.rich.name=富集原生阿迪特
@@ -477,8 +455,6 @@ item.tfc.ore.rhodochrosite.name=菱锰矿
 item.tfc.ore.fluorite.name=氟石
 item.tfc.ore.carobbiite.name=方氟钾石
 item.tfc.ore.arsenic.name=砷矿
-
-# Metal items
 fluid.antimony=熔融锑
 item.tfc.metal.ingot.antimony.name=锑锭
 item.tfc.ceramics.fired.mold.ingot.antimony.name=未成形锑
@@ -536,8 +512,6 @@ item.tfc.ceramics.fired.mold.boots.antimony.name=锑靴子模具
 item.tfc.ceramics.fired.mold.unfinished_helmet.antimony.name=半成锑头盔模具
 item.tfc.ceramics.fired.mold.helmet.antimony.name=锑头盔模具
 item.tfc.metal.shield.antimony.name=锑盾牌
-
-# Metal items
 fluid.constantan=熔融康铜
 item.tfc.metal.ingot.constantan.name=康铜锭
 item.tfc.ceramics.fired.mold.ingot.constantan.name=未成形康铜
@@ -595,8 +569,6 @@ item.tfc.ceramics.fired.mold.boots.constantan.name=康铜靴子模具
 item.tfc.ceramics.fired.mold.unfinished_helmet.constantan.name=半成康铜头盔模具
 item.tfc.ceramics.fired.mold.helmet.constantan.name=康铜头盔模具
 item.tfc.metal.shield.constantan.name=康铜盾牌
-
-# Metal items
 fluid.electrum=熔融琥珀金
 item.tfc.metal.ingot.electrum.name=琥珀金锭
 item.tfc.ceramics.fired.mold.ingot.electrum.name=未成形琥珀金
@@ -654,67 +626,63 @@ item.tfc.ceramics.fired.mold.boots.electrum.name=琥珀金靴子模具
 item.tfc.ceramics.fired.mold.unfinished_helmet.electrum.name=半成琥珀金头盔模具
 item.tfc.ceramics.fired.mold.helmet.electrum.name=琥珀金头盔模具
 item.tfc.metal.shield.electrum.name=琥珀金盾牌
-
-# Metal items
-fluid.red_alloy=熔融红石合金
-item.tfc.metal.ingot.red_alloy.name=红石合金锭
-item.tfc.ceramics.fired.mold.ingot.red_alloy.name=未成形红石合金
-item.tfc.metal.double_ingot.red_alloy.name=红石合金双锭
-item.tfc.ceramics.fired.mold.double_ingot.red_alloy.name=红石合金双锭模具
-item.tfc.metal.scrap.red_alloy.name=红石合金碎片
-item.tfc.ceramics.fired.mold.scrap.red_alloy.name=红石合金碎片模具
-item.tfc.metal.dust.red_alloy.name=红石合金粉
-item.tfc.ceramics.fired.mold.dust.red_alloy.name=红石合金粉模具
-item.tfc.metal.nugget.red_alloy.name=红石合金粒
-item.tfc.ceramics.fired.mold.nugget.red_alloy.name=红石合金粒模具
-item.tfc.metal.sheet.red_alloy.name=红石合金薄板
-item.tfc.ceramics.fired.mold.sheet.red_alloy.name=红石合金薄板模具
-item.tfc.metal.double_sheet.red_alloy.name=红石合金双层薄板
-item.tfc.ceramics.fired.mold.double_sheet.red_alloy.name=红石合金双层薄板模具
-item.tfc.ceramics.fired.mold.anvil.red_alloy.name=红石合金砧模具
-item.tfc.metal.tuyere.red_alloy.name=红石合金鼓风口
-item.tfc.ceramics.fired.mold.tuyere.red_alloy.name=红石合金鼓风口模具
-tile.tfc.lamp.red_alloy.name=红石合金灯
-tile.tfc.lamp.red_alloy.filled.name=%s红石合金灯
-item.tfc.ceramics.fired.mold.lamp.red_alloy.name=红石合金灯模具
-item.tfc.ceramics.fired.mold.pick.red_alloy.name=红石合金镐模具
-item.tfc.ceramics.fired.mold.pick_head.red_alloy.name=红石合金镐头模具
-item.tfc.ceramics.fired.mold.shovel.red_alloy.name=红石合金锹模具
-item.tfc.ceramics.fired.mold.shovel_head.red_alloy.name=红石合金锹头模具
-item.tfc.ceramics.fired.mold.axe.red_alloy.name=红石合金斧模具
-item.tfc.ceramics.fired.mold.axe_head.red_alloy.name=红石合金斧刃模具
-item.tfc.ceramics.fired.mold.hoe.red_alloy.name=红石合金锄模具
-item.tfc.ceramics.fired.mold.hoe_head.red_alloy.name=红石合金锄尖模具
-item.tfc.ceramics.fired.mold.chisel.red_alloy.name=红石合金凿模具
-item.tfc.ceramics.fired.mold.chisel_head.red_alloy.name=红石合金凿头模具
-item.tfc.ceramics.fired.mold.sword.red_alloy.name=红石合金剑模具
-item.tfc.ceramics.fired.mold.sword_blade.red_alloy.name=红石合金剑刃模具
-item.tfc.ceramics.fired.mold.mace.red_alloy.name=红石合金狼牙棒模具
-item.tfc.ceramics.fired.mold.mace_head.red_alloy.name=红石合金狼牙棒头模具
-item.tfc.ceramics.fired.mold.saw.red_alloy.name=红石合金锯模具
-item.tfc.ceramics.fired.mold.saw_blade.red_alloy.name=红石合金锯片模具
-item.tfc.ceramics.fired.mold.javelin.red_alloy.name=红石合金标枪模具
-item.tfc.ceramics.fired.mold.javelin_head.red_alloy.name=红石合金标枪头模具
-item.tfc.ceramics.fired.mold.hammer.red_alloy.name=红石合金锤模具
-item.tfc.ceramics.fired.mold.hammer_head.red_alloy.name=红石合金锤头模具
-item.tfc.ceramics.fired.mold.propick.red_alloy.name=红石合金勘矿镐模具
-item.tfc.ceramics.fired.mold.propick_head.red_alloy.name=红石合金勘矿镐模具
-item.tfc.ceramics.fired.mold.knife.red_alloy.name=红石合金刀模具
-item.tfc.ceramics.fired.mold.knife_blade.red_alloy.name=红石合金刀刃模具
-item.tfc.ceramics.fired.mold.scythe.red_alloy.name=红石合金镰刀模具
-item.tfc.ceramics.fired.mold.scythe_blade.red_alloy.name=红石合金镰刀刃模具
-item.tfc.ceramics.fired.mold.shears.red_alloy.name=红石合金剪刀模具
-item.tfc.ceramics.fired.mold.unfinished_chestplate.red_alloy.name=半成红石合金胸甲模具
-item.tfc.ceramics.fired.mold.chestplate.red_alloy.name=红石合金胸甲模具
-item.tfc.ceramics.fired.mold.unfinished_greaves.red_alloy.name=半成红石合金护胫模具
-item.tfc.ceramics.fired.mold.greaves.red_alloy.name=红石合金护胫模具
-item.tfc.ceramics.fired.mold.unfinished_boots.red_alloy.name=半成红石合金靴子模具
-item.tfc.ceramics.fired.mold.boots.red_alloy.name=红石合金靴子模具
-item.tfc.ceramics.fired.mold.unfinished_helmet.red_alloy.name=半成红石合金头盔模具
-item.tfc.ceramics.fired.mold.helmet.red_alloy.name=红石合金头盔模具
-item.tfc.metal.shield.red_alloy.name=红石合金盾牌
-
-# Metal items
+fluid.red_alloy=熔融红色合金
+item.tfc.metal.ingot.red_alloy.name=红色合金锭
+item.tfc.ceramics.fired.mold.ingot.red_alloy.name=未成形红色合金
+item.tfc.metal.double_ingot.red_alloy.name=红色合金双锭
+item.tfc.ceramics.fired.mold.double_ingot.red_alloy.name=红色合金双锭模具
+item.tfc.metal.scrap.red_alloy.name=红色合金碎片
+item.tfc.ceramics.fired.mold.scrap.red_alloy.name=红色合金碎片模具
+item.tfc.metal.dust.red_alloy.name=红色合金粉
+item.tfc.ceramics.fired.mold.dust.red_alloy.name=红色合金粉模具
+item.tfc.metal.nugget.red_alloy.name=红色合金粒
+item.tfc.ceramics.fired.mold.nugget.red_alloy.name=红色合金粒模具
+item.tfc.metal.sheet.red_alloy.name=红色合金薄板
+item.tfc.ceramics.fired.mold.sheet.red_alloy.name=红色合金薄板模具
+item.tfc.metal.double_sheet.red_alloy.name=红色合金双层薄板
+item.tfc.ceramics.fired.mold.double_sheet.red_alloy.name=红色合金双层薄板模具
+item.tfc.ceramics.fired.mold.anvil.red_alloy.name=红色合金砧模具
+item.tfc.metal.tuyere.red_alloy.name=红色合金鼓风口
+item.tfc.ceramics.fired.mold.tuyere.red_alloy.name=红色合金鼓风口模具
+tile.tfc.lamp.red_alloy.name=红色合金灯
+tile.tfc.lamp.red_alloy.filled.name=%s红色合金灯
+item.tfc.ceramics.fired.mold.lamp.red_alloy.name=红色合金灯模具
+item.tfc.ceramics.fired.mold.pick.red_alloy.name=红色合金镐模具
+item.tfc.ceramics.fired.mold.pick_head.red_alloy.name=红色合金镐头模具
+item.tfc.ceramics.fired.mold.shovel.red_alloy.name=红色合金锹模具
+item.tfc.ceramics.fired.mold.shovel_head.red_alloy.name=红色合金锹头模具
+item.tfc.ceramics.fired.mold.axe.red_alloy.name=红色合金斧模具
+item.tfc.ceramics.fired.mold.axe_head.red_alloy.name=红色合金斧刃模具
+item.tfc.ceramics.fired.mold.hoe.red_alloy.name=红色合金锄模具
+item.tfc.ceramics.fired.mold.hoe_head.red_alloy.name=红色合金锄尖模具
+item.tfc.ceramics.fired.mold.chisel.red_alloy.name=红色合金凿模具
+item.tfc.ceramics.fired.mold.chisel_head.red_alloy.name=红色合金凿头模具
+item.tfc.ceramics.fired.mold.sword.red_alloy.name=红色合金剑模具
+item.tfc.ceramics.fired.mold.sword_blade.red_alloy.name=红色合金剑刃模具
+item.tfc.ceramics.fired.mold.mace.red_alloy.name=红色合金狼牙棒模具
+item.tfc.ceramics.fired.mold.mace_head.red_alloy.name=红色合金狼牙棒头模具
+item.tfc.ceramics.fired.mold.saw.red_alloy.name=红色合金锯模具
+item.tfc.ceramics.fired.mold.saw_blade.red_alloy.name=红色合金锯片模具
+item.tfc.ceramics.fired.mold.javelin.red_alloy.name=红色合金标枪模具
+item.tfc.ceramics.fired.mold.javelin_head.red_alloy.name=红色合金标枪头模具
+item.tfc.ceramics.fired.mold.hammer.red_alloy.name=红色合金锤模具
+item.tfc.ceramics.fired.mold.hammer_head.red_alloy.name=红色合金锤头模具
+item.tfc.ceramics.fired.mold.propick.red_alloy.name=红色合金勘矿镐模具
+item.tfc.ceramics.fired.mold.propick_head.red_alloy.name=红色合金勘矿镐模具
+item.tfc.ceramics.fired.mold.knife.red_alloy.name=红色合金刀模具
+item.tfc.ceramics.fired.mold.knife_blade.red_alloy.name=红色合金刀刃模具
+item.tfc.ceramics.fired.mold.scythe.red_alloy.name=红色合金镰刀模具
+item.tfc.ceramics.fired.mold.scythe_blade.red_alloy.name=红色合金镰刀刃模具
+item.tfc.ceramics.fired.mold.shears.red_alloy.name=红色合金剪刀模具
+item.tfc.ceramics.fired.mold.unfinished_chestplate.red_alloy.name=半成红色合金胸甲模具
+item.tfc.ceramics.fired.mold.chestplate.red_alloy.name=红色合金胸甲模具
+item.tfc.ceramics.fired.mold.unfinished_greaves.red_alloy.name=半成红色合金护胫模具
+item.tfc.ceramics.fired.mold.greaves.red_alloy.name=红色合金护胫模具
+item.tfc.ceramics.fired.mold.unfinished_boots.red_alloy.name=半成红色合金靴子模具
+item.tfc.ceramics.fired.mold.boots.red_alloy.name=红色合金靴子模具
+item.tfc.ceramics.fired.mold.unfinished_helmet.red_alloy.name=半成红色合金头盔模具
+item.tfc.ceramics.fired.mold.helmet.red_alloy.name=红色合金头盔模具
+item.tfc.metal.shield.red_alloy.name=红色合金盾牌
 fluid.mithril=熔融秘银
 item.tfc.metal.ingot.mithril.name=秘银锭
 item.tfc.ceramics.fired.mold.ingot.mithril.name=未成形秘银
@@ -808,8 +776,6 @@ item.tfc.ceramics.fired.mold.unfinished_helmet.mithril.name=半成秘银头盔�
 item.tfc.metal.helmet.mithril.name=秘银头盔
 item.tfc.ceramics.fired.mold.helmet.mithril.name=秘银头盔模具
 item.tfc.metal.shield.mithril.name=秘银盾牌
-
-# Metal items
 fluid.nickel_silver=熔融镍银
 item.tfc.metal.ingot.nickel_silver.name=镍银锭
 item.tfc.ceramics.fired.mold.ingot.nickel_silver.name=未成形镍银
@@ -903,8 +869,6 @@ item.tfc.ceramics.fired.mold.unfinished_helmet.nickel_silver.name=半成镍银�
 item.tfc.metal.helmet.nickel_silver.name=镍银头盔
 item.tfc.ceramics.fired.mold.helmet.nickel_silver.name=镍银头盔模具
 item.tfc.metal.shield.nickel_silver.name=镍银盾牌
-
-# Metal items
 fluid.invar=熔融殷钢
 item.tfc.metal.ingot.invar.name=殷钢锭
 item.tfc.ceramics.fired.mold.ingot.invar.name=未成形殷钢
@@ -998,8 +962,6 @@ item.tfc.ceramics.fired.mold.unfinished_helmet.invar.name=半成殷钢头盔模�
 item.tfc.metal.helmet.invar.name=殷钢头盔
 item.tfc.ceramics.fired.mold.helmet.invar.name=殷钢头盔模具
 item.tfc.metal.shield.invar.name=殷钢盾牌
-
-# Metal items
 fluid.aluminium=熔融铝
 item.tfc.metal.ingot.aluminium.name=铝锭
 item.tfc.ceramics.fired.mold.ingot.aluminium.name=未成形铝
@@ -1095,8 +1057,6 @@ item.tfc.ceramics.fired.mold.helmet.aluminium.name=铝头盔模具
 item.tfc.metal.shield.aluminium.name=铝盾牌
 item.tfc.bloom.unrefined.aluminium.name=生铝方坯
 item.tfc.bloom.refined.aluminium.name=精铝方坯
-
-# Metal items
 fluid.aluminium_brass=熔融铝黄铜
 item.tfc.metal.ingot.aluminium_brass.name=铝黄铜锭
 item.tfc.ceramics.fired.mold.ingot.aluminium_brass.name=未成形铝黄铜
@@ -1154,8 +1114,6 @@ item.tfc.ceramics.fired.mold.boots.aluminium_brass.name=铝黄铜靴子模具
 item.tfc.ceramics.fired.mold.unfinished_helmet.aluminium_brass.name=半成铝黄铜头盔模具
 item.tfc.ceramics.fired.mold.helmet.aluminium_brass.name=铝黄铜头盔模具
 item.tfc.metal.shield.aluminium_brass.name=铝黄铜盾牌
-
-# Metal items
 fluid.ardite=熔融阿迪特
 item.tfc.metal.ingot.ardite.name=阿迪特锭
 item.tfc.ceramics.fired.mold.ingot.ardite.name=未成形阿迪特
@@ -1215,8 +1173,6 @@ item.tfc.ceramics.fired.mold.helmet.ardite.name=阿迪特头盔模具
 item.tfc.metal.shield.ardite.name=阿迪特盾牌
 item.tfc.bloom.unrefined.ardite.name=生阿迪特方坯
 item.tfc.bloom.refined.ardite.name=精阿迪特方坯
-
-# Metal items
 fluid.cobalt=熔融钴
 item.tfc.metal.ingot.cobalt.name=钴锭
 item.tfc.ceramics.fired.mold.ingot.cobalt.name=未成形钴
@@ -1312,8 +1268,6 @@ item.tfc.ceramics.fired.mold.helmet.cobalt.name=钴头盔模具
 item.tfc.metal.shield.cobalt.name=钴盾牌
 item.tfc.bloom.unrefined.cobalt.name=生钴方坯
 item.tfc.bloom.refined.cobalt.name=精钴方坯
-
-# Metal items
 fluid.manyullyn=熔融玛玉灵
 item.tfc.metal.ingot.manyullyn.name=玛玉灵锭
 item.tfc.ceramics.fired.mold.ingot.manyullyn.name=未成形玛玉灵
@@ -1407,8 +1361,6 @@ item.tfc.ceramics.fired.mold.unfinished_helmet.manyullyn.name=半成玛玉灵头
 item.tfc.metal.helmet.manyullyn.name=玛玉灵头盔
 item.tfc.ceramics.fired.mold.helmet.manyullyn.name=玛玉灵头盔模具
 item.tfc.metal.shield.manyullyn.name=玛玉灵盾牌
-
-# Metal items
 fluid.osmium=熔融锇
 item.tfc.metal.ingot.osmium.name=锇锭
 item.tfc.ceramics.fired.mold.ingot.osmium.name=未成形锇
@@ -1502,8 +1454,6 @@ item.tfc.ceramics.fired.mold.unfinished_helmet.osmium.name=半成锇头盔模具
 item.tfc.metal.helmet.osmium.name=锇头盔
 item.tfc.ceramics.fired.mold.helmet.osmium.name=锇头盔模具
 item.tfc.metal.shield.osmium.name=锇盾牌
-
-# Metal items
 fluid.titanium=熔融钛
 item.tfc.metal.ingot.titanium.name=钛锭
 item.tfc.ceramics.fired.mold.ingot.titanium.name=未成形钛
@@ -1597,8 +1547,6 @@ item.tfc.ceramics.fired.mold.unfinished_helmet.titanium.name=半成钛头盔模�
 item.tfc.metal.helmet.titanium.name=钛头盔
 item.tfc.ceramics.fired.mold.helmet.titanium.name=钛头盔模具
 item.tfc.metal.shield.titanium.name=钛盾牌
-
-# Metal items
 fluid.tungsten=熔融钨
 item.tfc.metal.ingot.tungsten.name=钨锭
 item.tfc.ceramics.fired.mold.ingot.tungsten.name=未成形钨
@@ -1692,8 +1640,6 @@ item.tfc.ceramics.fired.mold.unfinished_helmet.tungsten.name=半成钨头盔模�
 item.tfc.metal.helmet.tungsten.name=钨头盔
 item.tfc.ceramics.fired.mold.helmet.tungsten.name=钨头盔模具
 item.tfc.metal.shield.tungsten.name=钨盾牌
-
-# Metal items
 fluid.tungsten_steel=熔融钨钢
 item.tfc.metal.ingot.tungsten_steel.name=钨钢锭
 item.tfc.ceramics.fired.mold.ingot.tungsten_steel.name=未成形钨钢
@@ -1787,8 +1733,6 @@ item.tfc.ceramics.fired.mold.unfinished_helmet.tungsten_steel.name=半成钨钢�
 item.tfc.metal.helmet.tungsten_steel.name=钨钢头盔
 item.tfc.ceramics.fired.mold.helmet.tungsten_steel.name=钨钢头盔模具
 item.tfc.metal.shield.tungsten_steel.name=钨钢盾牌
-
-# Metal items
 fluid.boron=熔融硼
 item.tfc.metal.ingot.boron.name=硼锭
 item.tfc.ceramics.fired.mold.ingot.boron.name=未成形硼
@@ -1884,8 +1828,6 @@ item.tfc.ceramics.fired.mold.helmet.boron.name=硼头盔模具
 item.tfc.metal.shield.boron.name=硼盾牌
 item.tfc.bloom.unrefined.boron.name=生硼方坯
 item.tfc.bloom.refined.boron.name=精硼方坯
-
-# Metal items
 fluid.thorium=熔融钍
 item.tfc.metal.ingot.thorium.name=钍锭
 item.tfc.ceramics.fired.mold.ingot.thorium.name=未成形钍
@@ -1945,8 +1887,6 @@ item.tfc.ceramics.fired.mold.helmet.thorium.name=钍头盔模具
 item.tfc.metal.shield.thorium.name=钍盾牌
 item.tfc.bloom.unrefined.thorium.name=生钍方坯
 item.tfc.bloom.refined.thorium.name=精钍方坯
-
-# Metal items
 fluid.manganese=熔融锰
 item.tfc.metal.ingot.manganese.name=锰锭
 item.tfc.ceramics.fired.mold.ingot.manganese.name=未成形锰
@@ -2006,8 +1946,6 @@ item.tfc.ceramics.fired.mold.helmet.manganese.name=锰头盔模具
 item.tfc.metal.shield.manganese.name=锰盾牌
 item.tfc.bloom.unrefined.manganese.name=生锰方坯
 item.tfc.bloom.refined.manganese.name=精锰方坯
-
-# Metal items
 fluid.magnesium=熔融镁
 item.tfc.metal.ingot.magnesium.name=镁锭
 item.tfc.ceramics.fired.mold.ingot.magnesium.name=未成形镁
@@ -2067,8 +2005,6 @@ item.tfc.ceramics.fired.mold.helmet.magnesium.name=镁头盔模具
 item.tfc.metal.shield.magnesium.name=镁盾牌
 item.tfc.bloom.unrefined.magnesium.name=生镁方坯
 item.tfc.bloom.refined.magnesium.name=精镁方坯
-
-# Metal items
 fluid.lithium=熔融锂
 item.tfc.metal.ingot.lithium.name=锂锭
 item.tfc.ceramics.fired.mold.ingot.lithium.name=未成形锂
@@ -2126,8 +2062,6 @@ item.tfc.ceramics.fired.mold.boots.lithium.name=锂靴子模具
 item.tfc.ceramics.fired.mold.unfinished_helmet.lithium.name=半成锂头盔模具
 item.tfc.ceramics.fired.mold.helmet.lithium.name=锂头盔模具
 item.tfc.metal.shield.lithium.name=锂盾牌
-
-# Metal items
 fluid.zirconium=熔融锆
 item.tfc.metal.ingot.zirconium.name=锆锭
 item.tfc.ceramics.fired.mold.ingot.zirconium.name=未成形锆
@@ -2185,8 +2119,6 @@ item.tfc.ceramics.fired.mold.boots.zirconium.name=锆靴子模具
 item.tfc.ceramics.fired.mold.unfinished_helmet.zirconium.name=半成锆头盔模具
 item.tfc.ceramics.fired.mold.helmet.zirconium.name=锆头盔模具
 item.tfc.metal.shield.zirconium.name=锆盾牌
-
-# Metal items
 fluid.zircaloy=熔融锆合金
 item.tfc.metal.ingot.zircaloy.name=锆合金锭
 item.tfc.ceramics.fired.mold.ingot.zircaloy.name=未成形锆合金
@@ -2280,8 +2212,6 @@ item.tfc.ceramics.fired.mold.unfinished_helmet.zircaloy.name=半成锆合金头�
 item.tfc.metal.helmet.zircaloy.name=锆合金头盔
 item.tfc.ceramics.fired.mold.helmet.zircaloy.name=锆合金头盔模具
 item.tfc.metal.shield.zircaloy.name=锆合金盾牌
-
-# Metal items
 fluid.beryllium=熔融铍
 item.tfc.metal.ingot.beryllium.name=铍锭
 item.tfc.ceramics.fired.mold.ingot.beryllium.name=未成形铍
@@ -2339,8 +2269,6 @@ item.tfc.ceramics.fired.mold.boots.beryllium.name=铍靴子模具
 item.tfc.ceramics.fired.mold.unfinished_helmet.beryllium.name=半成铍头盔模具
 item.tfc.ceramics.fired.mold.helmet.beryllium.name=铍头盔模具
 item.tfc.metal.shield.beryllium.name=铍盾牌
-
-# Metal items
 fluid.beryllium_copper=熔融铍青铜
 item.tfc.metal.ingot.beryllium_copper.name=铍青铜锭
 item.tfc.ceramics.fired.mold.ingot.beryllium_copper.name=未成形铍青铜
@@ -2434,8 +2362,6 @@ item.tfc.ceramics.fired.mold.unfinished_helmet.beryllium_copper.name=半成铍�
 item.tfc.metal.helmet.beryllium_copper.name=铍青铜头盔
 item.tfc.ceramics.fired.mold.helmet.beryllium_copper.name=铍青铜头盔模具
 item.tfc.metal.shield.beryllium_copper.name=铍青铜盾牌
-
-# Metal items
 fluid.hsla_steel=熔融高强度低合金钢
 item.tfc.metal.ingot.hsla_steel.name=高强度低合金钢锭
 item.tfc.ceramics.fired.mold.ingot.hsla_steel.name=未成形高强度低合金钢
@@ -2493,8 +2419,6 @@ item.tfc.ceramics.fired.mold.boots.hsla_steel.name=高强度低合金钢靴子�
 item.tfc.ceramics.fired.mold.unfinished_helmet.hsla_steel.name=半成高强度低合金钢头盔模具
 item.tfc.ceramics.fired.mold.helmet.hsla_steel.name=高强度低合金钢头盔模具
 item.tfc.metal.shield.hsla_steel.name=高强度低合金钢盾牌
-
-# Metal items
 fluid.ferroboron=熔融硼铁合金
 item.tfc.metal.ingot.ferroboron.name=硼铁合金锭
 item.tfc.ceramics.fired.mold.ingot.ferroboron.name=未成形硼铁合金
@@ -2552,8 +2476,6 @@ item.tfc.ceramics.fired.mold.boots.ferroboron.name=硼铁合金靴子模具
 item.tfc.ceramics.fired.mold.unfinished_helmet.ferroboron.name=半成硼铁合金头盔模具
 item.tfc.ceramics.fired.mold.helmet.ferroboron.name=硼铁合金头盔模具
 item.tfc.metal.shield.ferroboron.name=硼铁合金盾牌
-
-# Metal items
 fluid.tough=熔融高强合金
 item.tfc.metal.ingot.tough.name=高强合金锭
 item.tfc.ceramics.fired.mold.ingot.tough.name=未成形高强合金
@@ -2611,8 +2533,6 @@ item.tfc.ceramics.fired.mold.boots.tough.name=高强合金靴子模具
 item.tfc.ceramics.fired.mold.unfinished_helmet.tough.name=半成高强合金头盔模具
 item.tfc.ceramics.fired.mold.helmet.tough.name=高强合金头盔模具
 item.tfc.metal.shield.tough.name=高强合金盾牌
-
-# Metal items
 fluid.magnesium_diboride=熔融二硼化镁
 item.tfc.metal.ingot.magnesium_diboride.name=二硼化镁锭
 item.tfc.ceramics.fired.mold.ingot.magnesium_diboride.name=未成形二硼化镁
@@ -2670,8 +2590,6 @@ item.tfc.ceramics.fired.mold.boots.magnesium_diboride.name=二硼化镁靴子模
 item.tfc.ceramics.fired.mold.unfinished_helmet.magnesium_diboride.name=半成二硼化镁头盔模具
 item.tfc.ceramics.fired.mold.helmet.magnesium_diboride.name=二硼化镁头盔模具
 item.tfc.metal.shield.magnesium_diboride.name=二硼化镁盾牌
-
-# Metal items
 fluid.uranium=熔融铀
 item.tfc.metal.ingot.uranium.name=铀锭
 item.tfc.ceramics.fired.mold.ingot.uranium.name=未成形铀
@@ -2729,12 +2647,10 @@ item.tfc.ceramics.fired.mold.boots.uranium.name=铀靴子模具
 item.tfc.ceramics.fired.mold.unfinished_helmet.uranium.name=半成铀头盔模具
 item.tfc.ceramics.fired.mold.helmet.uranium.name=铀头盔模具
 item.tfc.metal.shield.uranium.name=铀盾牌
-
-# Metal types
 tfc.types.metal.antimony=锑
 tfc.types.metal.constantan=康铜
 tfc.types.metal.electrum=琥珀金
-tfc.types.metal.red_alloy=红石合金
+tfc.types.metal.red_alloy=红色合金
 tfc.types.metal.mithril=秘银
 tfc.types.metal.nickel_silver=镍银
 tfc.types.metal.invar=殷钢
@@ -2761,8 +2677,6 @@ tfc.types.metal.ferroboron=硼铁合金
 tfc.types.metal.tough=高强合金
 tfc.types.metal.magnesium_diboride=二硼化镁
 tfc.types.metal.uranium=铀
-
-# Veins
 vein.stibnite.name=辉锑矿
 vein.surface_stibnite.name=表层辉锑矿
 vein.cobaltite.name=辉钴矿
@@ -2785,8 +2699,6 @@ vein.fluorite.name=氟石
 vein.carobbiite.name=方氟钾石
 vein.arsenic.name=砷矿
 vein.pitchblende.name=沥青铀矿
-
-# trapdoors
 tile.tfc.trapdoor.aluminium.name=铝活板门
 tile.tfc.trapdoor.aluminium_brass.name=铝黄铜活板门
 tile.tfc.trapdoor.antimony.name=锑活板门
@@ -2808,7 +2720,7 @@ tile.tfc.trapdoor.manyullyn.name=玛玉灵活板门
 tile.tfc.trapdoor.mithril.name=秘银活板门
 tile.tfc.trapdoor.nickel_silver.name=镍银活板门
 tile.tfc.trapdoor.osmium.name=锇活板门
-tile.tfc.trapdoor.red_alloy.name=红石合金活板门
+tile.tfc.trapdoor.red_alloy.name=红色合金活板门
 tile.tfc.trapdoor.thorium.name=钍活板门
 tile.tfc.trapdoor.titanium.name=钛活板门
 tile.tfc.trapdoor.tough.name=高强合金活板门

@@ -13,7 +13,6 @@ tile.ore_reeds:lapis_reed.name=青金石甘蔗
 tile.ore_reeds:nether_quartz_reed.name=下界石英甘蔗
 tile.ore_reeds:obsidian_reed.name=黑曜石甘蔗
 tile.ore_reeds:redstone_reed.name=红石甘蔗
-
 tile.ore_reeds:amber_reed.name=琥珀矿石甘蔗
 tile.ore_reeds:cinnabar_reed.name=朱砂甘蔗
 itemGroup.tabOreReeds=矿石甘蔗

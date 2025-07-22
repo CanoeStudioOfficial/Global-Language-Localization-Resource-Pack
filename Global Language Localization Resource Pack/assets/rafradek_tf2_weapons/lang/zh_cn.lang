@@ -102,7 +102,6 @@ weapon.capper=高能电磁脉冲粒子枪
 weapon.rocketshotgun=火箭霰弹枪
 weapon.monoculuslaser=魔眼镭射
 weapon.monoculuseye=魔眼发射器
-
 weapon.crate1=曼恩公司供应箱 #1
 weapon.crate2=曼恩公司供应箱 #2
 weapon.crate3=曼恩公司供应箱 #3
@@ -113,15 +112,12 @@ weapon.crate7=曼恩公司供应箱 #7
 weapon.crate8=曼恩公司供应箱 #8
 weapon.crate9=曼恩公司供应箱 #9
 weapon.eternalreward=永生的回报
-
 weaponAttribute.DamageBonus=伤害 +%1$s
 weaponAttribute.DamagePenalty=伤害 %1$s
 weaponAttribute.ClipSizeBonus=弹匣容量 +%1$s 
 weaponAttribute.ClipSizePenalty=弹匣容量 %1$s
 weaponAttribute.FireRateBonus=开火速度 +%1$s
 weaponAttribute.FireRatePenalty=开火速度 %1$s
-weaponAttribute.DamageBonus=伤害 +%1$s
-weaponAttribute.DamagePenalty=伤害 %1$s
 weaponAttribute.MinigunSpinBonus=机枪预热速度加快 %1$s
 weaponAttribute.MinigunSpinPenalty=机枪预热速度减慢 %1$s
 weaponAttribute.SpreadBonus=准确度提高 %1$s
@@ -270,24 +266,20 @@ weaponAttribute.BackstabDamageBonus=穿甲性 +%1$s
 weaponAttribute.MetalBonus=金属加成奖励 +%1$s
 weaponAttribute.StunOnHit=击中后：短时间击晕对手
 weaponAttribute.FuseTimeBonus=引信时间 %1$s 秒
-
 container.upgrades=升级站
 container.currency=金钱：%1$s
 container.currencyLeft=花费: %1$s / %2$s
 container.upgrades.info=澳元素与奇异品质的武器有更高的升级空间
 container.upgrades.refund=取消升级并退款
 container.robotdeploy=机器人制造者
-
 itemGroup.tf2misc=军团要塞 2 实用工具
 itemGroup.tf2util=军团要塞 2 杂项
 itemGroup.tf2spawner=军团要塞 2 生成蛋
 itemGroup.tf2weapons=军团要塞 2 武器
 itemGroup.tf2rareweapons=军团要塞 2 稀有武器
-
 death.attack.bullet=%1$s 被 %2$s 击杀了
 death.attack.fallpl=%1$s 被 %2$s 碾碎了
 death.attack.bullet.item=%1$s 被 %2$s 使用的 %3$s 击杀了
-
 entity.scout.name=侦察兵
 entity.heavy.name=机枪手
 entity.sniper.name=狙击手
@@ -304,10 +296,8 @@ entity.hale.name=萨克斯顿·霍尔
 entity.monoculus.name=魔眼
 entity.hhh.name=脱缰的无头骑士
 entity.merasmus.name=马拉莫斯
-
 tf2boss.appear=Boss %1$s [等级 %2$s] 出现了
 tf2boss.death=Boss %1$s [等级 %2$s] 已击败
-
 item.placer.hostile=（敌方）
 item.disguiseKit.name=伪装工具
 item.buildingBox.name=建造工具箱
@@ -332,11 +322,10 @@ item.tf2ammo.flare.name=信号弹
 item.tf2ammo.ball.name=棒球
 item.statue.name=雕像
 item.statue.player.name=白痴雕像
-
 commands.resetbossstat.usage=/resetbossstat <玩家>
 commands.resetbossstat.success=已重置玩家 %s 的 Boss 等级进度
 commands.resetitemdata.usage=/resetitemdata
-commands.resetitemdata.success=正在重载物品数据
+commands.resetitemdata.success=正在重载物品数据⋯⋯
 commands.giveweapon.usage=/giveweapon <物品 | -a | -r>  [玩家] [attribute index:attribute value ...]
 commands.giveweapon.success=将物品 %s 给予 %s
 commands.giveweapon.notfound=无法找到该武器：%s
@@ -346,7 +335,6 @@ commands.forceclass.success2=已将 %s 的类移除
 commands.cmodc.usage=/cmodc <配置文件> <目录> <属性> [value]
 commands.cmodc.success=属性 %s 已成功设置为 %s
 commands.invasion.usage=/invasion <难度编号 1-6 | stop> [x] [y] [z]
-
 effect.bonk=原子能饮料
 effect.stun=呆若木鸡
 effect.banner=战旗
@@ -365,7 +353,6 @@ effect.bleeding=流血
 effect.noKnockback=无击退
 effect.regenHit=命中再生
 effect.viralFire=病毒之火
-
 item.scoutBoots.name=侦察兵靴子
 item.mantreads.name=踏步靴
 item.gunboats.name=炮艇
@@ -401,7 +388,6 @@ item.monoculus.name=魔眼
 item.monoculus.desc=召唤魔眼
 item.merasmus.name=马拉莫斯
 item.merasmus.desc=召唤马拉莫斯
-
 item.killstreakkit.name=连杀工具包
 item.killstreakkit.standard.name=连杀工具包
 item.killstreakkit.specialized.name=职业连杀工具包
@@ -435,7 +421,6 @@ item.tf2money.0.name=小型钱包
 item.tf2money.1.name=中型钱包
 item.tf2money.2.name=大型钱包
 item.tf2money.desc=总金额：%s
-
 item.wearable.effect=特效 - 
 item.wearable.effect.0=熊熊烈焰
 item.wearable.effect.1=旋转之心
@@ -448,7 +433,6 @@ item.wearable.effect.7=史莱姆
 item.wearable.effect.8=星云
 item.wearable.effect.9=龙息
 item.wearable.effect.10=音乐
-
 tile.cabinet.name=军团要塞 2 工作台
 tile.oreCopper.name=铜矿石
 tile.oreLead.name=铅矿石
@@ -459,12 +443,10 @@ tile.ammoFurnace.name=弹药炉
 tile.blockOverhead.name=卷帘门
 tile.blockRobotDeploy.name=机器人制造机
 achievement.strangeUp=达到新的奇怪等级: 
-
 item.banner.blu_base.white=仅蓝队才可在此 35 格范围内生成
 item.banner.red_base.white=仅红队才可在此 35 格范围内生成
 item.banner.neutral_base.white=没有队伍可在此 35 格范围内生成
 item.banner.fast_spawn.white=快速重生
-
 gui.markedit=对，是你。你要用近战武器攻击一位生物/玩家。才能通过我的试炼。
 gui.bombmrs=把你的大炸弹头带回马拉莫斯！
 gui.disguise.info=选择伪装
@@ -475,13 +457,10 @@ gui.sentry.hostile=攻击敌对生物
 gui.sentry.friendly=攻击友好生物
 gui.sentry.help=攻击距离 20 格范围内最近的目标\n可以升级以提高攻击速度与耐久度\n攻击伤害：%1$s
 gui.sentry.help.rockets=火箭伤害：5 - 15。火箭每 3 秒发射一次。
-
 gui.teleporter.info=传送装置频道
 gui.teleporter.drop=拾起
 gui.teleporter.help=两个传送装置必须使用同一个频道，并且其中一个传送装置必须设置为退出。\n多个传送装置可通向同一个出口。
-
 gui.dispenser.help=治疗、提供弹药与生成金属\n使用储存在内部的金属修复手中的物品\n将补给输出至左右两个箱子中\n将修理完毕的物品输出到前端或者后端的箱子里
-
 gui.build=建造
 gui.build.sentry=步哨枪
 gui.build.dispenser=补给器
@@ -489,13 +468,11 @@ gui.build.entrance=传送装置入口
 gui.build.exit=传送装置出口
 gui.build.disposable=一次性步哨枪
 gui.build.nometal=没有足够的金属
-
 gui.command.1=1. 医疗兵！
 gui.command.2=2. 我需要帮助
 gui.command.3=3. 激活超能冲锋
 gui.command.4=4. 激活战旗
 gui.command.5=5. 去这边吧
-
 gui.contracts=合同
 gui.contracts.accept=接受
 gui.contracts.claim=领取奖励
@@ -521,18 +498,14 @@ gui.contracts.require=若要获取合同，请加入一个团队并至少击杀 
 gui.contracts.contractDay=还需 %1$s 天才能接新合同
 gui.contracts.progress=%1$s 合同进度：%2$s CP
 gui.contracts.reject=拒绝
-
 gui.boss.night=只能在晚上召唤 Boss
 gui.boss.nextnight=等到晚上再试试吧！
 gui.boss.portal=该物品必须在下界传送门上使用
 gui.boss.statue=该物品必须在雕像上使用（南瓜灯作为头部，黑曜石作为身体，干草块作为胳膊和腿部）
-
 gui.recoveritems=找回丢失的物品
-
 gui.robotinvasion=机器人入侵 - 第 %1$s 波，共 %2$s 波
 gui.robotinvasion.message=机器人入侵了该区域！
 gui.robotinvasion.reward=你已获得奖励：
-
 boss.message=%1$s 正在向你走来！
 objective.kill=击杀一名雇佣兵
 objective.heal_20=治疗 20 点伤害
@@ -549,7 +522,6 @@ objective.kill_sniper=击杀一名狙击手
 objective.kill_spy=击杀一名间谍
 objective.kill_medic=击杀一名医生
 objective.kill_double=使用二段跳击杀
-objective.backstab=使用背刺击杀
 objective.kills_sentry=使用单个步哨枪击杀 5 名敌人
 objective.sticky_kill=使用黏弹击杀
 objective.kill_reflected=使用反射射弹击杀
@@ -559,11 +531,8 @@ objective.destroy_sentry_uber=在超能冲锋期间协助摧毁一个步哨枪
 objective.destroy_building=摧毁建筑物
 objective.kills=在短时间内杀死 4 名雇佣兵
 objective.advanced=（高级）
-
 gui.selectlocation=选择传送位置
-
 container.ammofurnace=弹药炉
-
 achievement.joinTeam=加入队伍
 achievement.joinTeam.desc=访问曼恩公司商店
 achievement.firstEncounter=按下扳机

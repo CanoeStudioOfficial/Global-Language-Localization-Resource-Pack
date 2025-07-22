@@ -1,5 +1,4 @@
 itemGroup.tabsrpaddontab=SR: Parasites addon by NoCube
-
 item.adaptivearmorbody.name=适应性胸甲
 item.adaptivearmorboots.name=适应性靴子
 item.adaptivearmorhelmet.name=适应性头盔
@@ -80,7 +79,6 @@ item.scoutarmorlegs.name=侦察兵护腿
 item.shellbreaker.name=破壳者
 item.waraxe.name=战斧
 item.waraxedouble.name=毁灭之斧
-
 tile.concentratedbonewall.name=寄生压缩骨头墙
 tile.concentratedfleshslab.name=寄生压缩肉块台阶
 tile.concentratedfleshstairs.name=寄生压缩肉块楼梯

@@ -150,8 +150,6 @@ tile.yellow_autumn_leaves.name=黄秋叶
 tile.rotten_leaves.name=腐叶
 tile.rotten_log.name=朽木
 tile.dead_log.name=枯木
-
-
 tile.jacaranda_flower.name=茉莉花
 tile.cherry_flower.name=樱桃花
 tile.clover.name=三叶草
@@ -196,9 +194,6 @@ tile.brown_mycelium.name=棕色菌丝
 tile.frozen_dirt.name=冻土
 tile.frozen_grass_block.name=冻草方块
 tile.dried_sand.name=干沙
-
-
-
 tile.ash_block.name=火山灰块
 tile.white_sand.name=白沙
 tile.ash.name=火山灰
@@ -213,8 +208,6 @@ tile.mushroom_7.name=橙香牛肝菌
 tile.mushroom_8.name=牛肝菌属
 tile.mushroom_9.name=鸡油菌
 tile.daisy.name=雏菊
-
-
 item.green_apple.name=青苹果
 item.pear.name=梨
 item.rowanberry_red.name=花楸果
@@ -233,9 +226,6 @@ item.cooked_camel.name=熟骆驼肉
 item.duck_male_feather.name=公鸭羽毛
 item.duck_female_feather.name=母鸭羽毛
 item.duck_baby_feather.name=雏鸭羽毛
-
-
-
 item.pebble.name=鹅卵石
 item.amethyst.name=紫水晶
 item.amethyst_shard.name=紫水晶碎片
@@ -251,9 +241,6 @@ item.silver_ingot.name=银锭
 item.steel_rod.name=钢棒
 item.silver_rod.name=银棒
 item.diamond_rod.name=钻石棒
-
-
-
 tile.hardened_sandstone.name=硬化砂岩
 tile.red_hardened_sandstone.name=红硬化砂岩
 tile.frozen_stone.name=冻石
@@ -278,9 +265,6 @@ tile.rhyolite.name=流纹岩
 tile.slate.name=板岩
 tile.syenite.name=正长岩
 tile.umber.name=棕石
-
-
-
 tile.amethyst_block.name=Block of Amethyst
 tile.sapphire_block.name=Block of Sapphire
 tile.malachite_block.name=Block of Malachite
@@ -296,8 +280,6 @@ tile.ruby_ore.name=Ruby Ore
 tile.silver_ore.name=Silver Ore
 tile.ironworks.name=Ironworks
 container.ironworks=Ironworks
-
-
 item.amethyst_sword.name=Amethyst sword
 item.amethyst_pickaxe.name=Amethyst pickaxe
 item.amethyst_axe.name=Amethyst axe
@@ -360,8 +342,6 @@ entity.cow_male.name=Bull
 entity.cow_female.name=Cow
 entity.cow_baby.name=Calf
 entity.forester.name=Forester
-
-
 lore.rock.metamorphic=Metamorphic rocks
 lore.rock.sedimentary=Sedimentary rocks
 lore.rock.igneous=Igneous rocks

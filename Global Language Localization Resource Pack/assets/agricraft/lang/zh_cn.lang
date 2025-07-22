@@ -1,12 +1,5 @@
-# ========================================
-# Creative Tabs
-# ========================================
 itemGroup.agricraft=农业工艺
 itemGroup.agricraft_seeds=农业工艺丨种子
-
-# ========================================
-# Items
-# ========================================
 item.agricraft:crop_sticks.name=作物架
 item.agricraft:journal.name=农学研究随笔
 item.agricraft:trowel.name=园丁铲
@@ -16,10 +9,6 @@ item.agricraft:rake.wood.name=木耙
 item.agricraft:rake.iron.name=铁耙
 item.agricraft:clipper.name=剪枝器
 item.agricraft:clipping.name=接穗
-
-# ========================================
-# Nuggets
-# ========================================
 item.agricraft:nugget_diamond.name=钻石粒
 item.agricraft:nugget_iron.name=铁粒
 item.agricraft:nugget_emerald.name=绿宝石粒
@@ -33,10 +22,6 @@ item.agricraft:nugget_platinum.name=铂粒
 item.agricraft:nugget_osmium.name=锇粒
 item.agricraft:nugget_quartz.name=石英碎片
 item.agricraft:nugget_unknown.name=未知碎片
-
-# ========================================
-# Blocks
-# ========================================
 tile.agricraft:crops.name=作物架
 tile.agricraft:seed_analyzer.name=种子分析仪
 tile.agricraft:water_pad.name=水垫
@@ -54,22 +39,10 @@ tile.agricraft:fence.0.name=栅栏
 tile.agricraft:fence_gate.0.name=栅栏门
 tile.agricraft:grate.0.name=木格栅
 tile.agricraft:peripheral.name=数控种子分析仪
-
-# ========================================
-# Entities
-# ========================================
 entity.AgriCraft.villager_farmer.name=村民
 entity.AgriCraft.villager.farmer.agricraft=农业研究员
-
-# ========================================
-# GUI
-# ========================================
 agricraft_gui.seedAnalyzer=种子分析仪
 agricraft_gui.peripheral=数控种子分析仪
-
-# ========================================
-# Tooltips
-# ========================================
 agricraft_tooltip.unidentified=未识别
 agricraft_tooltip.seed=种子名字
 agricraft_tooltip.growth=生长速度
@@ -106,10 +79,6 @@ agricraft_tooltip.clipper3=其种植成功率由强度决定
 agricraft_tooltip.analyzer=样本
 agricraft_tooltip.storage=储存种子
 agricraft_tooltip.none=无
-
-# ========================================
-# Method Descriptions
-# ========================================
 agricraft_description.peripheralHelp=方法帮助
 agricraft_description.method.analyze=令分析仪开始分析当前样本。
 agricraft_description.method.getBaseBlock=返回指定方向上作物需要的基础方块，或（没有指定方向时）分析仪里的样本需要的基础方块
@@ -130,26 +99,14 @@ agricraft_description.method.isCrossCrop=当指定方向上的作物架是杂交
 agricraft_description.method.isFertile=当指定方向上的作物架上的作物可以生长时返回 true，否则返回 false
 agricraft_description.method.isMature=当指定方向上的作物架上的作物已成熟时返回 true，否则返回 false
 agricraft_description.method.needsBaseBlock=当指定方向上的作物架需要基础方块时返回 true，否则返回 false
-
-# ========================================
-# Misc
-# ========================================
 agricraft_arg.direction=direction
 agricraft_arg.direction.optional=(optional) direction
-
-# ========================================
-# NEI GUI
-# ========================================
 agricraft_nei.mutation.title=作物杂交
 agricraft_nei.cropProduct.title=作物产出
 agricraft_nei.soil=土壤
 agricraft_nei.needs=需要
 agricraft_nei.below=底部
 agricraft_nei.nearby=附近
-
-# ========================================
-# Journal
-# ========================================
 agricraft_journal.introduction=欢迎来到农业耕种的世界，今天我将会教你基础的作物 杂交技术。首先你要用4个木棍合成一个作物架。它 可以放置在湿润的耕地上，这样种子就可以直接种 植在作物架上。你还可以在作物架上再放一个作物 架，这样，便能组成一个杂交架。如果你把两个或者 更多作物种在了杂交架旁边，杂交架上就有可能出 现变异。你可以用这本笔记持续追踪你发现的杂交 可能性。要记录一个新的杂交路线只需在使用分析 仪分析种子前把本笔记放入即可。 若如此做，种子 的相关信息会被记录并显示在你面前。如果你需要 复制这本笔记，只需要在工作台里与空的书与笔进 行合成即可。
 agricraft_journal.information=信息
 agricraft_journal.tier=级别

@@ -14,7 +14,6 @@ tile.missingblocks.brown_concrete_stairs.name=棕色混凝土楼梯
 tile.missingblocks.green_concrete_stairs.name=绿色混凝土楼梯
 tile.missingblocks.red_concrete_stairs.name=红色混凝土楼梯
 tile.missingblocks.black_concrete_stairs.name=黑色混凝土楼梯
-
 tile.missingblocks.white_concrete_slab.name=白色混凝土台阶
 tile.missingblocks.orange_concrete_slab.name=橙色混凝土台阶
 tile.missingblocks.magenta_concrete_slab.name=品红色混凝土台阶
@@ -31,5 +30,4 @@ tile.missingblocks.brown_concrete_slab.name=棕色混凝土台阶
 tile.missingblocks.green_concrete_slab.name=绿色混凝土台阶
 tile.missingblocks.red_concrete_slab.name=红色混凝土台阶
 tile.missingblocks.black_concrete_slab.name=黑色混凝土台阶
-
 itemGroup.missing_blocks=Missing Blocks

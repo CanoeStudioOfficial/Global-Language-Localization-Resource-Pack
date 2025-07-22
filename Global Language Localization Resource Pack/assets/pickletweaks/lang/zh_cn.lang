@@ -116,7 +116,7 @@ tooltip.pt.enabled=启用
 tooltip.pt.enemies_killed=击杀敌人：
 tooltip.pt.filled=装填
 tooltip.pt.gives_buffs=提供效果：
-tooltip.pt.harvest_level=采掘等级：
+tooltip.pt.harvest_level=挖掘等级：
 tooltip.pt.hold_shift_for_info=按住§e§o SHIFT §r§7了解更多信息。
 tooltip.pt.mining_level=挖掘等级：
 tooltip.pt.mining_speed=挖掘速度：
@@ -128,7 +128,6 @@ tooltip.useless_hoe_1=这把锄头不能什么都不能锄。
 tooltip.useless_tool_1=这个工具什么都不能挖掘。
 tooltip.useless_tool_2=仅用于合成。
 tooltip.useless_weapon_1=这把武器什么都不能伤害。
-# BLOCKS
 tile.pt.colored_cobblestone_white.name=白色圆石
 tile.pt.colored_cobblestone_orange.name=橙色圆石
 tile.pt.colored_cobblestone_magenta.name=品红色圆石

@@ -2,7 +2,7 @@ compatskills.betterquesting.requirementtask=需求
 compatskills.error.bloodmagic.binding=无尽的黑暗能量围绕着你旋转，然后消失不见
 compatskills.error.bloodmagic.ritual=仪式在成功地进行，但是你没有得到预期的结果
 compatskills.error.dimension.travel=一种奇怪的力量阻止你到达目的地
-compatskills.error.drops=当你的锤子远离方块时，你开始意识到你可能会损失宝贵的资源
+compatskills.error.drops=当你的锤子远离方块时，你开始意识到你可能会损失宝贵的资源⋯⋯
 compatskills.error.entity.damage=你的攻击无法伤害野兽。
 compatskills.error.entity.mount=无论你如何努力, 你都无法找到你的平衡, 然后摔下。
 compatskills.error.entity.tame=当你试图驯服这个生物时，它会抵抗你。
@@ -23,7 +23,7 @@ compatskills.misc.shift=按住 Shift 键查看需求
 compatskills.requirements.format.dimension=维度：%s%s
 compatskills.requirements.format.dss=剑技：%s%s %s
 compatskills.requirements.format.gamestage=游戏阶段： %s%s
-compatskills.requirements.format.harvest_level=采掘等级:%s%s
+compatskills.requirements.format.harvest_level=挖掘等级:%s%s
 compatskills.requirements.format.health=血量百分比：%s%s
 compatskills.requirements.format.hearts=半星血量：%s%s
 compatskills.requirements.format.item=物品：%s%s
@@ -33,8 +33,6 @@ compatskills.requirements.format.sneak=%s潜行
 compatskills.requirements.format.warp=扭曲：%s%s
 compatskills.warn.projecte.condenser=警告：你无法复制此材料。
 compatskills.warn.projecte.transmutation=警告：你无法掌握这种材料的分子构成。但是你仍然可以将它分解为EMC。
-# FORMATS
-## Astral Sorcery
 compatskills.requirements.format.constellation.seen=看到星座: %s%s
 compatskills.requirements.format.constellation.known=发现星座: %s%s
 compatskills.requirements.format.attuned=理解: %s%s
@@ -42,5 +40,4 @@ compatskills.requirements.format.astral_tier=等级: %s%s
 compatskills.requirements.format.looking_at=看着: %s%s
 compatskills.misc.betterquesting.requirement_task=要求
 compatskills.error.tconstruct.tool_damage=你意识到这个武器不需要更锋利！
-# FORMATS
 compatskills.misc.gamestageFormat=游戏阶段：%s%s

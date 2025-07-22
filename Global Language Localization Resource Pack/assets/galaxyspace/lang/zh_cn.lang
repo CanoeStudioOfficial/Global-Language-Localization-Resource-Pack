@@ -52,7 +52,7 @@ gui.module.sensor.desc=为头盔添加的传感器眼镜。能够在屏幕上显
 gui.module.speed=奔跑助推器
 gui.module.speed.desc=安装奔跑助推器能够让你跑的更快。现在你可比那些敌人跑的更快了！
 gui.module.stepassist=步行辅助
-gui.module.stepassist.desc=看起来安装了粘液球时候毫无用处但是你现在能够越过方块了，换言之，不再需要楼梯了！
+gui.module.stepassist.desc=看起来安装了粘液球时候毫无用处⋯⋯但是你现在能够越过方块了，换言之，不再需要楼梯了！
 gui.module_expander.desc=扩展模块的插槽，增加了磁场覆盖的范围。
 gui.module_pressure.desc=稳定模块的插槽，可以创建一个大气压稳定的区域。
 gui.not_attached.desc=未连接
@@ -320,13 +320,7 @@ tile.europa_silicon_ore.name=木卫二硅矿石
 tile.enceladus_coal_ore.name=木卫二煤矿石
 tile.oxygen_storage_module_1.name=氧气储存集群
 tile.oxygen_storage_module_1.desc=改进了的氧气存储模块，它可以储存多达4倍的氧气。
-#|/////////////////////////////////////////|
-#||||||||||||||||Book-General|||||||||||||||
-#|\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\|
 book.page.about_addon.name=关于星空
-#|/////////////////////////////////////////|
-#||||||||||||Book-Celestial Bodies||||||||||
-#|\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\|
 book.page.solarsystem.sol.name=太阳系
 book.page.star.sol=主星：索尔-黄矮星 
 book.page.solarsystem.asteroids=小行星带是围绕太阳运行的大量小行星群，多数小行星都含有大量的矿物。

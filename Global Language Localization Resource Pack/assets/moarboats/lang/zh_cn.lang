@@ -1,4 +1,3 @@
-#PARSE_ESCAPES
 general.occupiedSpot=安装点“%s”已经被占据！
 general.spot.engine=引擎
 general.spot.misc=杂项
@@ -7,7 +6,7 @@ general.spot.storage=存储
 gui.anchor.deploy=部署锚点
 gui.anchor.deployed=带回锚
 gui.anchor.desc=部署锚点会更新你的出生点！
-gui.anchor.moving=船锚移动中，等一会
+gui.anchor.moving=船锚移动中，等一会⋯⋯
 gui.anchor.spawnPointSet=出生点设置！
 gui.dispenser.bottom_row=底部
 gui.dispenser.middle_row=中间
@@ -126,6 +125,5 @@ tile.mapping_table.name=制图桌
 waypoint_provider.journeymap=旅行地图
 inventory.oar_engine.name=船桨
 item.oars.name=船桨
-# 4.1.2.1
 entity.moarboats.modular_boat.name=模块化船
 entity.moarboats.animal_boat.name=活物运输船

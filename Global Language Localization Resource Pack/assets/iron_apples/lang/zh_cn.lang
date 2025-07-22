@@ -1,4 +1,3 @@
-
 item.iron_apple.name=铁苹果
 item.diamond_apple.name=钻石苹果
 item.copper_apple.name=铜苹果
@@ -15,7 +14,6 @@ item.lapis_apple.name=青金石苹果
 item.ink_apple.name=墨囊苹果
 item.netherite_apple.name=下界石英苹果
 item.emerald_apple.name=绿宝石苹果
-
 item.iron_apple_overpowered.name=附魔铁苹果
 item.diamond_apple_overpowered.name=附魔钻石苹果
 item.copper_apple_overpowered.name=附魔铜苹果

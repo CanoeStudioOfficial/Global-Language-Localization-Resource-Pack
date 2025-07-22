@@ -1,15 +1,11 @@
 itemGroup.clef=乐器
 item.clef.item.instrument.name=未知乐器
-
 tile.clef.item.instrumentPlayer.name=abc播放器
-
 clef.item.packName=音乐包名称
 clef.item.itemName=物品名称
 clef.item.oneHanded=单手
 clef.item.twoHanded=双手
-
 clef.gui.moreSongs=你可以在线获得更多abc格式的歌曲
-
 clef.gui.chooseSong=选择一首歌
 clef.gui.play=演奏
 clef.gui.band=乐队名称
@@ -17,22 +13,17 @@ clef.gui.bandSolo=独奏
 clef.gui.reload=重新加载：
 clef.gui.syncPlayTime=同步播放时间
 clef.gui.syncTrack=同步音轨
-
 clef.gui.instruments=乐器
 clef.gui.tracks=音轨
-
 clef.gui.block.playlist=播放列表
 clef.gui.block.addPlaylist=增加
 clef.gui.block.viewPlaylist=播放列表
 clef.gui.block.viewAll=查看全部
-
 clef.gui.block.repeat=重复
 clef.gui.block.repeatAll=重复所有
 clef.gui.block.repeatNone=不循环
 clef.gui.block.repeatOne=单曲循环
-
 clef.gui.block.shuffle=随机播放
-
 clef.config.prop.creatableInstruments.name=可创造的乐器
 clef.config.prop.favoriteBand.name=最喜欢的乐队
 clef.config.prop.showFileTitle.name=展示文件标题
@@ -47,7 +38,6 @@ clef.config.prop.lootSpawnRate.name=乐器战利品生成率
 clef.config.prop.disabledLootChests.name=禁用战利品箱
 clef.config.prop.showRecordPlayingMessageForTracks.name=展示播放信息
 clef.config.prop.maxClientTickTime.name=最大客户端刻时间
-
 clef.config.prop.creatableInstruments.comment=玩家可以用一个名字标签和其他9种乐器来创作自己的乐器吗？\n0 = No\n1 = 只有服务器没有的乐器\n2 = 只有服务器有的乐器\n3 = 任何乐器
 clef.config.prop.favoriteBand.comment=你有最喜欢的乐队吗？当你开始播放一首歌时，设置此选项将设置你的乐队。
 clef.config.prop.showFileTitle.comment=有些abc文件有标题，但设置不正确。这将使列表显示文件名。

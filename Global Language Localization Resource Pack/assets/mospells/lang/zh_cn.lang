@@ -1,5 +1,3 @@
-# PARSE_ESCAPES
-
 spell.mospells\:frost_breath=寒霜吐息
 spell.mospells\:frozen_orb=寒冰宝珠
 spell.mospells\:lesser_geomancy=弱化大地祝福
@@ -17,7 +15,6 @@ spell.mospells\:suns_blessing=太阳祝福
 spell.mospells\:sunstrike=太阳耀斑
 spell.mospells\:supernova=超新星
 spell.mospells\:winds_of_winter=寒冬之风
-
 spell.mospells\:winds_of_winter.desc=寒冬之风从施法者的法杖发散而出，将怪物推开并冰冻它们。
 spell.mospells\:supernova.desc=以太阳的威能抹杀你的敌人。
 spell.mospells\:sunstrike.desc=在施法者所指的位置创造一股从天而落的强劲太阳光束，伤害其附近的任何敌人。
@@ -36,9 +33,7 @@ spell.mospells\:naga_aspect.desc=使施法者在 30 秒内免疫剧毒状态。
 spell.mospells\:lesser_geomancy.desc=右击地面来制造一块漂浮的巨石。再次在巨石上施法来把它作为弹射物射出。
 spell.mospells\:frozen_orb.desc=向所指之处发射巨大的寒冰宝珠，冻结敌人并造成毁灭性的伤害。
 spell.mospells\:frost_breath.desc=创造一股寒流，伤害所有被命中的敌人并逐渐把他们冻结。
-
 cannot_use_spell_again_today=你今天无法再使用这个法术
-
 item.mospells\:amulet_earth.desc=支柱法术能制造一个更大的支柱\n弱化大地祝福能操纵支柱以及更大的巨石
 item.mospells\:amulet_earth.name=泥土护符
 item.mospells\:amulet_frostmaw.desc=增加 25%% 冰霜法术强度\n施放冰霜法术让你获得冰霜护体效果\n你必须杀死一头冰霜巨口来让这个饰品生效
@@ -53,7 +48,6 @@ item.mospells\:ring_ice_crystal.desc=寒霜吐息将能吹飞弹射物
 item.mospells\:ring_ice_crystal.name=冰晶指环
 item.mospells\:ring_wind_touch.desc=用冰霜法杖捶击一个生物将释放一股寒风，吹飞附近的敌人并冻结他们
 item.mospells\:ring_wind_touch.name=极地之风戒指
-
 entity.mospells\:barakoa_spirit_minion.name=原始人灵魂
 entity.mospells\:frostmaw_minion.name=冰霜巨口
 entity.mospells\:naga_minion.name=纳迦

@@ -28,7 +28,6 @@ fluid.acetoin=乙偶姻
 fluid.1,4-butynediol=1,4-丁炔二醇
 fluid.popcorn_flavoring_mixture=爆米花调味混合物
 fluid.2-acetylpyridine=2-乙酰吡啶
-
 metaitem.chocolate_liquor_dutched_pressed_crushed_centrifuged.name=碱化压制可可浆
 metaitem.chocolate_liquor_pressed_crushed_centrifuged.name=压制可可浆
 metaitem.cracker_graham_ungraded_plate.name=次品全麦饼干
@@ -55,7 +54,6 @@ fluid.marshmallow_syrup_mixture=棉花糖糖浆混合物
 fluid.marshmallow_foam=棉花糖泡沫
 fluid.butter=黄油
 fluid.potassium_carbonate_solution=碳酸钾溶液
-
 metaitem.smore.eight.name=八层饼干夹烤棉花糖
 metaitem.smore.sixteen.name=十六层饼干夹烤棉花糖
 metaitem.smore.thirtytwo.name=三十二层饼干夹烤棉花糖
@@ -64,7 +62,6 @@ metaitem.smore.gusone.name=内鬼饼干夹烤棉花糖
 metaitem.smore.gustwo.name=好多内鬼饼干夹烤棉花糖
 metaitem.smore.gusfour.name=全员内鬼饼干夹烤棉花糖
 metaitem.smore.heartofthesmogus.name=内鬼饼干夹烤棉花糖之心
-
 metaitem.basic_coffee_unsorted_gem_chipped.name=未筛选的生咖啡豆
 metaitem.basic_coffee_large_gem_chipped.name=大粒生咖啡豆
 metaitem.basic_coffee_small_gem_chipped.name=小粒生咖啡豆
@@ -81,7 +78,6 @@ metaitem.roasted_coffee_small_gem_chipped.name=小粒烘焙咖啡豆
 metaitem.coffee_grounds_dust.name=咖啡粉
 fluid.coffee=咖啡
 fluid.energized_coffee=提神咖啡
-
 metaitem.food.mineral_water.name=矿泉水
 metaitem.food.mineral_water.tooltip=无神论者，完败
 metaitem.component.thermos.casing.name=膳魔师保温杯身
@@ -153,7 +149,6 @@ death.attack.withdrawal=%1$s死于戒断反应。
 gregtechfoodoption.potion.creativity=创造飞行
 gregtechfoodoption.potion.addiction=上瘾
 gregtechfoodoption.potion.withdrawal=戒断反应
-
 gregtechfoodoption.machine.bioreactor.hv.name=进阶小型生物反应器 II
 gregtechfoodoption.machine.bioreactor.ev.name=进阶小型生物反应器 III
 gregtechfoodoption.machine.bioreactor.iv.name=精英小型生物反应器
@@ -202,7 +197,6 @@ fluid.hfcs_solution=高果糖玉米糖浆溶液
 fluid.glucose_solution=葡萄糖溶液
 fluid.apple_syrup=苹果糖浆
 fluid.etirps=碧雪™
-
 gregtechfoodoption.machine.slicer.lv.name=基础食材切片机
 gregtechfoodoption.machine.slicer.mv.name=进阶食材切片机
 gregtechfoodoption.machine.slicer.hv.name=进阶食材切片机 II
@@ -257,7 +251,6 @@ metaitem.food.potato_on_a_stick.tooltip=猛一看真的跟个肉蟹钳似的
 fluid.frying_oil=煎炸油
 fluid.starch_filled_water=淀粉水
 fluid.hot_frying_oil=热煎炸油
-
 gregtechfoodoption.machine.baking_oven.name=焙烤炉
 gregtechfoodoption.machine.electric_baking_oven.name=电力焙烤炉
 tile.gtfo_casing.adobe_bricks.name=土坯砖块
@@ -270,31 +263,27 @@ gregtechfoodoption.recipe.baking_oven_temperature=温度：%dK
 recipemap.electric_baking_oven.name=电力焙烤炉
 metaitem.brick.adobe.name=泥砖
 metaitem.brick.adobe_fired.name=土坯砖
-
 metaitem.component.bread.name=面包坯
 metaitem.component.baguette.name=法式长棍面包坯
 metaitem.food.baguette.name=法式长棍面包
 metaitem.component.dough.name=面团
 metaitem.wooden_form.bread.name=木制面包模具
 metaitem.wooden_form.baguette.name=木制法式长棍面包模具
-
 metaitem.component.structural_mesh.apple.name=苹果瓤
 metaitem.component.structural_mesh.carrot.name=胡萝卜瓤
 metaitem.food.tungstensteel_apple.name=钨钢苹果
 metaitem.food.tungstensteel_apple.tooltip=只比它看起来重那么一点点。
 metaitem.food.cake_bottom.name=蛋糕底
-metaitem.food.cake_bottom.tooltip=也被叫做p
+metaitem.food.cake_bottom.tooltip=也被叫做p⋯⋯
 metaitem.food.cake_bottom_baked.name=烤蛋糕底
 metaitem.food.cake_bottom_baked.tooltip=我可没跟你说过它已经可以吃了哈。
 metaitem.component.sugary_dough.name=甜面团
 metaitem.component.sugary_dough.tooltip=对引发心脏病非常有效
 fluid.mushroom_soup=蘑菇煲
 fluid.beetroot_soup=甜菜汤
-
 metaitem.component.pie_crust.name=馅饼皮
 metaitem.component.pie_crust.tooltip=用来做馅饼
 metaitem.tool.tooltip.rolling_pin.slime=能对史莱姆造成更大伤害！
-
 metaitem.component.pizza.cheese.name=生奶酪披萨
 metaitem.component.pizza.veggie.name=生橄榄蘑菇披萨
 metaitem.component.pizza.mince_meat.name=生肉碎披萨
@@ -323,7 +312,6 @@ metaitem.food.sandwich.veggie.large.tooltip=就，很不值当。
 metaitem.food.sandwich.cheese.large.tooltip=心智归于芝士。
 metaitem.food.sandwich.bacon.large.tooltip=女士（和姐妹）专享！
 metaitem.food.sandwich.steak.large.tooltip=你不叫它蒸火腿已经很可以了
-
 metaitem.food.burger.meat.name=纯肉汉堡
 metaitem.food.burger.meat.tooltip=人见人爱
 metaitem.food.burger.cheese.name=奶酪汉堡
@@ -348,10 +336,8 @@ metaitem.crop.onion.tooltip=不要鼻酸，不要流泪
 metaitem.crop.tomato.name=番茄
 metaitem.crop.tomato.tooltip=番茄酱的固体形态
 metaitem.crop.olive.name=橄榄
-
 entity.italian_buffalo.name=意大利水牛
 fluid.italian_buffalo_milk=意大利水牛奶
-
 metaitem.component.beef_slice.name=牛肉片
 metaitem.component.cheddar_curd_mold.name=模具 - 切达奶酪凝乳
 metaitem.component.aged_cheddar_mold.name=模具 - 熟成切达奶酪
@@ -392,7 +378,6 @@ metaitem.food.gorgonzola_slice.tooltip=尝尝新一代真菌霸主的味道。
 metaitem.penicillium.culture.name=罗克福尔青霉菌培养皿
 fluid.moist_air=湿气
 fluid.cold_moist_air=冷湿气
-
 metaitem.component.flat_dough.name=扁平面团
 metaitem.component.flat_dough.tooltip=基础披萨 - 输入电压：32（LV）
 recipemap.cuisine_assembler.name=料理机
@@ -418,15 +403,12 @@ gregtechfoodoption.machine.cuisine_assembler.uev.tooltip=高科技机器人大�
 gregtechfoodoption.machine.cuisine_assembler.uiv.tooltip=高科技机器人大厨 9001 III
 gregtechfoodoption.machine.cuisine_assembler.umv.tooltip=高科技机器人大厨 9001 IV
 gregtechfoodoption.machine.cuisine_assembler.uxv.tooltip=终焉机器人大厨 9001
-
 metaitem.component.bacon.name=生培根
 metaitem.food.bacon.name=培根
 metaitem.food.bacon.tooltip=焙根
 fluid.tomato_sauce=番茄酱
 fluid.olive_oil=橄榄油
-
 tile.gtfo_metal_casing.casing_bismuth_bronze.name=食品安全级铋青铜外壳
-
 fluid.sludge=淤泥
 metaitem.food.chum.name=海霸糊
 metaitem.food.chum.tooltip=海霸好玩！
@@ -438,7 +420,6 @@ metaitem.food.fish_rotten.name=腐臭的鱼
 metaitem.food.fish_rotten.tooltip=你早该把它用盐腌起来的
 metaitem.food.meat_rotten.name=腐臭的肉
 metaitem.food.meat_rotten.tooltip=你早该把它用盐腌起来的
-
 metaitem.food.banana.name=香蕉
 metaitem.food.orange.name=橙子
 metaitem.food.grapes.name=葡萄
@@ -449,14 +430,12 @@ metaitem.food.orange.tooltip=烦人的橙子
 metaitem.food.grapes.tooltip=他们给葡萄做了个手术！
 metaitem.food.mango.tooltip=男（man）果
 metaitem.food.apricot.tooltip=谁看的上这玩意啊？
-
 metaitem.food.peeled_banana.name=去皮香蕉
 metaitem.component.banana_peel.name=香蕉皮
 metaitem.potassium_perchlorate_dust.name=高氯酸钾
 metaitem.ammonium_perchlorate_dust.name=高氯酸铵
 metaitem.burnt_banana_peel_dust.name=烤焦的香蕉皮
 fluid.alkaline_extract=碱性提取物
-
 metaitem.food.vodka.name=伏特加
 metaitem.food.vodka.tooltip=一杯浓缩蒸馏俄罗斯
 metaitem.food.leninade.name=列宁檬汁

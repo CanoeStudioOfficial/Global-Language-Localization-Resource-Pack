@@ -1,5 +1,4 @@
 manual.catsdogs=Cats & Dogs
-
 entity.animania:tom_ragdoll.name=公布偶猫
 entity.animania:tom_american_shorthair.name=公美洲短毛猫
 entity.animania:tom_asiatic.name=公亚洲猫
@@ -24,7 +23,6 @@ entity.animania:kitten_norwegian.name=幼挪威猫
 entity.animania:kitten_ocelot.name=幼山猫
 entity.animania:kitten_siamese.name=幼暹罗猫
 entity.animania:kitten_tabby.name=幼虎斑猫
-
 entity.animania:male_blood_hound.name=雄侦探犬
 entity.animania:male_chihuahua.name=雄吉娃娃
 entity.animania:male_collie.name=雄牧羊犬
@@ -71,7 +69,6 @@ entity.animania:puppy_poodle.name=幼贵宾犬
 entity.animania:puppy_pug.name=幼哈巴狗
 entity.animania:puppy_wolf.name=幼狼
 entity.Villager.pet_merchant=宠物商人
-
 tile.animania_pet_bowl.name=宠物碗
 tile.animania_cat_bed_1.name=毛床
 tile.animania_cat_bed_2.name=猫床
@@ -81,7 +78,6 @@ tile.animania_dog_pillow.name=狗枕头
 tile.animania_litter_box.name=小盒子
 entity.animania:cat_random.name=随机的猫
 entity.animania:dog_random.name=随机的狗
-
 advancements.animania.dogs.description=狗子
 advancements.animania.cats.description=猫咪
 advancements.animania.blood_hound.title=侦探猎犬
@@ -107,7 +103,6 @@ advancements.animania.norwegian.title=挪威猫
 advancements.animania.ocelot.title=山猫
 advancements.animania.siamese.title=暹罗猫
 advancements.animania.tabby.title=虎斑猫
-
 advancements.animania.blood_hound.description=喂食一只侦探犬
 advancements.animania.chihuahua.description=喂食一只吉娃娃
 advancements.animania.collie.description=喂食一只牧羊犬
@@ -123,7 +118,6 @@ advancements.animania.pomeranian.description=喂食一只博美犬
 advancements.animania.poodle.description=喂食一只贵宾犬
 advancements.animania.pug.description=喂食一只哈巴狗
 advancements.animania.wolf.description=喂食一只狼
-advancements.animania.ragdoll.title=幼年布偶猫
 advancements.animania.american_shorthair.description=喂食一只美洲短毛猫
 advancements.animania.asiatic.description=喂食一只亚洲猫
 advancements.animania.exotic.description=喂食一只异国猫
@@ -131,7 +125,6 @@ advancements.animania.norwegian.description=喂食一只挪威猫
 advancements.animania.ocelot.description=喂食一只山猫
 advancements.animania.siamese.description=喂食一只暹罗猫
 advancements.animania.tabby.description=喂食一只虎斑猫
-
 manual.animal_beds=动物的床
 manual.decorations=装饰
 manual.dogs=狗类
@@ -141,7 +134,6 @@ manual.felids=猫科动物
 manual.blocks.pet_bowl.1=宠物碗可以作为农场水槽的替代品。它主要用于较小的动物，如猫、狗和仓鼠。以下是可以放在宠物碗中的物品：
 manual.blocks.pet_bowl.2=这是它的制作配方：
 manual.blocks.decorations.1=以下方块纯粹是装饰性的，目前不起作用。猫塔是这样制作的：
-
 manual.blocks.decorations.2=小盒子的制作如下：
 manual.blocks.decorations.3=狗屋的制作如下：
 manual.blocks.animal_beds.1=有两张不同的猫床：

@@ -1,4 +1,3 @@
-#Items
 item.dragon_sword0.name=一级龙之剑
 item.dragon_sword1.name=二级龙之剑
 item.dragon_sword2.name=三级龙之剑
@@ -16,5 +15,3 @@ item.dragon_leggings.name=龙之护腿
 item.dragon_boots.name=龙之靴子
 item.dragon_crystal.name=龙之水晶
 item.dragon_gem.name=龙之宝石
-#Blocks
-#Achievements

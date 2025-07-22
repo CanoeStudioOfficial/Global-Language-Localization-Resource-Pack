@@ -1,4 +1,3 @@
-#生物
 entity.SandMonster.name=沙地女妖
 entity.Zealot.name=狂热信徒
 entity.Ghost.name=迷失幽灵
@@ -12,7 +11,6 @@ entity.Giant_Zombie.name=巨人
 entity.Damcell.name=铁处女
 entity.Netherhound.name=地狱猎犬
 entity.Boulderer.name=攀岩僵尸
-#物品
 item.sandmonster_scale.name=女妖鳞片
 item.cactus_broth.name=仙人掌浓汤
 item.scale_armor.name=沙漠长袍
@@ -28,9 +26,7 @@ item.spike.name=尖刺
 item.charred_fur.name=炭黑毛皮
 item.charred_cloak.name=炭黑斗篷
 item.miner_helmet.name=矿工头盔
-#标签
 itemGroup.beaststab=上古凶灵
-#成就
 advancements.ancientbeasts.root.title=上古凶灵
 advancements.ancientbeasts.root.description=新的支线和朋友们
 advancements.ancientbeasts.kill_sandmonster.title=疯狂沙漠
@@ -43,7 +39,7 @@ advancements.ancientbeasts.kill_ghost.title=驱魔师
 advancements.ancientbeasts.kill_ghost.description=战胜幽灵
 advancements.ancientbeasts.kill_giant.title=轰然倒塌
 advancements.ancientbeasts.kill_giant.description=杀死一只巨人
-advancements.ancientbeasts.kill_fox.title=你禽兽
+advancements.ancientbeasts.kill_fox.title=你⋯⋯禽兽⋯⋯
 advancements.ancientbeasts.kill_fox.description=杀害了一只无辜的极地灵狐
 advancements.ancientbeasts.tame_fox.title=她高冷又敏锐
 advancements.ancientbeasts.tame_fox.description=交到一个冰雪朋友
@@ -61,11 +57,9 @@ advancements.ancientbeasts.tame_netherhound.title=你是坏孩子吗？
 advancements.ancientbeasts.tame_netherhound.description=驯服一只地狱猎犬
 advancements.ancientbeasts.kill_boulderer.title=来自脚下的危险
 advancements.ancientbeasts.kill_boulderer.description=杀死一只攀岩僵尸
-#方块
 tile.spiky.name=尖刺
 tile.pokey.name=尖刺陷阱
 tile.skewer.name=穿刺
-#声音
 subtitles.tornado_ambient=刮龙卷风
 subtitles.sandmonster_ambient=沙地女妖：嘶嘶声
 subtitles.sandmonster_hurt=沙地女妖：受伤
@@ -108,19 +102,15 @@ subtitles.netherhound_charge=地狱猎犬：袭击
 subtitles.netherhound_death=地狱猎犬：死亡
 subtitles.netherhound_hurt=地狱猎犬：受伤
 subtitles.netherhound_idle=地狱猎犬：咆哮
-#药水
 potion.shielded=屏蔽
 potion.possessed=附身
 potion.ghostly=幽灵变身
-#药水种类
 potion.effect.potionGhostly=幽灵变身药水
 splash_potion.effect.potionGhostly=喷溅型幽灵变身药水
 lingering_potion.effect.potionGhostly=滞留型幽灵变身药水
 tipped_arrow.effect.potionGhostly=幽灵变身之箭
-#伤害来源
 death.attack.ancientbeasts:spikes=%s 被刺穿
 death.attack.ancientbeasts:spikes.player=%s 导致 %s 被刺穿
-#原版覆盖
 subtitles.entity.evocation_illager.cast_spell=施放咒语
 subtitles.entity.evocation_illager.prepare_summon=准备召唤
 subtitles.entity.evocation_illager.prepare_attack=准备攻击

@@ -1,8 +1,6 @@
-# Headers
 itemGroup.botanicadds=植物学拓展
 botania.category.botanicadds=植物学拓展
 botanicadds.text.pools=~%s池
-# Blocks
 tile.botanicadds:mana_tesseract.name=魔力超立方体
 tile.botanicadds:terra_catalyst.name=泰拉催化器
 tile.botanicadds:dreamrock.name=梦之石
@@ -13,7 +11,6 @@ tile.botanicadds:elven_altar.name=精灵祭坛
 tile.botanicadds:pool_dreaming.name=梦之魔力池
 tile.botanicadds:pool_dreaming.tooltip0=把魔力池合二为一
 tile.botanicadds:gaia_plate.name=盖亚凝聚板
-# Flowers
 tile.botania:flower.ba_wither_flower.name=凋零之花
 tile.botania:flower.ba_wither_flower.reference=[BA] 好一个凋谢的体验！
 tile.botania:flower.ba_rain_flower.name=清露之花
@@ -22,7 +19,6 @@ tile.botania:flower.ba_snow_flower.name=碎玉之花
 tile.botania:flower.ba_snow_flower.reference=[BA] 冷冰冰！
 tile.botania:flower.ba_lightning_flower.name=惊雷之花
 tile.botania:flower.ba_lightning_flower.reference=[BA] 惊人得有力！
-# Items
 item.botanicadds:rune_tp.name=传送符文
 item.botanicadds:rune_energy.name=能量符文
 item.botanicadds:mana_lapis.name=魔力青金石
@@ -32,7 +28,6 @@ item.botanicadds:gaiasteel_ingot.name=盖亚钢锭
 item.botanicadds:terra_protector.name=盖亚祝福
 item.botanicadds:ring_aura_gaia.name=盖亚光环之戒
 item.botanicadds:mana_stealer_sword.name=窃魔之刃
-# Lexicon
 botania.page.runeAltar.ba_tp_rune=&1传送符文&0。
 botania.page.runeAltar.ba_energy_rune=&1能量符文&0。
 botania.page.pool.ba_mana_lapis=给&1魔力青金石&0注魔
@@ -46,7 +41,7 @@ botania.page.ba_wither_flower2=凋灵兄弟
 botania.entry.ba_mana_tesseract=魔力超立方体
 botania.tagline.ba_mana_tesseract=分裂为空间，时间以及魔力
 botania.page.ba_mana_tesseract1=在一个疯狂的距离上传送魔 力，尤其是如梦想一般的跨纬 度！&1魔力超立方体&0就是你输送 魔力的新方法！当然这并不完 美，但也是一个方法！把它和任 何物品合成来改变它的频道。 （物品会保留。）
-botania.page.ba_mana_tesseract2=破碎的空间
+botania.page.ba_mana_tesseract2=破碎的空间⋯⋯
 botania.entry.ba_elven_altar=精灵祭坛
 botania.tagline.ba_elven_altar=替代符文祭坛！
 botania.page.ba_elven_altar1=&1精灵祭坛&0更适合高速合成。 把符文祭坛用&4龙石&0和&4梦之石&0 升级，你就能得到一个从&4火花&0 中接受魔力的祭坛。因为它 们传输魔力更快，所以这看起 来是对这玩意的重要升级！
@@ -71,7 +66,7 @@ botania.page.ba_lightning_flower2=其实是能量转换器！
 botania.entry.ba_dreaming_pool=梦之魔力池
 botania.tagline.ba_dreaming_pool=更大的魔力池！
 botania.page.ba_dreaming_pool1=&1梦之魔力池&0是另一种魔力池。 由&1梦之石&0制成。这个魔力池是 普通魔力池的两倍，享受吧！
-botania.page.ba_dreaming_pool2=变得可笑
+botania.page.ba_dreaming_pool2=变得可笑⋯⋯
 botania.entry.ba_gaia_plate=盖亚凝聚板
 botania.tagline.ba_gaia_plate=这个有毛用？！
 botania.page.ba_gaia_plate1=在你着手使用精灵资源时， 何不升级你的&4泰拉凝聚板&0呢？虽然它挺棒的，但是是时候升 级了！&1盖亚凝聚板&0在制作&1泰拉 钢锭&0时更加高效， 以及他可以制作更多的东西！

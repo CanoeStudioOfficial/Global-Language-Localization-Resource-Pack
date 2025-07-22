@@ -1,10 +1,7 @@
-#BOOKS
-
 item.bewitchment.book_of_shadows.name=影之书
 info.bewitchment.book_of_shadows.landing=巫术是一门关于自然与魔法的艺术，这本书将会指引你去寻找你自身的隐秘。
 item.bewitchment.codex_infernalis.name=地狱古籍
-info.bewitchment.codex_infernalis.landing=光是拿在手上，你就觉得这本书不太对劲敢来试一试吗？
-#BLOCKS
+info.bewitchment.codex_infernalis.landing=光是拿在手上，你就觉得这本书不太对劲⋯⋯敢来试一试吗？
 tile.bewitchment.blessed_stone.name=祝福之石
 tooltip.bewitchment.blessed_stone=给予无限的祭坛之力，创造模式专属。
 tile.bewitchment.block_of_amethyst.name=紫水晶块
@@ -189,7 +186,6 @@ tile.bewitchment.crying_scorned_brick_stairs.name=污秽鄙夷方砖楼梯
 tile.bewitchment.crying_scorned_brick_slab.name=污秽鄙夷方砖台阶
 tile.bewitchment.ochre_despair_brick_slab.name=赭色绝望方砖台阶
 tile.bewitchment.despair_brick_slab.name=绝望方砖台阶
-#ITEMS
 item.bewitchment.silver_helmet.name=银头盔
 item.bewitchment.silver_chestplate.name=银胸甲
 item.bewitchment.silver_leggings.name=银护腿
@@ -383,7 +379,7 @@ tile.bewitchment.flower_siphoning_tulip_orange.name=汲血花
 tile.bewitchment.flower_siphoning_tulip_red.name=汲血花
 tile.bewitchment.flower_siphoning_tulip_pink.name=汲血花
 tile.bewitchment.flower_siphoning_tulip_white.name=汲血花
-tooltip.bewitchment.siphoning_flower=这朵花不太对劲它好像夹了你一下
+tooltip.bewitchment.siphoning_flower=这朵花不太对劲⋯⋯它好像夹了你一下⋯⋯
 tile.bewitchment.blue_ink_cap.name=蓝色墨汁鬼伞
 tile.bewitchment.frostflower.name=冰花
 item.bewitchment.aconitum_seeds.name=乌头种子
@@ -393,7 +389,7 @@ tooltip.bewitchment.belladonna_seeds=草本植物的种子
 item.bewitchment.garlic_seeds.name=大蒜种子
 tooltip.bewitchment.garlic_seeds=一种有异味的百合科植物种子
 item.bewitchment.hellebore_seeds.name=菟葵种子
-tooltip.bewitchment.hellebore_seeds=一种看似无害（但）的植物种子
+tooltip.bewitchment.hellebore_seeds=一种看似无害（但⋯⋯）的植物种子
 item.bewitchment.mandrake_seeds.name=曼陀罗种子
 tooltip.bewitchment.mandrake_seeds=有奇怪根部的植物种子
 item.bewitchment.white_sage_seeds.name=白色鼠尾草种子
@@ -468,7 +464,6 @@ item.bewitchment.cold_iron_plate.name=寒铁板
 item.bewitchment.silver_plate.name=银板
 item.bewitchment.skeleton_key.name=骷髅钥匙
 tooltip.bewitchment.skeleton_key=打开的杜松木锁
-#ENTITY
 entity.bewitchment.cypress_broom.name=柏木扫帚
 entity.bewitchment.elder_broom.name=接骨木扫帚
 entity.bewitchment.juniper_broom.name=杜松木扫帚
@@ -495,10 +490,8 @@ entity.bewitchment.baphomet.name=巴弗灭
 entity.bewitchment.leonard.name=伦纳德
 entity.Villager.bewitchment.alchemist=炼金术士
 entity.Villager.bewitchment.witch=绿野女巫
-#ENCHANTMENT
 enchantment.bewitchment.magic_protection=魔力保护
 enchantment.bewitchment.magic_protection.desc=减少魔法造成的伤害。
-#POTION
 bewitchment.modifier.suppressed_particles=受抑制粒子
 bewitchment.wednesday=诗神之日
 bewitchment.absence=全部木大
@@ -551,7 +544,6 @@ curse.bewitchment.lightning_rod=招雷咒
 curse.bewitchment.darkness=暗夜咒
 curse.bewitchment.palor_pestilence=白疫咒
 curse.bewitchment.paranoia=偏执咒
-#FORTUNE
 fortune.has_fortune=%s的未来已经被揭示:%s
 fortune.no_fortune=这个世界没有秘密降临于你
 fortune.bewitchment.bad_luck=你的前途暗淡。
@@ -576,8 +568,7 @@ fortune.bewitchment.meet_shadow_person=阴影在注视着你。
 fortune.bewitchment.resilience=在你需要的时候，皮肤会化为钢铁。
 fortune.bewitchment.courage=你将直面逆境。
 fortune.bewitchment.thunderbolt=一道强光遮挡了我的视线。
-#TAROT
-tarot.no_tarot=你不太可能知道水晶球里有什么
+tarot.no_tarot=你不太可能知道水晶球里有什么⋯⋯
 tarot.is_infused=%s 被灌注。
 tarot.not_infused=%s 与其他位面没有任何联系。
 tarot.has_pets=%s 有一些忠诚的伙伴。
@@ -601,7 +592,7 @@ tarot.mobkills=%1$s 手刃了 %2$s 只怪物。
 tarot.has_boss=%s 曾在危险面前倚刀长笑。
 tarot.no_boss=%s 尚未征服过任何伟大的存在。
 tarot.bloodshed=%1$s 被 %2$s 夺走了生命
-tarot.is_shrouded=我看不到目标
+tarot.is_shrouded=我看不到目标⋯⋯
 tarot.demon_pledged=%s 将他的灵魂抵押给了恶魔。
 tarot.not_pledged=%s 与这门黑暗艺术不再有关联了。
 tarot.is_cursed=%s 宁愿承受这一苦痛悲凉。
@@ -610,7 +601,6 @@ baphomet.getcontract=你接受了七天的 %s 作为施舍。
 baphomet.lowlevel=你的级别太低了。
 baphomet.notpledged=你尚未对巴弗灭宣誓。
 baphomet.alreadyhascontract=你已经有契约在身了
-#RITUAL
 ritual.null=你没有听说过这样的仪式
 ritual.precondition.empty=哪里出错了
 ritual.precondition.no_day=这个仪式不能在白天进行
@@ -634,10 +624,10 @@ ritual.bewitchment.call_of_the_wild=野性呼唤
 ritual.bewitchment.lesser_hellmouth=小地狱之门仪式
 ritual.bewitchment.hellmouth=地狱之门仪式
 ritual.bewitchment.greater_hellmouth=大地狱之门仪式
-ritual.bewitchment.conjure_witch=召唤仪式(女巫)
-ritual.bewitchment.conjure_wither=召唤仪式(凋零)
-ritual.bewitchment.conjure_demon=召唤仪式(恶魔)
-ritual.bewitchment.conjure_imp=召唤仪式(小恶魔)
+ritual.bewitchment.conjure_witch=召唤仪式（女巫）
+ritual.bewitchment.conjure_wither=召唤仪式（凋灵）
+ritual.bewitchment.conjure_demon=召唤仪式（恶魔）
+ritual.bewitchment.conjure_imp=召唤仪式（小恶魔）
 ritual.bewitchment.conjure_leonard=伦纳德之祭
 ritual.bewitchment.conjure_baphomet=巴弗灭之祭
 ritual.bewitchment.draw_small=绘符仪式·内环
@@ -659,7 +649,6 @@ ritual.bewitchment.greater_curse_cleansing=高级诅咒净化仪式
 ritual.bewitchment.biome_shift=沧海桑田仪式
 ritual.bewitchment.drought=炽热之沙仪式
 ritual.bewitchment.sowing_salt=枯萎之地仪式
-#INFO
 itemGroup.bewitchment=Bewitchment
 altar.power_info=%d/%d (x%d)
 altar.no_power=你的魔力不够强大
@@ -679,7 +668,7 @@ advancements.bewitchment.mined_opal.title=颜色游戏
 advancements.bewitchment.mined_opal.description=开采蛋白石
 advancements.bewitchment.mined_garnet.title=石榴
 advancements.bewitchment.mined_garnet.description=开采石榴石
-advancements.bewitchment.mined_salt.title=千滋万味，你却选择了咸
+advancements.bewitchment.mined_salt.title=千滋万味，你却选择了咸⋯⋯
 advancements.bewitchment.mined_salt.description=开采盐矿
 advancements.bewitchment.mined_silver.title=月之金属
 advancements.bewitchment.mined_silver.description=开采银矿
@@ -746,8 +735,6 @@ jei.ritual.runningPower=运行力量: %d
 jei.cauldron=釜锅
 jei.brew=酿造
 jei.incense=熏香
-## DEMON NAMES AND TITLES
-# Mainline names
 entity.bewitchment.given_name.0=Bael
 entity.bewitchment.given_name.1=Agares
 entity.bewitchment.given_name.2=Vassago
@@ -1074,7 +1061,6 @@ entity.bewitchment.given_name.322=The Old Man
 entity.bewitchment.given_name.323=The Smoke Man
 entity.bewitchment.given_name.324=Mephistopheles
 entity.bewitchment.given_name.325=Behemoth
-# BIONICLE
 entity.bewitchment.given_name.326=Teridax
 entity.bewitchment.given_name.327=Makuta
 entity.bewitchment.given_name.328=Icarax
@@ -1089,12 +1075,10 @@ entity.bewitchment.given_name.336=Mutran
 entity.bewitchment.given_name.337=Spiriah
 entity.bewitchment.given_name.338=Tridax
 entity.bewitchment.given_name.339=Vamprah
-# Stephen King
 entity.bewitchment.given_name.340=It
 entity.bewitchment.given_name.341=Pennywise
 entity.bewitchment.given_name.342=The Crimson King
 entity.bewitchment.given_name.343=Dandelo
-# Elder Scrolls
 entity.bewitchment.given_name.344=Jyggalag
 entity.bewitchment.given_name.345=Sheogorath
 entity.bewitchment.given_name.346=Azura
@@ -1114,20 +1098,17 @@ entity.bewitchment.given_name.359=Peryite
 entity.bewitchment.given_name.360=Vaermina
 entity.bewitchment.given_name.361=Velehk Sain
 entity.bewitchment.given_name.362=The Ruddy Man
-# Various one-off references/in-jokes
 entity.bewitchment.given_name.363=King in Yellow
 entity.bewitchment.given_name.364=Salem
 entity.bewitchment.given_name.365=Cake Guy
 entity.bewitchment.given_name.366=Vanir
 entity.bewitchment.given_name.367=Pax
-# SCP Foundation, aka Cyber's nightmares
 entity.bewitchment.given_name.368=The Scarlet King
 entity.bewitchment.given_name.369=Ambassador of Alagadda
 entity.bewitchment.given_name.370=Black Lord
 entity.bewitchment.given_name.371=White Lord
 entity.bewitchment.given_name.372=Yellow Lord
 entity.bewitchment.given_name.373=Red Lord
-# Continuation of mainline demon names
 entity.bewitchment.given_name.374=Faraii
 entity.bewitchment.given_name.375=Clauneck
 entity.bewitchment.given_name.376=Leonard
@@ -1356,7 +1337,6 @@ entity.bewitchment.prefix.95=年长者
 entity.bewitchment.prefix.96=最终裁定者
 entity.bewitchment.prefix.100=主教
 entity.bewitchment.prefix.101=女族长
-# Thaumcraft compat
 tc.aspect.diabolus=恶魔，不洁，亵渎
 tc.aspect.stellae=星体、星座、星群
 tc.aspect.luna=月亮
@@ -1374,17 +1354,15 @@ golem.material.text.silver=傀儡是由银制成的。这种柔软且具有延�
 research.MATSTUDDRAGONSBLOOD.title=材料研究：龙血树树脂
 research.MATSTUDDRAGONSBLOOD.stage.1=龙血树的树脂具有多种有趣的特性，尤其是其结构与人类的肉非常相似。<BR>尽管它可能不是制作傀儡的理想材料，但使用它可能是一种有趣而又可怕的经验
 research.f_MATDRAGONSBLOOD.text=调查龙血树脂
-##OLD TEXT: The resin from a Dragon's Blood Tree was of particular interest to you, in hopes of making a golem aligned with the occult. <BR>However, what you created was a messy golem that falls apart rather easily. It also somewhat resembles human flesh, and it repulses you as a result. <BR>You are confident you will find a better material to fit this role.
-
 golem.material.dragonsblood=龙血树树脂
-golem.material.text.dragonsblood=这个傀儡是由龙血树树脂制成的。这真是一团糟。
+golem.material.text.dragonsblood=这个傀儡是由龙血树树脂制成的。这真是⋯⋯一团糟。
 golem.trait.spiritual_ward=灵魂守卫
 golem.trait.text.spiritual_ward=这种傀儡在攻击恶魔和灵体特别强大。
 golem.trait.blessed=祝福
 golem.trait.text.blessed=这个傀儡与恶魔和灵体对抗时显得特别强大。
 golem.trait.uncanny=离奇
 golem.trait.text.uncanny=这种傀儡与人类的肉具有不可思议的相似之处。甚至其他怪物都对它有种轻微的排斥感。
-ritual.cannot_start=然而，什么事都没有发生
+ritual.cannot_start=然而，什么事都没有发生⋯⋯
 entity.bewitchment.prefix.99=Prime Minister
 entity.bewitchment.prefix.98=Minister-President
 entity.bewitchment.prefix.97=Chief Minister

@@ -1,17 +1,3 @@
-#+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
-# 极其重要
-# 不要把 NC/NCO 自身的语言文件放进来！由于 NC 与 NCO 的 ModID 相同，本库不容纳核电本体的翻译。
-# 可以放 NCO 的手册，因为 NC 没有手册
-# 由于语言文件加载时会把所有 key 整合到一个文件里，基于 CrT/CoT/NCO 的脚本组件（script-addon）的会全部存在这
-# 标好 CurseForge 地址、版本、中英名称
-#+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
-
-#=================================================================================================================#
-# https://www.curseforge.com/minecraft/customization/nuclearcraft-extra-ingot-blocks
-# NCEIB-Overhaul-v1.8.1
-# 核电锭块丨NuclearCraft Extra Ingot Blocks
-#-----------------------------------------------------------------------------------------------------------------#
-#锫ase NCO ingot blocks
 tile.contenttweaker.ferroboronBlock.name=硼铁合金块
 tile.contenttweaker.toughBlock.name=高强合金块
 tile.contenttweaker.hardCarbonBlock.name=硬碳合金块
@@ -31,8 +17,6 @@ tile.contenttweaker.bronzeBlock.name=青铜块
 tile.contenttweaker.zrmoBlock.name=锆钼合金块
 tile.contenttweaker.cmnblock.name=碳-锰块
 item.contenttweaker.cmningot.name=碳-锰锭
-
-#FissionDuststuff
 item.contenttweaker.moingot.name=钼锭
 tile.contenttweaker.moBlock.name=钼块
 tile.contenttweaker.sr90block.name=锶-90 块
@@ -54,9 +38,6 @@ tile.contenttweaker.eu155block.name=铕-155 块
 item.contenttweaker.eu155ingot.name=铕-155 锭
 tile.contenttweaker.cs137block.name=铯-137 块
 item.contenttweaker.cs137ingot.name=铯-137 锭
-
-
-#BaseNCOGemblocks
 tile.contenttweaker.basblock.name=砷化硼块
 tile.contenttweaker.bnblock.name=氮化硼块
 tile.contenttweaker.carobblock.name=方氟钾石块
@@ -64,8 +45,6 @@ tile.contenttweaker.fluorblock.name=氟石块
 tile.contenttweaker.siblock.name=硅块
 tile.contenttweaker.rhodoblock.name=菱锰块
 tile.contenttweaker.villiblock.name=氟盐块
-
-#QMD块s
 tile.contenttweaker.cablock.name=钙块
 tile.contenttweaker.crblock.name=铬块
 tile.contenttweaker.hfblock.name=铪块
@@ -100,25 +79,12 @@ item.contenttweaker.iingot.name=碘锭
 item.contenttweaker.smingot.name=钐锭
 item.contenttweaker.tbingot.name=铽锭
 item.contenttweaker.ybingot.name=镱锭
-
-#Trinity块s
 tile.contenttweaker.bablock.name=钡块
 item.contenttweaker.baingot.name=钡锭
 tile.contenttweaker.baoblock.name=氧化钡块
 item.contenttweaker.baoingot.name=氧化钡锭
-
 itemGroup.nceib=核电锭块
-#=================================================================================================================#
-
-#=================================================================================================================#
-# https://www.curseforge.com/minecraft/customization/binarys-extra-stuff-bes
-# BES+0.2.1
-# Binary 的额外内容丨Binary's Extra Stuff
-#-----------------------------------------------------------------------------------------------------------------#
-#fluids
 fluid.liquidmercury=汞
-
-#dusts
 item.contenttweaker.dust_thallium.name=铊粉
 item.contenttweaker.dust_gadolinium.name=钆粉
 item.contenttweaker.dust_cadmium.name=镉粉
@@ -126,14 +92,10 @@ item.contenttweaker.dust_silver107.name=银-107
 item.contenttweaker.dust_silver109.name=银-109
 item.contenttweaker.dust_uox.name=氧化铀粉
 item.contenttweaker.dust_palladium.name=钯粉
-
-#ingots
 item.contenttweaker.ingot_thallium.name=铊锭
 item.contenttweaker.ingot_gadolinium.name=钆锭
 item.contenttweaker.ingot_cadmium.name=镉锭
 item.contenttweaker.ingot_palladium.name=钯锭
-
-#blocks
 tile.contenttweaker.HgArcLamp.name=汞放电灯
 tile.contenttweaker.UranGlass.name=铀玻璃块
 tile.contenttweaker.block_palladium.name=钯块
@@ -141,18 +103,9 @@ tile.contenttweaker.block_gadolinium.name=钆块
 tile.contenttweaker.block_cadmium.name=镉块
 tile.contenttweaker.block_thallium.name=铊块
 tile.contenttweaker.graphite_brick.name=石墨砖块
-
 item.contenttweaker.battery_nicd_comp.name=镍-镉电池
 tile.nuclearcraft.battery_nicd_block.name=镍-镉电池库
-
 item.contenttweaker.supersecretthing=？？？
-#=================================================================================================================#
-
-#=================================================================================================================#
-# https://www.curseforge.com/minecraft/customization/inert-matrix-fuels
-# inertmatrixfuels1.2
-# 惰性基燃料丨Inert Matrix Fuels
-#-----------------------------------------------------------------------------------------------------------------#
 item.nuclearcraft.matrixfuels.imu233_za.name=惰性基 铀-233-锆合金燃料丸
 item.nuclearcraft.matrixfuels.imu235_za.name=惰性基 铀-235-锆合金燃料丸
 item.nuclearcraft.matrixfuels.imn236_za.name=惰性基 镎-236-锆合金燃料丸
@@ -165,7 +118,6 @@ item.nuclearcraft.matrixfuels.imcm247_za.name=惰性基 锔-247-锆合金燃料�
 item.nuclearcraft.matrixfuels.imb248_za.name=惰性基 锫-248-锆合金燃料丸
 item.nuclearcraft.matrixfuels.imcf249_za.name=惰性基 锎-249-锆合金燃料丸
 item.nuclearcraft.matrixfuels.imcf251_za.name=惰性基 锎-251-锆合金燃料丸
-
 item.nuclearcraft.matrixfuels.depleted_imu233_za.name=枯竭惰性基 铀-233-锆合金燃料丸
 item.nuclearcraft.matrixfuels.depleted_imu235_za.name=枯竭惰性基 铀-235-锆合金燃料丸
 item.nuclearcraft.matrixfuels.depleted_imn236_za.name=枯竭惰性基 镎-236-锆合金燃料丸
@@ -178,19 +130,10 @@ item.nuclearcraft.matrixfuels.depleted_imcm247_za.name=枯竭惰性基 锔-247-�
 item.nuclearcraft.matrixfuels.depleted_imb248_za.name=枯竭惰性基 锫-248-锆合金燃料丸
 item.nuclearcraft.matrixfuels.depleted_imcf249_za.name=枯竭惰性基 锎-249-锆合金燃料丸
 item.nuclearcraft.matrixfuels.depleted_imcf251_za.name=枯竭惰性基 锎-251-锆合金燃料丸
-#=================================================================================================================#
-
-#=================================================================================================================#
-# https://www.curseforge.com/minecraft/customization/moar-realistic-enrichment
-# MoarRealisticEnrichment-1.1.2
-# 更真实的浓缩丨Moar Realistic Enrichment
-#-----------------------------------------------------------------------------------------------------------------#
 item.contenttweaker.salt.name=盐
 fluid.salty_solution=盐溶液
 fluid.cl2=氯
-
 fluid.clf3=三氟化氯
-
 fluid.duf6=枯竭六氟化铀
 fluid.nuf6=天然 六氟化铀
 fluid.leuf6=低浓缩六氟化铀
@@ -202,7 +145,6 @@ fluid.seuf6=超高浓缩六氟化铀
 fluid.ueuf6=特高浓缩六氟化铀
 fluid.wguf6=武器级别六氟化铀
 fluid.ipuf6=同位素纯六氟化铀
-
 fluid.le_water=低浓缩水
 fluid.me_water=中浓缩水
 fluid.he_water=高浓缩水
@@ -211,18 +153,10 @@ fluid.xe_water=极高浓缩水
 fluid.se_water=超高浓缩水
 fluid.ue_water=特高浓缩水
 fluid.te_water=太高浓缩水
-
 fluid.hydrogen_sulfide=硫化氢
 fluid.le_hydrogen_sulfide=低浓缩硫化氢
 fluid.me_hydrogen_sulfide=中浓缩硫化氢
 fluid.he_hydrogen_sulfide=高浓缩硫化氢
-#=================================================================================================================#
-
-#=================================================================================================================#
-# https://www.curseforge.com/minecraft/customization/alloy-heat-sinks
-# AlloyHeatSinks-1.0.0
-# 合金散热器丨Alloy Heat Sinks
-#-----------------------------------------------------------------------------------------------------------------#
 tile.nuclearcraft.solid_fission_sink_magnalium.name=镁铝合金裂变散热器
 tile.nuclearcraft.solid_fission_sink_hydronalium.name=海装合金裂变散热器
 tile.nuclearcraft.solid_fission_sink_billon.name=包铜合金裂变散热器
@@ -230,8 +164,6 @@ tile.nuclearcraft.solid_fission_sink_brass.name=黄铜合金裂变散热器
 tile.nuclearcraft.solid_fission_sink_nitinol.name=镍钛合金裂变散热器
 tile.nuclearcraft.solid_fission_sink_ferrochrome.name=铬铁合金裂变散热器
 tile.nuclearcraft.solid_fission_sink_ni_be.name=镍铍合金裂变散热器
-
-
 nc.sf.magnalium_sink0=%s 镁铝合金散热器
 nc.sf.hydronalium_sink0=%s 海装合金散热器
 nc.sf.billon_sink0=%s 包铜合金散热器
@@ -239,30 +171,20 @@ nc.sf.brass_sink0=%s 黄铜合金散热器
 nc.sf.nitinol_sink0=%s 镍钛合金散热器
 nc.sf.ferrochrome_sink0=%s 铬铁合金散热器
 nc.sf.ni_be_sink0=%s 镍铍合金散热器
-
-
 tile.nuclearcraft.fission_heater_port_magnalium.name=镁铝合金冷却剂加热器端口
 tile.nuclearcraft.salt_fission_heater_magnalium.name=镁铝合金冷却剂加热器
-
 tile.nuclearcraft.fission_heater_port_hydronalium.name=海装合金冷却剂加热器端口
 tile.nuclearcraft.salt_fission_heater_hydronalium.name=海装合金冷却剂加热器
-
 tile.nuclearcraft.fission_heater_port_billon.name=包铜合金冷却剂加热器端口
 tile.nuclearcraft.salt_fission_heater_billon.name=包铜合金冷却剂加热器
-
 tile.nuclearcraft.fission_heater_port_brass.name=黄铜合金冷却剂加热器端口
 tile.nuclearcraft.salt_fission_heater_brass.name=黄铜合金冷却剂加热器
-
 tile.nuclearcraft.fission_heater_port_ferrochrome.name=铬铁合金冷却剂加热器端口
 tile.nuclearcraft.salt_fission_heater_ferrochrome.name=铬铁合金冷却剂加热器
-
 tile.nuclearcraft.fission_heater_port_nitinol.name=镍钛合金冷却剂加热器端口
 tile.nuclearcraft.salt_fission_heater_nitinol.name=镍钛合金冷却剂加热器
-
 tile.nuclearcraft.fission_heater_port_ni_be.name=镍铍合金冷却剂加热器端口
 tile.nuclearcraft.salt_fission_heater_ni_be.name=镍铍合金冷却剂加热器
-
-
 nc.sf.magnalium_heater0=%s 镁铝合金加热器
 nc.sf.hydronalium_heater0=%s 海装合金加热器
 nc.sf.billon_heater0=%s 包铜合金加热器
@@ -270,30 +192,20 @@ nc.sf.brass_heater0=%s 黄铜合金加热器
 nc.sf.ferrochrome_heater0=%s 铬铁合金加热器
 nc.sf.nitinol_heater0=%s 镍钛合金加热器
 nc.sf.ni_be_heater0=%s 镍铍合金加热器
-
-
 fluid.magnalium_nak=共晶钠钾-镁铝合金混合物
 fluid.magnalium_nak_hot=热共晶钠钾-镁铝合金混合物
-
 fluid.hydronalium_nak=共晶钠钾-海装合金混合物
 fluid.hydronalium_nak_hot=热共晶钠钾-海装合金混合物
-
 fluid.billon_nak=共晶钠钾-包铜合金混合物
 fluid.billon_nak_hot=热共晶钠钾-包铜合金混合物
-
 fluid.brass_nak=共晶钠钾-黄铜合金混合物
 fluid.brass_nak_hot=热共晶钠钾-黄铜合金混合物
-
 fluid.ferrochrome_nak=共晶钠钾-铬铁合金混合物
 fluid.ferrochrome_nak_hot=热共晶钠钾-铬铁合金混合物
-
 fluid.nitinol_nak=共晶钠钾-镍钛合金混合物
 fluid.nitinol_nak_hot=热共晶钠钾-镍钛合金混合物
-
 fluid.ni_be_nak=共晶钠钾-镍铍合金混合物
 fluid.ni_be_nak_hot=热共晶钠钾-镍铍合金混合物
-
-
 fluid.magnalium=熔融镁铝合金
 fluid.hydronalium=熔融海装合金
 fluid.billon=熔融包铜合金
@@ -301,8 +213,6 @@ fluid.brass=熔融黄铜合金
 fluid.ferrochrome=熔融铬铁合金
 fluid.nitinol=熔融镍钛合金
 fluid.ni_be=熔融镍铍合金
-
-
 item.contenttweaker.ingot_magnalium.name=镁铝合金锭
 item.contenttweaker.ingot_hydronalium.name=海装合金锭
 item.contenttweaker.ingot_billon.name=包铜合金锭
@@ -310,13 +220,6 @@ item.contenttweaker.ingot_brass.name=黄铜合金锭
 item.contenttweaker.ingot_ferrochrome.name=铬铁合金锭
 item.contenttweaker.ingot_nitinol.name=镍钛合金锭
 item.contenttweaker.ingot_ni_be.name=镍铍合金锭
-#=================================================================================================================#
-
-#=================================================================================================================#
-# https://www.curseforge.com/minecraft/customization/moarfuels
-# MoarFuels-1.9.3
-# 更多燃料丨Moar Fuels
-#-----------------------------------------------------------------------------------------------------------------#
 item.contenttweaker.californium53.name=锎-253
 item.contenttweaker.californium53carbide.name=锎-253 碳化物
 item.contenttweaker.californium53oxide.name=锎-253 氧化物
@@ -342,7 +245,6 @@ item.contenttweaker.fermium57carbide.name=镄-257 碳化物
 item.contenttweaker.fermium57oxide.name=镄-257 氧化物
 item.contenttweaker.fermium57nitride.name=镄-257 氮化物
 item.contenttweaker.fermium57zirconium.name=镄-257-锆合金
-
 item.contenttweaker.californium_fuel.name=低浓缩锎-253
 item.contenttweaker.californium_fuel_carbide.name=低浓缩锎-253 碳化物
 item.contenttweaker.californium_fuel_triso.name=低浓缩锎-253 TRISO 燃料颗粒
@@ -373,7 +275,6 @@ item.contenttweaker.heinsteinium_fuel_triso.name=高浓缩锿-254 TRISO 燃料�
 item.contenttweaker.heinsteinium_fuel_oxide.name=高浓缩锿-254 氧化物燃料丸
 item.contenttweaker.heinsteinium_fuel_nitride.name=高浓缩锿-254 氮化物燃料丸
 item.contenttweaker.heinsteinium_fuel_zirconium.name=高浓缩锿-254-锆合金燃料丸
-
 item.contenttweaker.dcalifornium_fuel_triso.name=枯竭低浓缩锎-253 TRISO 燃料颗粒
 item.contenttweaker.dcalifornium_fuel_oxide.name=枯竭低浓缩锎-253 氧化物燃料丸
 item.contenttweaker.dcalifornium_fuel_nitride.name=枯竭低浓缩锎-253 氮化物燃料丸
@@ -394,7 +295,6 @@ item.contenttweaker.dheinsteinium_fuel_triso.name=枯竭高浓缩锿-254 TRISO �
 item.contenttweaker.dheinsteinium_fuel_oxide.name=枯竭高浓缩锿-254 氧化物燃料丸
 item.contenttweaker.dheinsteinium_fuel_nitride.name=枯竭高浓缩锿-254 氮化物燃料丸
 item.contenttweaker.dheinsteinium_fuel_zirconium.name=枯竭高浓缩锿-254-锆合金燃料丸
-
 item.contenttweaker.mendelevium58.name=钔-258
 item.contenttweaker.mendelevium58carbide.name=钔-258 碳化物
 item.contenttweaker.mendelevium58oxide.name=钔-258 氧化物
@@ -405,7 +305,6 @@ item.contenttweaker.flerovium98carbide.name=-298 碳化物
 item.contenttweaker.flerovium98oxide.name=-298 氧化物
 item.contenttweaker.flerovium98nitride.name=-298 氮化物
 item.contenttweaker.flerovium98zirconium.name=-298-锆合金
-
 item.contenttweaker.protactinium_fuel.name=轻质锕系混合物-231
 item.contenttweaker.protactinium_fuel_carbide.name=轻质锕系混合物-231 碳化物
 item.contenttweaker.protactinium_fuel_triso.name=轻质锕系混合物 TRISO-231 燃料颗粒
@@ -426,7 +325,6 @@ item.contenttweaker.dhprotactinium_fuel_triso.name=枯竭浓缩轻质锕系混�
 item.contenttweaker.dhprotactinium_fuel_oxide.name=枯竭浓缩轻质锕系混合氧化物-231 燃料丸
 item.contenttweaker.dhprotactinium_fuel_nitride.name=枯竭浓缩轻质锕系混合氮化物-231 燃料丸
 item.contenttweaker.dhprotactinium_fuel_zirconium.name=枯竭浓缩轻质锕系混合锆合金-231 燃料丸
-
 item.contenttweaker.mendelevium_fuel.name=混合物-258
 item.contenttweaker.mendelevium_fuel_carbide.name=混合物-258 碳化物
 item.contenttweaker.mendelevium_fuel_triso.name=混合 TRISO-258 燃料颗粒
@@ -447,11 +345,9 @@ item.contenttweaker.dflerovium_fuel_triso.name=枯竭混合 TRISO-298 燃料颗�
 item.contenttweaker.dflerovium_fuel_oxide.name=枯竭混合氧化物-298 燃料丸
 item.contenttweaker.dflerovium_fuel_nitride.name=枯竭混合氮化物-298 燃料丸
 item.contenttweaker.dflerovium_fuel_zirconium.name=枯竭混合锆合金-298 燃料丸
-
 item.contenttweaker.mysterymix.name=神秘的混合物
 qmd.particle.heffalumpMatter.name=小飞象粒子
 qmd.particle.heffalumpMatter.desc=小飞象，大臭鼠，都让人糊涂
-
 item.contenttweaker.rplutonium_fuel.name=放射性同位素增强钚-238
 item.contenttweaker.rplutonium_fuel_carbide.name=放射性同位素增强钚-238 碳化物
 item.contenttweaker.rplutonium_fuel_triso.name=放射性同位素增强钚-238 TRISO 燃料颗粒
@@ -470,7 +366,6 @@ item.contenttweaker.rcalifornium_fuel_triso.name=放射性同位素增强锎-250
 item.contenttweaker.rcalifornium_fuel_oxide.name=放射性同位素增强锎-250 氧化物燃料丸
 item.contenttweaker.rcalifornium_fuel_nitride.name=放射性同位素增强锎-250 氮化物燃料丸
 item.contenttweaker.rcalifornium_fuel_zirconium.name=放射性同位素增强锎-250-锆合金燃料丸
-
 item.contenttweaker.drplutonium_fuel_triso.name=枯竭放射性同位素增强钚-238 TRISO 燃料颗粒
 item.contenttweaker.drplutonium_fuel_oxide.name=枯竭放射性同位素增强钚-238 氧化物燃料丸
 item.contenttweaker.drplutonium_fuel_nitride.name=枯竭放射性同位素增强钚-238 氮化物燃料丸
@@ -483,7 +378,6 @@ item.contenttweaker.drcalifornium_fuel_triso.name=枯竭放射性同位素增强
 item.contenttweaker.drcalifornium_fuel_oxide.name=枯竭放射性同位素增强锎-250 氧化物燃料丸
 item.contenttweaker.drcalifornium_fuel_nitride.name=枯竭放射性同位素增强锎-250 氮化物燃料丸
 item.contenttweaker.drcalifornium_fuel_zirconium.name=枯竭放射性同位素增强锎-250-锆合金燃料丸
-
 tile.contenttweaker.rtg_sr.name=锶-90 放射性同位素单元
 tile.contenttweaker.rtg_sr_done.name=枯竭锶-90 放射性同位素单元
 tile.contenttweaker.rtg_ru.name=钌-106 放射性同位素单元
@@ -494,7 +388,6 @@ tile.contenttweaker.rtg_pm.name=钷-147 放射性同位素单元
 tile.contenttweaker.rtg_pm_done.name=枯竭钷-147 放射性同位素单元
 tile.contenttweaker.rtg_eu.name=铕-155 放射性同位素单元
 tile.contenttweaker.rtg_eu_done.name=枯竭铕-155 放射性同位素单元
-
 tile.contenttweaker.rtg_po.name=钋-210 放射性同位素单元
 tile.contenttweaker.rtg_po_done.name=枯竭钋-210 放射性同位素单元
 tile.contenttweaker.rtg_ra.name=镭-226 放射性同位素单元
@@ -505,17 +398,13 @@ tile.contenttweaker.rtg_am.name=镅-241 放射性同位素单元
 tile.contenttweaker.rtg_am_done.name=枯竭镅-241 放射性同位素单元
 tile.contenttweaker.rtg_cf.name=锎-250 放射性同位素单元
 tile.contenttweaker.rtg_cf_done.name=枯竭锎-250 放射性同位素单元
-
 tile.contenttweaker.rtg_co.name=钴-60 放射性同位素单元
 tile.contenttweaker.rtg_co_done.name=枯竭钴-60 放射性同位素单元
 tile.contenttweaker.rtg_ac.name=锕-227 放射性同位素单元
 tile.contenttweaker.rtg_ac_done.name=枯竭锕-227 放射性同位素单元
-
 item.contenttweaker.gemgermanium.name=锗
 item.contenttweaker.si_ge.name=硅-锗
-# 有没有更好看的名字
 item.contenttweaker.actinium.name=锕
-
 item.contenttweaker.purethorium229.name=钍-229
 item.contenttweaker.thorium229.name=增强钍-229
 item.contenttweaker.thorium229carbide.name=增强钍-229 碳化物
@@ -527,7 +416,6 @@ item.contenttweaker.darmstadtium294carbide.name=-294 碳化物
 item.contenttweaker.darmstadtium294oxide.name=-294 氧化物
 item.contenttweaker.darmstadtium294nitride.name=-294 氮化物
 item.contenttweaker.darmstadtium294zirconium.name=-294-锆合金
-
 item.contenttweaker.darmstadtium_fuel.name=混合物-294
 item.contenttweaker.darmstadtium_fuel_carbide.name=混合物-294 碳化物
 item.contenttweaker.darmstadtium_fuel_triso.name=混合 TRISO-294 燃料颗粒
@@ -548,7 +436,6 @@ item.contenttweaker.dubu_fuel_triso.name=枯竭铀增殖铀 TRISO 燃料颗粒
 item.contenttweaker.dubu_fuel_oxide.name=枯竭铀增殖铀 氧化物燃料丸
 item.contenttweaker.dubu_fuel_nitride.name=枯竭铀增殖铀 氮化物燃料丸
 item.contenttweaker.dubu_fuel_zirconium.name=枯竭铀增殖铀-锆合金燃料丸
-
 fluid.lecf_253=熔融低浓缩锎-253 燃料
 fluid.lecf_253_fluoride=熔融低浓缩锎-253 氟化物燃料
 fluid.lecf_253_fluoride_flibe=熔融低浓缩锎-253 氟化物燃料氟锂铍盐溶液
@@ -573,14 +460,12 @@ fluid.hee_254_fluoride_flibe=熔融高浓缩锿-254 氟化物燃料氟锂铍盐�
 fluid.depleted_hee_254=熔融枯竭高浓缩锿-254 燃料
 fluid.depleted_hee_254_fluoride=熔融枯竭高浓缩锿-254 氟化物燃料
 fluid.depleted_hee_254_fluoride_flibe=熔融枯竭高浓缩锿-254 氟化物燃料氟锂铍盐溶液
-
 fluid.mix_257=熔融混合物-257 燃料
 fluid.mix_257_fluoride=熔融混合氟化物-257 燃料
 fluid.mix_257_fluoride_flibe=熔融混合氟化物-257 燃料氟锂铍盐溶液
 fluid.depleted_mix_257=熔融枯竭混合物-257 燃料
 fluid.depleted_mix_257_fluoride=熔融枯竭混合氟化物-257 燃料
 fluid.depleted_mix_257_fluoride_flibe=熔融枯竭混合氟化物-257 燃料氟锂铍盐溶液
-
 fluid.rep_238=熔融放射性同位素增强钚-238 燃料
 fluid.rep_238_fluoride=熔融放射性同位素增强钚-238 氟化物燃料
 fluid.rep_238_fluoride_flibe=熔融放射性同位素增强钚-238 氟化物燃料氟锂铍盐溶液
@@ -599,7 +484,6 @@ fluid.rec_250_fluoride_flibe=熔融放射性同位素增强锎-250 氟化物燃�
 fluid.depleted_rec_250=熔融枯竭放射性同位素增强锎-250 燃料
 fluid.depleted_rec_250_fluoride=熔融枯竭放射性同位素增强锎-250 氟化物燃料
 fluid.depleted_rec_250_fluoride_flibe=熔融枯竭放射性同位素增强锎-250 氟化物燃料氟锂铍盐溶液
-
 fluid.mix_258=熔融混合物-258 燃料
 fluid.mix_258_fluoride=熔融混合氟化物-258 燃料
 fluid.mix_258_fluoride_flibe=熔融混合氟化物-258 燃料氟锂铍盐溶液
@@ -618,7 +502,6 @@ fluid.mix_298_fluoride_flibe=熔融混合氟化物-298 燃料氟锂铍盐溶液
 fluid.depleted_mix_298=熔融枯竭混合物-298 燃料
 fluid.depleted_mix_298_fluoride=熔融枯竭混合氟化物-298 燃料
 fluid.depleted_mix_298_fluoride_flibe=熔融枯竭混合氟化物-298 燃料氟锂铍盐溶液
-
 fluid.lam_231=熔融轻质锕系混合物-231 燃料
 fluid.lam_231_fluoride=熔融轻质锕系混合物-231 氟化物燃料
 fluid.lam_231_fluoride_flibe=熔融轻质锕系混合物-231 氟化物燃料氟锂铍盐溶液
@@ -637,15 +520,12 @@ fluid.ubu_fluoride_flibe=熔融铀增殖铀 氟化物燃料氟锂铍盐溶液
 fluid.depleted_ubu=熔融枯竭铀增殖铀 燃料
 fluid.depleted_ubu_fluoride=熔融枯竭铀增殖铀 氟化物燃料
 fluid.depleted_ubu_fluoride_flibe=熔融枯竭铀增殖铀 氟化物燃料氟锂铍盐溶液
-
 fluid.californium_253=熔融锎-253
 fluid.californium_254=熔融锎-254
 fluid.einsteinium_254=熔融锿-254
 fluid.einsteinium_255=熔融锿-255
 fluid.fermium_257=熔融镄-257
 fluid.uranium_234=熔融铀-234
-
-
 item.contenttweaker.meu_233.name=中浓缩铀-233
 item.contenttweaker.meu_233_c.name=中浓缩铀-233 碳化物
 item.contenttweaker.meu_233_tr.name=中浓缩铀-233 TRISO 燃料颗粒
@@ -662,7 +542,6 @@ fluid.meu_233_fluoride_flibe=熔融中浓缩铀-233 氟化物燃料氟锂铍盐�
 fluid.depleted_meu_233=熔融枯竭中浓缩铀-233 燃料
 fluid.depleted_meu_233_fluoride=熔融枯竭中浓缩铀-233 氟化物燃料
 fluid.depleted_meu_233_fluoride_flibe=熔融枯竭中浓缩铀-233 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.meu_235.name=中浓缩铀-235
 item.contenttweaker.meu_235_c.name=中浓缩铀-235 碳化物
 item.contenttweaker.meu_235_tr.name=中浓缩铀-235 TRISO 燃料颗粒
@@ -679,7 +558,6 @@ fluid.meu_235_fluoride_flibe=熔融中浓缩铀-235 氟化物燃料氟锂铍盐�
 fluid.depleted_meu_235=熔融枯竭中浓缩铀-235 燃料
 fluid.depleted_meu_235_fluoride=熔融枯竭中浓缩铀-235 氟化物燃料
 fluid.depleted_meu_235_fluoride_flibe=熔融枯竭中浓缩铀-235 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.men_236.name=中浓缩镎-236
 item.contenttweaker.men_236_c.name=中浓缩镎-236 碳化物
 item.contenttweaker.men_236_tr.name=中浓缩镎-236 TRISO 燃料颗粒
@@ -696,7 +574,6 @@ fluid.men_236_fluoride_flibe=熔融中浓缩镎-236 氟化物燃料氟锂铍盐�
 fluid.depleted_men_236=熔融枯竭中浓缩镎-236 燃料
 fluid.depleted_men_236_fluoride=熔融枯竭中浓缩镎-236 氟化物燃料
 fluid.depleted_men_236_fluoride_flibe=熔融枯竭中浓缩镎-236 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.mep_239.name=中浓缩钚-239
 item.contenttweaker.mep_239_c.name=中浓缩钚-239 碳化物
 item.contenttweaker.mep_239_tr.name=中浓缩钚-239 TRISO 燃料颗粒
@@ -713,7 +590,6 @@ fluid.mep_239_fluoride_flibe=熔融中浓缩钚-239 氟化物燃料氟锂铍盐�
 fluid.depleted_mep_239=熔融枯竭中浓缩钚-239 燃料
 fluid.depleted_mep_239_fluoride=熔融枯竭中浓缩钚-239 氟化物燃料
 fluid.depleted_mep_239_fluoride_flibe=熔融枯竭中浓缩钚-239 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.mep_241.name=中浓缩钚-241
 item.contenttweaker.mep_241_c.name=中浓缩钚-241 碳化物
 item.contenttweaker.mep_241_tr.name=中浓缩钚-241 TRISO 燃料颗粒
@@ -730,7 +606,6 @@ fluid.mep_241_fluoride_flibe=熔融中浓缩钚-241 氟化物燃料氟锂铍盐�
 fluid.depleted_mep_241=熔融枯竭中浓缩钚-241 燃料
 fluid.depleted_mep_241_fluoride=熔融枯竭中浓缩钚-241 氟化物燃料
 fluid.depleted_mep_241_fluoride_flibe=熔融枯竭中浓缩钚-241 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.mea_242.name=中浓缩镅-242
 item.contenttweaker.mea_242_c.name=中浓缩镅-242 碳化物
 item.contenttweaker.mea_242_tr.name=中浓缩镅-242 TRISO 燃料颗粒
@@ -747,7 +622,6 @@ fluid.mea_242_fluoride_flibe=熔融中浓缩镅-242 氟化物燃料氟锂铍盐�
 fluid.depleted_mea_242=熔融枯竭中浓缩镅-242 燃料
 fluid.depleted_mea_242_fluoride=熔融枯竭中浓缩镅-242 氟化物燃料
 fluid.depleted_mea_242_fluoride_flibe=熔融枯竭中浓缩镅-242 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.mecm_243.name=中浓缩锔-243
 item.contenttweaker.mecm_243_c.name=中浓缩锔-243 碳化物
 item.contenttweaker.mecm_243_tr.name=中浓缩锔-243 TRISO 燃料颗粒
@@ -764,7 +638,6 @@ fluid.mecm_243_fluoride_flibe=熔融中浓缩锔-243 氟化物燃料氟锂铍盐
 fluid.depleted_mecm_243=熔融枯竭中浓缩锔-243 燃料
 fluid.depleted_mecm_243_fluoride=熔融枯竭中浓缩锔-243 氟化物燃料
 fluid.depleted_mecm_243_fluoride_flibe=熔融枯竭中浓缩锔-243 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.mecm_245.name=中浓缩锔-245
 item.contenttweaker.mecm_245_c.name=中浓缩锔-245 碳化物
 item.contenttweaker.mecm_245_tr.name=中浓缩锔-245 TRISO 燃料颗粒
@@ -781,7 +654,6 @@ fluid.mecm_245_fluoride_flibe=熔融中浓缩锔-245 氟化物燃料氟锂铍盐
 fluid.depleted_mecm_245=熔融枯竭中浓缩锔-245 燃料
 fluid.depleted_mecm_245_fluoride=熔融枯竭中浓缩锔-245 氟化物燃料
 fluid.depleted_mecm_245_fluoride_flibe=熔融枯竭中浓缩锔-245 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.mecm_247.name=中浓缩锔-247
 item.contenttweaker.mecm_247_c.name=中浓缩锔-247 碳化物
 item.contenttweaker.mecm_247_tr.name=中浓缩锔-247 TRISO 燃料颗粒
@@ -798,7 +670,6 @@ fluid.mecm_247_fluoride_flibe=熔融中浓缩锔-247 氟化物燃料氟锂铍盐
 fluid.depleted_mecm_247=熔融枯竭中浓缩锔-247 燃料
 fluid.depleted_mecm_247_fluoride=熔融枯竭中浓缩锔-247 氟化物燃料
 fluid.depleted_mecm_247_fluoride_flibe=熔融枯竭中浓缩锔-247 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.meb_248.name=中浓缩锫-248
 item.contenttweaker.meb_248_c.name=中浓缩锫-248 碳化物
 item.contenttweaker.meb_248_tr.name=中浓缩锫-248 TRISO 燃料颗粒
@@ -815,7 +686,6 @@ fluid.meb_248_fluoride_flibe=熔融中浓缩锫-248 氟化物燃料氟锂铍盐�
 fluid.depleted_meb_248=熔融枯竭中浓缩锫-248 燃料
 fluid.depleted_meb_248_fluoride=熔融枯竭中浓缩锫-248 氟化物燃料
 fluid.depleted_meb_248_fluoride_flibe=熔融枯竭中浓缩锫-248 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.mecf_249.name=中浓缩锎-249
 item.contenttweaker.mecf_249_c.name=中浓缩锎-249 碳化物
 item.contenttweaker.mecf_249_tr.name=中浓缩锎-249 TRISO 燃料颗粒
@@ -832,7 +702,6 @@ fluid.mecf_249_fluoride_flibe=熔融中浓缩锎-249 氟化物燃料氟锂铍盐
 fluid.depleted_mecf_249=熔融枯竭中浓缩锎-249 燃料
 fluid.depleted_mecf_249_fluoride=熔融枯竭中浓缩锎-249 氟化物燃料
 fluid.depleted_mecf_249_fluoride_flibe=熔融枯竭中浓缩锎-249 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.mecf_251.name=中浓缩锎-251
 item.contenttweaker.mecf_251_c.name=中浓缩锎-251 碳化物
 item.contenttweaker.mecf_251_tr.name=中浓缩锎-251 TRISO 燃料颗粒
@@ -849,7 +718,6 @@ fluid.mecf_251_fluoride_flibe=熔融中浓缩锎-251 氟化物燃料氟锂铍盐
 fluid.depleted_mecf_251=熔融枯竭中浓缩锎-251 燃料
 fluid.depleted_mecf_251_fluoride=熔融枯竭中浓缩锎-251 氟化物燃料
 fluid.depleted_mecf_251_fluoride_flibe=熔融枯竭中浓缩锎-251 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.mecf_253.name=中浓缩锎-253
 item.contenttweaker.mecf_253_c.name=中浓缩锎-253 碳化物
 item.contenttweaker.mecf_253_tr.name=中浓缩锎-253 TRISO 燃料颗粒
@@ -866,7 +734,6 @@ fluid.mecf_253_fluoride_flibe=熔融中浓缩锎-253 氟化物燃料氟锂铍盐
 fluid.depleted_mecf_253=熔融枯竭中浓缩锎-253 燃料
 fluid.depleted_mecf_253_fluoride=熔融枯竭中浓缩锎-253 氟化物燃料
 fluid.depleted_mecf_253_fluoride_flibe=熔融枯竭中浓缩锎-253 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.mee_254.name=中浓缩锿-254
 item.contenttweaker.mee_254_c.name=中浓缩锿-254 碳化物
 item.contenttweaker.mee_254_tr.name=中浓缩锿-254 TRISO 燃料颗粒
@@ -883,8 +750,6 @@ fluid.mee_254_fluoride_flibe=熔融中浓缩锿-254 氟化物燃料氟锂铍盐�
 fluid.depleted_mee_254=熔融枯竭中浓缩锿-254 燃料
 fluid.depleted_mee_254_fluoride=熔融枯竭中浓缩锿-254 氟化物燃料
 fluid.depleted_mee_254_fluoride_flibe=熔融枯竭中浓缩锿-254 氟化物燃料氟锂铍盐溶液
-
-
 item.contenttweaker.vheu_233.name=甚高浓缩铀-233
 item.contenttweaker.vheu_233_c.name=甚高浓缩铀-233 碳化物
 item.contenttweaker.vheu_233_tr.name=甚高浓缩铀-233 TRISO 燃料颗粒
@@ -901,7 +766,6 @@ fluid.vheu_233_fluoride_flibe=熔融甚高浓缩铀-233 氟化物燃料氟锂铍
 fluid.depleted_vheu_233=熔融枯竭甚高浓缩铀-233 燃料
 fluid.depleted_vheu_233_fluoride=熔融枯竭甚高浓缩铀-233 氟化物燃料
 fluid.depleted_vheu_233_fluoride_flibe=熔融枯竭甚高浓缩铀-233 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.vheu_235.name=甚高浓缩铀-235
 item.contenttweaker.vheu_235_c.name=甚高浓缩铀-235 碳化物
 item.contenttweaker.vheu_235_tr.name=甚高浓缩铀-235 TRISO 燃料颗粒
@@ -918,7 +782,6 @@ fluid.vheu_235_fluoride_flibe=熔融甚高浓缩铀-235 氟化物燃料氟锂铍
 fluid.depleted_vheu_235=熔融枯竭甚高浓缩铀-235 燃料
 fluid.depleted_vheu_235_fluoride=熔融枯竭甚高浓缩铀-235 氟化物燃料
 fluid.depleted_vheu_235_fluoride_flibe=熔融枯竭甚高浓缩铀-235 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.vhen_236.name=甚高浓缩镎-236
 item.contenttweaker.vhen_236_c.name=甚高浓缩镎-236 碳化物
 item.contenttweaker.vhen_236_tr.name=甚高浓缩镎-236 TRISO 燃料颗粒
@@ -935,7 +798,6 @@ fluid.vhen_236_fluoride_flibe=熔融甚高浓缩镎-236 氟化物燃料氟锂铍
 fluid.depleted_vhen_236=熔融枯竭甚高浓缩镎-236 燃料
 fluid.depleted_vhen_236_fluoride=熔融枯竭甚高浓缩镎-236 氟化物燃料
 fluid.depleted_vhen_236_fluoride_flibe=熔融枯竭甚高浓缩镎-236 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.vhep_239.name=甚高浓缩钚-239
 item.contenttweaker.vhep_239_c.name=甚高浓缩钚-239 碳化物
 item.contenttweaker.vhep_239_tr.name=甚高浓缩钚-239 TRISO 燃料颗粒
@@ -952,7 +814,6 @@ fluid.vhep_239_fluoride_flibe=熔融甚高浓缩钚-239 氟化物燃料氟锂铍
 fluid.depleted_vhep_239=熔融枯竭甚高浓缩钚-239 燃料
 fluid.depleted_vhep_239_fluoride=熔融枯竭甚高浓缩钚-239 氟化物燃料
 fluid.depleted_vhep_239_fluoride_flibe=熔融枯竭甚高浓缩钚-239 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.vhep_241.name=甚高浓缩钚-241
 item.contenttweaker.vhep_241_c.name=甚高浓缩钚-241 碳化物
 item.contenttweaker.vhep_241_tr.name=甚高浓缩钚-241 TRISO 燃料颗粒
@@ -969,7 +830,6 @@ fluid.vhep_241_fluoride_flibe=熔融甚高浓缩钚-241 氟化物燃料氟锂铍
 fluid.depleted_vhep_241=熔融枯竭甚高浓缩钚-241 燃料
 fluid.depleted_vhep_241_fluoride=熔融枯竭甚高浓缩钚-241 氟化物燃料
 fluid.depleted_vhep_241_fluoride_flibe=熔融枯竭甚高浓缩钚-241 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.vhea_242.name=甚高浓缩镅-242
 item.contenttweaker.vhea_242_c.name=甚高浓缩镅-242 碳化物
 item.contenttweaker.vhea_242_tr.name=甚高浓缩镅-242 TRISO 燃料颗粒
@@ -986,7 +846,6 @@ fluid.vhea_242_fluoride_flibe=熔融甚高浓缩镅-242 氟化物燃料氟锂铍
 fluid.depleted_vhea_242=熔融枯竭甚高浓缩镅-242 燃料
 fluid.depleted_vhea_242_fluoride=熔融枯竭甚高浓缩镅-242 氟化物燃料
 fluid.depleted_vhea_242_fluoride_flibe=熔融枯竭甚高浓缩镅-242 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.vhecm_243.name=甚高浓缩锔-243
 item.contenttweaker.vhecm_243_c.name=甚高浓缩锔-243 碳化物
 item.contenttweaker.vhecm_243_tr.name=甚高浓缩锔-243 TRISO 燃料颗粒
@@ -1003,7 +862,6 @@ fluid.vhecm_243_fluoride_flibe=熔融甚高浓缩锔-243 氟化物燃料氟锂�
 fluid.depleted_vhecm_243=熔融枯竭甚高浓缩锔-243 燃料
 fluid.depleted_vhecm_243_fluoride=熔融枯竭甚高浓缩锔-243 氟化物燃料
 fluid.depleted_vhecm_243_fluoride_flibe=熔融枯竭甚高浓缩锔-243 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.vhecm_245.name=甚高浓缩锔-245
 item.contenttweaker.vhecm_245_c.name=甚高浓缩锔-245 碳化物
 item.contenttweaker.vhecm_245_tr.name=甚高浓缩锔-245 TRISO 燃料颗粒
@@ -1020,7 +878,6 @@ fluid.vhecm_245_fluoride_flibe=熔融甚高浓缩锔-245 氟化物燃料氟锂�
 fluid.depleted_vhecm_245=熔融枯竭甚高浓缩锔-245 燃料
 fluid.depleted_vhecm_245_fluoride=熔融枯竭甚高浓缩锔-245 氟化物燃料
 fluid.depleted_vhecm_245_fluoride_flibe=熔融枯竭甚高浓缩锔-245 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.vhecm_247.name=甚高浓缩锔-247
 item.contenttweaker.vhecm_247_c.name=甚高浓缩锔-247 碳化物
 item.contenttweaker.vhecm_247_tr.name=甚高浓缩锔-247 TRISO 燃料颗粒
@@ -1037,7 +894,6 @@ fluid.vhecm_247_fluoride_flibe=熔融甚高浓缩锔-247 氟化物燃料氟锂�
 fluid.depleted_vhecm_247=熔融枯竭甚高浓缩锔-247 燃料
 fluid.depleted_vhecm_247_fluoride=熔融枯竭甚高浓缩锔-247 氟化物燃料
 fluid.depleted_vhecm_247_fluoride_flibe=熔融枯竭甚高浓缩锔-247 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.vheb_248.name=甚高浓缩锫-248
 item.contenttweaker.vheb_248_c.name=甚高浓缩锫-248 碳化物
 item.contenttweaker.vheb_248_tr.name=甚高浓缩锫-248 TRISO 燃料颗粒
@@ -1054,7 +910,6 @@ fluid.vheb_248_fluoride_flibe=熔融甚高浓缩锫-248 氟化物燃料氟锂铍
 fluid.depleted_vheb_248=熔融枯竭甚高浓缩锫-248 燃料
 fluid.depleted_vheb_248_fluoride=熔融枯竭甚高浓缩锫-248 氟化物燃料
 fluid.depleted_vheb_248_fluoride_flibe=熔融枯竭甚高浓缩锫-248 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.vhecf_249.name=甚高浓缩锎-249
 item.contenttweaker.vhecf_249_c.name=甚高浓缩锎-249 碳化物
 item.contenttweaker.vhecf_249_tr.name=甚高浓缩锎-249 TRISO 燃料颗粒
@@ -1071,7 +926,6 @@ fluid.vhecf_249_fluoride_flibe=熔融甚高浓缩锎-249 氟化物燃料氟锂�
 fluid.depleted_vhecf_249=熔融枯竭甚高浓缩锎-249 燃料
 fluid.depleted_vhecf_249_fluoride=熔融枯竭甚高浓缩锎-249 氟化物燃料
 fluid.depleted_vhecf_249_fluoride_flibe=熔融枯竭甚高浓缩锎-249 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.vhecf_251.name=甚高浓缩锎-251
 item.contenttweaker.vhecf_251_c.name=甚高浓缩锎-251 碳化物
 item.contenttweaker.vhecf_251_tr.name=甚高浓缩锎-251 TRISO 燃料颗粒
@@ -1088,7 +942,6 @@ fluid.vhecf_251_fluoride_flibe=熔融甚高浓缩锎-251 氟化物燃料氟锂�
 fluid.depleted_vhecf_251=熔融枯竭甚高浓缩锎-251 燃料
 fluid.depleted_vhecf_251_fluoride=熔融枯竭甚高浓缩锎-251 氟化物燃料
 fluid.depleted_vhecf_251_fluoride_flibe=熔融枯竭甚高浓缩锎-251 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.vhecf_253.name=甚高浓缩锎-253
 item.contenttweaker.vhecf_253_c.name=甚高浓缩锎-253 碳化物
 item.contenttweaker.vhecf_253_tr.name=甚高浓缩锎-253 TRISO 燃料颗粒
@@ -1105,7 +958,6 @@ fluid.vhecf_253_fluoride_flibe=熔融甚高浓缩锎-253 氟化物燃料氟锂�
 fluid.depleted_vhecf_253=熔融枯竭甚高浓缩锎-253 燃料
 fluid.depleted_vhecf_253_fluoride=熔融枯竭甚高浓缩锎-253 氟化物燃料
 fluid.depleted_vhecf_253_fluoride_flibe=熔融枯竭甚高浓缩锎-253 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.vhee_254.name=甚高浓缩锿-254
 item.contenttweaker.vhee_254_c.name=甚高浓缩锿-254 碳化物
 item.contenttweaker.vhee_254_tr.name=甚高浓缩锿-254 TRISO 燃料颗粒
@@ -1122,8 +974,6 @@ fluid.vhee_254_fluoride_flibe=熔融甚高浓缩锿-254 氟化物燃料氟锂铍
 fluid.depleted_vhee_254=熔融枯竭甚高浓缩锿-254 燃料
 fluid.depleted_vhee_254_fluoride=熔融枯竭甚高浓缩锿-254 氟化物燃料
 fluid.depleted_vhee_254_fluoride_flibe=熔融枯竭甚高浓缩锿-254 氟化物燃料氟锂铍盐溶液
-
-
 item.contenttweaker.xeu_233.name=极高浓缩铀-233
 item.contenttweaker.xeu_233_c.name=极高浓缩铀-233 碳化物
 item.contenttweaker.xeu_233_tr.name=极高浓缩铀-233 TRISO 燃料颗粒
@@ -1140,7 +990,6 @@ fluid.xeu_233_fluoride_flibe=熔融极高浓缩铀-233 氟化物燃料氟锂铍�
 fluid.depleted_xeu_233=熔融枯竭极高浓缩铀-233 燃料
 fluid.depleted_xeu_233_fluoride=熔融枯竭极高浓缩铀-233 氟化物燃料
 fluid.depleted_xeu_233_fluoride_flibe=熔融枯竭极高浓缩铀-233 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.xeu_235.name=极高浓缩铀-235
 item.contenttweaker.xeu_235_c.name=极高浓缩铀-235 碳化物
 item.contenttweaker.xeu_235_tr.name=极高浓缩铀-235 TRISO 燃料颗粒
@@ -1157,7 +1006,6 @@ fluid.xeu_235_fluoride_flibe=熔融极高浓缩铀-235 氟化物燃料氟锂铍�
 fluid.depleted_xeu_235=熔融枯竭极高浓缩铀-235 燃料
 fluid.depleted_xeu_235_fluoride=熔融枯竭极高浓缩铀-235 氟化物燃料
 fluid.depleted_xeu_235_fluoride_flibe=熔融枯竭极高浓缩铀-235 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.xen_236.name=极高浓缩镎-236
 item.contenttweaker.xen_236_c.name=极高浓缩镎-236 碳化物
 item.contenttweaker.xen_236_tr.name=极高浓缩镎-236 TRISO 燃料颗粒
@@ -1174,7 +1022,6 @@ fluid.xen_236_fluoride_flibe=熔融极高浓缩镎-236 氟化物燃料氟锂铍�
 fluid.depleted_xen_236=熔融枯竭极高浓缩镎-236 燃料
 fluid.depleted_xen_236_fluoride=熔融枯竭极高浓缩镎-236 氟化物燃料
 fluid.depleted_xen_236_fluoride_flibe=熔融枯竭极高浓缩镎-236 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.xep_239.name=极高浓缩钚-239
 item.contenttweaker.xep_239_c.name=极高浓缩钚-239 碳化物
 item.contenttweaker.xep_239_tr.name=极高浓缩钚-239 TRISO 燃料颗粒
@@ -1191,7 +1038,6 @@ fluid.xep_239_fluoride_flibe=熔融极高浓缩钚-239 氟化物燃料氟锂铍�
 fluid.depleted_xep_239=熔融枯竭极高浓缩钚-239 燃料
 fluid.depleted_xep_239_fluoride=熔融枯竭极高浓缩钚-239 氟化物燃料
 fluid.depleted_xep_239_fluoride_flibe=熔融枯竭极高浓缩钚-239 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.xep_241.name=极高浓缩钚-241
 item.contenttweaker.xep_241_c.name=极高浓缩钚-241 碳化物
 item.contenttweaker.xep_241_tr.name=极高浓缩钚-241 TRISO 燃料颗粒
@@ -1208,7 +1054,6 @@ fluid.xep_241_fluoride_flibe=熔融极高浓缩钚-241 氟化物燃料氟锂铍�
 fluid.depleted_xep_241=熔融枯竭极高浓缩钚-241 燃料
 fluid.depleted_xep_241_fluoride=熔融枯竭极高浓缩钚-241 氟化物燃料
 fluid.depleted_xep_241_fluoride_flibe=熔融枯竭极高浓缩钚-241 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.xea_242.name=极高浓缩镅-242
 item.contenttweaker.xea_242_c.name=极高浓缩镅-242 碳化物
 item.contenttweaker.xea_242_tr.name=极高浓缩镅-242 TRISO 燃料颗粒
@@ -1225,7 +1070,6 @@ fluid.xea_242_fluoride_flibe=熔融极高浓缩镅-242 氟化物燃料氟锂铍�
 fluid.depleted_xea_242=熔融枯竭极高浓缩镅-242 燃料
 fluid.depleted_xea_242_fluoride=熔融枯竭极高浓缩镅-242 氟化物燃料
 fluid.depleted_xea_242_fluoride_flibe=熔融枯竭极高浓缩镅-242 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.xecm_243.name=极高浓缩锔-243
 item.contenttweaker.xecm_243_c.name=极高浓缩锔-243 碳化物
 item.contenttweaker.xecm_243_tr.name=极高浓缩锔-243 TRISO 燃料颗粒
@@ -1242,7 +1086,6 @@ fluid.xecm_243_fluoride_flibe=熔融极高浓缩锔-243 氟化物燃料氟锂铍
 fluid.depleted_xecm_243=熔融枯竭极高浓缩锔-243 燃料
 fluid.depleted_xecm_243_fluoride=熔融枯竭极高浓缩锔-243 氟化物燃料
 fluid.depleted_xecm_243_fluoride_flibe=熔融枯竭极高浓缩锔-243 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.xecm_245.name=极高浓缩锔-245
 item.contenttweaker.xecm_245_c.name=极高浓缩锔-245 碳化物
 item.contenttweaker.xecm_245_tr.name=极高浓缩锔-245 TRISO 燃料颗粒
@@ -1259,7 +1102,6 @@ fluid.xecm_245_fluoride_flibe=熔融极高浓缩锔-245 氟化物燃料氟锂铍
 fluid.depleted_xecm_245=熔融枯竭极高浓缩锔-245 燃料
 fluid.depleted_xecm_245_fluoride=熔融枯竭极高浓缩锔-245 氟化物燃料
 fluid.depleted_xecm_245_fluoride_flibe=熔融枯竭极高浓缩锔-245 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.xecm_247.name=极高浓缩锔-247
 item.contenttweaker.xecm_247_c.name=极高浓缩锔-247 碳化物
 item.contenttweaker.xecm_247_tr.name=极高浓缩锔-247 TRISO 燃料颗粒
@@ -1276,7 +1118,6 @@ fluid.xecm_247_fluoride_flibe=熔融极高浓缩锔-247 氟化物燃料氟锂铍
 fluid.depleted_xecm_247=熔融枯竭极高浓缩锔-247 燃料
 fluid.depleted_xecm_247_fluoride=熔融枯竭极高浓缩锔-247 氟化物燃料
 fluid.depleted_xecm_247_fluoride_flibe=熔融枯竭极高浓缩锔-247 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.xeb_248.name=极高浓缩锫-248
 item.contenttweaker.xeb_248_c.name=极高浓缩锫-248 碳化物
 item.contenttweaker.xeb_248_tr.name=极高浓缩锫-248 TRISO 燃料颗粒
@@ -1293,7 +1134,6 @@ fluid.xeb_248_fluoride_flibe=熔融极高浓缩锫-248 氟化物燃料氟锂铍�
 fluid.depleted_xeb_248=熔融枯竭极高浓缩锫-248 燃料
 fluid.depleted_xeb_248_fluoride=熔融枯竭极高浓缩锫-248 氟化物燃料
 fluid.depleted_xeb_248_fluoride_flibe=熔融枯竭极高浓缩锫-248 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.xecf_249.name=极高浓缩锎-249
 item.contenttweaker.xecf_249_c.name=极高浓缩锎-249 碳化物
 item.contenttweaker.xecf_249_tr.name=极高浓缩锎-249 TRISO 燃料颗粒
@@ -1310,7 +1150,6 @@ fluid.xecf_249_fluoride_flibe=熔融极高浓缩锎-249 氟化物燃料氟锂铍
 fluid.depleted_xecf_249=熔融枯竭极高浓缩锎-249 燃料
 fluid.depleted_xecf_249_fluoride=熔融枯竭极高浓缩锎-249 氟化物燃料
 fluid.depleted_xecf_249_fluoride_flibe=熔融枯竭极高浓缩锎-249 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.xecf_251.name=极高浓缩锎-251
 item.contenttweaker.xecf_251_c.name=极高浓缩锎-251 碳化物
 item.contenttweaker.xecf_251_tr.name=极高浓缩锎-251 TRISO 燃料颗粒
@@ -1327,7 +1166,6 @@ fluid.xecf_251_fluoride_flibe=熔融极高浓缩锎-251 氟化物燃料氟锂铍
 fluid.depleted_xecf_251=熔融枯竭极高浓缩锎-251 燃料
 fluid.depleted_xecf_251_fluoride=熔融枯竭极高浓缩锎-251 氟化物燃料
 fluid.depleted_xecf_251_fluoride_flibe=熔融枯竭极高浓缩锎-251 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.xecf_253.name=极高浓缩锎-253
 item.contenttweaker.xecf_253_c.name=极高浓缩锎-253 碳化物
 item.contenttweaker.xecf_253_tr.name=极高浓缩锎-253 TRISO 燃料颗粒
@@ -1344,7 +1182,6 @@ fluid.xecf_253_fluoride_flibe=熔融极高浓缩锎-253 氟化物燃料氟锂铍
 fluid.depleted_xecf_253=熔融枯竭极高浓缩锎-253 燃料
 fluid.depleted_xecf_253_fluoride=熔融枯竭极高浓缩锎-253 氟化物燃料
 fluid.depleted_xecf_253_fluoride_flibe=熔融枯竭极高浓缩锎-253 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.xee_254.name=极高浓缩锿-254
 item.contenttweaker.xee_254_c.name=极高浓缩锿-254 碳化物
 item.contenttweaker.xee_254_tr.name=极高浓缩锿-254 TRISO 燃料颗粒
@@ -1361,8 +1198,6 @@ fluid.xee_254_fluoride_flibe=熔融极高浓缩锿-254 氟化物燃料氟锂铍�
 fluid.depleted_xee_254=熔融枯竭极高浓缩锿-254 燃料
 fluid.depleted_xee_254_fluoride=熔融枯竭极高浓缩锿-254 氟化物燃料
 fluid.depleted_xee_254_fluoride_flibe=熔融枯竭极高浓缩锿-254 氟化物燃料氟锂铍盐溶液
-
-
 item.contenttweaker.seu_233.name=超高浓缩铀-233
 item.contenttweaker.seu_233_c.name=超高浓缩铀-233 碳化物
 item.contenttweaker.seu_233_tr.name=超高浓缩铀-233 TRISO 燃料颗粒
@@ -1379,7 +1214,6 @@ fluid.seu_233_fluoride_flibe=熔融超高浓缩铀-233 氟化物燃料氟锂铍�
 fluid.depleted_seu_233=熔融枯竭超高浓缩铀-233 燃料
 fluid.depleted_seu_233_fluoride=熔融枯竭超高浓缩铀-233 氟化物燃料
 fluid.depleted_seu_233_fluoride_flibe=熔融枯竭超高浓缩铀-233 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.seu_235.name=超高浓缩铀-235
 item.contenttweaker.seu_235_c.name=超高浓缩铀-235 碳化物
 item.contenttweaker.seu_235_tr.name=超高浓缩铀-235 TRISO 燃料颗粒
@@ -1396,7 +1230,6 @@ fluid.seu_235_fluoride_flibe=熔融超高浓缩铀-235 氟化物燃料氟锂铍�
 fluid.depleted_seu_235=熔融枯竭超高浓缩铀-235 燃料
 fluid.depleted_seu_235_fluoride=熔融枯竭超高浓缩铀-235 氟化物燃料
 fluid.depleted_seu_235_fluoride_flibe=熔融枯竭超高浓缩铀-235 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.sen_236.name=超高浓缩镎-236
 item.contenttweaker.sen_236_c.name=超高浓缩镎-236 碳化物
 item.contenttweaker.sen_236_tr.name=超高浓缩镎-236 TRISO 燃料颗粒
@@ -1413,7 +1246,6 @@ fluid.sen_236_fluoride_flibe=熔融超高浓缩镎-236 氟化物燃料氟锂铍�
 fluid.depleted_sen_236=熔融枯竭超高浓缩镎-236 燃料
 fluid.depleted_sen_236_fluoride=熔融枯竭超高浓缩镎-236 氟化物燃料
 fluid.depleted_sen_236_fluoride_flibe=熔融枯竭超高浓缩镎-236 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.sep_239.name=超高浓缩钚-239
 item.contenttweaker.sep_239_c.name=超高浓缩钚-239 碳化物
 item.contenttweaker.sep_239_tr.name=超高浓缩钚-239 TRISO 燃料颗粒
@@ -1430,7 +1262,6 @@ fluid.sep_239_fluoride_flibe=熔融超高浓缩钚-239 氟化物燃料氟锂铍�
 fluid.depleted_sep_239=熔融枯竭超高浓缩钚-239 燃料
 fluid.depleted_sep_239_fluoride=熔融枯竭超高浓缩钚-239 氟化物燃料
 fluid.depleted_sep_239_fluoride_flibe=熔融枯竭超高浓缩钚-239 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.sep_241.name=超高浓缩钚-241
 item.contenttweaker.sep_241_c.name=超高浓缩钚-241 碳化物
 item.contenttweaker.sep_241_tr.name=超高浓缩钚-241 TRISO 燃料颗粒
@@ -1447,7 +1278,6 @@ fluid.sep_241_fluoride_flibe=熔融超高浓缩钚-241 氟化物燃料氟锂铍�
 fluid.depleted_sep_241=熔融枯竭超高浓缩钚-241 燃料
 fluid.depleted_sep_241_fluoride=熔融枯竭超高浓缩钚-241 氟化物燃料
 fluid.depleted_sep_241_fluoride_flibe=熔融枯竭超高浓缩钚-241 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.sea_242.name=超高浓缩镅-242
 item.contenttweaker.sea_242_c.name=超高浓缩镅-242 碳化物
 item.contenttweaker.sea_242_tr.name=超高浓缩镅-242 TRISO 燃料颗粒
@@ -1464,7 +1294,6 @@ fluid.sea_242_fluoride_flibe=熔融超高浓缩镅-242 氟化物燃料氟锂铍�
 fluid.depleted_sea_242=熔融枯竭超高浓缩镅-242 燃料
 fluid.depleted_sea_242_fluoride=熔融枯竭超高浓缩镅-242 氟化物燃料
 fluid.depleted_sea_242_fluoride_flibe=熔融枯竭超高浓缩镅-242 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.secm_243.name=超高浓缩锔-243
 item.contenttweaker.secm_243_c.name=超高浓缩锔-243 碳化物
 item.contenttweaker.secm_243_tr.name=超高浓缩锔-243 TRISO 燃料颗粒
@@ -1481,7 +1310,6 @@ fluid.secm_243_fluoride_flibe=熔融超高浓缩锔-243 氟化物燃料氟锂铍
 fluid.depleted_secm_243=熔融枯竭超高浓缩锔-243 燃料
 fluid.depleted_secm_243_fluoride=熔融枯竭超高浓缩锔-243 氟化物燃料
 fluid.depleted_secm_243_fluoride_flibe=熔融枯竭超高浓缩锔-243 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.secm_245.name=超高浓缩锔-245
 item.contenttweaker.secm_245_c.name=超高浓缩锔-245 碳化物
 item.contenttweaker.secm_245_tr.name=超高浓缩锔-245 TRISO 燃料颗粒
@@ -1498,7 +1326,6 @@ fluid.secm_245_fluoride_flibe=熔融超高浓缩锔-245 氟化物燃料氟锂铍
 fluid.depleted_secm_245=熔融枯竭超高浓缩锔-245 燃料
 fluid.depleted_secm_245_fluoride=熔融枯竭超高浓缩锔-245 氟化物燃料
 fluid.depleted_secm_245_fluoride_flibe=熔融枯竭超高浓缩锔-245 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.secm_247.name=超高浓缩锔-247
 item.contenttweaker.secm_247_c.name=超高浓缩锔-247 碳化物
 item.contenttweaker.secm_247_tr.name=超高浓缩锔-247 TRISO 燃料颗粒
@@ -1515,7 +1342,6 @@ fluid.secm_247_fluoride_flibe=熔融超高浓缩锔-247 氟化物燃料氟锂铍
 fluid.depleted_secm_247=熔融枯竭超高浓缩锔-247 燃料
 fluid.depleted_secm_247_fluoride=熔融枯竭超高浓缩锔-247 氟化物燃料
 fluid.depleted_secm_247_fluoride_flibe=熔融枯竭超高浓缩锔-247 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.seb_248.name=超高浓缩锫-248
 item.contenttweaker.seb_248_c.name=超高浓缩锫-248 碳化物
 item.contenttweaker.seb_248_tr.name=超高浓缩锫-248 TRISO 燃料颗粒
@@ -1532,7 +1358,6 @@ fluid.seb_248_fluoride_flibe=熔融超高浓缩锫-248 氟化物燃料氟锂铍�
 fluid.depleted_seb_248=熔融枯竭超高浓缩锫-248 燃料
 fluid.depleted_seb_248_fluoride=熔融枯竭超高浓缩锫-248 氟化物燃料
 fluid.depleted_seb_248_fluoride_flibe=熔融枯竭超高浓缩锫-248 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.secf_249.name=超高浓缩锎-249
 item.contenttweaker.secf_249_c.name=超高浓缩锎-249 碳化物
 item.contenttweaker.secf_249_tr.name=超高浓缩锎-249 TRISO 燃料颗粒
@@ -1549,7 +1374,6 @@ fluid.secf_249_fluoride_flibe=熔融超高浓缩锎-249 氟化物燃料氟锂铍
 fluid.depleted_secf_249=熔融枯竭超高浓缩锎-249 燃料
 fluid.depleted_secf_249_fluoride=熔融枯竭超高浓缩锎-249 氟化物燃料
 fluid.depleted_secf_249_fluoride_flibe=熔融枯竭超高浓缩锎-249 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.secf_251.name=超高浓缩锎-251
 item.contenttweaker.secf_251_c.name=超高浓缩锎-251 碳化物
 item.contenttweaker.secf_251_tr.name=超高浓缩锎-251 TRISO 燃料颗粒
@@ -1566,7 +1390,6 @@ fluid.secf_251_fluoride_flibe=熔融超高浓缩锎-251 氟化物燃料氟锂铍
 fluid.depleted_secf_251=熔融枯竭超高浓缩锎-251 燃料
 fluid.depleted_secf_251_fluoride=熔融枯竭超高浓缩锎-251 氟化物燃料
 fluid.depleted_secf_251_fluoride_flibe=熔融枯竭超高浓缩锎-251 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.secf_253.name=超高浓缩锎-253
 item.contenttweaker.secf_253_c.name=超高浓缩锎-253 碳化物
 item.contenttweaker.secf_253_tr.name=超高浓缩锎-253 TRISO 燃料颗粒
@@ -1583,7 +1406,6 @@ fluid.secf_253_fluoride_flibe=熔融超高浓缩锎-253 氟化物燃料氟锂铍
 fluid.depleted_secf_253=熔融枯竭超高浓缩锎-253 燃料
 fluid.depleted_secf_253_fluoride=熔融枯竭超高浓缩锎-253 氟化物燃料
 fluid.depleted_secf_253_fluoride_flibe=熔融枯竭超高浓缩锎-253 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.see_254.name=超高浓缩锿-254
 item.contenttweaker.see_254_c.name=超高浓缩锿-254 碳化物
 item.contenttweaker.see_254_tr.name=超高浓缩锿-254 TRISO 燃料颗粒
@@ -1600,8 +1422,6 @@ fluid.see_254_fluoride_flibe=熔融超高浓缩锿-254 氟化物燃料氟锂铍�
 fluid.depleted_see_254=熔融枯竭超高浓缩锿-254 燃料
 fluid.depleted_see_254_fluoride=熔融枯竭超高浓缩锿-254 氟化物燃料
 fluid.depleted_see_254_fluoride_flibe=熔融枯竭超高浓缩锿-254 氟化物燃料氟锂铍盐溶液
-
-
 item.contenttweaker.ueu_233.name=特高浓缩铀-233
 item.contenttweaker.ueu_233_c.name=特高浓缩铀-233 碳化物
 item.contenttweaker.ueu_233_tr.name=特高浓缩铀-233 TRISO 燃料颗粒
@@ -1618,7 +1438,6 @@ fluid.ueu_233_fluoride_flibe=熔融特高浓缩铀-233 氟化物燃料氟锂铍�
 fluid.depleted_ueu_233=熔融枯竭特高浓缩铀-233 燃料
 fluid.depleted_ueu_233_fluoride=熔融枯竭特高浓缩铀-233 氟化物燃料
 fluid.depleted_ueu_233_fluoride_flibe=熔融枯竭特高浓缩铀-233 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ueu_235.name=特高浓缩铀-235
 item.contenttweaker.ueu_235_c.name=特高浓缩铀-235 碳化物
 item.contenttweaker.ueu_235_tr.name=特高浓缩铀-235 TRISO 燃料颗粒
@@ -1635,7 +1454,6 @@ fluid.ueu_235_fluoride_flibe=熔融特高浓缩铀-235 氟化物燃料氟锂铍�
 fluid.depleted_ueu_235=熔融枯竭特高浓缩铀-235 燃料
 fluid.depleted_ueu_235_fluoride=熔融枯竭特高浓缩铀-235 氟化物燃料
 fluid.depleted_ueu_235_fluoride_flibe=熔融枯竭特高浓缩铀-235 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.uen_236.name=特高浓缩镎-236
 item.contenttweaker.uen_236_c.name=特高浓缩镎-236 碳化物
 item.contenttweaker.uen_236_tr.name=特高浓缩镎-236 TRISO 燃料颗粒
@@ -1652,7 +1470,6 @@ fluid.uen_236_fluoride_flibe=熔融特高浓缩镎-236 氟化物燃料氟锂铍�
 fluid.depleted_uen_236=熔融枯竭特高浓缩镎-236 燃料
 fluid.depleted_uen_236_fluoride=熔融枯竭特高浓缩镎-236 氟化物燃料
 fluid.depleted_uen_236_fluoride_flibe=熔融枯竭特高浓缩镎-236 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.uep_239.name=特高浓缩钚-239
 item.contenttweaker.uep_239_c.name=特高浓缩钚-239 碳化物
 item.contenttweaker.uep_239_tr.name=特高浓缩钚-239 TRISO 燃料颗粒
@@ -1669,7 +1486,6 @@ fluid.uep_239_fluoride_flibe=熔融特高浓缩钚-239 氟化物燃料氟锂铍�
 fluid.depleted_uep_239=熔融枯竭特高浓缩钚-239 燃料
 fluid.depleted_uep_239_fluoride=熔融枯竭特高浓缩钚-239 氟化物燃料
 fluid.depleted_uep_239_fluoride_flibe=熔融枯竭特高浓缩钚-239 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.uep_241.name=特高浓缩钚-241
 item.contenttweaker.uep_241_c.name=特高浓缩钚-241 碳化物
 item.contenttweaker.uep_241_tr.name=特高浓缩钚-241 TRISO 燃料颗粒
@@ -1686,7 +1502,6 @@ fluid.uep_241_fluoride_flibe=熔融特高浓缩钚-241 氟化物燃料氟锂铍�
 fluid.depleted_uep_241=熔融枯竭特高浓缩钚-241 燃料
 fluid.depleted_uep_241_fluoride=熔融枯竭特高浓缩钚-241 氟化物燃料
 fluid.depleted_uep_241_fluoride_flibe=熔融枯竭特高浓缩钚-241 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.uea_242.name=特高浓缩镅-242
 item.contenttweaker.uea_242_c.name=特高浓缩镅-242 碳化物
 item.contenttweaker.uea_242_tr.name=特高浓缩镅-242 TRISO 燃料颗粒
@@ -1703,7 +1518,6 @@ fluid.uea_242_fluoride_flibe=熔融特高浓缩镅-242 氟化物燃料氟锂铍�
 fluid.depleted_uea_242=熔融枯竭特高浓缩镅-242 燃料
 fluid.depleted_uea_242_fluoride=熔融枯竭特高浓缩镅-242 氟化物燃料
 fluid.depleted_uea_242_fluoride_flibe=熔融枯竭特高浓缩镅-242 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.uecm_243.name=特高浓缩锔-243
 item.contenttweaker.uecm_243_c.name=特高浓缩锔-243 碳化物
 item.contenttweaker.uecm_243_tr.name=特高浓缩锔-243 TRISO 燃料颗粒
@@ -1720,7 +1534,6 @@ fluid.uecm_243_fluoride_flibe=熔融特高浓缩锔-243 氟化物燃料氟锂铍
 fluid.depleted_uecm_243=熔融枯竭特高浓缩锔-243 燃料
 fluid.depleted_uecm_243_fluoride=熔融枯竭特高浓缩锔-243 氟化物燃料
 fluid.depleted_uecm_243_fluoride_flibe=熔融枯竭特高浓缩锔-243 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.uecm_245.name=特高浓缩锔-245
 item.contenttweaker.uecm_245_c.name=特高浓缩锔-245 碳化物
 item.contenttweaker.uecm_245_tr.name=特高浓缩锔-245 TRISO 燃料颗粒
@@ -1737,7 +1550,6 @@ fluid.uecm_245_fluoride_flibe=熔融特高浓缩锔-245 氟化物燃料氟锂铍
 fluid.depleted_uecm_245=熔融枯竭特高浓缩锔-245 燃料
 fluid.depleted_uecm_245_fluoride=熔融枯竭特高浓缩锔-245 氟化物燃料
 fluid.depleted_uecm_245_fluoride_flibe=熔融枯竭特高浓缩锔-245 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.uecm_247.name=特高浓缩锔-247
 item.contenttweaker.uecm_247_c.name=特高浓缩锔-247 碳化物
 item.contenttweaker.uecm_247_tr.name=特高浓缩锔-247 TRISO 燃料颗粒
@@ -1754,7 +1566,6 @@ fluid.uecm_247_fluoride_flibe=熔融特高浓缩锔-247 氟化物燃料氟锂铍
 fluid.depleted_uecm_247=熔融枯竭特高浓缩锔-247 燃料
 fluid.depleted_uecm_247_fluoride=熔融枯竭特高浓缩锔-247 氟化物燃料
 fluid.depleted_uecm_247_fluoride_flibe=熔融枯竭特高浓缩锔-247 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ueb_248.name=特高浓缩锫-248
 item.contenttweaker.ueb_248_c.name=特高浓缩锫-248 碳化物
 item.contenttweaker.ueb_248_tr.name=特高浓缩锫-248 TRISO 燃料颗粒
@@ -1771,7 +1582,6 @@ fluid.ueb_248_fluoride_flibe=熔融特高浓缩锫-248 氟化物燃料氟锂铍�
 fluid.depleted_ueb_248=熔融枯竭特高浓缩锫-248 燃料
 fluid.depleted_ueb_248_fluoride=熔融枯竭特高浓缩锫-248 氟化物燃料
 fluid.depleted_ueb_248_fluoride_flibe=熔融枯竭特高浓缩锫-248 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.uecf_249.name=特高浓缩锎-249
 item.contenttweaker.uecf_249_c.name=特高浓缩锎-249 碳化物
 item.contenttweaker.uecf_249_tr.name=特高浓缩锎-249 TRISO 燃料颗粒
@@ -1788,7 +1598,6 @@ fluid.uecf_249_fluoride_flibe=熔融特高浓缩锎-249 氟化物燃料氟锂铍
 fluid.depleted_uecf_249=熔融枯竭特高浓缩锎-249 燃料
 fluid.depleted_uecf_249_fluoride=熔融枯竭特高浓缩锎-249 氟化物燃料
 fluid.depleted_uecf_249_fluoride_flibe=熔融枯竭特高浓缩锎-249 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.uecf_251.name=特高浓缩锎-251
 item.contenttweaker.uecf_251_c.name=特高浓缩锎-251 碳化物
 item.contenttweaker.uecf_251_tr.name=特高浓缩锎-251 TRISO 燃料颗粒
@@ -1805,7 +1614,6 @@ fluid.uecf_251_fluoride_flibe=熔融特高浓缩锎-251 氟化物燃料氟锂铍
 fluid.depleted_uecf_251=熔融枯竭特高浓缩锎-251 燃料
 fluid.depleted_uecf_251_fluoride=熔融枯竭特高浓缩锎-251 氟化物燃料
 fluid.depleted_uecf_251_fluoride_flibe=熔融枯竭特高浓缩锎-251 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.uecf_253.name=特高浓缩锎-253
 item.contenttweaker.uecf_253_c.name=特高浓缩锎-253 碳化物
 item.contenttweaker.uecf_253_tr.name=特高浓缩锎-253 TRISO 燃料颗粒
@@ -1822,7 +1630,6 @@ fluid.uecf_253_fluoride_flibe=熔融特高浓缩锎-253 氟化物燃料氟锂铍
 fluid.depleted_uecf_253=熔融枯竭特高浓缩锎-253 燃料
 fluid.depleted_uecf_253_fluoride=熔融枯竭特高浓缩锎-253 氟化物燃料
 fluid.depleted_uecf_253_fluoride_flibe=熔融枯竭特高浓缩锎-253 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.uee_254.name=特高浓缩锿-254
 item.contenttweaker.uee_254_c.name=特高浓缩锿-254 碳化物
 item.contenttweaker.uee_254_tr.name=特高浓缩锿-254 TRISO 燃料颗粒
@@ -1839,8 +1646,6 @@ fluid.uee_254_fluoride_flibe=熔融特高浓缩锿-254 氟化物燃料氟锂铍�
 fluid.depleted_uee_254=熔融枯竭特高浓缩锿-254 燃料
 fluid.depleted_uee_254_fluoride=熔融枯竭特高浓缩锿-254 氟化物燃料
 fluid.depleted_uee_254_fluoride_flibe=熔融枯竭特高浓缩锿-254 氟化物燃料氟锂铍盐溶液
-
-
 item.contenttweaker.wgu_233.name=武器级别铀-233
 item.contenttweaker.wgu_233_c.name=武器级别铀-233 碳化物
 item.contenttweaker.wgu_233_tr.name=武器级别铀-233 TRISO 燃料颗粒
@@ -1857,7 +1662,6 @@ fluid.wgu_233_fluoride_flibe=熔融武器级别铀-233 氟化物燃料氟锂铍�
 fluid.depleted_wgu_233=熔融枯竭武器级别铀-233 燃料
 fluid.depleted_wgu_233_fluoride=熔融枯竭武器级别铀-233 氟化物燃料
 fluid.depleted_wgu_233_fluoride_flibe=熔融枯竭武器级别铀-233 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.wgu_235.name=武器级别铀-235
 item.contenttweaker.wgu_235_c.name=武器级别铀-235 碳化物
 item.contenttweaker.wgu_235_tr.name=武器级别铀-235 TRISO 燃料颗粒
@@ -1874,7 +1678,6 @@ fluid.wgu_235_fluoride_flibe=熔融武器级别铀-235 氟化物燃料氟锂铍�
 fluid.depleted_wgu_235=熔融枯竭武器级别铀-235 燃料
 fluid.depleted_wgu_235_fluoride=熔融枯竭武器级别铀-235 氟化物燃料
 fluid.depleted_wgu_235_fluoride_flibe=熔融枯竭武器级别铀-235 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.wgn_236.name=武器级别镎-236
 item.contenttweaker.wgn_236_c.name=武器级别镎-236 碳化物
 item.contenttweaker.wgn_236_tr.name=武器级别镎-236 TRISO 燃料颗粒
@@ -1891,7 +1694,6 @@ fluid.wgn_236_fluoride_flibe=熔融武器级别镎-236 氟化物燃料氟锂铍�
 fluid.depleted_wgn_236=熔融枯竭武器级别镎-236 燃料
 fluid.depleted_wgn_236_fluoride=熔融枯竭武器级别镎-236 氟化物燃料
 fluid.depleted_wgn_236_fluoride_flibe=熔融枯竭武器级别镎-236 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.wgp_239.name=武器级别钚-239
 item.contenttweaker.wgp_239_c.name=武器级别钚-239 碳化物
 item.contenttweaker.wgp_239_tr.name=武器级别钚-239 TRISO 燃料颗粒
@@ -1908,7 +1710,6 @@ fluid.wgp_239_fluoride_flibe=熔融武器级别钚-239 氟化物燃料氟锂铍�
 fluid.depleted_wgp_239=熔融枯竭武器级别钚-239 燃料
 fluid.depleted_wgp_239_fluoride=熔融枯竭武器级别钚-239 氟化物燃料
 fluid.depleted_wgp_239_fluoride_flibe=熔融枯竭武器级别钚-239 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.wgp_241.name=武器级别钚-241
 item.contenttweaker.wgp_241_c.name=武器级别钚-241 碳化物
 item.contenttweaker.wgp_241_tr.name=武器级别钚-241 TRISO 燃料颗粒
@@ -1925,7 +1726,6 @@ fluid.wgp_241_fluoride_flibe=熔融武器级别钚-241 氟化物燃料氟锂铍�
 fluid.depleted_wgp_241=熔融枯竭武器级别钚-241 燃料
 fluid.depleted_wgp_241_fluoride=熔融枯竭武器级别钚-241 氟化物燃料
 fluid.depleted_wgp_241_fluoride_flibe=熔融枯竭武器级别钚-241 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.wga_242.name=武器级别镅-242
 item.contenttweaker.wga_242_c.name=武器级别镅-242 碳化物
 item.contenttweaker.wga_242_tr.name=武器级别镅-242 TRISO 燃料颗粒
@@ -1942,7 +1742,6 @@ fluid.wga_242_fluoride_flibe=熔融武器级别镅-242 氟化物燃料氟锂铍�
 fluid.depleted_wga_242=熔融枯竭武器级别镅-242 燃料
 fluid.depleted_wga_242_fluoride=熔融枯竭武器级别镅-242 氟化物燃料
 fluid.depleted_wga_242_fluoride_flibe=熔融枯竭武器级别镅-242 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.wgcm_243.name=武器级别锔-243
 item.contenttweaker.wgcm_243_c.name=武器级别锔-243 碳化物
 item.contenttweaker.wgcm_243_tr.name=武器级别锔-243 TRISO 燃料颗粒
@@ -1959,7 +1758,6 @@ fluid.wgcm_243_fluoride_flibe=熔融武器级别锔-243 氟化物燃料氟锂铍
 fluid.depleted_wgcm_243=熔融枯竭武器级别锔-243 燃料
 fluid.depleted_wgcm_243_fluoride=熔融枯竭武器级别锔-243 氟化物燃料
 fluid.depleted_wgcm_243_fluoride_flibe=熔融枯竭武器级别锔-243 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.wgcm_245.name=武器级别锔-245
 item.contenttweaker.wgcm_245_c.name=武器级别锔-245 碳化物
 item.contenttweaker.wgcm_245_tr.name=武器级别锔-245 TRISO 燃料颗粒
@@ -1976,7 +1774,6 @@ fluid.wgcm_245_fluoride_flibe=熔融武器级别锔-245 氟化物燃料氟锂铍
 fluid.depleted_wgcm_245=熔融枯竭武器级别锔-245 燃料
 fluid.depleted_wgcm_245_fluoride=熔融枯竭武器级别锔-245 氟化物燃料
 fluid.depleted_wgcm_245_fluoride_flibe=熔融枯竭武器级别锔-245 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.wgcm_247.name=武器级别锔-247
 item.contenttweaker.wgcm_247_c.name=武器级别锔-247 碳化物
 item.contenttweaker.wgcm_247_tr.name=武器级别锔-247 TRISO 燃料颗粒
@@ -1993,7 +1790,6 @@ fluid.wgcm_247_fluoride_flibe=熔融武器级别锔-247 氟化物燃料氟锂铍
 fluid.depleted_wgcm_247=熔融枯竭武器级别锔-247 燃料
 fluid.depleted_wgcm_247_fluoride=熔融枯竭武器级别锔-247 氟化物燃料
 fluid.depleted_wgcm_247_fluoride_flibe=熔融枯竭武器级别锔-247 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.wgb_248.name=武器级别锫-248
 item.contenttweaker.wgb_248_c.name=武器级别锫-248 碳化物
 item.contenttweaker.wgb_248_tr.name=武器级别锫-248 TRISO 燃料颗粒
@@ -2010,7 +1806,6 @@ fluid.wgb_248_fluoride_flibe=熔融武器级别锫-248 氟化物燃料氟锂铍�
 fluid.depleted_wgb_248=熔融枯竭武器级别锫-248 燃料
 fluid.depleted_wgb_248_fluoride=熔融枯竭武器级别锫-248 氟化物燃料
 fluid.depleted_wgb_248_fluoride_flibe=熔融枯竭武器级别锫-248 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.wgcf_249.name=武器级别锎-249
 item.contenttweaker.wgcf_249_c.name=武器级别锎-249 碳化物
 item.contenttweaker.wgcf_249_tr.name=武器级别锎-249 TRISO 燃料颗粒
@@ -2027,7 +1822,6 @@ fluid.wgcf_249_fluoride_flibe=熔融武器级别锎-249 氟化物燃料氟锂铍
 fluid.depleted_wgcf_249=熔融枯竭武器级别锎-249 燃料
 fluid.depleted_wgcf_249_fluoride=熔融枯竭武器级别锎-249 氟化物燃料
 fluid.depleted_wgcf_249_fluoride_flibe=熔融枯竭武器级别锎-249 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.wgcf_251.name=武器级别锎-251
 item.contenttweaker.wgcf_251_c.name=武器级别锎-251 碳化物
 item.contenttweaker.wgcf_251_tr.name=武器级别锎-251 TRISO 燃料颗粒
@@ -2044,7 +1838,6 @@ fluid.wgcf_251_fluoride_flibe=熔融武器级别锎-251 氟化物燃料氟锂铍
 fluid.depleted_wgcf_251=熔融枯竭武器级别锎-251 燃料
 fluid.depleted_wgcf_251_fluoride=熔融枯竭武器级别锎-251 氟化物燃料
 fluid.depleted_wgcf_251_fluoride_flibe=熔融枯竭武器级别锎-251 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.wgcf_253.name=武器级别锎-253
 item.contenttweaker.wgcf_253_c.name=武器级别锎-253 碳化物
 item.contenttweaker.wgcf_253_tr.name=武器级别锎-253 TRISO 燃料颗粒
@@ -2061,7 +1854,6 @@ fluid.wgcf_253_fluoride_flibe=熔融武器级别锎-253 氟化物燃料氟锂铍
 fluid.depleted_wgcf_253=熔融枯竭武器级别锎-253 燃料
 fluid.depleted_wgcf_253_fluoride=熔融枯竭武器级别锎-253 氟化物燃料
 fluid.depleted_wgcf_253_fluoride_flibe=熔融枯竭武器级别锎-253 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.wge_254.name=武器级别锿-254
 item.contenttweaker.wge_254_c.name=武器级别锿-254 碳化物
 item.contenttweaker.wge_254_tr.name=武器级别锿-254 TRISO 燃料颗粒
@@ -2078,8 +1870,6 @@ fluid.wge_254_fluoride_flibe=熔融武器级别锿-254 氟化物燃料氟锂铍�
 fluid.depleted_wge_254=熔融枯竭武器级别锿-254 燃料
 fluid.depleted_wge_254_fluoride=熔融枯竭武器级别锿-254 氟化物燃料
 fluid.depleted_wge_254_fluoride_flibe=熔融枯竭武器级别锿-254 氟化物燃料氟锂铍盐溶液
-
-
 item.contenttweaker.ipu_233.name=同位素纯铀-233
 item.contenttweaker.ipu_233_c.name=同位素纯铀-233 碳化物
 item.contenttweaker.ipu_233_tr.name=同位素纯铀-233 TRISO 燃料颗粒
@@ -2096,7 +1886,6 @@ fluid.ipu_233_fluoride_flibe=熔融同位素纯铀-233 氟化物燃料氟锂铍�
 fluid.depleted_ipu_233=熔融枯竭同位素纯铀-233 燃料
 fluid.depleted_ipu_233_fluoride=熔融枯竭同位素纯铀-233 氟化物燃料
 fluid.depleted_ipu_233_fluoride_flibe=熔融枯竭同位素纯铀-233 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ipu_235.name=同位素纯铀-235
 item.contenttweaker.ipu_235_c.name=同位素纯铀-235 碳化物
 item.contenttweaker.ipu_235_tr.name=同位素纯铀-235 TRISO 燃料颗粒
@@ -2113,7 +1902,6 @@ fluid.ipu_235_fluoride_flibe=熔融同位素纯铀-235 氟化物燃料氟锂铍�
 fluid.depleted_ipu_235=熔融枯竭同位素纯铀-235 燃料
 fluid.depleted_ipu_235_fluoride=熔融枯竭同位素纯铀-235 氟化物燃料
 fluid.depleted_ipu_235_fluoride_flibe=熔融枯竭同位素纯铀-235 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ipn_236.name=同位素纯镎-236
 item.contenttweaker.ipn_236_c.name=同位素纯镎-236 碳化物
 item.contenttweaker.ipn_236_tr.name=同位素纯镎-236 TRISO 燃料颗粒
@@ -2130,7 +1918,6 @@ fluid.ipn_236_fluoride_flibe=熔融同位素纯镎-236 氟化物燃料氟锂铍�
 fluid.depleted_ipn_236=熔融枯竭同位素纯镎-236 燃料
 fluid.depleted_ipn_236_fluoride=熔融枯竭同位素纯镎-236 氟化物燃料
 fluid.depleted_ipn_236_fluoride_flibe=熔融枯竭同位素纯镎-236 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ipp_239.name=同位素纯钚-239
 item.contenttweaker.ipp_239_c.name=同位素纯钚-239 碳化物
 item.contenttweaker.ipp_239_tr.name=同位素纯钚-239 TRISO 燃料颗粒
@@ -2147,7 +1934,6 @@ fluid.ipp_239_fluoride_flibe=熔融同位素纯钚-239 氟化物燃料氟锂铍�
 fluid.depleted_ipp_239=熔融枯竭同位素纯钚-239 燃料
 fluid.depleted_ipp_239_fluoride=熔融枯竭同位素纯钚-239 氟化物燃料
 fluid.depleted_ipp_239_fluoride_flibe=熔融枯竭同位素纯钚-239 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ipp_241.name=同位素纯钚-241
 item.contenttweaker.ipp_241_c.name=同位素纯钚-241 碳化物
 item.contenttweaker.ipp_241_tr.name=同位素纯钚-241 TRISO 燃料颗粒
@@ -2164,7 +1950,6 @@ fluid.ipp_241_fluoride_flibe=熔融同位素纯钚-241 氟化物燃料氟锂铍�
 fluid.depleted_ipp_241=熔融枯竭同位素纯钚-241 燃料
 fluid.depleted_ipp_241_fluoride=熔融枯竭同位素纯钚-241 氟化物燃料
 fluid.depleted_ipp_241_fluoride_flibe=熔融枯竭同位素纯钚-241 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ipa_242.name=同位素纯镅-242
 item.contenttweaker.ipa_242_c.name=同位素纯镅-242 碳化物
 item.contenttweaker.ipa_242_tr.name=同位素纯镅-242 TRISO 燃料颗粒
@@ -2181,7 +1966,6 @@ fluid.ipa_242_fluoride_flibe=熔融同位素纯镅-242 氟化物燃料氟锂铍�
 fluid.depleted_ipa_242=熔融枯竭同位素纯镅-242 燃料
 fluid.depleted_ipa_242_fluoride=熔融枯竭同位素纯镅-242 氟化物燃料
 fluid.depleted_ipa_242_fluoride_flibe=熔融枯竭同位素纯镅-242 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ipcm_243.name=同位素纯锔-243
 item.contenttweaker.ipcm_243_c.name=同位素纯锔-243 碳化物
 item.contenttweaker.ipcm_243_tr.name=同位素纯锔-243 TRISO 燃料颗粒
@@ -2198,7 +1982,6 @@ fluid.ipcm_243_fluoride_flibe=熔融同位素纯锔-243 氟化物燃料氟锂铍
 fluid.depleted_ipcm_243=熔融枯竭同位素纯锔-243 燃料
 fluid.depleted_ipcm_243_fluoride=熔融枯竭同位素纯锔-243 氟化物燃料
 fluid.depleted_ipcm_243_fluoride_flibe=熔融枯竭同位素纯锔-243 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ipcm_245.name=同位素纯锔-245
 item.contenttweaker.ipcm_245_c.name=同位素纯锔-245 碳化物
 item.contenttweaker.ipcm_245_tr.name=同位素纯锔-245 TRISO 燃料颗粒
@@ -2215,7 +1998,6 @@ fluid.ipcm_245_fluoride_flibe=熔融同位素纯锔-245 氟化物燃料氟锂铍
 fluid.depleted_ipcm_245=熔融枯竭同位素纯锔-245 燃料
 fluid.depleted_ipcm_245_fluoride=熔融枯竭同位素纯锔-245 氟化物燃料
 fluid.depleted_ipcm_245_fluoride_flibe=熔融枯竭同位素纯锔-245 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ipcm_247.name=同位素纯锔-247
 item.contenttweaker.ipcm_247_c.name=同位素纯锔-247 碳化物
 item.contenttweaker.ipcm_247_tr.name=同位素纯锔-247 TRISO 燃料颗粒
@@ -2232,7 +2014,6 @@ fluid.ipcm_247_fluoride_flibe=熔融同位素纯锔-247 氟化物燃料氟锂铍
 fluid.depleted_ipcm_247=熔融枯竭同位素纯锔-247 燃料
 fluid.depleted_ipcm_247_fluoride=熔融枯竭同位素纯锔-247 氟化物燃料
 fluid.depleted_ipcm_247_fluoride_flibe=熔融枯竭同位素纯锔-247 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ipb_248.name=同位素纯锫-248
 item.contenttweaker.ipb_248_c.name=同位素纯锫-248 碳化物
 item.contenttweaker.ipb_248_tr.name=同位素纯锫-248 TRISO 燃料颗粒
@@ -2249,7 +2030,6 @@ fluid.ipb_248_fluoride_flibe=熔融同位素纯锫-248 氟化物燃料氟锂铍�
 fluid.depleted_ipb_248=熔融枯竭同位素纯锫-248 燃料
 fluid.depleted_ipb_248_fluoride=熔融枯竭同位素纯锫-248 氟化物燃料
 fluid.depleted_ipb_248_fluoride_flibe=熔融枯竭同位素纯锫-248 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ipcf_249.name=同位素纯锎-249
 item.contenttweaker.ipcf_249_c.name=同位素纯锎-249 碳化物
 item.contenttweaker.ipcf_249_tr.name=同位素纯锎-249 TRISO 燃料颗粒
@@ -2266,7 +2046,6 @@ fluid.ipcf_249_fluoride_flibe=熔融同位素纯锎-249 氟化物燃料氟锂铍
 fluid.depleted_ipcf_249=熔融枯竭同位素纯锎-249 燃料
 fluid.depleted_ipcf_249_fluoride=熔融枯竭同位素纯锎-249 氟化物燃料
 fluid.depleted_ipcf_249_fluoride_flibe=熔融枯竭同位素纯锎-249 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ipcf_251.name=同位素纯锎-251
 item.contenttweaker.ipcf_251_c.name=同位素纯锎-251 碳化物
 item.contenttweaker.ipcf_251_tr.name=同位素纯锎-251 TRISO 燃料颗粒
@@ -2283,7 +2062,6 @@ fluid.ipcf_251_fluoride_flibe=熔融同位素纯锎-251 氟化物燃料氟锂铍
 fluid.depleted_ipcf_251=熔融枯竭同位素纯锎-251 燃料
 fluid.depleted_ipcf_251_fluoride=熔融枯竭同位素纯锎-251 氟化物燃料
 fluid.depleted_ipcf_251_fluoride_flibe=熔融枯竭同位素纯锎-251 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ipcf_253.name=同位素纯锎-253
 item.contenttweaker.ipcf_253_c.name=同位素纯锎-253 碳化物
 item.contenttweaker.ipcf_253_tr.name=同位素纯锎-253 TRISO 燃料颗粒
@@ -2300,7 +2078,6 @@ fluid.ipcf_253_fluoride_flibe=熔融同位素纯锎-253 氟化物燃料氟锂铍
 fluid.depleted_ipcf_253=熔融枯竭同位素纯锎-253 燃料
 fluid.depleted_ipcf_253_fluoride=熔融枯竭同位素纯锎-253 氟化物燃料
 fluid.depleted_ipcf_253_fluoride_flibe=熔融枯竭同位素纯锎-253 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.ipe_254.name=同位素纯锿-254
 item.contenttweaker.ipe_254_c.name=同位素纯锿-254 碳化物
 item.contenttweaker.ipe_254_tr.name=同位素纯锿-254 TRISO 燃料颗粒
@@ -2317,8 +2094,6 @@ fluid.ipe_254_fluoride_flibe=熔融同位素纯锿-254 氟化物燃料氟锂铍�
 fluid.depleted_ipe_254=熔融枯竭同位素纯锿-254 燃料
 fluid.depleted_ipe_254_fluoride=熔融枯竭同位素纯锿-254 氟化物燃料
 fluid.depleted_ipe_254_fluoride_flibe=熔融枯竭同位素纯锿-254 氟化物燃料氟锂铍盐溶液
-
-
 item.contenttweaker.u233sphere.name=金属铀-233 核心燃料丸
 item.contenttweaker.u235sphere.name=金属铀-235 核心燃料丸
 item.contenttweaker.n237sphere.name=金属镎-237 核心燃料丸
@@ -2328,7 +2103,6 @@ item.contenttweaker.cm247sphere.name=金属锔-247 核心燃料丸
 item.contenttweaker.b248sphere.name=金属锫-248 核心燃料丸
 item.contenttweaker.cf249sphere.name=金属锎-249 核心燃料丸
 item.contenttweaker.cf251sphere.name=金属锎-251 核心燃料丸
-
 item.contenttweaker.du233sphere.name=枯竭金属铀-233 核心
 item.contenttweaker.du235sphere.name=枯竭金属铀-235 核心
 item.contenttweaker.dn237sphere.name=枯竭金属镎-237 核心
@@ -2338,9 +2112,7 @@ item.contenttweaker.dcm247sphere.name=枯竭金属锔-247 核心
 item.contenttweaker.db248sphere.name=枯竭金属锫-248 核心
 item.contenttweaker.dcf249sphere.name=枯竭金属锎-249 核心
 item.contenttweaker.dcf251sphere.name=枯竭金属锎-251 核心
-
 item.contenttweaker.plutonium236.name=钚-236
-
 item.contenttweaker.pbp_fuel.name=钚增殖钚
 item.contenttweaker.pbp_fuel_carbide.name=钚增殖钚 碳化物
 item.contenttweaker.pbp_fuel_triso.name=钚增殖钚 TRISO 燃料颗粒
@@ -2357,24 +2129,19 @@ fluid.pbp_fluoride_flibe=熔融钚增殖钚 氟化物燃料氟锂铍盐溶液
 fluid.depleted_pbp=熔融枯竭钚增殖钚 燃料
 fluid.depleted_pbp_fluoride=熔融枯竭钚增殖钚 氟化物燃料
 fluid.depleted_pbp_fluoride_flibe=熔融枯竭钚增殖钚 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.uranium_oxide.name=氧化铀锭
 item.contenttweaker.pre_candu.name=未加压 CANDU 燃料束
 item.contenttweaker.candu.name=加压 CANDU 燃料束
 item.contenttweaker.dcandu.name=枯竭 CANDU 燃料束
-
 item.contenttweaker.thorium_oxide.name=氧化钍锭
 item.contenttweaker.pre_aneel.name=未加压 ANEEL 燃料束
 item.contenttweaker.aneel.name=加压 ANEEL 燃料束
 item.contenttweaker.daneel.name=枯竭 ANEEL 燃料束
-
 item.contenttweaker.eightsmore.name=八层棉花糖巧克力夹心饼干
 item.contenttweaker.sixteensmore.name=十六层棉花糖巧克力夹心饼干
 item.contenttweaker.thirtytwosmore.name=三十二层棉花糖巧克力夹心饼干
 item.contenttweaker.sixtyfoursmore.name=六十四层棉花糖巧克力夹心饼干
-
 itemGroup.moar_fuels=更多燃料
-
 item.contenttweaker.cbc.name=锔增殖锔
 item.contenttweaker.cbc_c.name=锔增殖锔 碳化物
 item.contenttweaker.cbc_tr.name=锔增殖锔 TRISO 燃料颗粒
@@ -2391,7 +2158,6 @@ fluid.cbc_fluoride_flibe=熔融锔增殖锔 氟化物燃料氟锂铍盐溶液
 fluid.depleted_cbc=熔融枯竭锔增殖锔 燃料
 fluid.depleted_cbc_fluoride=熔融枯竭锔增殖锔 氟化物燃料
 fluid.depleted_cbc_fluoride_flibe=熔融枯竭锔增殖锔 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.pbu.name=镤增殖铀
 item.contenttweaker.pbu_c.name=镤增殖铀 碳化物
 item.contenttweaker.pbu_tr.name=镤增殖铀 TRISO 燃料颗粒
@@ -2408,7 +2174,6 @@ fluid.pbu_fluoride_flibe=熔融镤增殖铀 氟化物燃料氟锂铍盐溶液
 fluid.depleted_pbu=熔融枯竭镤增殖铀 燃料
 fluid.depleted_pbu_fluoride=熔融枯竭镤增殖铀 氟化物燃料
 fluid.depleted_pbu_fluoride_flibe=熔融枯竭镤增殖铀 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.luf.name=轻质铀
 item.contenttweaker.luf_c.name=轻质铀 碳化物
 item.contenttweaker.luf_tr.name=轻质铀 TRISO 燃料颗粒
@@ -2425,16 +2190,13 @@ fluid.luf_fluoride_flibe=熔融轻质铀 氟化物燃料氟锂铍盐溶液
 fluid.depleted_luf=熔融枯竭轻质铀
 fluid.depleted_luf_fluoride=熔融枯竭轻质铀 氟化物燃料
 fluid.depleted_luf_fluoride_flibe=熔融枯竭轻质铀 氟化物燃料氟锂铍盐溶液
-
 item.contenttweaker.curium_244.name=锔-244
 item.contenttweaker.uranium_232.name=铀-232
 item.contenttweaker.curium_250.name=锔-250
-
 item.contenttweaker.pa_pellet_slow.name=低通量镤-231 辐照丸
 item.contenttweaker.pa_pellet_fast.name=高通量镤-231 辐照丸
 item.contenttweaker.th_pellet_slow.name=低通量钍-229 辐照丸
 item.contenttweaker.th_pellet_fast.name=高通量钍-229 辐照丸
-
 item.contenttweaker.cbcf.name=锔增殖锎
 item.contenttweaker.cbcf_c.name=锔增殖锎 碳化物
 item.contenttweaker.cbcf_tr.name=锔增殖锎 TRISO 燃料颗粒
@@ -2451,29 +2213,6 @@ fluid.cbcf_fluoride_flibe=熔融锔增殖锎 氟化物燃料氟锂铍盐溶液
 fluid.depleted_cbcf=熔融枯竭锔增殖锎
 fluid.depleted_cbcf_fluoride=熔融枯竭锔增殖锎 氟化物燃料
 fluid.depleted_cbcf_fluoride_flibe=熔融枯竭锔增殖锎 氟化物燃料
-#=================================================================================================================#
-
-#=================================================================================================================#
-# https://www.curseforge.com/minecraft/customization/nuclearcraft-overhauled-unrealistic-turbine
-# NCOUTO+v1.6
-# 非真实涡轮机丨Nuclearcraft: Overhauled Unrealistic Turbine Overhaul
-#-----------------------------------------------------------------------------------------------------------------#
-# TODO：删除未翻译完成的半成品
-#=================================================================================================================#
-
-#=================================================================================================================#
-# https://www.curseforge.com/minecraft/customization/thorium-mixed-fuels
-# ThoriumMixedFuels+v1.11
-# 混合钍燃料丨Thorium Mixed Fuels
-#-----------------------------------------------------------------------------------------------------------------#
-# TODO：删除未翻译完成的半成品
-#=================================================================================================================#
-
-#=================================================================================================================#
-# https://www.curseforge.com/minecraft/customization/moarheatsinks
-# 
-# 更多散热器（更多热水槽？）丨Moar Heat Sinks
-#-----------------------------------------------------------------------------------------------------------------#
 tile.nuclearcraft.solid_fission_sink_steel.name=钢裂变散热器
 tile.nuclearcraft.solid_fission_sink_ferroboron.name=硼铁合金裂变散热器
 tile.nuclearcraft.solid_fission_sink_tough_alloy.name=高强合金裂变散热器
@@ -2492,7 +2231,6 @@ tile.nuclearcraft.solid_fission_sink_hsla.name=高强度低合金钢裂变散热
 tile.nuclearcraft.solid_fission_sink_smore.name=棉花糖巧克力夹心裂变散热器
 tile.nuclearcraft.solid_fission_sink_liquid_oxygen.name=液氧裂变散热器
 tile.nuclearcraft.solid_fission_sink_corium.name=堆芯熔融物裂变散热器
-
 nc.sf.steel_sink0=%s钢裂变散热器
 nc.sf.steel_sink1=%s钢裂变散热器
 nc.sf.ferroboron_sink0=%s硼铁合金裂变散热器
@@ -2529,7 +2267,6 @@ nc.sf.liquid_oxygen_sink0=%s液氧裂变散热器
 nc.sf.liquid_oxygen_sink1=%s液氧裂变散热器
 nc.sf.corium_sink0=%s堆芯熔融物裂变散热器
 nc.sf.corium_sink1=%s堆芯熔融物裂变散热器
-
 tile.nuclearcraft.solid_fission_sink_pyro.name=烈焰之炽焱裂变散热器
 tile.nuclearcraft.solid_fission_sink_aero.name=飞扬之清风裂变散热器
 tile.nuclearcraft.solid_fission_sink_petro.name=板块之层岩裂变散热器
@@ -2544,7 +2281,6 @@ tile.nuclearcraft.solid_fission_sink_invar.name=殷钢裂变散热器
 tile.nuclearcraft.solid_fission_sink_constantan.name=康铜裂变散热器
 tile.nuclearcraft.solid_fission_sink_bronze.name=青铜裂变散热器
 tile.nuclearcraft.solid_fission_sink_electrum.name=琥珀金裂变散热器
-
 nc.sf.pyro_sink0=%s烈焰之炽焱裂变散热器
 nc.sf.pyro_sink1=%s烈焰之炽焱裂变散热器
 nc.sf.aero_sink0=%s飞扬之清风裂变散热器
@@ -2573,232 +2309,198 @@ nc.sf.bronze_sink0=%s青铜裂变散热器
 nc.sf.bronze_sink1=%s青铜裂变散热器
 nc.sf.electrum_sink0=%s琥珀金裂变散热器
 nc.sf.electrum_sink1=%s琥珀金裂变散热器
-
 tile.nuclearcraft.fission_heater_port_pyro.name=烈焰之炽焱裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_pyro.name=烈焰之炽焱裂变冷却液加热器
 nc.sf.pyro_heater0=%s烈焰之炽焱裂变冷却液加热器
 nc.sf.pyro_heater1=%s烈焰之炽焱裂变冷却液加热器
 fluid.pyro_nak=共晶钠钾-烈焰之炽焱混合物
 fluid.pyro_nak_hot=热共晶钠钾-烈焰之炽焱混合物
- 
 tile.nuclearcraft.fission_heater_port_aero.name=飞扬之清风裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_aero.name=飞扬之清风裂变冷却液加热器
 nc.sf.aero_heater0=%s飞扬之清风裂变冷却液加热器
 nc.sf.aero_heater1=%s飞扬之清风裂变冷却液加热器
 fluid.aero_nak=共晶钠钾-飞扬之清风混合物
 fluid.aero_nak_hot=热共晶钠钾-飞扬之清风混合物
- 
 tile.nuclearcraft.fission_heater_port_petro.name=板块之层岩裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_petro.name=板块之层岩裂变冷却液加热器
 nc.sf.petro_heater0=%s板块之层岩裂变冷却液加热器
 nc.sf.petro_heater1=%s板块之层岩裂变冷却液加热器
 fluid.petro_nak=共晶钠钾-板块之层岩混合物
 fluid.petro_nak_hot=热共晶钠钾-板块之层岩混合物
- 
 tile.nuclearcraft.fission_heater_port_nickel.name=镍裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_nickel.name=镍裂变冷却液加热器
 nc.sf.nickel_heater0=%s镍裂变冷却液加热器
 nc.sf.nickel_heater1=%s镍裂变冷却液加热器
 fluid.nickel_nak=共晶钠钾-镍混合物
 fluid.nickel_nak_hot=热共晶钠钾-镍混合物
- 
 tile.nuclearcraft.fission_heater_port_platinum.name=铂裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_platinum.name=铂裂变冷却液加热器
 nc.sf.platinum_heater0=%s铂裂变冷却液加热器
 nc.sf.platinum_heater1=%s铂裂变冷却液加热器
 fluid.platinum_nak=共晶钠钾-铂混合物
 fluid.platinum_nak_hot=热共晶钠钾-铂混合物
- 
 tile.nuclearcraft.fission_heater_port_iridium.name=铱裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_iridium.name=铱裂变冷却液加热器
 nc.sf.iridium_heater0=%s铱裂变冷却液加热器
 nc.sf.iridium_heater1=%s铱裂变冷却液加热器
 fluid.iridium_nak=共晶钠钾-铱混合物
 fluid.iridium_nak_hot=热共晶钠钾-铱混合物
- 
 tile.nuclearcraft.fission_heater_port_signalum.name=信素裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_signalum.name=信素裂变冷却液加热器
 nc.sf.signalum_heater0=%s信素裂变冷却液加热器
 nc.sf.signalum_heater1=%s信素裂变冷却液加热器
 fluid.signalum_nak=共晶钠钾-信素混合物
 fluid.signalum_nak_hot=热共晶钠钾-信素混合物
- 
 tile.nuclearcraft.fission_heater_port_lumium.name=流明裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_lumium.name=流明裂变冷却液加热器
 nc.sf.lumium_heater0=%s流明裂变冷却液加热器
 nc.sf.lumium_heater1=%s流明裂变冷却液加热器
 fluid.lumium_nak=共晶钠钾-流明混合物
 fluid.lumium_nak_hot=热共晶钠钾-流明混合物
- 
 tile.nuclearcraft.fission_heater_port_mana_dust.name=元始魔力粉裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_mana_dust.name=元始魔力粉裂变冷却液加热器
 nc.sf.mana_dust_heater0=%s元始魔力粉裂变冷却液加热器
 nc.sf.mana_dust_heater1=%s元始魔力粉裂变冷却液加热器
 fluid.mana_dust_nak=共晶钠钾-元始魔力粉混合物
 fluid.mana_dust_nak_hot=热共晶钠钾-元始魔力粉混合物
- 
 tile.nuclearcraft.fission_heater_port_mithril.name=秘银裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_mithril.name=秘银裂变冷却液加热器
 nc.sf.mithril_heater0=%s秘银裂变冷却液加热器
 nc.sf.mithril_heater1=%s秘银裂变冷却液加热器
 fluid.mithril_nak=共晶钠钾-秘银混合物
 fluid.mithril_nak_hot=热共晶钠钾-秘银混合物
- 
 tile.nuclearcraft.fission_heater_port_invar.name=殷钢裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_invar.name=殷钢裂变冷却液加热器
 nc.sf.invar_heater0=%s殷钢裂变冷却液加热器
 nc.sf.invar_heater1=%s殷钢裂变冷却液加热器
 fluid.invar_nak=共晶钠钾-殷钢混合物
 fluid.invar_nak_hot=热共晶钠钾-殷钢混合物
- 
 tile.nuclearcraft.fission_heater_port_constantan.name=康铜裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_constantan.name=康铜裂变冷却液加热器
 nc.sf.constantan_heater0=%s康铜裂变冷却液加热器
 nc.sf.constantan_heater1=%s康铜裂变冷却液加热器
 fluid.constantan_nak=共晶钠钾-康铜混合物
 fluid.constantan_nak_hot=热共晶钠钾-康铜混合物
- 
 tile.nuclearcraft.fission_heater_port_bronze.name=青铜裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_bronze.name=青铜裂变冷却液加热器
 nc.sf.bronze_heater0=%s青铜裂变冷却液加热器
 nc.sf.bronze_heater1=%s青铜裂变冷却液加热器
 fluid.bronze_nak=共晶钠钾-青铜混合物
 fluid.bronze_nak_hot=热共晶钠钾-青铜混合物
- 
 tile.nuclearcraft.fission_heater_port_electrum.name=琥珀金裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_electrum.name=琥珀金裂变冷却液加热器
 nc.sf.electrum_heater0=%s琥珀金裂变冷却液加热器
 nc.sf.electrum_heater1=%s琥珀金裂变冷却液加热器
 fluid.electrum_nak=共晶钠钾-琥珀金混合物
 fluid.electrum_nak_hot=热共晶钠钾-琥珀金混合物
- 
 tile.nuclearcraft.fission_heater_port_steel.name=钢裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_steel.name=钢裂变冷却液加热器
 nc.sf.steel_heater0=%s钢裂变冷却液加热器
 nc.sf.steel_heater1=%s钢裂变冷却液加热器
 fluid.steel_nak=共晶钠钾-钢混合物
 fluid.steel_nak_hot=热共晶钠钾-钢混合物
- 
 tile.nuclearcraft.fission_heater_port_ferroboron.name=硼铁合金裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_ferroboron.name=硼铁合金裂变冷却液加热器
 nc.sf.ferroboron_heater0=%s硼铁合金裂变冷却液加热器
 nc.sf.ferroboron_heater1=%s硼铁合金裂变冷却液加热器
 fluid.ferroboron_nak=共晶钠钾-硼铁合金混合物
 fluid.ferroboron_nak_hot=热共晶钠钾-硼铁合金混合物
- 
 tile.nuclearcraft.fission_heater_port_tough_alloy.name=高强合金裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_tough_alloy.name=高强合金裂变冷却液加热器
 nc.sf.tough_alloy_heater0=%s高强合金裂变冷却液加热器
 nc.sf.tough_alloy_heater1=%s高强合金裂变冷却液加热器
 fluid.tough_alloy_nak=共晶钠钾-高强合金混合物
 fluid.tough_alloy_nak_hot=热共晶钠钾-高强合金混合物
- 
 tile.nuclearcraft.fission_heater_port_limno2.name=锂二氧化锰裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_limno2.name=锂二氧化锰裂变冷却液加热器
 nc.sf.limno2_heater0=%s锂二氧化锰裂变冷却液加热器
 nc.sf.limno2_heater1=%s锂二氧化锰裂变冷却液加热器
 fluid.limno2_nak=共晶钠钾-锂二氧化锰混合物
 fluid.limno2_nak_hot=热共晶钠钾-锂二氧化锰混合物
- 
 tile.nuclearcraft.fission_heater_port_mgb2.name=二硼化镁裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_mgb2.name=二硼化镁裂变冷却液加热器
 nc.sf.mgb2_heater0=%s二硼化镁裂变冷却液加热器
 nc.sf.mgb2_heater1=%s二硼化镁裂变冷却液加热器
 fluid.mgb2_nak=共晶钠钾-二硼化镁混合物
 fluid.mgb2_nak_hot=热共晶钠钾-二硼化镁混合物
- 
 tile.nuclearcraft.fission_heater_port_boron_arsenide.name=砷化硼裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_boron_arsenide.name=砷化硼裂变冷却液加热器
 nc.sf.boron_arsenide_heater0=%s砷化硼裂变冷却液加热器
 nc.sf.boron_arsenide_heater1=%s砷化硼裂变冷却液加热器
 fluid.boron_arsenide_nak=共晶钠钾-砷化硼混合物
 fluid.boron_arsenide_nak_hot=热共晶钠钾-砷化硼混合物
- 
 tile.nuclearcraft.fission_heater_port_boron_nitride.name=氮化硼裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_boron_nitride.name=氮化硼裂变冷却液加热器
 nc.sf.boron_nitride_heater0=%s氮化硼裂变冷却液加热器
 nc.sf.boron_nitride_heater1=%s氮化硼裂变冷却液加热器
 fluid.boron_nitride_nak=共晶钠钾-氮化硼混合物
 fluid.boron_nitride_nak_hot=热共晶钠钾-氮化硼混合物
- 
 tile.nuclearcraft.fission_heater_port_rhodochrosite.name=菱锰裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_rhodochrosite.name=菱锰裂变冷却液加热器
 nc.sf.rhodochrosite_heater0=%s菱锰裂变冷却液加热器
 nc.sf.rhodochrosite_heater1=%s菱锰裂变冷却液加热器
 fluid.rhodochrosite_nak=共晶钠钾-菱锰混合物
 fluid.rhodochrosite_nak_hot=热共晶钠钾-菱锰混合物
- 
 tile.nuclearcraft.fission_heater_port_zirconium.name=锆裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_zirconium.name=锆裂变冷却液加热器
 nc.sf.zirconium_heater0=%s锆裂变冷却液加热器
 nc.sf.zirconium_heater1=%s锆裂变冷却液加热器
 fluid.zirconium_nak=共晶钠钾-锆混合物
 fluid.zirconium_nak_hot=热共晶钠钾-锆混合物
- 
 tile.nuclearcraft.fission_heater_port_hard_carbon.name=硬碳合金裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_hard_carbon.name=硬碳合金裂变冷却液加热器
 nc.sf.hard_carbon_heater0=%s硬碳合金裂变冷却液加热器
 nc.sf.hard_carbon_heater1=%s硬碳合金裂变冷却液加热器
 fluid.hard_carbon_nak=共晶钠钾-硬碳合金混合物
 fluid.hard_carbon_nak_hot=热共晶钠钾-硬碳合金混合物
- 
 tile.nuclearcraft.fission_heater_port_extreme_alloy.name=极限合金裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_extreme_alloy.name=极限合金裂变冷却液加热器
 nc.sf.extreme_alloy_heater0=%s极限合金裂变冷却液加热器
 nc.sf.extreme_alloy_heater1=%s极限合金裂变冷却液加热器
 fluid.extreme_alloy_nak=共晶钠钾-极限合金混合物
 fluid.extreme_alloy_nak_hot=热共晶钠钾-极限合金混合物
-
 tile.nuclearcraft.fission_heater_port_thermoconducting_alloy.name=导热合金裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_thermoconducting_alloy.name=导热合金裂变冷却液加热器
 nc.sf.thermoconducting_alloy_heater0=%s导热合金裂变冷却液加热器
 nc.sf.thermoconducting_alloy_heater1=%s导热合金裂变冷却液加热器
 fluid.thermoconducting_alloy_nak=共晶钠钾-导热合金混合物
 fluid.thermoconducting_alloy_nak_hot=热共晶钠钾-导热合金混合物
- 
 tile.nuclearcraft.fission_heater_port_zircaloy.name=锆锡合金裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_zircaloy.name=锆锡合金裂变冷却液加热器
 nc.sf.zircaloy_heater0=%s锆锡合金裂变冷却液加热器
 nc.sf.zircaloy_heater1=%s锆锡合金裂变冷却液加热器
 fluid.zircaloy_nak=共晶钠钾-锆锡合金混合物
 fluid.zircaloy_nak_hot=热共晶钠钾-锆锡合金混合物
- 
 tile.nuclearcraft.fission_heater_port_sic_sic_cmc.name=碳化硅复合材料裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_sic_sic_cmc.name=碳化硅复合材料裂变冷却液加热器
 nc.sf.sic_sic_cmc_heater0=%s碳化硅复合材料裂变冷却液加热器
 nc.sf.sic_sic_cmc_heater1=%s碳化硅复合材料裂变冷却液加热器
 fluid.sic_sic_cmc_nak=共晶钠钾-碳化硅复合材料混合物
 fluid.sic_sic_cmc_nak_hot=热共晶钠钾-碳化硅复合材料混合物
- 
 tile.nuclearcraft.fission_heater_port_hsla.name=高强度低合金钢裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_hsla.name=高强度低合金钢裂变冷却液加热器
 nc.sf.hsla_heater0=%s高强度低合金钢裂变冷却液加热器
 nc.sf.hsla_heater1=%s高强度低合金钢裂变冷却液加热器
 fluid.hsla_nak=共晶钠钾-高强度低合金钢混合物
 fluid.hsla_nak_hot=热共晶钠钾-高强度低合金钢混合物
- 
 tile.nuclearcraft.fission_heater_port_smore.name=棉花糖巧克力夹心裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_smore.name=棉花糖巧克力夹心裂变冷却液加热器
 nc.sf.smore_heater0=%s棉花糖巧克力夹心裂变冷却液加热器
 nc.sf.smore_heater1=%s棉花糖巧克力夹心裂变冷却液加热器
 fluid.smore_nak=共晶钠钾-棉花糖巧克力夹心混合物
 fluid.smore_nak_hot=热共晶钠钾-棉花糖巧克力夹心混合物
- 
 tile.nuclearcraft.fission_heater_port_liquid_oxygen.name=液氧裂变冷却液加热器端口
 tile.nuclearcraft.salt_fission_heater_liquid_oxygen.name=液氧裂变冷却液加热器
 nc.sf.liquid_oxygen_heater0=%s液氧裂变冷却液加热器
 nc.sf.liquid_oxygen_heater1=%s液氧裂变冷却液加热器
 fluid.liquid_oxygen_nak=共晶钠钾-液氧混合物
 fluid.liquid_oxygen_nak_hot=热共晶钠钾-液氧混合物
- 
 tile.nuclearcraft.fission_heater_port_corium.name=堆芯熔融物裂变冷却液冷却器端口
 tile.nuclearcraft.salt_fission_heater_corium.name=堆芯熔融物裂变冷却液冷却器
 nc.sf.corium_heater0=%s堆芯熔融物裂变冷却液冷却器
 nc.sf.corium_heater1=%s堆芯熔融物裂变冷却液冷却器
 fluid.corium_nak=共晶钠钾-堆芯熔融物混合物
 fluid.corium_nak_hot=冷共晶钠钾-堆芯熔融物混合物
-
-
 fluid.limno2=熔融锂二氧化锰
 fluid.mgb2=熔融二硼化镁
 fluid.rhodochrosite=熔融菱锰
@@ -2808,14 +2510,11 @@ fluid.zircaloy=熔融锆锡合金
 fluid.sic_sic_cmc=熔融碳化硅复合材料
 fluid.hsla=熔融高强度低合金钢
 fluid.mithril=熔融秘银
-
 fluid.fluxed_electrum=熔融红石琥珀金
 fluid.flux_crystal=熔融红石水晶
 fluid.certus=熔融赛特斯石英
 fluid.fluix=熔融福鲁伊克斯水晶
 fluid.fluix_steel=熔融福鲁伊克斯钢
-
-
 tile.nuclearcraft.solid_fission_sink_fluxed_electrum.name=红石琥珀金裂变散热器
 nc.sf.fluxed_electrum_sink0=%s红石琥珀金裂变散热器
 nc.sf.fluxed_electrum_sink1=%s红石琥珀金裂变散热器
@@ -2825,7 +2524,6 @@ nc.sf.fluxed_electrum_heater0=%s红石琥珀金裂变冷却液加热器
 nc.sf.fluxed_electrum_heater1=%s红石琥珀金裂变冷却液加热器
 fluid.fluxed_electrum_nak=共晶钠钾-红石琥珀金混合物
 fluid.fluxed_electrum_nak_hot=热共晶钠钾-红石琥珀金混合物
- 
 tile.nuclearcraft.solid_fission_sink_flux_crystal.name=红石水晶裂变散热器
 nc.sf.flux_crystal_sink0=%s红石水晶裂变散热器
 nc.sf.flux_crystal_sink1=%s红石水晶裂变散热器
@@ -2835,7 +2533,6 @@ nc.sf.flux_crystal_heater0=%s红石水晶裂变冷却液加热器
 nc.sf.flux_crystal_heater1=%s红石水晶裂变冷却液加热器
 fluid.flux_crystal_nak=共晶钠钾-红石水晶混合物
 fluid.flux_crystal_nak_hot=热共晶钠钾-红石水晶混合物
- 
 tile.nuclearcraft.solid_fission_sink_certus.name=赛特斯石英裂变散热器
 nc.sf.certus_sink0=%s赛特斯石英裂变散热器
 nc.sf.certus_sink1=%s赛特斯石英裂变散热器
@@ -2845,7 +2542,6 @@ nc.sf.certus_heater0=%s赛特斯石英裂变冷却液加热器
 nc.sf.certus_heater1=%s赛特斯石英裂变冷却液加热器
 fluid.certus_nak=共晶钠钾-赛特斯石英混合物
 fluid.certus_nak_hot=热共晶钠钾-赛特斯石英混合物
- 
 tile.nuclearcraft.solid_fission_sink_fluix.name=福鲁伊克斯水晶裂变散热器
 nc.sf.fluix_sink0=%s福鲁伊克斯水晶裂变散热器
 nc.sf.fluix_sink1=%s福鲁伊克斯水晶裂变散热器
@@ -2855,7 +2551,6 @@ nc.sf.fluix_heater0=%s福鲁伊克斯水晶裂变冷却液加热器
 nc.sf.fluix_heater1=%s福鲁伊克斯水晶裂变冷却液加热器
 fluid.fluix_nak=共晶钠钾-福鲁伊克斯水晶混合物
 fluid.fluix_nak_hot=热共晶钠钾-福鲁伊克斯水晶混合物
- 
 tile.nuclearcraft.solid_fission_sink_fluix_steel.name=福鲁伊克斯钢裂变散热器
 nc.sf.fluix_steel_sink0=%s福鲁伊克斯钢裂变散热器
 nc.sf.fluix_steel_sink1=%s福鲁伊克斯钢裂变散热器
@@ -2865,7 +2560,6 @@ nc.sf.fluix_steel_heater0=%s福鲁伊克斯钢裂变冷却液加热器
 nc.sf.fluix_steel_heater1=%s福鲁伊克斯钢裂变冷却液加热器
 fluid.fluix_steel_nak=共晶钠钾-福鲁伊克斯钢混合物
 fluid.fluix_steel_nak_hot=热共晶钠钾-福鲁伊克斯钢混合物
- 
 tile.nuclearcraft.solid_fission_sink_sea_lantern.name=海晶灯裂变散热器
 nc.sf.sea_lantern_sink0=%s海晶灯裂变散热器
 nc.sf.sea_lantern_sink1=%s海晶灯裂变散热器
@@ -2875,7 +2569,6 @@ nc.sf.sea_lantern_heater0=%s海晶灯裂变冷却液加热器
 nc.sf.sea_lantern_heater1=%s海晶灯裂变冷却液加热器
 fluid.sea_lantern_nak=共晶钠钾-海晶灯混合物
 fluid.sea_lantern_nak_hot=热共晶钠钾-海晶灯混合物
- 
 tile.nuclearcraft.solid_fission_sink_tnt.name=TNT裂变散热器
 nc.sf.tnt_sink0=%sTNT裂变散热器
 nc.sf.tnt_sink1=%sTNT裂变散热器
@@ -2885,7 +2578,6 @@ nc.sf.tnt_heater0=%sTNT裂变冷却液加热器
 nc.sf.tnt_heater1=%sTNT裂变冷却液加热器
 fluid.tnt_nak=共晶钠钾-TNT混合物
 fluid.tnt_nak_hot=热共晶钠钾-TNT混合物
- 
 tile.nuclearcraft.solid_fission_sink_bone.name=骨头裂变散热器
 nc.sf.bone_sink0=%s骨头裂变散热器
 nc.sf.bone_sink1=%s骨头裂变散热器
@@ -2895,7 +2587,6 @@ nc.sf.bone_heater0=%s骨头裂变冷却液加热器
 nc.sf.bone_heater1=%s骨头裂变冷却液加热器
 fluid.bone_nak=共晶钠钾-骨头混合物
 fluid.bone_nak_hot=热共晶钠钾-骨头混合物
- 
 tile.nuclearcraft.solid_fission_sink_brick.name=砖块裂变散热器
 nc.sf.brick_sink0=%s砖块裂变散热器
 nc.sf.brick_sink1=%s砖块裂变散热器
@@ -2905,7 +2596,6 @@ nc.sf.brick_heater0=%s砖块裂变冷却液加热器
 nc.sf.brick_heater1=%s砖块裂变冷却液加热器
 fluid.brick_nak=共晶钠钾-砖块混合物
 fluid.brick_nak_hot=热共晶钠钾-砖块混合物
- 
 tile.nuclearcraft.solid_fission_sink_lava.name=熔岩裂变散热器
 nc.sf.lava_sink0=%s熔岩裂变散热器
 nc.sf.lava_sink1=%s熔岩裂变散热器
@@ -2915,7 +2605,6 @@ nc.sf.lava_heater0=%s熔岩裂变冷却液加热器
 nc.sf.lava_heater1=%s熔岩裂变冷却液加热器
 fluid.lava_nak=共晶钠钾-熔岩混合物
 fluid.lava_nak_hot=热共晶钠钾-熔岩混合物
- 
 tile.nuclearcraft.solid_fission_sink_magma_slime.name=岩浆膏裂变散热器
 nc.sf.magma_slime_sink0=%s岩浆膏裂变散热器
 nc.sf.magma_slime_sink1=%s岩浆膏裂变散热器
@@ -2925,7 +2614,6 @@ nc.sf.magma_slime_heater0=%s岩浆膏裂变冷却液加热器
 nc.sf.magma_slime_heater1=%s岩浆膏裂变冷却液加热器
 fluid.magma_slime_nak=共晶钠钾-岩浆膏混合物
 fluid.magma_slime_nak_hot=热共晶钠钾-岩浆膏混合物
- 
 tile.nuclearcraft.solid_fission_sink_sponge.name=海绵裂变散热器
 nc.sf.sponge_sink0=%s海绵裂变散热器
 nc.sf.sponge_sink1=%s海绵裂变散热器
@@ -2935,7 +2623,6 @@ nc.sf.sponge_heater0=%s海绵裂变冷却液加热器
 nc.sf.sponge_heater1=%s海绵裂变冷却液加热器
 fluid.sponge_nak=共晶钠钾-海绵混合物
 fluid.sponge_nak_hot=热共晶钠钾-海绵混合物
- 
 tile.nuclearcraft.solid_fission_sink_bismuth.name=铋裂变散热器
 nc.sf.bismuth_sink0=%s铋裂变散热器
 nc.sf.bismuth_sink1=%s铋裂变散热器
@@ -2945,7 +2632,6 @@ nc.sf.bismuth_heater0=%s铋裂变冷却液加热器
 nc.sf.bismuth_heater1=%s铋裂变冷却液加热器
 fluid.bismuth_nak=共晶钠钾-铋混合物
 fluid.bismuth_nak_hot=热共晶钠钾-铋混合物
- 
 tile.nuclearcraft.solid_fission_sink_glowshroom.name=荧核菇裂变散热器
 nc.sf.glowshroom_sink0=%s荧核菇裂变散热器
 nc.sf.glowshroom_sink1=%s荧核菇裂变散热器
@@ -2955,7 +2641,6 @@ nc.sf.glowshroom_heater0=%s荧核菇裂变冷却液加热器
 nc.sf.glowshroom_heater1=%s荧核菇裂变冷却液加热器
 fluid.glowshroom_nak=共晶钠钾-荧核菇混合物
 fluid.glowshroom_nak_hot=热共晶钠钾-荧核菇混合物
- 
 tile.nuclearcraft.solid_fission_sink_silicon.name=硅裂变散热器
 nc.sf.silicon_sink0=%s硅裂变散热器
 nc.sf.silicon_sink1=%s硅裂变散热器
@@ -2965,7 +2650,6 @@ nc.sf.silicon_heater0=%s硅裂变冷却液加热器
 nc.sf.silicon_heater1=%s硅裂变冷却液加热器
 fluid.silicon_nak=共晶钠钾-硅混合物
 fluid.silicon_nak_hot=热共晶钠钾-硅混合物
- 
 tile.nuclearcraft.solid_fission_sink_sic.name=碳化硅裂变散热器
 nc.sf.sic_sink0=%s碳化硅裂变散热器
 nc.sf.sic_sink1=%s碳化硅裂变散热器
@@ -2975,7 +2659,6 @@ nc.sf.sic_heater0=%s碳化硅裂变冷却液加热器
 nc.sf.sic_heater1=%s碳化硅裂变冷却液加热器
 fluid.sic_nak=共晶钠钾-碳化硅混合物
 fluid.sic_nak_hot=热共晶钠钾-碳化硅混合物
- 
 tile.nuclearcraft.solid_fission_sink_blue_ice.name=浮冰裂变散热器
 nc.sf.blue_ice_sink0=%s浮冰裂变散热器
 nc.sf.blue_ice_sink1=%s浮冰裂变散热器
@@ -2983,7 +2666,6 @@ tile.nuclearcraft.fission_heater_port_blue_ice.name=浮冰裂变冷却液加热�
 tile.nuclearcraft.salt_fission_heater_blue_ice.name=浮冰裂变冷却液加热器
 nc.sf.blue_ice_heater0=%s浮冰裂变冷却液加热器
 nc.sf.blue_ice_heater1=%s浮冰裂变冷却液加热器
- 
 tile.nuclearcraft.solid_fission_sink_milk.name=牛奶裂变散热器
 nc.sf.milk_sink0=%s牛奶裂变散热器
 nc.sf.milk_sink1=%s牛奶裂变散热器
@@ -2993,7 +2675,6 @@ nc.sf.milk_heater0=%s牛奶裂变冷却液加热器
 nc.sf.milk_heater1=%s牛奶裂变冷却液加热器
 fluid.milk_nak=共晶钠钾-牛奶混合物
 fluid.milk_nak_hot=热共晶钠钾-牛奶混合物
- 
 fluid.tnt=熔融TNT
 fluid.sic=熔融碳化硅
 fluid.silicon=熔融硅
@@ -3003,4 +2684,3 @@ fluid.brick=熔融砖块
 fluid.bismuth=熔融铋
 fluid.sponge=熔融海绵
 fluid.magma_slime=熔融岩浆膏
-#=================================================================================================================#

@@ -1,13 +1,10 @@
-# Basalt
 tile.bluepower:basalt.name=玄武岩
 tile.bluepower:basalt_brick.name=玄武岩砖
 tile.bluepower:basaltbrick_cracked.name=裂玄武岩砖
 tile.bluepower:fancy_basalt.name=錾制玄武岩砖
-# Marble
 tile.bluepower:marble.name=大理石
 tile.bluepower:marble_brick.name=大理石砖
 tile.bluepower:fancy_marble.name=錾制大理石砖
-# Ores and ore blocks
 tile.bluepower:amethyst_ore.name=紫水晶矿石
 tile.bluepower:ruby_ore.name=红宝石矿石
 tile.bluepower:sapphire_ore.name=蓝宝石矿石
@@ -22,13 +19,10 @@ tile.bluepower:copper_block.name=铜块
 tile.bluepower:silver_block.name=银块
 tile.bluepower:zinc_block.name=锌块
 tile.bluepower:tungsten_block.name=钨块
-# Plants
 tile.bluepower:flax_crop.name=亚麻
 tile.bluepower:indigo_flower.name=靛蓝花
-# Glass
 tile.bluepower:sapphire_glass.name=蓝宝石玻璃
 tile.bluepower:reinforced_sapphire_glass.name=强化的蓝宝石玻璃
-# Machines
 tile.bluepower:alloyfurnace.name=合金炉
 tile.bluepower:block_breaker.name=方块破坏器
 tile.bluepower:igniter.name=点火器
@@ -42,7 +36,6 @@ tile.bluepower:basalt_cobble.name=玄武岩圆石
 tile.bluepower:marble_brick_small.name=小型大理石砖
 tile.bluepower:marble_tile.name=大理石瓷砖
 tile.bluepower:marble_paver.name=大理石铺路石
-# Basalt and marble tiles
 tile.bluepower:tiles.name=玄武岩和大理石瓷砖
 tile.bluepower:malachite_ore.name=孔雀石矿石
 tile.bluepower:teslatite_ore.name=特斯拉矿石
@@ -66,17 +59,14 @@ tile.bluepower:kinetic_generator.name=动能发电机
 tile.bluepower:engine.name=蓝石能量引擎
 tile.bluepower:battery_block.name=电池块
 tile.bluepower:solar_panel.name=太阳能板
-# Computer
 tile.bluepower:cpu.name=CPU
 tile.bluepower:monitor.name=显示器
 tile.bluepower:disk_drive.name=磁盘驱动器
 tile.bluepower:io_expander.name=IO扩展器
-# Tables
 tile.bluepower:project_table.name=计划工作台
 tile.bluepower:auto_project_table.name=自动计划工作台
 tile.bluepower:circuit_table.name=元件工作台
 tile.bluepower:circuit_database.name=元件数据库
-# Wires (not bundled, face)
 tile.bluepower:wire.bluestone.name=蓝石线缆
 tile.bluepower:wire.bluestone.white.name=白色蓝石线缆
 tile.bluepower:wire.bluestone.orange.name=橙色蓝石线缆
@@ -128,7 +118,6 @@ tile.bluepower:wire.infusedteslatite.brown.name=棕色充能特斯拉线缆
 tile.bluepower:wire.infusedteslatite.green.name=绿色充能特斯拉线缆
 tile.bluepower:wire.infusedteslatite.red.name=红色充能特斯拉线缆
 tile.bluepower:wire.infusedteslatite.black.name=黑色充能特斯拉线缆
-# Wires (bundled, face)
 tile.bluepower:wire.bluestone.bundled.name=集束蓝石线缆
 tile.bluepower:wire.bluestone.bundled.white.name=白色集束蓝石线缆
 tile.bluepower:wire.bluestone.bundled.orange.name=橙色集束蓝石线缆
@@ -180,7 +169,6 @@ tile.bluepower:wire.infusedteslatite.bundled.brown.name=棕色集束充能特斯
 tile.bluepower:wire.infusedteslatite.bundled.green.name=绿色集束充能特斯拉线缆
 tile.bluepower:wire.infusedteslatite.bundled.red.name=红色集束充能特斯拉线缆
 tile.bluepower:wire.infusedteslatite.bundled.black.name=黑色集束充能特斯拉线缆
-# Wires (not bundled, freestanding)
 tile.bluepower:wire.freestanding.bluestone.name=框架蓝石线缆
 tile.bluepower:wire.freestanding.bluestone.white.name=白色框架蓝石线缆
 tile.bluepower:wire.freestanding.bluestone.orange.name=橙色框架蓝石线缆
@@ -232,7 +220,6 @@ tile.bluepower:wire.freestanding.infusedteslatite.brown.name=棕色框架充能�
 tile.bluepower:wire.freestanding.infusedteslatite.green.name=绿色框架充能特斯拉线缆
 tile.bluepower:wire.freestanding.infusedteslatite.red.name=红色框架充能特斯拉线缆
 tile.bluepower:wire.freestanding.infusedteslatite.black.name=黑色框架充能特斯拉线缆
-# Wires (bundled, freestanding)
 tile.bluepower:wire.freestanding.bluestone.bundled.name=框架集束蓝石线缆
 tile.bluepower:wire.freestanding.bluestone.bundled.white.name=白色框架集束蓝石线缆
 tile.bluepower:wire.freestanding.bluestone.bundled.orange.name=橙色框架集束蓝石线缆
@@ -284,7 +271,6 @@ tile.bluepower:wire.freestanding.infusedteslatite.bundled.brown.name=棕色框�
 tile.bluepower:wire.freestanding.infusedteslatite.bundled.green.name=绿色框架集束充能特斯拉线缆
 tile.bluepower:wire.freestanding.infusedteslatite.bundled.red.name=红色框架集束充能特斯拉线缆
 tile.bluepower:wire.freestanding.infusedteslatite.bundled.black.name=黑色框架集束充能特斯拉线缆
-# Lamps (full block, not inverted)
 tile.bluepower:lamp.white.name=白色灯
 tile.bluepower:lamp.orange.name=橙色灯
 tile.bluepower:lamp.magenta.name=品红色灯
@@ -302,7 +288,6 @@ tile.bluepower:lamp.green.name=绿色灯
 tile.bluepower:lamp.red.name=红色灯
 tile.bluepower:lamp.black.name=黑色灯
 tile.bluepower:lamp.rgb.name=RGB灯
-# Lamps (full block, inverted)
 tile.bluepower:lamp.white.inverted.name=反向白色灯
 tile.bluepower:lamp.orange.inverted.name=反向橙色灯
 tile.bluepower:lamp.magenta.inverted.name=反向品红色灯
@@ -320,7 +305,6 @@ tile.bluepower:lamp.green.inverted.name=反向绿色灯
 tile.bluepower:lamp.red.inverted.name=反向红色灯
 tile.bluepower:lamp.black.inverted.name=反向黑色灯
 tile.bluepower:lamp.rgb.inverted.name=反向RGB灯
-# Lamps (fixture, not inverted)
 tile.bluepower:fixture.white.name=白色壁灯
 tile.bluepower:fixture.orange.name=橙色壁灯
 tile.bluepower:fixture.magenta.name=品红色壁灯
@@ -337,7 +321,6 @@ tile.bluepower:fixture.brown.name=棕色壁灯
 tile.bluepower:fixture.green.name=绿色壁灯
 tile.bluepower:fixture.red.name=红色壁灯
 tile.bluepower:fixture.black.name=黑色壁灯
-# Lamps (fixture, inverted)
 tile.bluepower:fixture.white.inverted.name=反向白色壁灯
 tile.bluepower:fixture.orange.inverted.name=反向橙色壁灯
 tile.bluepower:fixture.magenta.inverted.name=反向品红色壁灯
@@ -354,7 +337,6 @@ tile.bluepower:fixture.brown.inverted.name=反向棕色壁灯
 tile.bluepower:fixture.green.inverted.name=反向绿色壁灯
 tile.bluepower:fixture.red.inverted.name=反向红色壁灯
 tile.bluepower:fixture.black.inverted.name=反向黑色壁灯
-# Lamps (caged, not inverted)
 tile.bluepower:cagelamp.white.name=白色笼灯
 tile.bluepower:cagelamp.orange.name=橙色笼灯
 tile.bluepower:cagelamp.magenta.name=品红色笼灯
@@ -371,7 +353,6 @@ tile.bluepower:cagelamp.brown.name=棕色笼灯
 tile.bluepower:cagelamp.green.name=绿色笼灯
 tile.bluepower:cagelamp.red.name=红色笼灯
 tile.bluepower:cagelamp.black.name=黑色笼灯
-# Lamps (caged, inverted)
 tile.bluepower:cagelamp.white.inverted.name=反向白色笼灯
 tile.bluepower:cagelamp.orange.inverted.name=反向橙色笼灯
 tile.bluepower:cagelamp.magenta.inverted.name=反向品红色笼灯
@@ -388,7 +369,6 @@ tile.bluepower:cagelamp.brown.inverted.name=反向棕色笼灯
 tile.bluepower:cagelamp.green.inverted.name=反向绿色笼灯
 tile.bluepower:cagelamp.red.inverted.name=反向红色笼灯
 tile.bluepower:cagelamp.black.inverted.name=反向黑色笼灯
-# Gems, dusts, ingots and nuggets
 item.bluepower:ruby_gem.name=红宝石
 item.bluepower:amethyst_gem.name=紫水晶
 item.bluepower:sapphire_gem.name=蓝宝石
@@ -404,16 +384,13 @@ item.bluepower:brass_ingot.name=黄铜锭
 item.bluepower:tungsten_ingot.name=钨锭
 item.bluepower:tungsten_nugget.name=钨粒
 item.bluepower:tungsten_carbide.name=碳化钨锭
-# IC2-compat zinc
 item.bluepower:zinc_ore_crushed.name=粉碎锌矿石
 item.bluepower:zinc_dust.name=锌粉
 item.bluepower:zinc_tiny_dust.name=小撮锌粉
 item.bluepower:zinc_ore_purified.name=纯净粉碎锌矿石
-# Plant items
 item.bluepower:flax_seeds.name=亚麻种子
 item.bluepower:indigo_flower.name=靛蓝花
 item.bluepower:indigo_dye.name=靛蓝颜料
-# Tools and weapons
 item.bluepower:ruby_sword.name=红宝石剑
 item.bluepower:ruby_shovel.name=红宝石锹
 item.bluepower:ruby_axe.name=红宝石斧
@@ -455,14 +432,12 @@ item.bluepower:screwdriver.name=螺丝刀
 item.bluepower:silky_screwdriver.name=精准螺丝刀
 item.bluepower:wool_card.name=羊毛梳
 item.bluepower:diamond_drawplate.name=钻石拉模板
-# Saws
 item.bluepower:iron_saw.name=铁锯
 item.bluepower:amethyst_saw.name=紫水晶锯
 item.bluepower:malachite_saw.name=孔雀石锯
 item.bluepower:ruby_saw.name=红宝石锯
 item.bluepower:sapphire_saw.name=蓝宝石锯
 item.bluepower:diamond_saw.name=钻石锯
-# Canvas bags
 item.bluepower:canvas_bag.white.name=帆布袋
 item.bluepower:canvas_bag.orange.name=橙色帆布袋
 item.bluepower:canvas_bag.magenta.name=品红色帆布袋
@@ -479,7 +454,6 @@ item.bluepower:canvas_bag.brown.name=棕色帆布袋
 item.bluepower:canvas_bag.green.name=绿色帆布袋
 item.bluepower:canvas_bag.red.name=红色帆布袋
 item.bluepower:canvas_bag.black.name=黑色帆布袋
-# Circuit items
 item.bluepower:silicon_boule.name=硅晶锭
 item.bluepower:silicon_wafer.name=硅片
 item.bluepower:blue_doped_wafer.name=蓝色掺杂晶圆
@@ -499,7 +473,6 @@ item.bluepower:quartz_resonator_tile.name=石英谐振器板
 item.bluepower:plate_assembly.name=装配板
 item.bluepower:stone_redwire.name=石质红石线板
 item.bluepower:stone_bundle.name=石质集束板
-# Misc crafting items
 item.bluepower:zincplate.name=锌板
 item.bluepower:screwdriver_handle.name=螺丝刀手柄
 item.bluepower:canvas.name=帆布
@@ -508,16 +481,15 @@ item.bluepower:canvas_bag.name=帆布袋
 item.bluepower:iron_wire.name=细铁丝
 item.bluepower:copper_wire.name=细铜丝
 item.bluepower:infused_teslatite_dust.name=充能特斯拉粉
-# Gates
 tile.bluepower:gate_and.name=与门
 tile.bluepower:gate_buffer.name=缓冲门
 tile.bluepower:gate_bustransceiver.name=总线收发器
 tile.bluepower:gate_counter.name=计数器
-tile.bluepower:gate_invert.name=转换单元
+tile.bluepower:gate_invert.name=反相单元
 tile.bluepower:gate_lightCell.name=光敏感器
 tile.bluepower:gate_multiplexer.name=多路复用器
 tile.bluepower:gate_nand.name=与非门
-tile.bluepower:gate_noninvert.name=非转换单元
+tile.bluepower:gate_noninvert.name=非反向单元
 tile.bluepower:gate_nor.name=或非门
 tile.bluepower:gate_not.name=非门
 tile.bluepower:gate_nullcell.name=空单元
@@ -554,7 +526,6 @@ tile.bluepower:wirelesstransceiver.bundled.name=集束无线收发机
 tile.bluepower:wirelesstransceiver.analog.bundled.name=模拟集束无线收发机
 tile.bluepower:wirelesstransceiver.name=无线收发机
 tile.bluepower:wirelesstransceiver.analog.name=模拟无线收发机
-# Lumar
 item.bluepower:lumar.white.name=白色荧光粉
 item.bluepower:lumar.orange.name=橙色荧光粉
 item.bluepower:lumar.magenta.name=品红色荧光粉
@@ -571,7 +542,6 @@ item.bluepower:lumar.brown.name=棕色荧光粉
 item.bluepower:lumar.green.name=绿色荧光粉
 item.bluepower:lumar.red.name=红色荧光粉
 item.bluepower:lumar.black.name=黑色荧光粉
-# Paint cans
 item.bluepower:paint_can.empty.name=颜料罐
 item.bluepower:paint_can.white.name=白色颜料罐
 item.bluepower:paint_can.orange.name=橙色颜料罐
@@ -589,7 +559,6 @@ item.bluepower:paint_can.brown.name=棕色颜料罐
 item.bluepower:paint_can.green.name=绿色颜料罐
 item.bluepower:paint_can.red.name=红色颜料罐
 item.bluepower:paint_can.black.name=黑色颜料罐
-# Paint brushes
 item.bluepower:paint_brush.empty.name=颜料刷
 item.bluepower:paint_brush.white.name=白色颜料刷
 item.bluepower:paint_brush.orange.name=橙色颜料刷
@@ -607,7 +576,6 @@ item.bluepower:paint_brush.brown.name=棕色颜料刷
 item.bluepower:paint_brush.green.name=绿色颜料刷
 item.bluepower:paint_brush.red.name=红色颜料刷
 item.bluepower:paint_brush.black.name=黑色颜料刷
-# Creative tabs
 itemGroup.bluepower:machines=蓝石力量丨机器
 itemGroup.bluepower:blocks=蓝石力量丨方块
 itemGroup.bluepower:items=蓝石力量丨物品
@@ -615,10 +583,8 @@ itemGroup.bluepower:tools=蓝石力量丨工具
 itemGroup.bluepower:circuits=蓝石力量丨逻辑
 itemGroup.bluepower:lighting=蓝石力量丨照明
 itemGroup.bluepower:wiring=蓝石力量丨线缆
-# Enchantments
 enchantment.bluepower:vorpal.name=斩首
 enchantment:bluepower.disjunction.name=解离
-# Gui buttons and tooltips
 gui.bluepower:projectTable.clearGrid=清除合成网格
 gui.bluepower:timer.interval=定时器间隔
 gui.bluepower:counter.max=最大值
@@ -699,7 +665,6 @@ gui.bluepower:transceiver.mode.send=发送
 gui.bluepower:transceiver.mode.receive=接收
 gui.bluepower:transceiver.filter.none=无
 gui.bluepower:transceiver.filter.admin=管理员
-# Colors
 bluepower:color.none=无
 bluepower:color.black=黑色
 bluepower:color.red=红色
@@ -717,7 +682,6 @@ bluepower:color.lightBlue=淡蓝色
 bluepower:color.magenta=品红色
 bluepower:color.orange=橙色
 bluepower:color.white=白色
-# Info tab
 tile.bluepower:alloyfurnace.info=这台机器能熔化金属。它可以用用3份铜和1份锌来制作黄铜。它也可以用来回收物品中的金属。
 tile.bluepower:buffer.info=这个机器除了一面之外的所有面都拥有自己的储存链接，但是那一面可以访问所有的储存空间。
 tile.bluepower:deployer.info=这台机器能正确点击它前面的任何块/实体来使用物品或者存储在机器中。例如可用于挤牛奶，把一个桶放在面对一头奶牛的机器中。
@@ -733,22 +697,18 @@ tile.bluepower:retriever.info=在接收到红石脉冲时，检索器将尝试�
 tile.bluepower:sorting_machine.info=排序机的主要用途是通过物品的染色不同排序物品。它可以用于其他用途，例如确保熔炉总是每次加工8个物品。
 tile.bluepower:circuit_database.info=使用这台机器你可以复制和共享集成电路设计。复制时把模板放在左槽然后把一个空集成电路板放到正确的位置。确保所有的元件就位之后点击复制按钮。分享时，将你的模版放进机器然后点击两个按钮之中的一个。它会保存在你的Minecraft的一个文件夹下。你能将它传送到另外的世界中。在服务器中保存的模版可以被服务器中的其他玩家访问。
 tile.bluepower:manager.info=高级机器需要管理它的物品栏。它能将机器的物品栏保持特定种类和数量的物品，或者它能够被设置回溯所有它能识别的所有物品。并且它能够设置优先级，也就是说优先级低的管理器不能从优先高的管理器拉取物品。
-# Directions
 bluepower:direction.front=前
 bluepower:direction.left=左
 bluepower:direction.back=后
 bluepower:direction.right=右
-# Cardinal directions
 bluepower:face.north=北
 bluepower:face.south=南
 bluepower:face.up=上
 bluepower:face.down=下
 bluepower:face.west=西
 bluepower:face.east=东
-# Misc
 bluepower:misc.enabled=允许
 bluepower:misc.disabled=停止
-# Config file options
 config.bluepower:settings.tooltip=通用模组设定。
 config.bluepower:recipes.tooltip=合成设定。
 config.bluepower:enchantments.tooltip=附魔设定。
@@ -763,7 +723,6 @@ config.bluepower:sapphire.tooltip=蓝宝石矿生成设定。
 config.bluepower:teslatite.tooltip=蓝石矿生成设定。
 config.bluepower:worldgen.tooltip=配置多种世界生成设定。
 config.bluepower:circuitDatabase.tooltip=元件数据库设定。
-# WAILA
 waila.bluepower:gate.connections=连接
 waila.bluepower:gate.mux.passthrough=通过
 waila.bluepower:gate.rsLatch.feedback=反馈
@@ -772,11 +731,9 @@ waila.bluepower:tube.color=颜色
 waila.bluepower:machine.stuffed=容纳有物品
 waila.bluepower:repeater.delay=延迟
 waila.bluepower:repeater.ticks=刻(Tick)
-# Misc
 bluepower:accessability.public=公共
 bluepower:accessability.shared=共享
 bluepower:accessability.private=私有
-# Achievements
 achievement.bluepower=蓝石力量
 achievement.bluepower.desc=探索、照明、力量、机器
 achievement.bluepower:vorpal=更好的赋予

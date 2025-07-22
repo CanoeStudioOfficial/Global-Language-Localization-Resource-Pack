@@ -1,8 +1,3 @@
-#**********//
-#AE Additions//
-#**********//
-
-#Items
 com.the9grounds.aeadditions.item.storage.physical.256k.name=256k-ME存储元件
 com.the9grounds.aeadditions.item.storage.physical.1024k.name=1024k-ME存储元件
 com.the9grounds.aeadditions.item.storage.physical.4096k.name=4096k-ME存储元件
@@ -52,15 +47,9 @@ com.the9grounds.aeadditions.item.terminal.gas.wireless.name=无线气体终端
 com.the9grounds.aeadditions.item.terminal.universal.wireless.name=无线通用终端
 com.the9grounds.aeadditions.item.fluid.pattern=ME流体模板
 com.the9grounds.aeadditions.item.oc.upgrade.name=ME升级模块
-
-#Creative Tab
 itemGroup.AE_Additions=AE扩展
-
-#Item Groups
 com.the9grounds.aeadditions.fluid.IO=ME流体输出/输入总线
 com.the9grounds.aeadditions.fluid.plane=ME流体成型/破坏面板
-
-#Parts
 com.the9grounds.aeadditions.part.fluid.export.name=ME流体输出总线
 com.the9grounds.aeadditions.part.fluid.import.name=ME流体输入总线
 com.the9grounds.aeadditions.part.fluid.storage.name=ME流体存储总线
@@ -81,8 +70,6 @@ com.the9grounds.aeadditions.part.gas.storage.name=ME气体存储总线
 com.the9grounds.aeadditions.part.gas.levelemitter.name=ME气体发信器
 com.the9grounds.aeadditions.part.gas.conversion.monitor.name=ME气体交换监控器
 com.the9grounds.aeadditions.part.gas.monitor.name=ME气体存储监控器
-
-#Blocks
 com.the9grounds.aeadditions.block.certustank=赛特斯石英水槽
 com.the9grounds.aeadditions.block.walrus.name=海象
 tile.com.the9grounds.aeadditions.block.fluidcrafter.name=ME流体装配室
@@ -91,8 +78,6 @@ tile.com.the9grounds.aeadditions.block.fluidfiller.name=ME流体自动装填器
 tile.com.the9grounds.aeadditions.block.vibrantchamberfluid.name=流体谐振仓
 tile.com.the9grounds.aeadditions.block.hardmedrive.name=防爆ME驱动器
 tile.com.the9grounds.aeadditions.block.gas_interface.name=ME气体接口
-
-#Tooltips and Chat-Messages
 com.the9grounds.aeadditions.tooltip.amount=总量
 com.the9grounds.aeadditions.tooltip.fluid=流体
 com.the9grounds.aeadditions.tooltip.storage.physical.types=%s/%s个物品类型已使用。
@@ -127,8 +112,5 @@ com.the9grounds.aeadditions.tooltip.deprecated1=此物品已被弃用
 com.the9grounds.aeadditions.tooltip.deprecated2=已经被 Applied Energistics 2 的%s所替代
 com.the9grounds.aeadditions.tooltip.deprecated.part=放置在合成网格中进行转换
 com.the9grounds.aeadditions.tooltip.deprecated.cell=使用ME-IO端口清空此单元，然后分解其组件进行转换
-#GasIO Group Name
 com.the9grounds.aeadditions.gas.IO=ME气体输出/输入总线
-
-#Buttons
 com.the9grounds.aeadditions.gui.craft=合成

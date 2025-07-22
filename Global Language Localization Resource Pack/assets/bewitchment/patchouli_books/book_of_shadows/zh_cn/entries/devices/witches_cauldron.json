@@ -39,7 +39,7 @@
 	{
 	  "type": "bewitchment:cauldron_recipe",
 	  "recipe": "bewitchment:iron_gall_ink",
-	  "text": "墨囊的人道主义替代物。有人认为这个东西在恶魔契约十分重要\ue908\ue909"
+	  "text": "墨囊的人道主义替代物。有人认为这个东西在恶魔契约十分重要⋯⋯"
 	},
 	{
 	  "type": "bewitchment:cauldron_recipe",
@@ -192,7 +192,7 @@
 	{
 	  "type": "bewitchment:brew",
 	  "recipe": "bewitchment:invisibility",
-	  "text": "所有的光会穿透目标，使他们隐形，但并不适用于目标的盔甲和手持物品\ue908\ue909"
+	  "text": "所有的光会穿透目标，使他们隐形，但并不适用于目标的盔甲和手持物品⋯⋯"
 	},
 	{
 	  "type": "bewitchment:brew",
@@ -277,7 +277,7 @@
 	{
 	  "type": "bewitchment:brew",
 	  "recipe": "bewitchment:spore_cloud",
-	  "text": "催生蘑菇、菌丝、蕨类植物和青苔，我希望你对这并不过敏\ue908\ue909"
+	  "text": "催生蘑菇、菌丝、蕨类植物和青苔，我希望你对这并不过敏⋯⋯"
 	},
 	{
 	  "type": "bewitchment:brew",

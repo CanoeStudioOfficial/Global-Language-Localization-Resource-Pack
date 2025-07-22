@@ -1,4 +1,3 @@
-#致命模块
 affix.apotheosis:fire_damage=熔融Ⅰ %s
 affix.apotheosis:fire_damage.double=熔融Ⅱ %s
 affix.apotheosis:lunar_damage=%s 月光Ⅰ
@@ -64,7 +63,6 @@ rarity.apoth.rare=珍贵
 rarity.apoth.epic=史诗
 rarity.apoth.ancient=古老
 rarity.apoth.unique=独特
-#刷怪箱模块
 enchantment.spw.capturing=捕捉
 enchantment.apotheosis.capturing.desc=使生物有一定概率在死亡时掉落它们的刷怪蛋。
 info.spw.entity=实体：%s
@@ -95,7 +93,6 @@ jei.spw.ignorecap=忽略区域刷怪限制
 jei.spw.redstone=启用红石控制
 jei.spw.instructions=手持各种调节器右击刷怪箱可以调节刷怪箱的数据。\\n某个物品可以反转调节器的行为，导致反方向调节刷怪箱的数据。\\n使用精准采集挖掘可以获得刷怪箱。
 jei.spw.capturing=捕捉附魔可以使生物有概率在死亡时掉落它们的刷怪蛋。\\n每个附魔等级增加 0.4% 的几率。
-#附魔模块
 tile.apotheosis.hellshelf.name=地狱书架
 info.apotheosis.hellshelf=为附魔台提供 %s 的附魔能力。
 info.apotheosis.cobweb=可以用来去除所有附魔属性。
@@ -161,7 +158,6 @@ enchantment.apotheosis.rebounding.desc=被近战攻击时攻击者有可能会�
 enchantment.apotheosis.magic_protection=魔力抵触
 enchantment.apotheosis.magic_protection.desc=减少玩家造成的魔法伤害，同时减少玩家受到的魔法伤害。
 tile.apotheosis.prismatic_altar.name=海之祭坛
-#原版调整
 tile.reeds.name=甘蔗
 enchantment.level.11=XI
 enchantment.level.12=XII
@@ -280,7 +276,6 @@ enchantment.level.124=CXXIV
 enchantment.level.125=CXXV
 enchantment.level.126=CXXVI
 enchantment.level.127=CXXVII
-#药水模块
 enchantment.apotheosis.true_infinity=无限箭袋
 enchantment.apotheosis.true_infinity.desc=射击将不再需要消耗箭（附魔在弓上，无需箭）。
 potion.effect.resistance=抗性药水
@@ -315,9 +310,7 @@ lingering_potion.effect.knowledge=滞留型古代知识药水
 tipped_arrow.effect.knowledge=古代知识之箭
 item.apotheosis.lucky_foot.name=幸运的兔子脚
 info.apotheosis.lucky=一个罕见的发现
-#铁砧模块
 info.apotheosis.anvil=可以被附魔。
-#花园模块
 item.apotheosis.farmers_leash.name=末影拴绳
 info.apotheosis.noentity=持有实体：没有
 info.apotheosis.containedentity=持有实体：%s

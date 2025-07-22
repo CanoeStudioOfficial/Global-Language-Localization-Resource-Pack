@@ -1,8 +1,4 @@
-#PARSE_ESCAPES
-#物品菜单
 itemGroup.tabExoticbirds=珍奇鸟类
-
-#物品
 item.exoticbirds.peacock_feather.name=孔雀羽毛
 item.exoticbirds.nest_empty.name=空鸟巢
 item.exoticbirds.bird_book.name=鸟类百科全书
@@ -11,8 +7,6 @@ item.exoticbirds.cooked_birdmeat.name=熟鸟肉
 item.exoticbirds.eggshell.name=蛋壳
 item.exoticbirds.phoenix_dust.name=凤凰之尘
 item.exoticbirds.phoenix_feather.name=凤凰之羽
-
-#物品 (蛋)
 item.exoticbirds.peafowl_egg.name=孔雀的蛋
 item.exoticbirds.hummingbird_egg.name=蜂鸟的蛋
 item.exoticbirds.woodpecker_egg.name=啄木鸟的蛋
@@ -44,8 +38,6 @@ item.exoticbirds.robin_egg.name=知更鸟的蛋
 item.exoticbirds.crane_egg.name=鹤的蛋
 item.exoticbirds.kookaburra_egg.name=笑翠鸟的蛋
 item.exoticbirds.budgie_egg.name=虎皮鹦鹉的蛋
-
-#方块
 tile.exoticbirds.egg_sorter.name=鸟蛋鉴别机
 tile.exoticbirds.egg_incubator.name=鸟蛋孵化机
 tile.exoticbirds.birdcage_iron.name=铁鸟笼
@@ -58,13 +50,9 @@ tile.exoticbirds.birdcage_oak.name=橡木鸟笼
 tile.exoticbirds.birdcage_spruce.name=云杉木鸟笼
 tile.exoticbirds.nest.name=鸟巢
 tile.exoticbirds.phoenix_egg.name=凤凰的蛋
-
-#鸟蛋状态
 item.exoticbirds.egg.tooltip.desc=孵化几率：%s%%
 item.exoticbirds.eggshell.tooltip.desc=与骨粉通用等效！
 block.exoticbirds.phoenixegg.status=蛋是由%s%%孵化的。
-
-#生物名称
 entity.exoticbirds.peafowl.name=孔雀
 entity.exoticbirds.hummingbird.name=蜂鸟
 entity.exoticbirds.woodpecker.name=啄木鸟
@@ -103,8 +91,6 @@ entity.exoticbirds.robin.name=知更鸟
 entity.exoticbirds.crane.name=鹤
 entity.exoticbirds.kookaburra.name=笑翠鸟
 entity.exoticbirds.budgerigar.name=虎皮鹦鹉
-
-#进度
 advancements.exoticbirds.root.title=神“禽”美妙！
 advancements.exoticbirds.root.description=安装Exotic Birds Mod
 advancements.exoticbirds.craft_identifier.title=初心者的学说！
@@ -123,8 +109,6 @@ advancements.exoticbirds.tame_pelican.title=哪“鹕”不开“鹈”哪“鹕
 advancements.exoticbirds.tame_pelican.description=用熟鱼驯服鹈鹕
 advancements.exoticbirds.shoot_seagull.title=讨厌的海鸥
 advancements.exoticbirds.shoot_seagull.description=使用弓箭射击天上的海鸥
-
-#鸟类百科全书
 book.exoticbirds.log.line=这只鸟是：%s！
 book.exoticbirds.species.line=这个物种是：%s。
 book.exoticbirds.types.line=%1$s/%2$s
@@ -138,7 +122,6 @@ book.exoticbirds.button.spin=是否旋转
 book.exoticbirds.gender.male=雄
 book.exoticbirds.gender.female=雌
 book.exoticbirds.emptycage.line=这个鸟笼是空的。
-
 book.exoticbirds.diet.null=没有适用物品
 book.exoticbirds.diet.seeds=种子
 book.exoticbirds.diet.pumpkin_seeds=南瓜种子
@@ -149,19 +132,13 @@ book.exoticbirds.diet.rabbit=兔肉
 book.exoticbirds.diet.apple=苹果
 book.exoticbirds.diet.food=食物
 book.exoticbirds.diet.sugar=糖
-
-#鸟笼
 cage.exoticbirds.health.line=生命值：%s
 cage.exoticbirds.name.line=名称：%s
 cage.exoticbirds.tooltip.line=在生存模式或创造模式下捕捉鸟类
-
-#容器GUI
 container.exoticbirds.identifier=鸟蛋鉴别机
 container.exoticbirds.incubator=鸟蛋孵化机
 container.exoticbirds.pelican=鹈鹕颊囊
 container.exoticbirds.phoenix=凤凰颊囊
-
-#百科目录
 book.exoticbirds.cassowary.name=鹤鸵
 book.exoticbirds.duck.name=鸭子
 book.exoticbirds.flamingo.name=火烈鸟
@@ -193,8 +170,6 @@ book.exoticbirds.robin.name=知更鸟
 book.exoticbirds.crane.name=鹤
 book.exoticbirds.kookaburra.name=笑翠鸟
 book.exoticbirds.budgerigar.name=虎皮鹦鹉
-
-#科名
 book.exoticbirds.cassowary.family=鹤鸵科
 book.exoticbirds.flamingo.family=红鹳科
 book.exoticbirds.owl.family=鸱鸮科
@@ -226,8 +201,6 @@ book.exoticbirds.robin.family=鹟科
 book.exoticbirds.crane.family=鹤科
 book.exoticbirds.kookaburra.family=翠鸟科
 book.exoticbirds.budgerigar.family=鹦鹉科
-
-#百科信息
 book.exoticbirds.cassowary.info=鹤鸵是在澳大利亚东北部和新几内亚发现的一类有领地意识的大型鸟类。它们集小群远离人类生活。如果被激怒，它们将会变得异常危险。被称作“头盔”的外延骨骼长在其头部，用于推开密集的植被。
 book.exoticbirds.flamingo.info=火烈鸟是一类拥有粉红色羽毛的高大涉禽。现实世界中有六种。它们经常在靠近水的地方被发现。它们可以用一条腿站立来保存身体中的热量。它们是群居生活的鸟类，有时成千上万只同时狩猎、旅行和觅食。它们羽毛的粉红色来自它们的食物——虾中存在的天然粉红色素。
 book.exoticbirds.owl.info=鸮在除南极洲以外的所有大陆都有发现。它们是掠食性的鸟类，具有长在正面的眼睛和用来捕猎的利爪。鸮以啮齿动物和小型哺乳动物为食，但有时也捕食昆虫，鸣禽和鱼类。
@@ -259,8 +232,6 @@ book.exoticbirds.robin.info=知更鸟是一类小型鸣禽，通常以明亮的�
 book.exoticbirds.crane.info=灰冠鹤是在非洲的热带草原地区发现的一类大型鸟类。与其它鹤不同的是，它们长有长长的后脚趾以栖息在树上。它们的主食包括植物，种子，昆虫，青蛙，甚至是蛇类和鱼类。它们会在沼泽地建造一个大草窝，并且一窝可以产下2-5个蛋。
 book.exoticbirds.kookaburra.info=笑翠鸟是一类与翠鸟同科的小型鸟。它们生活在雨林和干燥的稀树草原上。与翠鸟不同，笑翠鸟不捕食鱼类，而是吃鼠类、蛇类、昆虫、爬行动物和其它鸟类的雏鸟。笑翠鸟经常以其独特的“笑声”引起人们的注意。
 book.exoticbirds.budgerigar.info=虎皮鹦鹉，更常被称为相思鹦鹉，是世界上最小的鹦鹉种类之一。它们最早只被发现在澳大利亚的荒野，而现在已经成为全世界流行的宠物。虎皮鹦鹉可用种子喂养，并且即使不喝水也能生存很长一段时间。
-
-#种名
 species.exoticbirds.booby.name=蓝脚鲣鸟
 species.exoticbirds.cassowary.name=双垂鹤鸵
 species.exoticbirds.duck.name=绿头鸭
@@ -336,8 +307,6 @@ species.exoticbirds.budgerigar1.name=虎皮鹦鹉（天蓝色）
 species.exoticbirds.budgerigar2.name=虎皮鹦鹉（黄色）
 species.exoticbirds.budgerigar3.name=虎皮鹦鹉（深蓝色）
 species.exoticbirds.budgerigar4.name=虎皮鹦鹉（白色）
-
-#字幕
 exoticbirds.subtitles.entity.vulture.ambient=秃鹫：尖啸
 exoticbirds.subtitles.entity.magpie.ambient=喜鹊：叽喳不休
 exoticbirds.subtitles.entity.lyrebird.ambient=琴鸟：学舌
